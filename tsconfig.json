@@ -11,8 +11,8 @@
         "moduleResolution": "node",
         "noEmit": true,
         "paths": {
-            "@fixtures/*": [
-                "fixtures/*"
+            "@api/*": [
+                "website/api/*"
             ],
             "@page-objects/*": [
                 "page-objects/*"
