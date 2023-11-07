@@ -1,0 +1,82 @@
+[
+    {
+        "key": "wt001",
+        "name": "kolekcja-swiateczna"
+    },
+    {
+        "key": "fu001",
+        "name": "meble"
+    },
+    {
+        "key": "st001",
+        "name": "przechowywanie-i-organizacja"
+    },
+    {
+        "key": "bm001",
+        "name": "lozka-i-materace"
+    },
+    {
+        "key": "bc001",
+        "name": "dzieci-i-niemowleta"
+    },
+    {
+        "key": "ka001",
+        "name": "kuchnie-i-agd-kuchenne"
+    },
+    {
+        "key": "kt001",
+        "name": "gotowanie-i-zastawa-stolowa"
+    },
+    {
+        "key": "de001",
+        "name": "dekoracje"
+    },
+    {
+        "key": "tl001",
+        "name": "tekstylia"
+    },
+    {
+        "key": "li001",
+        "name": "oswietlenie"
+    },
+    {
+        "key": "rm001",
+        "name": "dywany-maty-i-podlogi"
+    },
+    {
+        "key": "ba001",
+        "name": "wyposazenie-lazienki"
+    },
+    {
+        "key": "lc001",
+        "name": "pranie-i-sprzatanie"
+    },
+    {
+        "key": "hs001",
+        "name": "inteligentny-dom"
+    },
+    {
+        "key": "he001",
+        "name": "elektronika-domowa"
+    },
+    {
+        "key": "hi001",
+        "name": "majsterkowanie-w-domu"
+    },
+    {
+        "key": "pt001",
+        "name": "produkty-dla-zwierzat"
+    },
+    {
+        "key": "fb001",
+        "name": "jedzenie-i-napoje"
+    },
+    {
+        "key": "pp001",
+        "name": "doniczki-i-rosliny"
+    },
+    {
+        "key": "od001",
+        "name": "produkty-do-ogrodu-i-na-balkon"
+    }
+]
