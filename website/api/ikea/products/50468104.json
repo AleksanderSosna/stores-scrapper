@@ -1,1 +1,9 @@
-{"id":"50468104","name":"NOJIG","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":2.5}]}
+{
+    "id": "50468104",
+    "name": "NOJIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2.5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

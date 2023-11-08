@@ -1,1 +1,9 @@
-{"id":"70389139","name":"UNDERVERK","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":1099}]}
+{
+    "id": "70389139",
+    "name": "UNDERVERK",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1099 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
+    ]
+}

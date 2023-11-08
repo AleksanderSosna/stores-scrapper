@@ -1,1 +1,9 @@
-{"id":"60289946","name":"IKEA PS 2002","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "60289946",
+    "name": "IKEA PS 2002",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

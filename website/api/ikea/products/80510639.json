@@ -1,1 +1,9 @@
-{"id":"80510639","name":"JÄRVFJÄLLET","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "80510639",
+    "name": "JÄRVFJÄLLET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

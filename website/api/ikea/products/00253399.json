@@ -1,1 +1,9 @@
-{"id":"00253399","name":"FÖRBÄTTRA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "00253399",
+    "name": "FÖRBÄTTRA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
+    ]
+}

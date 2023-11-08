@@ -1,1 +1,9 @@
-{"id":"99401555","name":"HYLLIS","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":265}]}
+{
+    "id": "99401555",
+    "name": "HYLLIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 265 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1397 }
+    ]
+}

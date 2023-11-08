@@ -1,1 +1,9 @@
-{"id":"10494138","name":"RUNNEN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":5}]}
+{
+    "id": "10494138",
+    "name": "RUNNEN",
+    "categoryKey": "rm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 40 }
+    ]
+}

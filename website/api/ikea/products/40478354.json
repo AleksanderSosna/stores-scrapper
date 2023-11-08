@@ -1,1 +1,9 @@
-{"id":"40478354","name":"SESAMFRÖN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "40478354",
+    "name": "SESAMFRÖN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

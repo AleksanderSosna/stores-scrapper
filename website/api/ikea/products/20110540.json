@@ -1,1 +1,9 @@
-{"id":"20110540","name":"KNIPSA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "20110540",
+    "name": "KNIPSA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 469 }
+    ]
+}

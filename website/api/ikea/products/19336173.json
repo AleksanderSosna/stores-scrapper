@@ -1,1 +1,9 @@
-{"id":"19336173","name":"PAX / BERGSBO/ÅHEIM","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":2390}]}
+{
+    "id": "19336173",
+    "name": "PAX / BERGSBO/ÅHEIM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2390 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12560 }
+    ]
+}

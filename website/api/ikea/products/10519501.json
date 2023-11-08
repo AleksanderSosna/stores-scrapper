@@ -1,1 +1,9 @@
-{"id":"10519501","name":"PÅHL","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":150}]}
+{
+    "id": "10519501",
+    "name": "PÅHL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
+    ]
+}

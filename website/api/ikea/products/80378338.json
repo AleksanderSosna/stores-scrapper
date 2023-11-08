@@ -1,1 +1,9 @@
-{"id":"80378338","name":"STICKAT","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "80378338",
+    "name": "STICKAT",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

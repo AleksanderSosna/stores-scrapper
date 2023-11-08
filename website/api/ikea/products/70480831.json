@@ -1,1 +1,9 @@
-{"id":"70480831","name":"KUDDARNA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "70480831",
+    "name": "KUDDARNA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

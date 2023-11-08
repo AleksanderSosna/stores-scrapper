@@ -1,1 +1,9 @@
-{"id":"00471825","name":"LÅNGDANS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":99}]}
+{
+    "id": "00471825",
+    "name": "LÅNGDANS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
+    ]
+}

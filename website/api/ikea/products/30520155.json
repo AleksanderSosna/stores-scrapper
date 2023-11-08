@@ -1,1 +1,9 @@
-{"id":"30520155","name":"KALLARP","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":190}]}
+{
+    "id": "30520155",
+    "name": "KALLARP",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 190 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }
+    ]
+}

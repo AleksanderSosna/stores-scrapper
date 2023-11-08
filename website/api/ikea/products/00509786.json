@@ -1,1 +1,9 @@
-{"id":"00509786","name":"FINTSEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "00509786",
+    "name": "FINTSEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

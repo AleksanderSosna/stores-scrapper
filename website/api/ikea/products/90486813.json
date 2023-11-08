@@ -1,1 +1,9 @@
-{"id":"90486813","name":"GRONG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":159}]}
+{
+    "id": "90486813",
+    "name": "GRONG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10152875","name":"IKEA 365+ IHÄRDIG","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "10152875",
+    "name": "IKEA 365+ IHÄRDIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

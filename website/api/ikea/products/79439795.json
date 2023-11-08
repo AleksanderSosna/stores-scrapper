@@ -1,1 +1,9 @@
-{"id":"79439795","name":"SVARTISDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1475}]}
+{
+    "id": "79439795",
+    "name": "SVARTISDAL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1475 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7800 }
+    ]
+}

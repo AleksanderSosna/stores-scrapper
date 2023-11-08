@@ -1,1 +1,9 @@
-{"id":"69441497","name":"UPPSPEL / GRUPPSPEL","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3798}]}
+{
+    "id": "69441497",
+    "name": "UPPSPEL / GRUPPSPEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17980 }
+    ]
+}

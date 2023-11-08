@@ -1,1 +1,9 @@
-{"id":"00480368","name":"HAVSTA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1199}]}
+{
+    "id": "00480368",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
+    ]
+}

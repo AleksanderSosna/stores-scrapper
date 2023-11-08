@@ -1,1 +1,9 @@
-{"id":"69285618","name":"GALANT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":4798}]}
+{
+    "id": "69285618",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 31980 }
+    ]
+}

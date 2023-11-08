@@ -1,1 +1,9 @@
-{"id":"80555996","name":"UPPLID","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "80555996",
+    "name": "UPPLID",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"99478168","name":"ÄSPINGE","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":1988}]}
+{
+    "id": "99478168",
+    "name": "ÄSPINGE",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1988 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9999 }
+    ]
+}

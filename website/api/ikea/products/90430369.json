@@ -1,1 +1,9 @@
-{"id":"90430369","name":"BETTORP","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "90430369",
+    "name": "BETTORP",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

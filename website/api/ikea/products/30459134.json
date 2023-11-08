@@ -1,1 +1,9 @@
-{"id":"30459134","name":"ALMARÖD","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "30459134",
+    "name": "ALMARÖD",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

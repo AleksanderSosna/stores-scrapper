@@ -1,1 +1,9 @@
-{"id":"49336157","name":"PAX / FARDAL/ÅHEIM","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1920}]}
+{
+    "id": "49336157",
+    "name": "PAX / FARDAL/ÅHEIM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1920 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10800 }
+    ]
+}

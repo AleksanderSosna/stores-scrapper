@@ -1,1 +1,9 @@
-{"id":"10219178","name":"ADDE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":59}]}
+{
+    "id": "10219178",
+    "name": "ADDE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

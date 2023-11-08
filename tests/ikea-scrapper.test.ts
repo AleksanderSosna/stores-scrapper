@@ -1,73 +1,146 @@
-import { expect, test } from "@playwright/test";
+import { test } from "@playwright/test";
 
 import { Ikea } from "@page-objects/ikea";
-import categories from "@api/ikea/categories.json";
 
 let ikea: Ikea;
+
+const countryCodes = process.env.COUNTRY_CODES ? JSON.parse(process.env.COUNTRY_CODES) : ["pl"];
 
 test.beforeEach(async ({ page }) => {
     ikea = new Ikea(page);
 });
 
 test.describe("Ikea Scrapper", () => {
-    test("Create Categories Database", async ({ page }) => {
-        const categories: Array<{ key: string; name: string }> = [];
+    test.describe("Categories", () => {
+        test.beforeAll(async ({ browser }) => {
+            const page = await browser.newPage();
+            ikea = new Ikea(page);
 
-        await page.goto("/pl/pl/cat/produkty-products/", { waitUntil: "networkidle" });
+            const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = [];
+            ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
 
-        const seeAllInCategoryLinksLocators = await ikea.seeAllInCategoryLinks.all();
-        for (const seeAllInCategoryLinkLocator of seeAllInCategoryLinksLocators) {
-            const hrefAttribute = await seeAllInCategoryLinkLocator.getAttribute("href");
-            const category = hrefAttribute.split("/")[hrefAttribute.split("/").length - 2];
-            const categoryName = category.split(`-${category.split("-").pop()}`)[0];
-            const categoryKey = category.split("-").pop();
-            categories.push({ key: categoryKey, name: categoryName });
+            await page.close();
+        });
+
+        for (const countryCode of countryCodes) {
+            test(`Create ${countryCode} Categories Database`, async ({ page }) => {
+                test.slow();
+
+                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
+
+                await page.goto(`${ikea.countryCodeAndLanguageCodeFromCountryCode(countryCode)}/cat/produkty-products/`, { waitUntil: "networkidle" });
+
+                const seeAllInCategoryLinksLocators = await ikea.seeAllInCategoryLinks.all();
+                for (const seeAllInCategoryLinkLocator of seeAllInCategoryLinksLocators) {
+                    const hrefAttribute = await seeAllInCategoryLinkLocator.getAttribute("href");
+                    const category = hrefAttribute.split("/")[hrefAttribute.split("/").length - 2];
+                    const categoryName = category.split(`-${category.split("-").pop()}`)[0];
+                    const categoryKey = category.split("-").pop();
+
+                    const categoryExists = categories.some((category) => {
+                        return category.key === categoryKey;
+                    });
+
+                    if (categoryExists) {
+                        const index = categories.findIndex((category) => {
+                            return category.key === categoryKey;
+                        });
+                        categories[index].names.push({ countryCode: countryCode, name: categoryName });
+                    } else {
+                        categories.push({ key: categoryKey, names: [{ countryCode: countryCode, name: categoryName }] });
+                    }
+                }
+
+                ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
+            });
         }
-
-        ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
     });
 
-    for (const category of categories) {
-        test(`Get "${category.name}"-"${category.key}" Category Products`, async () => {
-            await ikea.getProducts(category.key, { start: 0, end: 10000 });
+    test.describe("Products", () => {
+        test.beforeAll(async ({ browser }) => {
+            const page = await browser.newPage();
+            ikea = new Ikea(page);
+
+            const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> = [];
+            ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
+
+            await page.close();
         });
-    }
 
-    for (const category of categories) {
-        test(`Remove Unnecessary Data From "${category.name}"-"${category.key}" Category Products`, async () => {
-            const categoryProducts = ikea.readJson("files", category.key);
-            const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ currencyCode: string; price: number }> }> = [];
+        for (const countryCode of countryCodes) {
+            test(`Create ${countryCode} Products Database`, async () => {
+                test.slow();
 
-            for (const categoryProduct of categoryProducts.moreProducts.productWindow) {
-                products.push({
-                    id: categoryProduct.id.replace(/[^\d]/g, ""),
-                    name: categoryProduct.name,
-                    categoryKey: category.key,
-                    prices: [
-                        {
-                            currencyCode: categoryProduct.salesPrice.currencyCode,
-                            price: categoryProduct.salesPrice.numeral,
-                        },
-                    ],
-                });
-            }
+                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
+                const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> =
+                    ikea.readJson("website/api/ikea", "products");
 
-            ikea.writeJsonToFile(JSON.stringify(products), { directory: "files", fileName: category.key });
-        });
-    }
+                for (const category of categories) {
+                    const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 10000 });
 
-    test("Create Products Database", async () => {
-        const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ currencyCode: string; price: number }> }> = [];
+                    if (response) {
+                        if (response.moreProducts) {
+                            for (const productFromResponse of response.moreProducts.productWindow) {
+                                const productExists = products.some((product) => {
+                                    return product.id === productFromResponse.id.replace(/[^\d]/g, "");
+                                });
 
-        for (const category of categories) {
-            const categoryProducts = ikea.readJson("files", category.key);
-            for (const categoryProduct of categoryProducts) {
-                products.push(categoryProduct);
+                                if (productExists) {
+                                    const index = products.findIndex((product) => {
+                                        return product.id === productFromResponse.id.replace(/[^\d]/g, "");
+                                    });
+                                    const priceForCountryCodeExists = products[index].prices.some((prices) => {
+                                        return prices.countryCode === countryCode;
+                                    });
+                                    if (!priceForCountryCodeExists) {
+                                        products[index].prices.push({
+                                            countryCode: countryCode,
+                                            currencyCode: productFromResponse.salesPrice.currencyCode,
+                                            price: productFromResponse.salesPrice.numeral,
+                                        });
 
-                ikea.writeJsonToFile(JSON.stringify(categoryProduct), { directory: "website/api/ikea/products", fileName: categoryProduct.id });
-            }
+                                        ikea.writeJsonToFile(JSON.stringify(products[index]), {
+                                            directory: "website/api/ikea/products",
+                                            fileName: productFromResponse.id.replace(/[^\d]/g, ""),
+                                        });
+                                    }
+                                } else {
+                                    products.push({
+                                        id: productFromResponse.id.replace(/[^\d]/g, ""),
+                                        name: productFromResponse.name,
+                                        categoryKey: category.key,
+                                        prices: [
+                                            {
+                                                countryCode: countryCode,
+                                                currencyCode: productFromResponse.salesPrice.currencyCode,
+                                                price: productFromResponse.salesPrice.numeral,
+                                            },
+                                        ],
+                                    });
+
+                                    ikea.writeJsonToFile(
+                                        JSON.stringify({
+                                            id: productFromResponse.id.replace(/[^\d]/g, ""),
+                                            name: productFromResponse.name,
+                                            categoryKey: category.key,
+                                            prices: [
+                                                {
+                                                    countryCode: countryCode,
+                                                    currencyCode: productFromResponse.salesPrice.currencyCode,
+                                                    price: productFromResponse.salesPrice.numeral,
+                                                },
+                                            ],
+                                        }),
+                                        { directory: "website/api/ikea/products", fileName: productFromResponse.id.replace(/[^\d]/g, "") }
+                                    );
+                                }
+                            }
+                        }
+                    }
+                }
+
+                ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
+            });
         }
-
-        ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
     });
 });

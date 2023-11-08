@@ -1,1 +1,9 @@
-{"id":"60262659","name":"TROSS","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":35}]}
+{
+    "id": "60262659",
+    "name": "TROSS",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

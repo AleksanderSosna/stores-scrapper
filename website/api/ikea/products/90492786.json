@@ -1,1 +1,9 @@
-{"id":"90492786","name":"TRIXIG","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":44.99}]}
+{
+    "id": "90492786",
+    "name": "TRIXIG",
+    "categoryKey": "hi001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

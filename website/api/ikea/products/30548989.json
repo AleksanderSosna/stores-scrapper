@@ -1,1 +1,9 @@
-{"id":"30548989","name":"GLESGRÖE","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "30548989",
+    "name": "GLESGRÖE",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

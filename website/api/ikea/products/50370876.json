@@ -1,1 +1,9 @@
-{"id":"50370876","name":"STUK","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "50370876",
+    "name": "STUK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

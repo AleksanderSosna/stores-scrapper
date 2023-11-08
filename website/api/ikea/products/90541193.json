@@ -1,1 +1,9 @@
-{"id":"90541193","name":"TRÄDLJUNG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{
+    "id": "90541193",
+    "name": "TRÄDLJUNG",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

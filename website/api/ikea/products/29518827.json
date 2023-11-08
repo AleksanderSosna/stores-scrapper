@@ -1,1 +1,9 @@
-{"id":"29518827","name":"STRANDTORP / MÅRENÄS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":5593}]}
+{
+    "id": "29518827",
+    "name": "STRANDTORP / MÅRENÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5593 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23930 }
+    ]
+}

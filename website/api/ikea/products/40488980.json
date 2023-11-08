@@ -1,1 +1,9 @@
-{"id":"40488980","name":"TVÄTTAD","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2599}]}
+{
+    "id": "40488980",
+    "name": "TVÄTTAD",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
+    ]
+}

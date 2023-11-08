@@ -1,1 +1,9 @@
-{"id":"90305803","name":"VITTSJÖ","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":349}]}
+{
+    "id": "90305803",
+    "name": "VITTSJÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

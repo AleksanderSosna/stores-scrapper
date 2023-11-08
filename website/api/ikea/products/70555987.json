@@ -1,1 +1,9 @@
-{"id":"70555987","name":"BÄCKFRÄNE","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":239}]}
+{
+    "id": "70555987",
+    "name": "BÄCKFRÄNE",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

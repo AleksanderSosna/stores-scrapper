@@ -1,1 +1,9 @@
-{"id":"40440361","name":"SVENSÅS","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "40440361",
+    "name": "SVENSÅS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

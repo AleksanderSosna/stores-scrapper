@@ -1,1 +1,9 @@
-{"id":"10342772","name":"ULLVIDE","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "10342772",
+    "name": "ULLVIDE",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 569 }
+    ]
+}

@@ -1,1 +1,1 @@
-{"id":"49429019","name":"SMÅSTAD / PLATSA","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":2420}]}
+{ "id": "49429019", "name": "SMÅSTAD / PLATSA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2420 }] }

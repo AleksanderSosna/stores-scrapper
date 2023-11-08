@@ -1,1 +1,9 @@
-{"id":"70531128","name":"PÅTÅR","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":23}]}
+{
+    "id": "70531128",
+    "name": "PÅTÅR",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 23 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

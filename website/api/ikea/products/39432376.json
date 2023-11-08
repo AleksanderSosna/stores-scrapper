@@ -1,1 +1,9 @@
-{"id":"39432376","name":"PAX / HASVIK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1855}]}
+{
+    "id": "39432376",
+    "name": "PAX / HASVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1855 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10220 }
+    ]
+}

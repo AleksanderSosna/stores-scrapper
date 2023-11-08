@@ -1,1 +1,9 @@
-{"id":"79437485","name":"UPPSPEL / MATCHSPEL","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3398}]}
+{
+    "id": "79437485",
+    "name": "UPPSPEL / MATCHSPEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3398 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14980 }
+    ]
+}

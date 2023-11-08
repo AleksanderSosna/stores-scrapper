@@ -1,1 +1,9 @@
-{"id":"20475610","name":"HYGIENISK","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2499}]}
+{
+    "id": "20475610",
+    "name": "HYGIENISK",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13990 }
+    ]
+}

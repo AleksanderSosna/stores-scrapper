@@ -1,1 +1,9 @@
-{"id":"39389764","name":"ESPEVÄR/VATNESTRÖM","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":5569}]}
+{
+    "id": "39389764",
+    "name": "ESPEVÄR/VATNESTRÖM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5569 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 30790 }
+    ]
+}

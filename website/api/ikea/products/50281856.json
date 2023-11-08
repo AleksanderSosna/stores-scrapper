@@ -1,1 +1,9 @@
-{"id":"50281856","name":"DRAGAN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "50281856",
+    "name": "DRAGAN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

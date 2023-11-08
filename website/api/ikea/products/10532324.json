@@ -1,1 +1,1 @@
-{"id":"10532324","name":"TOSTERÖ","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{ "id": "10532324", "name": "TOSTERÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }

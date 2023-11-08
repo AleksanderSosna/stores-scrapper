@@ -1,1 +1,9 @@
-{"id":"00329790","name":"PINNIG","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "00329790",
+    "name": "PINNIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

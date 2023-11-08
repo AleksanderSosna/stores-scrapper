@@ -1,1 +1,9 @@
-{"id":"90543007","name":"SVARTPOPPEL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "90543007",
+    "name": "SVARTPOPPEL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

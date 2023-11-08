@@ -1,1 +1,9 @@
-{"id":"90369507","name":"SCHOTTIS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":29}]}
+{
+    "id": "90369507",
+    "name": "SCHOTTIS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

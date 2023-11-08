@@ -1,1 +1,9 @@
-{"id":"40489423","name":"ALMTJÄRN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "40489423",
+    "name": "ALMTJÄRN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
+    ]
+}

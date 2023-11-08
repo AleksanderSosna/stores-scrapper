@@ -1,1 +1,9 @@
-{"id":"90374349","name":"TJENA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "90374349",
+    "name": "TJENA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50523271","name":"BLECKSJÖN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "50523271",
+    "name": "BLECKSJÖN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
+    ]
+}

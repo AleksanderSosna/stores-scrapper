@@ -1,1 +1,9 @@
-{"id":"30501265","name":"LÅGTRYCK","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "30501265",
+    "name": "LÅGTRYCK",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

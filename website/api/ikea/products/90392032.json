@@ -1,1 +1,9 @@
-{"id":"90392032","name":"ROCKÅN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "90392032",
+    "name": "ROCKÅN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

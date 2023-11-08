@@ -1,1 +1,9 @@
-{"id":"80331973","name":"VUKU","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":69}]}
+{
+    "id": "80331973",
+    "name": "VUKU",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

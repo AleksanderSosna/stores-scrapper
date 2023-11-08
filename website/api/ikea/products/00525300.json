@@ -1,1 +1,1 @@
-{"id":"00525300","name":"BERGSBO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":850}]}
+{ "id": "00525300", "name": "BERGSBO", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 850 }] }

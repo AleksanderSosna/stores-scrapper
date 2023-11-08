@@ -1,1 +1,9 @@
-{"id":"90425626","name":"BÄSTIS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":3.5}]}
+{
+    "id": "90425626",
+    "name": "BÄSTIS",
+    "categoryKey": "lc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
+    ]
+}

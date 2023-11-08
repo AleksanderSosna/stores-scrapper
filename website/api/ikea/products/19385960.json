@@ -1,1 +1,9 @@
-{"id":"19385960","name":"RINGSTA / SKAFTET","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":239}]}
+{
+    "id": "19385960",
+    "name": "RINGSTA / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1249 }
+    ]
+}

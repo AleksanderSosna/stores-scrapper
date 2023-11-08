@@ -1,1 +1,9 @@
-{"id":"10372976","name":"NORDLI","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":600}]}
+{
+    "id": "10372976",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 600 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3500 }
+    ]
+}

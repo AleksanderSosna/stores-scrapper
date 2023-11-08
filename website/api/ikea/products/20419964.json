@@ -1,1 +1,9 @@
-{"id":"20419964","name":"JONAXEL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":45}]}
+{
+    "id": "20419964",
+    "name": "JONAXEL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
+    ]
+}

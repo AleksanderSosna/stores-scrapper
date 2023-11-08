@@ -1,1 +1,9 @@
-{"id":"30483209","name":"BRÄMÖN","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":7}]}
+{
+    "id": "30483209",
+    "name": "BRÄMÖN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

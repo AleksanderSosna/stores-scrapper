@@ -1,1 +1,9 @@
-{"id":"60554380","name":"DOMSTEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "60554380",
+    "name": "DOMSTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

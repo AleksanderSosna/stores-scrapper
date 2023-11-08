@@ -1,1 +1,9 @@
-{"id":"40201676","name":"SENAP MILD","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":10}]}
+{
+    "id": "40201676",
+    "name": "SENAP MILD",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

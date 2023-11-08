@@ -1,1 +1,9 @@
-{"id":"79552908","name":"KALLAX","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":539}]}
+{
+    "id": "79552908",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 539 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2750 }
+    ]
+}

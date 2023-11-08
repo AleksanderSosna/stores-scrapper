@@ -1,1 +1,9 @@
-{"id":"20317079","name":"SPRUTTIG","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":10}]}
+{
+    "id": "20317079",
+    "name": "SPRUTTIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 45 }
+    ]
+}

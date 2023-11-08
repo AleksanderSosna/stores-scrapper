@@ -1,1 +1,9 @@
-{"id":"10480551","name":"BRÖNDEN","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":1299}]}
+{
+    "id": "10480551",
+    "name": "BRÖNDEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
+    ]
+}

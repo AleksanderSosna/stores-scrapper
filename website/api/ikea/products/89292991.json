@@ -1,1 +1,9 @@
-{"id":"89292991","name":"GODMORGON / ODENSVIK","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":1799}]}
+{
+    "id": "89292991",
+    "name": "GODMORGON / ODENSVIK",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10280 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10258829","name":"CALATHEA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "10258829",
+    "name": "CALATHEA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 429 }
+    ]
+}

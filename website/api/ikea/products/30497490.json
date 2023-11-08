@@ -1,1 +1,9 @@
-{"id":"30497490","name":"STOFTMOLN","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "30497490",
+    "name": "STOFTMOLN",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

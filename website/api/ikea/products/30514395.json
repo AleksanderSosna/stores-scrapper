@@ -1,1 +1,9 @@
-{"id":"30514395","name":"TROLLDOM","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "30514395",
+    "name": "TROLLDOM",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

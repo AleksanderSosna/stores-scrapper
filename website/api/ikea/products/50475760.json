@@ -1,1 +1,9 @@
-{"id":"50475760","name":"CHIAFRÖN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":22.99}]}
+{
+    "id": "50475760",
+    "name": "CHIAFRÖN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 22.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

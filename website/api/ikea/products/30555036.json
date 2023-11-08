@@ -1,1 +1,9 @@
-{"id":"30555036","name":"NISSÖGA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "30555036",
+    "name": "NISSÖGA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
+    ]
+}

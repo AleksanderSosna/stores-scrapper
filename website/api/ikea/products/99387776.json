@@ -1,1 +1,9 @@
-{"id":"99387776","name":"MOJNA / HEMMA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":129.99}]}
+{
+    "id": "99387776",
+    "name": "MOJNA / HEMMA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

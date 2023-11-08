@@ -1,1 +1,9 @@
-{"id":"50525171","name":"BELÖNING","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "50525171",
+    "name": "BELÖNING",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
+    ]
+}

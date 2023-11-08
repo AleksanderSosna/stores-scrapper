@@ -1,1 +1,9 @@
-{"id":"90314973","name":"BOTAREN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "90314973",
+    "name": "BOTAREN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

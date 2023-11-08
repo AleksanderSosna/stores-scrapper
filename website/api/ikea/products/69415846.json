@@ -1,1 +1,9 @@
-{"id":"69415846","name":"SUNDVIK","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":1797}]}
+{
+    "id": "69415846",
+    "name": "SUNDVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1797 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9979 }
+    ]
+}

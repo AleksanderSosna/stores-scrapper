@@ -1,1 +1,9 @@
-{"id":"30346986","name":"LANGUR","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "30346986",
+    "name": "LANGUR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

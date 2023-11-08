@@ -1,1 +1,9 @@
-{"id":"89830542","name":"POÄNG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":350}]}
+{
+    "id": "89830542",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 350 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
+    ]
+}

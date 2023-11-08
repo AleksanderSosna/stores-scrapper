@@ -1,1 +1,9 @@
-{"id":"20373206","name":"BLOMNING","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "20373206",
+    "name": "BLOMNING",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

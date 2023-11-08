@@ -1,1 +1,9 @@
-{"id":"09433141","name":"PAX / MEHAMN/AULI","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":4100}]}
+{
+    "id": "09433141",
+    "name": "PAX / MEHAMN/AULI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4100 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 21420 }
+    ]
+}

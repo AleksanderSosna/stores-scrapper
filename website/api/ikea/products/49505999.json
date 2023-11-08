@@ -1,1 +1,9 @@
-{"id":"49505999","name":"VÅGSJÖN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":99.96}]}
+{
+    "id": "49505999",
+    "name": "VÅGSJÖN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.96 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 396 }
+    ]
+}

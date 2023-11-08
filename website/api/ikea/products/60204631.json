@@ -1,1 +1,9 @@
-{"id":"60204631","name":"MAXIMERA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":210}]}
+{
+    "id": "60204631",
+    "name": "MAXIMERA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 210 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"90549052","name":"STOPP","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "90549052",
+    "name": "STOPP",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

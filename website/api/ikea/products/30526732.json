@@ -1,1 +1,9 @@
-{"id":"30526732","name":"BILD","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "30526732",
+    "name": "BILD",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

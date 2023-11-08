@@ -1,1 +1,9 @@
-{"id":"49432267","name":"PAX / FÄRVIK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":2740}]}
+{
+    "id": "49432267",
+    "name": "PAX / FÄRVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2740 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15600 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"19514783","name":"TÄLLÅSEN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1949}]}
+{
+    "id": "19514783",
+    "name": "TÄLLÅSEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1949 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10790 }
+    ]
+}

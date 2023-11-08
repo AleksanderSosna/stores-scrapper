@@ -1,1 +1,9 @@
-{"id":"30217140","name":"HUGAD","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":25}]}
+{
+    "id": "30217140",
+    "name": "HUGAD",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 150 }
+    ]
+}

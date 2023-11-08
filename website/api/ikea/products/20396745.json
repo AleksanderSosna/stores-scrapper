@@ -1,1 +1,9 @@
-{"id":"20396745","name":"TIBAST","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":229}]}
+{
+    "id": "20396745",
+    "name": "TIBAST",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

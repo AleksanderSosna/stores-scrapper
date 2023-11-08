@@ -1,1 +1,9 @@
-{"id":"30506239","name":"ÄPPLARYD","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3499}]}
+{
+    "id": "30506239",
+    "name": "ÄPPLARYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 21990 }
+    ]
+}

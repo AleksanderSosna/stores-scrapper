@@ -1,1 +1,9 @@
-{"id":"00526875","name":"KUGGIS","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "00526875",
+    "name": "KUGGIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

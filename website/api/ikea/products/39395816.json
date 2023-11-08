@@ -1,1 +1,9 @@
-{"id":"39395816","name":"PAX / TYSSEDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":3650}]}
+{
+    "id": "39395816",
+    "name": "PAX / TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3650 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20070 }
+    ]
+}

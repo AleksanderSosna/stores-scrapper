@@ -1,1 +1,9 @@
-{"id":"10560623","name":"BARNDRÖM","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "10560623",
+    "name": "BARNDRÖM",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

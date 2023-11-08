@@ -1,1 +1,9 @@
-{"id":"30411769","name":"MATTRADITION","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":1299}]}
+{
+    "id": "30411769",
+    "name": "MATTRADITION",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"49385987","name":"SKOTTORP / SKAFTET","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":329.99}]}
+{
+    "id": "49385987",
+    "name": "SKOTTORP / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 329.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1789 }
+    ]
+}

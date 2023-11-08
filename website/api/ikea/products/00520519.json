@@ -1,1 +1,9 @@
-{"id":"00520519","name":"BLÅLIDEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":399}]}
+{
+    "id": "00520519",
+    "name": "BLÅLIDEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

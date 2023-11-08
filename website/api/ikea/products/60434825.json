@@ -1,1 +1,9 @@
-{"id":"60434825","name":"RUDSTA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "60434825",
+    "name": "RUDSTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
+    ]
+}

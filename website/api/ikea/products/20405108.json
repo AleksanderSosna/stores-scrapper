@@ -1,1 +1,9 @@
-{"id":"20405108","name":"NÄVLINGE","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "20405108",
+    "name": "NÄVLINGE",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20510736","name":"VAPPEBY","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":279}]}
+{
+    "id": "20510736",
+    "name": "VAPPEBY",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

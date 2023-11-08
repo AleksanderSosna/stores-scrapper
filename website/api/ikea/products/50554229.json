@@ -1,1 +1,9 @@
-{"id":"50554229","name":"SYDGULLREGN","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "50554229",
+    "name": "SYDGULLREGN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

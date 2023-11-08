@@ -1,1 +1,9 @@
-{"id":"49508747","name":"MITTCIRKEL / ALEX","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":947}]}
+{
+    "id": "49508747",
+    "name": "MITTCIRKEL / ALEX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 947 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5579 }
+    ]
+}

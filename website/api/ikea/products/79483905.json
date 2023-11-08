@@ -1,1 +1,9 @@
-{"id":"79483905","name":"STRANDMON","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1349}]}
+{
+    "id": "79483905",
+    "name": "STRANDMON",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9980 }
+    ]
+}

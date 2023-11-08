@@ -1,1 +1,9 @@
-{"id":"80296955","name":"KRONILL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "80296955",
+    "name": "KRONILL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

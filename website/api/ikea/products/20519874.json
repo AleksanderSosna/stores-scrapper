@@ -1,1 +1,9 @@
-{"id":"20519874","name":"GIFFLAR","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":11}]}
+{
+    "id": "20519874",
+    "name": "GIFFLAR",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 11 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
+    ]
+}

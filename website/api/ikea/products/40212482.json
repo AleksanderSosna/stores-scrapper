@@ -1,1 +1,9 @@
-{"id":"40212482","name":"GRÖNSAKSKAKA","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":24}]}
+{
+    "id": "40212482",
+    "name": "GRÖNSAKSKAKA",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

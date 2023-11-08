@@ -1,1 +1,9 @@
-{"id":"70486102","name":"BJÖRNAMO","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "70486102",
+    "name": "BJÖRNAMO",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

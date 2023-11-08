@@ -1,1 +1,9 @@
-{"id":"29443653","name":"BAGGEBO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":403}]}
+{
+    "id": "29443653",
+    "name": "BAGGEBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 403 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2787 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"49140631","name":"HILLESJÖN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":444}]}
+{
+    "id": "49140631",
+    "name": "HILLESJÖN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 444 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"70308628","name":"SYLT BLÅBÄR","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":18}]}
+{
+    "id": "70308628",
+    "name": "SYLT BLÅBÄR",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 18 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

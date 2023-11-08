@@ -1,1 +1,9 @@
-{"id":"70513426","name":"KÖLAX","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "70513426",
+    "name": "KÖLAX",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

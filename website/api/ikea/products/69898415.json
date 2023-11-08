@@ -1,1 +1,9 @@
-{"id":"69898415","name":"TÄRNÖ","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":328.98}]}
+{
+    "id": "69898415",
+    "name": "TÄRNÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 328.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1597 }
+    ]
+}

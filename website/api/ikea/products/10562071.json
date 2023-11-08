@@ -1,1 +1,9 @@
-{"id":"10562071","name":"BÖNSYRSA","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":12}]}
+{
+    "id": "10562071",
+    "name": "BÖNSYRSA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 12 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"19435757","name":"OPPEJEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":1698}]}
+{
+    "id": "19435757",
+    "name": "OPPEJEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1698 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8980 }
+    ]
+}

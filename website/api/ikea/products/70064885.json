@@ -1,1 +1,9 @@
-{"id":"70064885","name":"VESSLA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":10}]}
+{
+    "id": "70064885",
+    "name": "VESSLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"00493832","name":"PURRPINGLA","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "00493832",
+    "name": "PURRPINGLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

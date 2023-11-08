@@ -1,1 +1,9 @@
-{"id":"00100467","name":"PAPPIS","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":3.99}]}
+{
+    "id": "00100467",
+    "name": "PAPPIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
+    ]
+}

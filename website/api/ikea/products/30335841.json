@@ -1,1 +1,9 @@
-{"id":"30335841","name":"GNARP","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "30335841",
+    "name": "GNARP",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

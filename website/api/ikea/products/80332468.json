@@ -1,1 +1,9 @@
-{"id":"80332468","name":"SUFFLETT","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "80332468",
+    "name": "SUFFLETT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

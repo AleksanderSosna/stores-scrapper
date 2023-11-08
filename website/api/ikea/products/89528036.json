@@ -1,1 +1,9 @@
-{"id":"89528036","name":"SKAFTET / MOLNART","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":139.99}]}
+{
+    "id": "89528036",
+    "name": "SKAFTET / MOLNART",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 139.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

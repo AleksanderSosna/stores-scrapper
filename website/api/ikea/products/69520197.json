@@ -1,1 +1,9 @@
-{"id":"69520197","name":"JAKOBSBYN / TRÅDFRI","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":218.99}]}
+{
+    "id": "69520197",
+    "name": "JAKOBSBYN / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 218.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1248 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"39500695","name":"PAX / FORSAND","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1440}]}
+{
+    "id": "39500695",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1440 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7580 }
+    ]
+}

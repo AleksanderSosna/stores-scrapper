@@ -1,1 +1,9 @@
-{"id":"10568068","name":"VINDÅS","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2499}]}
+{
+    "id": "10568068",
+    "name": "VINDÅS",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
+    ]
+}

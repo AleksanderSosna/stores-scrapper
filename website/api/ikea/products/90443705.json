@@ -1,1 +1,1 @@
-{"id":"90443705","name":"FINTSEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":9}]}
+{ "id": "90443705", "name": "FINTSEN", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9 }] }

@@ -1,1 +1,9 @@
-{"id":"70529979","name":"SYMFONISK","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":139}]}
+{
+    "id": "70529979",
+    "name": "SYMFONISK",
+    "categoryKey": "hs001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
+    ]
+}

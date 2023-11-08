@@ -1,1 +1,1 @@
-{"id":"30540078","name":"BEGRIPA","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":20}]}
+{ "id": "30540078", "name": "BEGRIPA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 20 }] }

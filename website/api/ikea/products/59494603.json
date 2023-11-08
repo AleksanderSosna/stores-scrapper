@@ -1,1 +1,9 @@
-{"id":"59494603","name":"SKRUVBY","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":848}]}
+{
+    "id": "59494603",
+    "name": "SKRUVBY",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 848 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5280 }
+    ]
+}

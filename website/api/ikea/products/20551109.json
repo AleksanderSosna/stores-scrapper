@@ -1,1 +1,9 @@
-{"id":"20551109","name":"IDROTTSHALL","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "20551109",
+    "name": "IDROTTSHALL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

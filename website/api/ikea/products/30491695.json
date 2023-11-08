@@ -1,1 +1,9 @@
-{"id":"30491695","name":"HEDEVIKEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":200}]}
+{
+    "id": "30491695",
+    "name": "HEDEVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
+    ]
+}

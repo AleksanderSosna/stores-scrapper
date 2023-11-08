@@ -1,1 +1,1 @@
-{"id":"40419915","name":"FYSSE","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":13}]}
+{ "id": "40419915", "name": "FYSSE", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 13 }] }

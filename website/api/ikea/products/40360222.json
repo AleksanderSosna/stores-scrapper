@@ -1,1 +1,9 @@
-{"id":"40360222","name":"METALLISK","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "40360222",
+    "name": "METALLISK",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"69308926","name":"HÅLLBAR","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":284.97}]}
+{
+    "id": "69308926",
+    "name": "HÅLLBAR",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 284.97 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1295 }
+    ]
+}

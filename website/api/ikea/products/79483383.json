@@ -1,1 +1,9 @@
-{"id":"79483383","name":"HAUGA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":878}]}
+{
+    "id": "79483383",
+    "name": "HAUGA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 878 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4280 }
+    ]
+}

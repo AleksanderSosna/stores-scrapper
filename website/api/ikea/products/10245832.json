@@ -1,1 +1,9 @@
-{"id":"10245832","name":"GUDMAR","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "10245832",
+    "name": "GUDMAR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

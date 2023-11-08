@@ -1,1 +1,9 @@
-{"id":"59521668","name":"ANFALLARE / ALEX","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":608}]}
+{
+    "id": "59521668",
+    "name": "ANFALLARE / ALEX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 608 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3980 }
+    ]
+}

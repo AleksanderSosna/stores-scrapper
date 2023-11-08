@@ -1,1 +1,9 @@
-{"id":"80499199","name":"VARMBLIXT","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":179}]}
+{
+    "id": "80499199",
+    "name": "VARMBLIXT",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

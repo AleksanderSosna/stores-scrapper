@@ -1,1 +1,9 @@
-{"id":"39443087","name":"TVÄLLEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":450}]}
+{
+    "id": "39443087",
+    "name": "TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 450 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"00287808","name":"HEJNE","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":45}]}
+{
+    "id": "00287808",
+    "name": "HEJNE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 240 }
+    ]
+}

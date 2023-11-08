@@ -1,1 +1,9 @@
-{"id":"79389535","name":"ESPEVÄR/VÅGSTRANDA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":3219}]}
+{
+    "id": "79389535",
+    "name": "ESPEVÄR/VÅGSTRANDA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3219 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 18190 }
+    ]
+}

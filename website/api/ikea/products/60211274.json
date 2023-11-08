@@ -1,1 +1,9 @@
-{"id":"60211274","name":"AULI","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":200}]}
+{
+    "id": "60211274",
+    "name": "AULI",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
+    ]
+}

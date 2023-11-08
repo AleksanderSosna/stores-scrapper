@@ -1,1 +1,9 @@
-{"id":"90386427","name":"HOPPVALS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":179}]}
+{
+    "id": "90386427",
+    "name": "HOPPVALS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

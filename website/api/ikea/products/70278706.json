@@ -1,1 +1,9 @@
-{"id":"70278706","name":"LÖNSET","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":225}]}
+{
+    "id": "70278706",
+    "name": "LÖNSET",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 225 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }
+    ]
+}

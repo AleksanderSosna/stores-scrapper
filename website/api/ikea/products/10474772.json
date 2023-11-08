@@ -1,1 +1,9 @@
-{"id":"10474772","name":"SILVERGLANS","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":135}]}
+{
+    "id": "10474772",
+    "name": "SILVERGLANS",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 135 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

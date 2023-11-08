@@ -1,1 +1,9 @@
-{"id":"09437832","name":"SANNIDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":130}]}
+{
+    "id": "09437832",
+    "name": "SANNIDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 130 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
+    ]
+}

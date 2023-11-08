@@ -1,1 +1,9 @@
-{"id":"39443191","name":"KIVIK","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":6499}]}
+{
+    "id": "39443191",
+    "name": "KIVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 6499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 44990 }
+    ]
+}

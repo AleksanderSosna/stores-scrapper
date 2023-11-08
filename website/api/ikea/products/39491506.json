@@ -1,1 +1,9 @@
-{"id":"39491506","name":"JÄLLBY / LUNNOM","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":64.99}]}
+{
+    "id": "39491506",
+    "name": "JÄLLBY / LUNNOM",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 64.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

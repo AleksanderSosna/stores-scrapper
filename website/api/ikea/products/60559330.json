@@ -1,1 +1,9 @@
-{"id":"60559330","name":"LAGKAPTEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":139}]}
+{
+    "id": "60559330",
+    "name": "LAGKAPTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

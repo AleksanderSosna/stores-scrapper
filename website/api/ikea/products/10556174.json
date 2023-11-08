@@ -1,1 +1,1 @@
-{"id":"10556174","name":"SUNNERSTA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":3.99}]}
+{ "id": "10556174", "name": "SUNNERSTA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 }] }

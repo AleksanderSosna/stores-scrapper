@@ -1,1 +1,9 @@
-{"id":"29501068","name":"UPPDATERA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":71.96}]}
+{
+    "id": "29501068",
+    "name": "UPPDATERA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 71.96 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 446 }
+    ]
+}

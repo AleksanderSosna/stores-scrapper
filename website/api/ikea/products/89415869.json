@@ -1,1 +1,9 @@
-{"id":"89415869","name":"NYSJÖN / BJÖRKÅN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":709}]}
+{
+    "id": "89415869",
+    "name": "NYSJÖN / BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 709 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3488 }
+    ]
+}

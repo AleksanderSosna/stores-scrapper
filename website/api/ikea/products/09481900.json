@@ -1,1 +1,9 @@
-{"id":"09481900","name":"PAX / FARDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1625}]}
+{
+    "id": "09481900",
+    "name": "PAX / FARDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1625 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9230 }
+    ]
+}

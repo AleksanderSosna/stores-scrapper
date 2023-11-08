@@ -1,1 +1,9 @@
-{"id":"79509062","name":"DOCKSTA / LIDÅS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1795}]}
+{
+    "id": "79509062",
+    "name": "DOCKSTA / LIDÅS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1795 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7586 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10412312","name":"DR. OETKER","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":18}]}
+{
+    "id": "10412312",
+    "name": "DR. OETKER",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 18 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

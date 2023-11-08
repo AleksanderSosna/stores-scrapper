@@ -1,1 +1,9 @@
-{"id":"99425721","name":"VRESJÖN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":1079}]}
+{
+    "id": "99425721",
+    "name": "VRESJÖN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1079 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
+    ]
+}

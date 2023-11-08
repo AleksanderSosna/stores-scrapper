@@ -1,1 +1,9 @@
-{"id":"90534625","name":"SÄTTING","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "90534625",
+    "name": "SÄTTING",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
+    ]
+}

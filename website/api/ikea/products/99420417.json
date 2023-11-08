@@ -1,1 +1,9 @@
-{"id":"99420417","name":"SANDSBERG / SANDSBERG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":347}]}
+{
+    "id": "99420417",
+    "name": "SANDSBERG / SANDSBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 347 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2097 }
+    ]
+}

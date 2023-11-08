@@ -1,1 +1,9 @@
-{"id":"29430448","name":"SMÅSTAD / PLATSA","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":725}]}
+{
+    "id": "29430448",
+    "name": "SMÅSTAD / PLATSA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 725 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3759 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"40542307","name":"EKOLN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "40542307",
+    "name": "EKOLN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

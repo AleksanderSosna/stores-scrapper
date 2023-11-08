@@ -1,1 +1,9 @@
-{"id":"39932538","name":"FJÄLKINGE","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":2156}]}
+{
+    "id": "39932538",
+    "name": "FJÄLKINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2156 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16980 }
+    ]
+}

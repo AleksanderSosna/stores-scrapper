@@ -1,1 +1,9 @@
-{"id":"80474453","name":"TILLAGD","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "80474453",
+    "name": "TILLAGD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

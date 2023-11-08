@@ -1,1 +1,9 @@
-{"id":"90360639","name":"FÅRDRUP","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "90360639",
+    "name": "FÅRDRUP",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

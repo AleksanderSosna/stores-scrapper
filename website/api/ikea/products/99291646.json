@@ -1,1 +1,9 @@
-{"id":"99291646","name":"KOLBJÖRN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":598}]}
+{
+    "id": "99291646",
+    "name": "KOLBJÖRN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 598 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2980 }
+    ]
+}

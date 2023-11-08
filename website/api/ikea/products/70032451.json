@@ -1,1 +1,9 @@
-{"id":"70032451","name":"HUTTEN","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "70032451",
+    "name": "HUTTEN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

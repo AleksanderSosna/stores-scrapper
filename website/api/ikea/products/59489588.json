@@ -1,1 +1,9 @@
-{"id":"59489588","name":"HYLTARP","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":3499}]}
+{
+    "id": "59489588",
+    "name": "HYLTARP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 22990 }
+    ]
+}

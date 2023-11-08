@@ -1,1 +1,9 @@
-{"id":"00530226","name":"STÄLL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":799}]}
+{
+    "id": "00530226",
+    "name": "STÄLL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4690 }
+    ]
+}

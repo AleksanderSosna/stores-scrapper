@@ -1,1 +1,9 @@
-{"id":"00493016","name":"EBBATILDA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "00493016",
+    "name": "EBBATILDA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

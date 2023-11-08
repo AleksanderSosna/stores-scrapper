@@ -1,1 +1,9 @@
-{"id":"00426343","name":"VANILJSTÅNG","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "00426343",
+    "name": "VANILJSTÅNG",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

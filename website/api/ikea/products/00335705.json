@@ -1,1 +1,9 @@
-{"id":"00335705","name":"SMYCKA","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "00335705",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"40295439","name":"FNISS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":9.5}]}
+{
+    "id": "40295439",
+    "name": "FNISS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

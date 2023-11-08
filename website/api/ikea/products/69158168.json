@@ -1,1 +1,9 @@
-{"id":"69158168","name":"VATTUDALEN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":309}]}
+{
+    "id": "69158168",
+    "name": "VATTUDALEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 309 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

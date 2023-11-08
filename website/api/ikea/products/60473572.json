@@ -1,1 +1,9 @@
-{"id":"60473572","name":"SVARTISDAL","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":300}]}
+{
+    "id": "60473572",
+    "name": "SVARTISDAL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 300 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
+    ]
+}

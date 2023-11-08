@@ -1,1 +1,9 @@
-{"id":"10563018","name":"STRÅLA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "10563018",
+    "name": "STRÅLA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

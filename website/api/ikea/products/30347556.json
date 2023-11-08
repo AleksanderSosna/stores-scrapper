@@ -1,1 +1,9 @@
-{"id":"30347556","name":"MÖLLEKULLA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":1999}]}
+{
+    "id": "30347556",
+    "name": "MÖLLEKULLA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9000 }
+    ]
+}

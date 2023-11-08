@@ -1,1 +1,9 @@
-{"id":"19482739","name":"MÖRBYLÅNGA / TOSSBERG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":4995}]}
+{
+    "id": "19482739",
+    "name": "MÖRBYLÅNGA / TOSSBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4995 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 28950 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"00450757","name":"VÅGSTRANDA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2599}]}
+{
+    "id": "00450757",
+    "name": "VÅGSTRANDA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
+    ]
+}

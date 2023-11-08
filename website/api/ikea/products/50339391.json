@@ -1,1 +1,9 @@
-{"id":"50339391","name":"PLUTTEN","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "50339391",
+    "name": "PLUTTEN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

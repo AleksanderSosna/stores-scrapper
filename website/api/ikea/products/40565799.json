@@ -1,1 +1,9 @@
-{"id":"40565799","name":"EKTORP","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1199}]}
+{
+    "id": "40565799",
+    "name": "EKTORP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
+    ]
+}

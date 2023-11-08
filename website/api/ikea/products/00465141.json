@@ -1,1 +1,9 @@
-{"id":"00465141","name":"ANFALLARE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "00465141",
+    "name": "ANFALLARE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

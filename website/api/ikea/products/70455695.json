@@ -1,1 +1,9 @@
-{"id":"70455695","name":"KALAS","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":3}]}
+{
+    "id": "70455695",
+    "name": "KALAS",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20 }
+    ]
+}

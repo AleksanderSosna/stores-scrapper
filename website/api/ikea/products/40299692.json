@@ -1,1 +1,9 @@
-{"id":"40299692","name":"BRYNILEN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":120}]}
+{
+    "id": "40299692",
+    "name": "BRYNILEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 120 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
+    ]
+}

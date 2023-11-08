@@ -1,1 +1,9 @@
-{"id":"00526639","name":"HEJSTA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":180}]}
+{
+    "id": "00526639",
+    "name": "HEJSTA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 180 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
+    ]
+}

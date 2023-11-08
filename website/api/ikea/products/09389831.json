@@ -1,1 +1,9 @@
-{"id":"09389831","name":"PÄRUP","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2899}]}
+{
+    "id": "09389831",
+    "name": "PÄRUP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16990 }
+    ]
+}

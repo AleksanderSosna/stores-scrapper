@@ -1,1 +1,9 @@
-{"id":"40548088","name":"TORSBODA","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2999}]}
+{
+    "id": "40548088",
+    "name": "TORSBODA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16990 }
+    ]
+}

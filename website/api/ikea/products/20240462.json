@@ -1,1 +1,9 @@
-{"id":"20240462","name":"STOCKARYD","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":49}]}
+{
+    "id": "20240462",
+    "name": "STOCKARYD",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

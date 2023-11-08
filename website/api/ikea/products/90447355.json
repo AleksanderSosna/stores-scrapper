@@ -1,1 +1,9 @@
-{"id":"90447355","name":"NÄRSEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "90447355",
+    "name": "NÄRSEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

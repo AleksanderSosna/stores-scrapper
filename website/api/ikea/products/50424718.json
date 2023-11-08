@@ -1,1 +1,9 @@
-{"id":"50424718","name":"UPPLAGA","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "50424718",
+    "name": "UPPLAGA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"40226766","name":"DRYCK BUBBEL PÄRON","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":20}]}
+{
+    "id": "40226766",
+    "name": "DRYCK BUBBEL PÄRON",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
+    ]
+}

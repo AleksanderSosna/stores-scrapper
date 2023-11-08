@@ -1,1 +1,9 @@
-{"id":"10515466","name":"GUNNEMOR","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "10515466",
+    "name": "GUNNEMOR",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

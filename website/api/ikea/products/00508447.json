@@ -1,1 +1,9 @@
-{"id":"00508447","name":"SKOGSVINBÄR","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":15.99}]}
+{
+    "id": "00508447",
+    "name": "SKOGSVINBÄR",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"70494710","name":"TANNISBY","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "70494710",
+    "name": "TANNISBY",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
+    ]
+}

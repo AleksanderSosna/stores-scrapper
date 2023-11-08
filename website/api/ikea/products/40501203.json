@@ -1,1 +1,9 @@
-{"id":"40501203","name":"SINNERLIG","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":139}]}
+{
+    "id": "40501203",
+    "name": "SINNERLIG",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

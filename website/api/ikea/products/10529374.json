@@ -1,1 +1,9 @@
-{"id":"10529374","name":"SKYDRAG","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":90}]}
+{
+    "id": "10529374",
+    "name": "SKYDRAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

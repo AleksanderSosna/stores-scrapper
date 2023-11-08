@@ -1,1 +1,9 @@
-{"id":"59428934","name":"HÅVERUD / STIG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":657}]}
+{
+    "id": "59428934",
+    "name": "HÅVERUD / STIG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 657 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5488 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10477049","name":"DUNDERGUBBE","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "10477049",
+    "name": "DUNDERGUBBE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

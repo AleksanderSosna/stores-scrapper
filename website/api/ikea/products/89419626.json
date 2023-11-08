@@ -1,1 +1,9 @@
-{"id":"89419626","name":"STENKOL / LADDA","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":64.99}]}
+{
+    "id": "89419626",
+    "name": "STENKOL / LADDA",
+    "categoryKey": "he001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 64.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 278 }
+    ]
+}

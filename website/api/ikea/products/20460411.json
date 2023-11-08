@@ -1,1 +1,9 @@
-{"id":"20460411","name":"GRÖNAMARANT","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{
+    "id": "20460411",
+    "name": "GRÖNAMARANT",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

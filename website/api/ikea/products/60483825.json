@@ -1,1 +1,9 @@
-{"id":"60483825","name":"TOMMARYD","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":350}]}
+{
+    "id": "60483825",
+    "name": "TOMMARYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 350 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2500 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"79561494","name":"TVÄRDRAG / TRÅDFRI","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":389.95}]}
+{
+    "id": "79561494",
+    "name": "TVÄRDRAG / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 389.95 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2293 }
+    ]
+}

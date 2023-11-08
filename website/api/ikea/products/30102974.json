@@ -1,1 +1,9 @@
-{"id":"30102974","name":"SAMLA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "30102974",
+    "name": "SAMLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

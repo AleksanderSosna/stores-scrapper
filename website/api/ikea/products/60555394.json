@@ -1,1 +1,9 @@
-{"id":"60555394","name":"CALLUNA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":17.99}]}
+{
+    "id": "60555394",
+    "name": "CALLUNA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

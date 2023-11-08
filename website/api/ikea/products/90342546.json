@@ -1,1 +1,9 @@
-{"id":"90342546","name":"BROGRUND","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":649}]}
+{
+    "id": "90342546",
+    "name": "BROGRUND",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 649 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
+    ]
+}

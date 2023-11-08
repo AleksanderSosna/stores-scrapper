@@ -1,1 +1,9 @@
-{"id":"50357002","name":"KALLRÖR","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "50357002",
+    "name": "KALLRÖR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

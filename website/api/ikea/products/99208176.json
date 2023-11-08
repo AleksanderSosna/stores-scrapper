@@ -1,1 +1,9 @@
-{"id":"99208176","name":"ESPEVÄR","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2190}]}
+{
+    "id": "99208176",
+    "name": "ESPEVÄR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2190 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14000 }
+    ]
+}

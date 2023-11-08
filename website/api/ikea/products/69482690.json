@@ -1,1 +1,9 @@
-{"id":"69482690","name":"SKOGSTA / NORDVIKEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3793}]}
+{
+    "id": "69482690",
+    "name": "SKOGSTA / NORDVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3793 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23930 }
+    ]
+}

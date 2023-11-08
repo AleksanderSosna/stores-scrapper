@@ -1,1 +1,9 @@
-{"id":"60490939","name":"BERGSVIKEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":125}]}
+{
+    "id": "60490939",
+    "name": "BERGSVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 125 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30508002","name":"NATTSLÄNDA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "30508002",
+    "name": "NATTSLÄNDA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

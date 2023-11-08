@@ -1,1 +1,9 @@
-{"id":"39417187","name":"LAGKAPTEN / TILLSLAG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":289}]}
+{
+    "id": "39417187",
+    "name": "LAGKAPTEN / TILLSLAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 289 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1599 }
+    ]
+}

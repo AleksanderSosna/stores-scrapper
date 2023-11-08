@@ -1,1 +1,9 @@
-{"id":"59437938","name":"AULI / FÄRVIK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1400}]}
+{
+    "id": "59437938",
+    "name": "AULI / FÄRVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1400 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7700 }
+    ]
+}

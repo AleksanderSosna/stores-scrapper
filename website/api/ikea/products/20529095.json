@@ -1,1 +1,9 @@
-{"id":"20529095","name":"HORNMAL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "20529095",
+    "name": "HORNMAL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"90537153","name":"ÅKERBÄR","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":2.99}]}
+{
+    "id": "90537153",
+    "name": "ÅKERBÄR",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50530101","name":"RENSHACKA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":3.5}]}
+{
+    "id": "50530101",
+    "name": "RENSHACKA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

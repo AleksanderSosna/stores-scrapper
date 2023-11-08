@@ -1,1 +1,9 @@
-{"id":"09509975","name":"LAGKAPTEN / KRILLE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":379}]}
+{
+    "id": "09509975",
+    "name": "LAGKAPTEN / KRILLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 379 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2399 }
+    ]
+}

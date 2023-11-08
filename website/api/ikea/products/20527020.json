@@ -1,1 +1,9 @@
-{"id":"20527020","name":"UPPFRISKANDE","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2399}]}
+{
+    "id": "20527020",
+    "name": "UPPFRISKANDE",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12490 }
+    ]
+}

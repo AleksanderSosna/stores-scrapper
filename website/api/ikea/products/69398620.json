@@ -1,1 +1,9 @@
-{"id":"69398620","name":"BILLY / BRIMNES","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1384.98}]}
+{
+    "id": "69398620",
+    "name": "BILLY / BRIMNES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1384.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8893 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50555403","name":"OPUNTIA RUBESCENS","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "50555403",
+    "name": "OPUNTIA RUBESCENS",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

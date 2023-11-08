@@ -1,1 +1,9 @@
-{"id":"10506952","name":"PLOMMONROS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "10506952",
+    "name": "PLOMMONROS",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

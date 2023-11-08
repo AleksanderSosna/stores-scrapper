@@ -1,1 +1,9 @@
-{"id":"10486020","name":"PJÄTTERYD","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":159}]}
+{
+    "id": "10486020",
+    "name": "PJÄTTERYD",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

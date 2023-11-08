@@ -1,1 +1,9 @@
-{"id":"30160209","name":"LURÖY","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":100}]}
+{
+    "id": "30160209",
+    "name": "LURÖY",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 550 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"40528354","name":"SKYMNINGEN","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "40528354",
+    "name": "SKYMNINGEN",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

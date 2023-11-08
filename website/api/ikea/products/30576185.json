@@ -1,1 +1,1 @@
-{"id":"30576185","name":"BILLSBRO","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":50}]}
+{ "id": "30576185", "name": "BILLSBRO", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }] }

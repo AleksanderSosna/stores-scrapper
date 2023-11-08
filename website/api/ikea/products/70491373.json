@@ -1,1 +1,9 @@
-{"id":"70491373","name":"SPORTSLIG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "70491373",
+    "name": "SPORTSLIG",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

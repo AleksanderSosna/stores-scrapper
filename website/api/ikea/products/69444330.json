@@ -1,1 +1,9 @@
-{"id":"69444330","name":"FRIHETEN / KLAGSHAMN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2399}]}
+{
+    "id": "69444330",
+    "name": "FRIHETEN / KLAGSHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15280 }
+    ]
+}

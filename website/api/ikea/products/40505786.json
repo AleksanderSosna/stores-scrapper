@@ -1,1 +1,9 @@
-{"id":"40505786","name":"ENKÖPING","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":135}]}
+{
+    "id": "40505786",
+    "name": "ENKÖPING",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 135 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"80552139","name":"DVÄRGDUNÖRT","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":44.99}]}
+{
+    "id": "80552139",
+    "name": "DVÄRGDUNÖRT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"69508949","name":"BJÖRKSTA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":239}]}
+{
+    "id": "69508949",
+    "name": "BJÖRKSTA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1250 }
+    ]
+}

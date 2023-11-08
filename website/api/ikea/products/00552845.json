@@ -1,1 +1,9 @@
-{"id":"00552845","name":"PAPEGOJBUSKE","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":35}]}
+{
+    "id": "00552845",
+    "name": "PAPEGOJBUSKE",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20481710","name":"ÅNNELAND","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2699}]}
+{
+    "id": "20481710",
+    "name": "ÅNNELAND",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
+    ]
+}

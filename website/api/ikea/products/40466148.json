@@ -1,1 +1,9 @@
-{"id":"40466148","name":"GLIS","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":11.99}]}
+{
+    "id": "40466148",
+    "name": "GLIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 11.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

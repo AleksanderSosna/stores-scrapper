@@ -1,1 +1,9 @@
-{"id":"19485318","name":"HAVBERG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2999}]}
+{
+    "id": "19485318",
+    "name": "HAVBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17980 }
+    ]
+}

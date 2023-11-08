@@ -1,1 +1,9 @@
-{"id":"30290362","name":"SKUBB","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "30290362",
+    "name": "SKUBB",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

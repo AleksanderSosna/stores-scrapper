@@ -1,1 +1,9 @@
-{"id":"80407835","name":"SIMRISHAMN","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "80407835",
+    "name": "SIMRISHAMN",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"00573428","name":"VINTERSAGA","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":40}]}
+{
+    "id": "00573428",
+    "name": "VINTERSAGA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

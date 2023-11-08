@@ -1,1 +1,1 @@
-{"id":"80234707","name":"PLUGGIS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{ "id": "80234707", "name": "PLUGGIS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }

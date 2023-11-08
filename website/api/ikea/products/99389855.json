@@ -1,1 +1,9 @@
-{"id":"99389855","name":"ESPEVÄR/VESTERÖY","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":3088}]}
+{
+    "id": "99389855",
+    "name": "ESPEVÄR/VESTERÖY",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3088 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16980 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"19432283","name":"PAX / SVARTISDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":3835}]}
+{
+    "id": "19432283",
+    "name": "PAX / SVARTISDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3835 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20350 }
+    ]
+}

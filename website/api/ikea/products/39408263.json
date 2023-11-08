@@ -1,1 +1,9 @@
-{"id":"39408263","name":"SKOGSTA / BERGMUND","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":4573}]}
+{
+    "id": "39408263",
+    "name": "SKOGSTA / BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4573 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23930 }
+    ]
+}

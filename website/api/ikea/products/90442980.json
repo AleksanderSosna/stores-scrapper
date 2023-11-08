@@ -1,1 +1,9 @@
-{"id":"90442980","name":"EKBACKEN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":259}]}
+{
+    "id": "90442980",
+    "name": "EKBACKEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 259 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1590 }
+    ]
+}

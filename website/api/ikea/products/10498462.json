@@ -1,1 +1,9 @@
-{"id":"10498462","name":"HANNALILL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{
+    "id": "10498462",
+    "name": "HANNALILL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

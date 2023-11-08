@@ -1,1 +1,9 @@
-{"id":"30546377","name":"SUCCULENT","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "30546377",
+    "name": "SUCCULENT",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
+    ]
+}

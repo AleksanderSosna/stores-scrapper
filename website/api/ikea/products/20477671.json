@@ -1,1 +1,9 @@
-{"id":"20477671","name":"TJOG","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "20477671",
+    "name": "TJOG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

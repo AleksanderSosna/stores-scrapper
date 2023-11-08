@@ -1,1 +1,9 @@
-{"id":"10424353","name":"VIMUND","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":349}]}
+{
+    "id": "10424353",
+    "name": "VIMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

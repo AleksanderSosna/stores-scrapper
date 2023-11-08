@@ -1,1 +1,9 @@
-{"id":"79326029","name":"BERGSHULT / SANDSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":75.99}]}
+{
+    "id": "79326029",
+    "name": "BERGSHULT / SANDSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 75.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

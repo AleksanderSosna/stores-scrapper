@@ -1,1 +1,9 @@
-{"id":"69544221","name":"SANDSBERG / PÅBODA","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":765}]}
+{
+    "id": "69544221",
+    "name": "SANDSBERG / PÅBODA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 765 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3986 }
+    ]
+}

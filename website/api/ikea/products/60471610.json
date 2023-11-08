@@ -1,1 +1,9 @@
-{"id":"60471610","name":"RUTER","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{
+    "id": "60471610",
+    "name": "RUTER",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20502128","name":"VALLASÅN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "20502128",
+    "name": "VALLASÅN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
+    ]
+}

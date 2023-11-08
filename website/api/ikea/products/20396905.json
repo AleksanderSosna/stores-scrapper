@@ -1,1 +1,9 @@
-{"id":"20396905","name":"FRIDANS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":79}]}
+{
+    "id": "20396905",
+    "name": "FRIDANS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
+    ]
+}

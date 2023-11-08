@@ -1,1 +1,9 @@
-{"id":"30537716","name":"NICKEBO","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":120}]}
+{
+    "id": "30537716",
+    "name": "NICKEBO",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 120 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
+    ]
+}

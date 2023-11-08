@@ -1,1 +1,9 @@
-{"id":"99441028","name":"STRANDTORP / TOSSBERG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":4993}]}
+{
+    "id": "99441028",
+    "name": "STRANDTORP / TOSSBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4993 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 29930 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"80479200","name":"SANELA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "80479200",
+    "name": "SANELA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

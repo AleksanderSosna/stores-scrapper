@@ -1,1 +1,9 @@
-{"id":"30427628","name":"EDSBRUK","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "30427628",
+    "name": "EDSBRUK",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
+    ]
+}

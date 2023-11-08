@@ -1,1 +1,9 @@
-{"id":"30517025","name":"TOFTBO","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "30517025",
+    "name": "TOFTBO",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

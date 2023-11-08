@@ -1,1 +1,9 @@
-{"id":"00553227","name":"CITRONHAJ","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":12.99}]}
+{
+    "id": "00553227",
+    "name": "CITRONHAJ",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

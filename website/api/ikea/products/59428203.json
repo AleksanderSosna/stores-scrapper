@@ -1,1 +1,9 @@
-{"id":"59428203","name":"MELLTORP / KÄTTIL","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1095}]}
+{
+    "id": "59428203",
+    "name": "MELLTORP / KÄTTIL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1095 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7750 }
+    ]
+}

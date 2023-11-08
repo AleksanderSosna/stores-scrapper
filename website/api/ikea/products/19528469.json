@@ -1,1 +1,9 @@
-{"id":"19528469","name":"TOMMARYD / LÄKTARE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2295}]}
+{
+    "id": "19528469",
+    "name": "TOMMARYD / LÄKTARE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2295 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16050 }
+    ]
+}

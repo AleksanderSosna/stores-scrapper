@@ -1,1 +1,9 @@
-{"id":"60426571","name":"MARKHUS","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":25}]}
+{
+    "id": "60426571",
+    "name": "MARKHUS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
+    ]
+}

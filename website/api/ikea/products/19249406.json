@@ -1,1 +1,9 @@
-{"id":"19249406","name":"HÄLLAN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1056}]}
+{
+    "id": "19249406",
+    "name": "HÄLLAN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1056 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8960 }
+    ]
+}

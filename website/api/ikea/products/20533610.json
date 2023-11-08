@@ -1,1 +1,9 @@
-{"id":"20533610","name":"VEDBÄK","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "20533610",
+    "name": "VEDBÄK",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

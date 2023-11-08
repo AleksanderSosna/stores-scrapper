@@ -1,1 +1,9 @@
-{"id":"29290711","name":"BERGSHULT / PERSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":117.99}]}
+{
+    "id": "29290711",
+    "name": "BERGSHULT / PERSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 117.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 524 }
+    ]
+}

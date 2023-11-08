@@ -1,1 +1,9 @@
-{"id":"30531936","name":"NATTGIBBA","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "30531936",
+    "name": "NATTGIBBA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

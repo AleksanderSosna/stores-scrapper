@@ -1,1 +1,9 @@
-{"id":"39494543","name":"BILLY / HÖGBO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":548}]}
+{
+    "id": "39494543",
+    "name": "BILLY / HÖGBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 548 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3390 }
+    ]
+}

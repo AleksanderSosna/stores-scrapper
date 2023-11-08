@@ -1,1 +1,9 @@
-{"id":"50449403","name":"FÖRDELAKTIG","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":7499}]}
+{
+    "id": "50449403",
+    "name": "FÖRDELAKTIG",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 36990 }
+    ]
+}

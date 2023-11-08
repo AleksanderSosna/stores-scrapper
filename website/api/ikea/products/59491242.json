@@ -1,1 +1,9 @@
-{"id":"59491242","name":"VRETSTORP","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":3199}]}
+{
+    "id": "59491242",
+    "name": "VRETSTORP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }
+    ]
+}

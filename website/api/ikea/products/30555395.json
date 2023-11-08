@@ -1,1 +1,9 @@
-{"id":"30555395","name":"COFFEA ARABICA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "30555395",
+    "name": "COFFEA ARABICA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

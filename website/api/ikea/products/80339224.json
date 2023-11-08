@@ -1,1 +1,9 @@
-{"id":"80339224","name":"TORKIS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "80339224",
+    "name": "TORKIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"70357223","name":"DVALA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "70357223",
+    "name": "DVALA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
+    ]
+}

@@ -1,1 +1,1 @@
-{"id":"50301010","name":"VEMUND","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":399}]}
+{ "id": "50301010", "name": "VEMUND", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }

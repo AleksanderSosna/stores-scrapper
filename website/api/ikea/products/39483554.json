@@ -1,1 +1,9 @@
-{"id":"39483554","name":"RÅGRUND / BJÖRKÅN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":798}]}
+{
+    "id": "39483554",
+    "name": "RÅGRUND / BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4388 }
+    ]
+}

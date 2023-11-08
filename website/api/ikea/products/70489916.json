@@ -1,1 +1,9 @@
-{"id":"70489916","name":"MEJARP","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":55}]}
+{
+    "id": "70489916",
+    "name": "MEJARP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 55 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 250 }
+    ]
+}

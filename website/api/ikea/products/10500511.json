@@ -1,1 +1,1 @@
-{"id":"10500511","name":"BOYSENBÄR","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{ "id": "10500511", "name": "BOYSENBÄR", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }

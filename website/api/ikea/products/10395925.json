@@ -1,1 +1,9 @@
-{"id":"10395925","name":"SKURUP","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "10395925",
+    "name": "SKURUP",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

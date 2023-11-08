@@ -1,1 +1,9 @@
-{"id":"20317852","name":"LILLVIKEN","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":20}]}
+{
+    "id": "20317852",
+    "name": "LILLVIKEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
+    ]
+}

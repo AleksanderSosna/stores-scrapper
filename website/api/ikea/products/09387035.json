@@ -1,1 +1,9 @@
-{"id":"09387035","name":"LYCKSELE LÖVÅS","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1299}]}
+{
+    "id": "09387035",
+    "name": "LYCKSELE LÖVÅS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

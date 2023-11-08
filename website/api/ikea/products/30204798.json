@@ -1,1 +1,9 @@
-{"id":"30204798","name":"DJUPVIK","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":100}]}
+{
+    "id": "30204798",
+    "name": "DJUPVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
+    ]
+}

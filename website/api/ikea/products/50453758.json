@@ -1,1 +1,9 @@
-{"id":"50453758","name":"RAKKESTAD","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "50453758",
+    "name": "RAKKESTAD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

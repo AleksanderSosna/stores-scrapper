@@ -1,1 +1,9 @@
-{"id":"30397495","name":"VOXTORP","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":185}]}
+{
+    "id": "30397495",
+    "name": "VOXTORP",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 185 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2000 }
+    ]
+}

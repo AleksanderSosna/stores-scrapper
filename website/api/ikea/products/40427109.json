@@ -1,1 +1,9 @@
-{"id":"40427109","name":"GULSPARV","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "40427109",
+    "name": "GULSPARV",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

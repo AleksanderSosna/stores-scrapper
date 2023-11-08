@@ -1,1 +1,9 @@
-{"id":"80534070","name":"BLÅVINGAD","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "80534070",
+    "name": "BLÅVINGAD",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50471050","name":"VARIERA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "50471050",
+    "name": "VARIERA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

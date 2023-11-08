@@ -1,1 +1,9 @@
-{"id":"10484016","name":"MUNSBIT","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":7}]}
+{
+    "id": "10484016",
+    "name": "MUNSBIT",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

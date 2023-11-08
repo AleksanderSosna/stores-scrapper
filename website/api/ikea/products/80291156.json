@@ -1,1 +1,9 @@
-{"id":"80291156","name":"PLATTBOJ","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "80291156",
+    "name": "PLATTBOJ",
+    "categoryKey": "he001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
+    ]
+}

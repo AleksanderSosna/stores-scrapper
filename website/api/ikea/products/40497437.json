@@ -1,1 +1,9 @@
-{"id":"40497437","name":"LÖRDAGSGODIS","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":26}]}
+{
+    "id": "40497437",
+    "name": "LÖRDAGSGODIS",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 26 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

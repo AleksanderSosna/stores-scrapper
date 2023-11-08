@@ -1,1 +1,9 @@
-{"id":"10505684","name":"STRIMMIG","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "10505684",
+    "name": "STRIMMIG",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
+    ]
+}

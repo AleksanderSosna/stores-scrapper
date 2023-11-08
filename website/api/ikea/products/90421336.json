@@ -1,1 +1,9 @@
-{"id":"90421336","name":"NYTTIG FIL 120","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":169}]}
+{
+    "id": "90421336",
+    "name": "NYTTIG FIL 120",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 169 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

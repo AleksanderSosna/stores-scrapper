@@ -1,16 +1,31 @@
-import { Locator, Page, expect } from "@playwright/test";
-import fs from "fs";
+import { Locator, Page } from "@playwright/test";
 import { ulid } from "ulid";
+import fs from "fs";
 
 export class Ikea {
     readonly page: Page;
+
+    readonly countryCodeAndLanguageCodeFromCountryCode: (countryCode: string) => string;
 
     readonly seeAllInCategoryLinks: Locator;
 
     constructor(page: Page) {
         this.page = page;
 
-        this.seeAllInCategoryLinks = page.locator("a.vn-link", { hasText: "Zobacz wszystko" });
+        this.countryCodeAndLanguageCodeFromCountryCode = (countryCode) => {
+            switch (countryCode) {
+                case "pl":
+                    return `/${countryCode}/pl`;
+                    break;
+                case "cz":
+                    return `/${countryCode}/cs`;
+                    break;
+                default:
+                    console.log(`no matching language code for provided "${countryCode}" found`);
+            }
+        };
+
+        this.seeAllInCategoryLinks = page.locator("a.vn-link", { hasText: "Zobacz wszystko" }).or(page.locator("a.vn-link", { hasText: "Všechny kategorie" }));
     }
 
     readJson(directory: string, fileName: string): any {
@@ -30,7 +45,11 @@ export class Ikea {
         return sessionId;
     }
 
-    async getProducts(category: string, options?: { start?: number; end?: number; c?: string; v?: number; sort?: string; store?: number; zip?: string }): Promise<any> {
+    async getProducts(
+        countryCode: string,
+        category: string,
+        options?: { start?: number; end?: number; c?: string; v?: number; sort?: string; store?: number; zip?: string }
+    ): Promise<any> {
         const queryParams = {
             category: category,
             start: options ? (typeof options.start == "number" ? options.start : 0) : 0,
@@ -38,18 +57,16 @@ export class Ikea {
             c: options ? (typeof options.c == "string" ? options.c : "listaf") : "listaf",
             v: options ? (typeof options.v == "number" ? options.v : 20220826) : 20220826,
             sort: options ? (typeof options.sort == "string" ? options.sort : "RELEVANCE") : "RELEVANCE",
-            store: options ? (typeof options.store == "number" ? options.store : 306) : 306,
-            zip: options ? (typeof options.zip == "string" ? options.zip : "44-370") : "44-370",
         };
 
-        const response = await this.page.request.get("https://sik.search.blue.cdtapps.com/pl/pl/product-list-page/more-products", {
-            params: queryParams,
-        });
+        const response = await this.page.request.get(
+            `https://sik.search.blue.cdtapps.com${this.countryCodeAndLanguageCodeFromCountryCode(countryCode)}/product-list-page/more-products`,
+            {
+                params: queryParams,
+            }
+        );
 
         const responseJson = await response.json();
-
-        this.writeJsonToFile(JSON.stringify(responseJson), { directory: "files", fileName: category });
-
         return responseJson;
     }
 }

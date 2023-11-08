@@ -1,1 +1,9 @@
-{"id":"50470003","name":"PEKHULT","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "50470003",
+    "name": "PEKHULT",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

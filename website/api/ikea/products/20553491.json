@@ -1,1 +1,9 @@
-{"id":"20553491","name":"VINTERFINT","categoryKey":"wt001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "20553491",
+    "name": "VINTERFINT",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

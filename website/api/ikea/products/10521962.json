@@ -1,1 +1,9 @@
-{"id":"10521962","name":"UPPFYLLD","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":4.99}]}
+{
+    "id": "10521962",
+    "name": "UPPFYLLD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
+    ]
+}

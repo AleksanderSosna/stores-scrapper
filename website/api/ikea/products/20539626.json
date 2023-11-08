@@ -1,1 +1,9 @@
-{"id":"20539626","name":"BARKBORRE","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "20539626",
+    "name": "BARKBORRE",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

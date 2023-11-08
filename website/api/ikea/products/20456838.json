@@ -1,1 +1,9 @@
-{"id":"20456838","name":"FJÄLLBRÄCKA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":259}]}
+{
+    "id": "20456838",
+    "name": "FJÄLLBRÄCKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 259 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

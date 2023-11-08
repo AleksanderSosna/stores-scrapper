@@ -1,1 +1,9 @@
-{"id":"40299687","name":"BURFJORD","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":90}]}
+{
+    "id": "40299687",
+    "name": "BURFJORD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
+    ]
+}

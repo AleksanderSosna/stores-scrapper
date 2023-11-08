@@ -1,1 +1,9 @@
-{"id":"70176312","name":"MANDAL","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":700}]}
+{
+    "id": "70176312",
+    "name": "MANDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 700 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4000 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20291499","name":"BALUNGEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "20291499",
+    "name": "BALUNGEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

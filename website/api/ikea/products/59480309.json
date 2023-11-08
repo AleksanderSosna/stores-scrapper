@@ -1,1 +1,9 @@
-{"id":"59480309","name":"PAX / REINSVOLL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1430}]}
+{
+    "id": "59480309",
+    "name": "PAX / REINSVOLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1430 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8710 }
+    ]
+}

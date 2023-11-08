@@ -1,1 +1,9 @@
-{"id":"00310960","name":"CACTACEAE","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "00310960",
+    "name": "CACTACEAE",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

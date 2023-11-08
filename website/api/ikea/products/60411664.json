@@ -1,1 +1,9 @@
-{"id":"60411664","name":"BEJUBLAD","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":1699}]}
+{
+    "id": "60411664",
+    "name": "BEJUBLAD",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30383144","name":"KULINARISK","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2199}]}
+{
+    "id": "30383144",
+    "name": "KULINARISK",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13990 }
+    ]
+}

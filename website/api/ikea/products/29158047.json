@@ -1,1 +1,9 @@
-{"id":"29158047","name":"NESTTUN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1149}]}
+{
+    "id": "29158047",
+    "name": "NESTTUN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5890 }
+    ]
+}

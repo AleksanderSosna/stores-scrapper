@@ -1,1 +1,9 @@
-{"id":"00541121","name":"LUKTJASMIN","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "00541121",
+    "name": "LUKTJASMIN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

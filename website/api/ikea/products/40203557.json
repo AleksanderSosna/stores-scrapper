@@ -1,1 +1,9 @@
-{"id":"40203557","name":"MORUM","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":279}]}
+{
+    "id": "40203557",
+    "name": "MORUM",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

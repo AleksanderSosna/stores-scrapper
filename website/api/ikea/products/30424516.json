@@ -1,1 +1,9 @@
-{"id":"30424516","name":"UPPLYST","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "30424516",
+    "name": "UPPLYST",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

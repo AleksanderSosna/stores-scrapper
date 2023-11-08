@@ -1,1 +1,9 @@
-{"id":"80092109","name":"GODIS","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "80092109",
+    "name": "GODIS",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

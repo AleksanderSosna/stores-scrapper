@@ -1,1 +1,9 @@
-{"id":"10492672","name":"KLEPPSTAD","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":699}]}
+{
+    "id": "10492672",
+    "name": "KLEPPSTAD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

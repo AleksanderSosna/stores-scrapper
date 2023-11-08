@@ -1,1 +1,9 @@
-{"id":"59481323","name":"NORBERG / NISSE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":518.98}]}
+{
+    "id": "59481323",
+    "name": "NORBERG / NISSE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 518.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2888 }
+    ]
+}

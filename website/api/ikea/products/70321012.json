@@ -1,1 +1,9 @@
-{"id":"70321012","name":"SKÖNAST","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":229}]}
+{
+    "id": "70321012",
+    "name": "SKÖNAST",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

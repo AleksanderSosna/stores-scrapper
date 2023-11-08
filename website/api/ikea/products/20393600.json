@@ -1,1 +1,9 @@
-{"id":"20393600","name":"HEKTAR","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "20393600",
+    "name": "HEKTAR",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
+    ]
+}

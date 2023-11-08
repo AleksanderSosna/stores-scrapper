@@ -1,1 +1,9 @@
-{"id":"30525049","name":"KLOCKBUSKE","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "30525049",
+    "name": "KLOCKBUSKE",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"99440566","name":"VIHALS","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1747}]}
+{
+    "id": "99440566",
+    "name": "VIHALS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1747 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8970 }
+    ]
+}

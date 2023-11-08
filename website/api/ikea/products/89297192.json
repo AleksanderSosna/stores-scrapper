@@ -1,1 +1,9 @@
-{"id":"89297192","name":"OMAR","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":348}]}
+{
+    "id": "89297192",
+    "name": "OMAR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 348 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2089 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"60455059","name":"FREBRO","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":30}]}
+{
+    "id": "60455059",
+    "name": "FREBRO",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 30 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

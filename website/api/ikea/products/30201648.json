@@ -1,1 +1,9 @@
-{"id":"30201648","name":"SILL MATJES","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "30201648",
+    "name": "SILL MATJES",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 45 }
+    ]
+}

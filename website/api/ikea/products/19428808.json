@@ -1,1 +1,9 @@
-{"id":"19428808","name":"HOLMSTA / FRÖKNABO","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1199}]}
+{
+    "id": "19428808",
+    "name": "HOLMSTA / FRÖKNABO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
+    ]
+}

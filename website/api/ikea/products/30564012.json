@@ -1,1 +1,9 @@
-{"id":"30564012","name":"STENERIK","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "30564012",
+    "name": "STENERIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

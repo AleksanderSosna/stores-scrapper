@@ -1,1 +1,9 @@
-{"id":"04375085","name":"FIXA","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "04375085",
+    "name": "FIXA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
+    ]
+}

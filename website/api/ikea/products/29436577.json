@@ -1,1 +1,9 @@
-{"id":"29436577","name":"FJÄLLBO/KULLABERG / GULLHULT","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1196.99}]}
+{
+    "id": "29436577",
+    "name": "FJÄLLBO/KULLABERG / GULLHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1196.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6669 }
+    ]
+}

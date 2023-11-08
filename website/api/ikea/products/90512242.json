@@ -1,1 +1,9 @@
-{"id":"90512242","name":"LINANÄS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1699}]}
+{
+    "id": "90512242",
+    "name": "LINANÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
+    ]
+}

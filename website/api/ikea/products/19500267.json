@@ -1,1 +1,9 @@
-{"id":"19500267","name":"SKYTTA / MEHAMN/AULI","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":3225}]}
+{
+    "id": "19500267",
+    "name": "SKYTTA / MEHAMN/AULI",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3225 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15800 }
+    ]
+}

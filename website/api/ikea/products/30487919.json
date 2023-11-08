@@ -1,1 +1,9 @@
-{"id":"30487919","name":"VÄRLDENS","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "30487919",
+    "name": "VÄRLDENS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

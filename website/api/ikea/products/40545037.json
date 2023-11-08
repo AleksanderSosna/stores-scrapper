@@ -1,1 +1,9 @@
-{"id":"40545037","name":"TAGGHAJ","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":21}]}
+{
+    "id": "40545037",
+    "name": "TAGGHAJ",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 21 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

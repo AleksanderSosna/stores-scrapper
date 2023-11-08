@@ -1,1 +1,9 @@
-{"id":"10508456","name":"FEJKA","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "10508456",
+    "name": "FEJKA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

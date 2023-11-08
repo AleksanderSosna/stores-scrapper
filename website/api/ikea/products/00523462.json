@@ -1,1 +1,9 @@
-{"id":"00523462","name":"HALVTOM","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "00523462",
+    "name": "HALVTOM",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

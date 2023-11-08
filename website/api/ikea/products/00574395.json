@@ -1,1 +1,9 @@
-{"id":"00574395","name":"DAIM","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":27}]}
+{
+    "id": "00574395",
+    "name": "DAIM",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 27 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

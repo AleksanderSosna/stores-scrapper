@@ -1,1 +1,9 @@
-{"id":"00530085","name":"TROFAST","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":30}]}
+{
+    "id": "00530085",
+    "name": "TROFAST",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 30 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 180 }
+    ]
+}

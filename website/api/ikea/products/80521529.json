@@ -1,1 +1,9 @@
-{"id":"80521529","name":"GRIMO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":900}]}
+{
+    "id": "80521529",
+    "name": "GRIMO",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 900 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5500 }
+    ]
+}

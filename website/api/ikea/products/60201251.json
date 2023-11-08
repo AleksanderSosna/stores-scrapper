@@ -1,1 +1,9 @@
-{"id":"60201251","name":"ÄDELSTEN","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "60201251",
+    "name": "ÄDELSTEN",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

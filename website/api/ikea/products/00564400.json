@@ -1,1 +1,9 @@
-{"id":"00564400","name":"LINANÄS","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":150}]}
+{
+    "id": "00564400",
+    "name": "LINANÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

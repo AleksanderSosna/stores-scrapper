@@ -1,1 +1,9 @@
-{"id":"50424327","name":"MUSKAN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":229}]}
+{
+    "id": "50424327",
+    "name": "MUSKAN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

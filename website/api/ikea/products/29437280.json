@@ -1,1 +1,9 @@
-{"id":"29437280","name":"JOSTEIN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":810}]}
+{
+    "id": "29437280",
+    "name": "JOSTEIN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 810 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4800 }
+    ]
+}

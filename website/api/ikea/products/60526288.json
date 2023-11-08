@@ -1,1 +1,9 @@
-{"id":"60526288","name":"FRÖSLÖV","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1999}]}
+{
+    "id": "60526288",
+    "name": "FRÖSLÖV",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17990 }
+    ]
+}

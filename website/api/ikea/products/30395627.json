@@ -1,1 +1,9 @@
-{"id":"30395627","name":"NYPON","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "30395627",
+    "name": "NYPON",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

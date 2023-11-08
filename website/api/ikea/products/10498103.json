@@ -1,1 +1,1 @@
-{"id":"10498103","name":"ASARUM","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":60}]}
+{ "id": "10498103", "name": "ASARUM", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 60 }] }

@@ -1,1 +1,1 @@
-{"id":"50532949","name":"RÅNEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{ "id": "50532949", "name": "RÅNEN", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }

@@ -1,1 +1,9 @@
-{"id":"20432499","name":"RENSARE","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":5.99}]}
+{
+    "id": "20432499",
+    "name": "RENSARE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

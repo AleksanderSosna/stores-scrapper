@@ -1,1 +1,9 @@
-{"id":"00466598","name":"BAGIS","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "00466598",
+    "name": "BAGIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

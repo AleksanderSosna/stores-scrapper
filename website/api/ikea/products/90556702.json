@@ -1,1 +1,9 @@
-{"id":"90556702","name":"VIDEVECKMAL","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":6.99}]}
+{
+    "id": "90556702",
+    "name": "VIDEVECKMAL",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

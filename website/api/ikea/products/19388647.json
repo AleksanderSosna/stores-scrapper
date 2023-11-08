@@ -1,1 +1,9 @@
-{"id":"19388647","name":"STRANDTORP / ODGER","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3195}]}
+{
+    "id": "19388647",
+    "name": "STRANDTORP / ODGER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3195 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19950 }
+    ]
+}

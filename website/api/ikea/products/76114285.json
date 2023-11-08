@@ -1,1 +1,9 @@
-{"id":"76114285","name":"IDEALISK","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "76114285",
+    "name": "IDEALISK",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

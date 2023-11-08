@@ -1,1 +1,9 @@
-{"id":"30473719","name":"VÄLVÅRDAD","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "30473719",
+    "name": "VÄLVÅRDAD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

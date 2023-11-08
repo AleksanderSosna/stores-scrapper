@@ -1,1 +1,9 @@
-{"id":"80426283","name":"BERGSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "80426283",
+    "name": "BERGSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

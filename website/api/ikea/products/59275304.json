@@ -1,1 +1,9 @@
-{"id":"59275304","name":"NISSEDAL","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":477}]}
+{
+    "id": "59275304",
+    "name": "NISSEDAL",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 477 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2997 }
+    ]
+}

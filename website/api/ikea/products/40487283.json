@@ -1,1 +1,9 @@
-{"id":"40487283","name":"FÖRNUFTIG","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "40487283",
+    "name": "FÖRNUFTIG",
+    "categoryKey": "he001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"90563689","name":"NÄTBARB","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":5.99}]}
+{
+    "id": "90563689",
+    "name": "NÄTBARB",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

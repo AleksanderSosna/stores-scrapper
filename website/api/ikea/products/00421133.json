@@ -1,1 +1,9 @@
-{"id":"00421133","name":"UTSUND","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "00421133",
+    "name": "UTSUND",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

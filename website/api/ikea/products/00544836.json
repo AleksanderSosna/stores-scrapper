@@ -1,1 +1,9 @@
-{"id":"00544836","name":"SOLDVÄRGMAL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":125}]}
+{
+    "id": "00544836",
+    "name": "SOLDVÄRGMAL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 125 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

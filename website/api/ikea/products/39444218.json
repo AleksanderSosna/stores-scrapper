@@ -1,1 +1,9 @@
-{"id":"39444218","name":"STARKVIND","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":754}]}
+{
+    "id": "39444218",
+    "name": "STARKVIND",
+    "categoryKey": "hs001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 754 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4789 }
+    ]
+}

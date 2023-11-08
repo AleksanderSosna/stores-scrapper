@@ -1,1 +1,9 @@
-{"id":"60473138","name":"REINSVOLL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":375}]}
+{
+    "id": "60473138",
+    "name": "REINSVOLL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 375 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2400 }
+    ]
+}

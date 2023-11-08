@@ -1,1 +1,9 @@
-{"id":"20539080","name":"SOLFÅGEL","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "20539080",
+    "name": "SOLFÅGEL",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 479 }
+    ]
+}

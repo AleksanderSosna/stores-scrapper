@@ -1,1 +1,9 @@
-{"id":"10561849","name":"TIDTABELL","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "10561849",
+    "name": "TIDTABELL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
+    ]
+}

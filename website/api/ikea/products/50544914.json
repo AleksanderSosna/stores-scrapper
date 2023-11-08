@@ -1,1 +1,9 @@
-{"id":"50544914","name":"SKRIFTSPRÅK","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":599}]}
+{
+    "id": "50544914",
+    "name": "SKRIFTSPRÅK",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

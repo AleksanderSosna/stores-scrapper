@@ -1,1 +1,9 @@
-{"id":"00504557","name":"BARLAST","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":25}]}
+{
+    "id": "00504557",
+    "name": "BARLAST",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

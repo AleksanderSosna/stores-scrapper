@@ -1,1 +1,9 @@
-{"id":"30530951","name":"SNÖSKYFFEL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":3}]}
+{
+    "id": "30530951",
+    "name": "SNÖSKYFFEL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12 }
+    ]
+}

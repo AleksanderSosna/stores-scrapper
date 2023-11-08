@@ -1,1 +1,9 @@
-{"id":"80341986","name":"LAXVIKEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":115}]}
+{
+    "id": "80341986",
+    "name": "LAXVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 115 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
+    ]
+}

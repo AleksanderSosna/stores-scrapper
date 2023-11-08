@@ -1,1 +1,9 @@
-{"id":"20502741","name":"JÄMLIK","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":5.99}]}
+{
+    "id": "20502741",
+    "name": "JÄMLIK",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
+    ]
+}

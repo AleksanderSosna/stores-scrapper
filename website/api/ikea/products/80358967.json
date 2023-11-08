@@ -1,1 +1,9 @@
-{"id":"80358967","name":"TORNVIKEN","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":285}]}
+{
+    "id": "80358967",
+    "name": "TORNVIKEN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 285 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1500 }
+    ]
+}

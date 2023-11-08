@@ -1,1 +1,1 @@
-{"id":"30261270","name":"TARVA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":299}]}
+{ "id": "30261270", "name": "TARVA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }

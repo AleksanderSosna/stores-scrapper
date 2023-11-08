@@ -1,1 +1,9 @@
-{"id":"70390562","name":"LILLREVET","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":25}]}
+{
+    "id": "70390562",
+    "name": "LILLREVET",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

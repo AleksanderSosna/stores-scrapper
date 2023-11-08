@@ -1,1 +1,9 @@
-{"id":"30499516","name":"PEPPRIG","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "30499516",
+    "name": "PEPPRIG",
+    "categoryKey": "lc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

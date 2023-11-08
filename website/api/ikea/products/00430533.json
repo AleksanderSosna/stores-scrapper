@@ -1,1 +1,1 @@
-{"id":"00430533","name":"GRANHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":35}]}
+{ "id": "00430533", "name": "GRANHULT", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 35 }] }

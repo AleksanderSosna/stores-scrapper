@@ -1,1 +1,9 @@
-{"id":"80104862","name":"STOCKHOLM","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":799}]}
+{
+    "id": "80104862",
+    "name": "STOCKHOLM",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
+    ]
+}

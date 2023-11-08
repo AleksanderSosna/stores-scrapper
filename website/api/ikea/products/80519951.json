@@ -1,1 +1,9 @@
-{"id":"80519951","name":"VIMMERN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "80519951",
+    "name": "VIMMERN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

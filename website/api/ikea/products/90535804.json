@@ -1,1 +1,9 @@
-{"id":"90535804","name":"BROBOCK","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":699}]}
+{
+    "id": "90535804",
+    "name": "BROBOCK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

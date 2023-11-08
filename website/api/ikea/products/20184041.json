@@ -1,1 +1,9 @@
-{"id":"20184041","name":"MÅLA","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "20184041",
+    "name": "MÅLA",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

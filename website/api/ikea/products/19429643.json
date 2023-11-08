@@ -1,1 +1,9 @@
-{"id":"19429643","name":"TROTTEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1149}]}
+{
+    "id": "19429643",
+    "name": "TROTTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
+    ]
+}

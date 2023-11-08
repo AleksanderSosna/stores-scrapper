@@ -1,1 +1,9 @@
-{"id":"60507888","name":"VINDEBÄK","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "60507888",
+    "name": "VINDEBÄK",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

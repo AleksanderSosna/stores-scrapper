@@ -1,1 +1,9 @@
-{"id":"40459708","name":"ISJAKT","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":349}]}
+{
+    "id": "40459708",
+    "name": "ISJAKT",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

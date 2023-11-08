@@ -1,1 +1,9 @@
-{"id":"30485034","name":"BODBYN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":165}]}
+{
+    "id": "30485034",
+    "name": "BODBYN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 165 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 700 }
+    ]
+}

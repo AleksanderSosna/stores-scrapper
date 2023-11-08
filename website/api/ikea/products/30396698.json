@@ -1,1 +1,9 @@
-{"id":"30396698","name":"HEMNES","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "30396698",
+    "name": "HEMNES",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10518926","name":"LARKOLLEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":175}]}
+{
+    "id": "10518926",
+    "name": "LARKOLLEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 850 }
+    ]
+}

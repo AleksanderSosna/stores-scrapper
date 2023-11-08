@@ -1,1 +1,9 @@
-{"id":"79515063","name":"TONSTAD","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":2098}]}
+{
+    "id": "79515063",
+    "name": "TONSTAD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2098 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13480 }
+    ]
+}

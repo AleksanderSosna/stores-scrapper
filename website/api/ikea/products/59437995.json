@@ -1,1 +1,9 @@
-{"id":"59437995","name":"AULI / MEHAMN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1175}]}
+{
+    "id": "59437995",
+    "name": "AULI / MEHAMN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1175 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6400 }
+    ]
+}

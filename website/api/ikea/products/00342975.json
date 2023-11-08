@@ -1,1 +1,9 @@
-{"id":"00342975","name":"KARAFF","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":7}]}
+{
+    "id": "00342975",
+    "name": "KARAFF",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

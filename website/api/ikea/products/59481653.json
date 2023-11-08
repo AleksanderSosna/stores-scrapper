@@ -1,1 +1,9 @@
-{"id":"59481653","name":"KALLAX / LAGKAPTEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":968}]}
+{
+    "id": "59481653",
+    "name": "KALLAX / LAGKAPTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 968 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5489 }
+    ]
+}

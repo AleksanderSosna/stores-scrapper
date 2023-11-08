@@ -1,1 +1,9 @@
-{"id":"00459003","name":"STJÄRNBRÄCKA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":359}]}
+{
+    "id": "00459003",
+    "name": "STJÄRNBRÄCKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 359 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

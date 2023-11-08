@@ -1,1 +1,9 @@
-{"id":"49483431","name":"DOCKSTA / TOBIAS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2595}]}
+{
+    "id": "49483431",
+    "name": "DOCKSTA / TOBIAS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2595 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11950 }
+    ]
+}

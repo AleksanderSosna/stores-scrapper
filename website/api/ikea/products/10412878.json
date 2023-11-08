@@ -1,1 +1,9 @@
-{"id":"10412878","name":"KVARNVIK","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "10412878",
+    "name": "KVARNVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

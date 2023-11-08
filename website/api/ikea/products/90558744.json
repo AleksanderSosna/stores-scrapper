@@ -1,1 +1,9 @@
-{"id":"90558744","name":"HEMLAGAD","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "90558744",
+    "name": "HEMLAGAD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

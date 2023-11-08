@@ -1,1 +1,9 @@
-{"id":"79293477","name":"HEMNES / ODENSVIK","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":2249}]}
+{
+    "id": "79293477",
+    "name": "HEMNES / ODENSVIK",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13770 }
+    ]
+}

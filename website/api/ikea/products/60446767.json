@@ -1,1 +1,9 @@
-{"id":"60446767","name":"MJÖLKKLOCKA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":159}]}
+{
+    "id": "60446767",
+    "name": "MJÖLKKLOCKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
+    ]
+}

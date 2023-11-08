@@ -1,1 +1,9 @@
-{"id":"80549420","name":"RÅGRUND","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "80549420",
+    "name": "RÅGRUND",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1590 }
+    ]
+}

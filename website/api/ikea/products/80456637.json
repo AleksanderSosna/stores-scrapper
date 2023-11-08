@@ -1,1 +1,9 @@
-{"id":"80456637","name":"TVÅLSJÖN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "80456637",
+    "name": "TVÅLSJÖN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
+    ]
+}

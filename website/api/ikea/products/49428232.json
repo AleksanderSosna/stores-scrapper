@@ -1,1 +1,9 @@
-{"id":"49428232","name":"VIDGA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":60}]}
+{
+    "id": "49428232",
+    "name": "VIDGA",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 60 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 288 }
+    ]
+}

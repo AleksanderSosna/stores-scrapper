@@ -1,1 +1,9 @@
-{"id":"40176950","name":"FLUNDRA","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "40176950",
+    "name": "FLUNDRA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

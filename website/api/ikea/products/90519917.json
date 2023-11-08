@@ -1,1 +1,9 @@
-{"id":"90519917","name":"ROLFSTORP","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":35}]}
+{
+    "id": "90519917",
+    "name": "ROLFSTORP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

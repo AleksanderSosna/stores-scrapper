@@ -1,1 +1,9 @@
-{"id":"89428819","name":"HJÄLPA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":45}]}
+{
+    "id": "89428819",
+    "name": "HJÄLPA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
+    ]
+}

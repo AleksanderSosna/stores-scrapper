@@ -1,1 +1,9 @@
-{"id":"10556895","name":"FORNEBY","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2399}]}
+{
+    "id": "10556895",
+    "name": "FORNEBY",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12490 }
+    ]
+}

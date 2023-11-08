@@ -1,1 +1,9 @@
-{"id":"60300374","name":"FISKBO","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "60300374",
+    "name": "FISKBO",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

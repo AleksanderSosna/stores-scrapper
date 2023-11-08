@@ -1,1 +1,9 @@
-{"id":"20437821","name":"UPPVIND","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":449}]}
+{
+    "id": "20437821",
+    "name": "UPPVIND",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
+    ]
+}

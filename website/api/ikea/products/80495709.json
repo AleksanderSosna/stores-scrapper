@@ -1,1 +1,9 @@
-{"id":"80495709","name":"VÄSTERVIKEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":125}]}
+{
+    "id": "80495709",
+    "name": "VÄSTERVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 125 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"40541690","name":"VALLSTENA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":210}]}
+{
+    "id": "40541690",
+    "name": "VALLSTENA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 210 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 850 }
+    ]
+}

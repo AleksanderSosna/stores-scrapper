@@ -1,1 +1,9 @@
-{"id":"50447654","name":"KORVMOJ","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "50447654",
+    "name": "KORVMOJ",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

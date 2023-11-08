@@ -1,1 +1,9 @@
-{"id":"00499004","name":"SLIBB","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":3}]}
+{
+    "id": "00499004",
+    "name": "SLIBB",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9 }
+    ]
+}

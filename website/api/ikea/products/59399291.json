@@ -1,1 +1,9 @@
-{"id":"59399291","name":"TOMMARYD / TEODORES","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1265}]}
+{
+    "id": "59399291",
+    "name": "TOMMARYD / TEODORES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1265 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8586 }
+    ]
+}

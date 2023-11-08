@@ -1,1 +1,9 @@
-{"id":"60312249","name":"KNODD","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "60312249",
+    "name": "KNODD",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
+    ]
+}

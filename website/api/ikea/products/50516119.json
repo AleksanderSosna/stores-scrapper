@@ -1,1 +1,9 @@
-{"id":"50516119","name":"DANDERYD","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "50516119",
+    "name": "DANDERYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
+    ]
+}

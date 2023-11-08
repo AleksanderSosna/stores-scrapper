@@ -1,1 +1,9 @@
-{"id":"70528890","name":"VONSBÄK","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "70528890",
+    "name": "VONSBÄK",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

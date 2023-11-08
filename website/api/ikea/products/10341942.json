@@ -1,1 +1,1 @@
-{"id":"10341942","name":"SAMLA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{ "id": "10341942", "name": "SAMLA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }

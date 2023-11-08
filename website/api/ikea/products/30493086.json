@@ -1,1 +1,9 @@
-{"id":"30493086","name":"INAMARIA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "30493086",
+    "name": "INAMARIA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

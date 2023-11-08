@@ -1,1 +1,9 @@
-{"id":"10405364","name":"RINGSTA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "10405364",
+    "name": "RINGSTA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

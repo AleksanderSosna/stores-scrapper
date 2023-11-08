@@ -1,1 +1,9 @@
-{"id":"09284669","name":"SKÅDIS","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":103.98}]}
+{
+    "id": "09284669",
+    "name": "SKÅDIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 103.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 709 }
+    ]
+}

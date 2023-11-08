@@ -1,1 +1,9 @@
-{"id":"60410589","name":"VÅRSTA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":160}]}
+{
+    "id": "60410589",
+    "name": "VÅRSTA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 160 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
+    ]
+}

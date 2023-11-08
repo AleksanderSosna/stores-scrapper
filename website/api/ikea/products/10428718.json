@@ -1,1 +1,9 @@
-{"id":"10428718","name":"DRÖNJÖNS","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "10428718",
+    "name": "DRÖNJÖNS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

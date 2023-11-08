@@ -1,1 +1,9 @@
-{"id":"60521144","name":"BRUMMIG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":49}]}
+{
+    "id": "60521144",
+    "name": "BRUMMIG",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

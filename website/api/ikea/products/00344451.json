@@ -1,1 +1,9 @@
-{"id":"00344451","name":"VILTO","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "00344451",
+    "name": "VILTO",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

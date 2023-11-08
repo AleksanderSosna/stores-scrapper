@@ -1,1 +1,9 @@
-{"id":"49442247","name":"ÖVERSIDAN / TRÅDFRI","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":315}]}
+{
+    "id": "49442247",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 315 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1425 }
+    ]
+}

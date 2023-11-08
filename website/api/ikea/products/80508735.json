@@ -1,1 +1,9 @@
-{"id":"80508735","name":"STAGGSTARR","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "80508735",
+    "name": "STAGGSTARR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

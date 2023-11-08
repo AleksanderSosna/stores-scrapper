@@ -1,1 +1,9 @@
-{"id":"50540322","name":"FÄLLSVIK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":170}]}
+{
+    "id": "50540322",
+    "name": "FÄLLSVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"09516669","name":"SKYTTA / BOAXEL","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":2560}]}
+{
+    "id": "09516669",
+    "name": "SKYTTA / BOAXEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2560 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13460 }
+    ]
+}

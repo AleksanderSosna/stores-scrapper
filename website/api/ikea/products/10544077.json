@@ -1,1 +1,9 @@
-{"id":"10544077","name":"SMÅHAGEL","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "10544077",
+    "name": "SMÅHAGEL",
+    "categoryKey": "he001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

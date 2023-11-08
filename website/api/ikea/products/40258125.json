@@ -1,1 +1,9 @@
-{"id":"40258125","name":"LINDRIG","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "40258125",
+    "name": "LINDRIG",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

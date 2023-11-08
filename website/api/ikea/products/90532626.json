@@ -1,1 +1,9 @@
-{"id":"90532626","name":"RÖNNVECKMAL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "90532626",
+    "name": "RÖNNVECKMAL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"60152458","name":"KVART","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "60152458",
+    "name": "KVART",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

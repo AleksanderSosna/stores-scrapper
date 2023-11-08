@@ -1,1 +1,9 @@
-{"id":"09544709","name":"MALM","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1898}]}
+{
+    "id": "09544709",
+    "name": "MALM",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1898 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11880 }
+    ]
+}

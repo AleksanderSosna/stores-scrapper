@@ -1,1 +1,9 @@
-{"id":"79495885","name":"PRAKTLYSING","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":948}]}
+{
+    "id": "79495885",
+    "name": "PRAKTLYSING",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 948 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4980 }
+    ]
+}

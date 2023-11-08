@@ -1,1 +1,9 @@
-{"id":"10481659","name":"ÅKREHAMN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "10481659",
+    "name": "ÅKREHAMN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
+    ]
+}

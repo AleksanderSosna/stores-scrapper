@@ -1,1 +1,9 @@
-{"id":"00395351","name":"NYTTIG FIL 650","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "00395351",
+    "name": "NYTTIG FIL 650",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

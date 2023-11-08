@@ -1,1 +1,9 @@
-{"id":"70339291","name":"FJÄLLBO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":549}]}
+{
+    "id": "70339291",
+    "name": "FJÄLLBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }
+    ]
+}

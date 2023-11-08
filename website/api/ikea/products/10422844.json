@@ -1,1 +1,9 @@
-{"id":"10422844","name":"MJÖSA","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "10422844",
+    "name": "MJÖSA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
+    ]
+}

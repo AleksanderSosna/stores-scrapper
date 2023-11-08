@@ -1,1 +1,1 @@
-{"id":"60412022","name":"KOPPLA","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{ "id": "60412022", "name": "KOPPLA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }

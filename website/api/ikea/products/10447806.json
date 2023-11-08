@@ -1,1 +1,9 @@
-{"id":"10447806","name":"EXCEPTIONELL","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":335}]}
+{
+    "id": "10447806",
+    "name": "EXCEPTIONELL",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 335 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1700 }
+    ]
+}

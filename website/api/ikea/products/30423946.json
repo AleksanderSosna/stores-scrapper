@@ -1,1 +1,9 @@
-{"id":"30423946","name":"LANGSTED","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":179}]}
+{
+    "id": "30423946",
+    "name": "LANGSTED",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

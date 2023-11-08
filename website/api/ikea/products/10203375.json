@@ -1,1 +1,1 @@
-{"id":"10203375","name":"SEDLIG","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{ "id": "10203375", "name": "SEDLIG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }

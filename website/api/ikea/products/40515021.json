@@ -1,1 +1,9 @@
-{"id":"40515021","name":"PANSARTAX","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "40515021",
+    "name": "PANSARTAX",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

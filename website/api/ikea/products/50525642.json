@@ -1,1 +1,9 @@
-{"id":"50525642","name":"ISTAD","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":12.99}]}
+{
+    "id": "50525642",
+    "name": "ISTAD",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
+    ]
+}

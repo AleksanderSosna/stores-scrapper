@@ -1,1 +1,9 @@
-{"id":"00553152","name":"MALÖRTSMOTT","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "00553152",
+    "name": "MALÖRTSMOTT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

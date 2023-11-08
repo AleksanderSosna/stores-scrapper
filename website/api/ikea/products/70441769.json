@@ -1,1 +1,9 @@
-{"id":"70441769","name":"ÖRFJÄLL","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "70441769",
+    "name": "ÖRFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
+    ]
+}

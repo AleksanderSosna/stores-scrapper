@@ -1,1 +1,9 @@
-{"id":"60476410","name":"VATNESTRÖM","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":3899}]}
+{
+    "id": "60476410",
+    "name": "VATNESTRÖM",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19990 }
+    ]
+}

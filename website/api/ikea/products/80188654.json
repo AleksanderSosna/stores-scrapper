@@ -1,1 +1,9 @@
-{"id":"80188654","name":"DRAGON","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "80188654",
+    "name": "DRAGON",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

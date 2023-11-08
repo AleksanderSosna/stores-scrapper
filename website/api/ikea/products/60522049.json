@@ -1,1 +1,9 @@
-{"id":"60522049","name":"FYLLEN","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "60522049",
+    "name": "FYLLEN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

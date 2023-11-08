@@ -1,1 +1,9 @@
-{"id":"20307481","name":"LOHALS","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "20307481",
+    "name": "LOHALS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

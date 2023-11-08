@@ -1,1 +1,9 @@
-{"id":"10559257","name":"KINNAHULT","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "10559257",
+    "name": "KINNAHULT",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

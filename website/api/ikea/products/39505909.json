@@ -1,1 +1,9 @@
-{"id":"39505909","name":"MÖRBYLÅNGA / KLINTEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":4195}]}
+{
+    "id": "39505909",
+    "name": "MÖRBYLÅNGA / KLINTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4195 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 24950 }
+    ]
+}

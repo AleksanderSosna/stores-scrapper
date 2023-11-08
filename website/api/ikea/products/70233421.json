@@ -1,1 +1,9 @@
-{"id":"70233421","name":"PROPPMÄTT","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "70233421",
+    "name": "PROPPMÄTT",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"59401519","name":"IVAR","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":570}]}
+{
+    "id": "59401519",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 570 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2830 }
+    ]
+}

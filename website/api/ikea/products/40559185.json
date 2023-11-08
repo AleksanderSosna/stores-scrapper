@@ -1,1 +1,9 @@
-{"id":"40559185","name":"VIPPSTARR","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "40559185",
+    "name": "VIPPSTARR",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

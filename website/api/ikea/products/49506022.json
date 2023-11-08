@@ -1,1 +1,9 @@
-{"id":"49506022","name":"STENSELE / MÅNHULT","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1097}]}
+{
+    "id": "49506022",
+    "name": "STENSELE / MÅNHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1097 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6670 }
+    ]
+}

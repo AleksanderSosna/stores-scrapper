@@ -1,1 +1,9 @@
-{"id":"80408024","name":"RAKLEV","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "80408024",
+    "name": "RAKLEV",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 849 }
+    ]
+}

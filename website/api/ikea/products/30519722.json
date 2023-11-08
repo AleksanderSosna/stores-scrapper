@@ -1,1 +1,9 @@
-{"id":"30519722","name":"FRÖJDEFULL","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "30519722",
+    "name": "FRÖJDEFULL",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
+    ]
+}

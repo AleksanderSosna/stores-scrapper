@@ -1,1 +1,9 @@
-{"id":"60551999","name":"TABBERAS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "60551999",
+    "name": "TABBERAS",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

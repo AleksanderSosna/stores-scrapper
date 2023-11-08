@@ -1,1 +1,9 @@
-{"id":"89415845","name":"GULLIVER","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":1027}]}
+{
+    "id": "89415845",
+    "name": "GULLIVER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1027 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5479 }
+    ]
+}

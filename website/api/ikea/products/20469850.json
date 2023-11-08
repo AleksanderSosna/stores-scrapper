@@ -1,1 +1,9 @@
-{"id":"20469850","name":"HANNALENA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "20469850",
+    "name": "HANNALENA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

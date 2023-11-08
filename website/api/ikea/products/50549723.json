@@ -1,1 +1,9 @@
-{"id":"50549723","name":"JÄTTEVALLMO","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "50549723",
+    "name": "JÄTTEVALLMO",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

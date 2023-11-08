@@ -1,1 +1,9 @@
-{"id":"30478397","name":"HJÄLTEROLL","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "30478397",
+    "name": "HJÄLTEROLL",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

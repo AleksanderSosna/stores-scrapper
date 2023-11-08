@@ -1,1 +1,9 @@
-{"id":"40464432","name":"LYSEKIL","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "40464432",
+    "name": "LYSEKIL",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

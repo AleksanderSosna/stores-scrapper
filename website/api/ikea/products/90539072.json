@@ -1,1 +1,9 @@
-{"id":"90539072","name":"TRÅDFRI","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "90539072",
+    "name": "TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"49268832","name":"SAGSTUA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1549}]}
+{
+    "id": "49268832",
+    "name": "SAGSTUA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8390 }
+    ]
+}

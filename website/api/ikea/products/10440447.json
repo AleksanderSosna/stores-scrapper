@@ -1,1 +1,1 @@
-{"id":"10440447","name":"ENHET","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":150}]}
+{ "id": "10440447", "name": "ENHET", "categoryKey": "ba001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 150 }] }

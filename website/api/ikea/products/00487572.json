@@ -1,1 +1,1 @@
-{"id":"00487572","name":"MORUM","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":279}]}
+{ "id": "00487572", "name": "MORUM", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 279 }] }

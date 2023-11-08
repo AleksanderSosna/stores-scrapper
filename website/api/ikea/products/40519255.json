@@ -1,1 +1,1 @@
-{"id":"40519255","name":"GRUNDSKOLA","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":399}]}
+{ "id": "40519255", "name": "GRUNDSKOLA", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }

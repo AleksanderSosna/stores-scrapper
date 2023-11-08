@@ -1,1 +1,9 @@
-{"id":"19436243","name":"BERGSBO","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":250}]}
+{
+    "id": "19436243",
+    "name": "BERGSBO",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1600 }
+    ]
+}

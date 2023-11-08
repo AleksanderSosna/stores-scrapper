@@ -1,1 +1,9 @@
-{"id":"20273594","name":"FLISAT","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "20273594",
+    "name": "FLISAT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }
+    ]
+}

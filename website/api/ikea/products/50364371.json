@@ -1,1 +1,9 @@
-{"id":"50364371","name":"KLUNKA","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "50364371",
+    "name": "KLUNKA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 279 }
+    ]
+}

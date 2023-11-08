@@ -1,1 +1,9 @@
-{"id":"70430780","name":"VIRRMO","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "70430780",
+    "name": "VIRRMO",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

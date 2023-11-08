@@ -1,1 +1,9 @@
-{"id":"90357547","name":"ASKERSUND","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":170}]}
+{
+    "id": "90357547",
+    "name": "ASKERSUND",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
+    ]
+}

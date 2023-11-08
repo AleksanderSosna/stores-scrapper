@@ -1,1 +1,1 @@
-{"id":"50531214","name":"TEBSTRUP","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":149}]}
+{ "id": "50531214", "name": "TEBSTRUP", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }

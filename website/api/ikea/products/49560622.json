@@ -1,1 +1,9 @@
-{"id":"49560622","name":"SILVERGLANS / RODRET","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":374.96}]}
+{
+    "id": "49560622",
+    "name": "SILVERGLANS / RODRET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 374.96 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1865 }
+    ]
+}

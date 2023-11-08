@@ -1,1 +1,9 @@
-{"id":"10156109","name":"BORRBY","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "10156109",
+    "name": "BORRBY",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
+    ]
+}

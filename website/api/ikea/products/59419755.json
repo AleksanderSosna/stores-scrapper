@@ -1,1 +1,9 @@
-{"id":"59419755","name":"DUNVIK","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":5368}]}
+{
+    "id": "59419755",
+    "name": "DUNVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5368 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 31280 }
+    ]
+}

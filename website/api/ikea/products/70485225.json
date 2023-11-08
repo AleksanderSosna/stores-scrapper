@@ -1,1 +1,9 @@
-{"id":"70485225","name":"RADARBULLE","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "70485225",
+    "name": "RADARBULLE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

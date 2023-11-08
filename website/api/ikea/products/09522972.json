@@ -1,1 +1,9 @@
-{"id":"09522972","name":"PAX / MISTUDDEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1820}]}
+{
+    "id": "09522972",
+    "name": "PAX / MISTUDDEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1820 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10060 }
+    ]
+}

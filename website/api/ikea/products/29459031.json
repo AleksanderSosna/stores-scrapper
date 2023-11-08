@@ -1,1 +1,9 @@
-{"id":"29459031","name":"METOD / MAXIMERA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":1410}]}
+{
+    "id": "29459031",
+    "name": "METOD / MAXIMERA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1410 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6250 }
+    ]
+}

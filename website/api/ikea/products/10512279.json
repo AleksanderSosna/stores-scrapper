@@ -1,1 +1,9 @@
-{"id":"10512279","name":"BROR","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":285}]}
+{
+    "id": "10512279",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 285 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1500 }
+    ]
+}

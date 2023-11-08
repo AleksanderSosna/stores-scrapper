@@ -1,1 +1,9 @@
-{"id":"60179434","name":"MULIG","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":39}]}
+{
+    "id": "60179434",
+    "name": "MULIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

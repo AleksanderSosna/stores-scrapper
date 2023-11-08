@@ -1,1 +1,9 @@
-{"id":"40449168","name":"KLOCKREN","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "40449168",
+    "name": "KLOCKREN",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

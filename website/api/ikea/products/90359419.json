@@ -1,1 +1,9 @@
-{"id":"90359419","name":"DAIDAI","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "90359419",
+    "name": "DAIDAI",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

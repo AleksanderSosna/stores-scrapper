@@ -1,1 +1,9 @@
-{"id":"89436598","name":"TROTTEN/LIDKULLEN / BESTÅ/LAPPVIKEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2037.99}]}
+{
+    "id": "89436598",
+    "name": "TROTTEN/LIDKULLEN / BESTÅ/LAPPVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2037.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11039 }
+    ]
+}

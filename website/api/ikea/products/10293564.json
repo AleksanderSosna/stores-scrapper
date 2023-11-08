@@ -1,1 +1,9 @@
-{"id":"10293564","name":"STUBBARP","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":35}]}
+{
+    "id": "10293564",
+    "name": "STUBBARP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 150 }
+    ]
+}

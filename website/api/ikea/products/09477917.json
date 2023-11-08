@@ -1,1 +1,9 @@
-{"id":"09477917","name":"SKYTTA / FÄRVIK","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":3550}]}
+{
+    "id": "09477917",
+    "name": "SKYTTA / FÄRVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3550 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20400 }
+    ]
+}

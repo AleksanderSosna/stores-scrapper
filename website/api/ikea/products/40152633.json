@@ -1,1 +1,9 @@
-{"id":"40152633","name":"TJUSIG","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "40152633",
+    "name": "TJUSIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

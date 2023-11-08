@@ -1,1 +1,9 @@
-{"id":"20471462","name":"POPPARE","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "20471462",
+    "name": "POPPARE",
+    "categoryKey": "hi001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

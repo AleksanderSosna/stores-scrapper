@@ -1,1 +1,9 @@
-{"id":"20500153","name":"PEDERSBORG","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":399}]}
+{
+    "id": "20500153",
+    "name": "PEDERSBORG",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

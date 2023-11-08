@@ -1,1 +1,9 @@
-{"id":"90478276","name":"BOYSENBÄR","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":15.99}]}
+{
+    "id": "90478276",
+    "name": "BOYSENBÄR",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

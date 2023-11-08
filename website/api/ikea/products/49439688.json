@@ -1,1 +1,9 @@
-{"id":"49439688","name":"BJÖRNÖYA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1450}]}
+{
+    "id": "49439688",
+    "name": "BJÖRNÖYA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1450 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7300 }
+    ]
+}

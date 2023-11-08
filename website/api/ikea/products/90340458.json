@@ -1,1 +1,9 @@
-{"id":"90340458","name":"RANARP","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "90340458",
+    "name": "RANARP",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

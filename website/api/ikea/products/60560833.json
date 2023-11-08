@@ -1,1 +1,9 @@
-{"id":"60560833","name":"KNALLA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "60560833",
+    "name": "KNALLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

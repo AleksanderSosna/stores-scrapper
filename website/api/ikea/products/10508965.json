@@ -1,1 +1,9 @@
-{"id":"10508965","name":"SPLITTERNY","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":6.99}]}
+{
+    "id": "10508965",
+    "name": "SPLITTERNY",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

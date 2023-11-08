@@ -1,1 +1,9 @@
-{"id":"80204654","name":"UTRUSTA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "80204654",
+    "name": "UTRUSTA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
+    ]
+}

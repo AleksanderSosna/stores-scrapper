@@ -1,1 +1,9 @@
-{"id":"60569249","name":"FLYGFISK","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":7.99}]}
+{
+    "id": "60569249",
+    "name": "FLYGFISK",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

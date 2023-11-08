@@ -1,1 +1,9 @@
-{"id":"00559776","name":"MÅRENÄS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":100}]}
+{
+    "id": "00559776",
+    "name": "MÅRENÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 390 }
+    ]
+}

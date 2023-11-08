@@ -1,1 +1,9 @@
-{"id":"60511767","name":"SAKARIAS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "60511767",
+    "name": "SAKARIAS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 290 }
+    ]
+}

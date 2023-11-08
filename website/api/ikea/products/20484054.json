@@ -1,1 +1,9 @@
-{"id":"20484054","name":"HILDEGUN","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":5}]}
+{
+    "id": "20484054",
+    "name": "HILDEGUN",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

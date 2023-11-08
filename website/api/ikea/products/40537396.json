@@ -1,1 +1,9 @@
-{"id":"40537396","name":"GODMORGON","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":239}]}
+{
+    "id": "40537396",
+    "name": "GODMORGON",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

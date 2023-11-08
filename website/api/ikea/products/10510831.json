@@ -1,1 +1,1 @@
-{"id":"10510831","name":"CITRUSFRUKT","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{ "id": "10510831", "name": "CITRUSFRUKT", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }

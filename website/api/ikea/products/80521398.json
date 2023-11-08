@@ -1,1 +1,9 @@
-{"id":"80521398","name":"DYTÅG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "80521398",
+    "name": "DYTÅG",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20498640","name":"SOLHETTA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "20498640",
+    "name": "SOLHETTA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
+    ]
+}

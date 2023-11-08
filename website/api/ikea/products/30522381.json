@@ -1,1 +1,9 @@
-{"id":"30522381","name":"PÄRKLA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":4}]}
+{
+    "id": "30522381",
+    "name": "PÄRKLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

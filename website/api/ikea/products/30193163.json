@@ -1,1 +1,9 @@
-{"id":"30193163","name":"LILLA","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "30193163",
+    "name": "LILLA",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

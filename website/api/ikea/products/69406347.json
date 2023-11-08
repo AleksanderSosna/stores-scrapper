@@ -1,1 +1,9 @@
-{"id":"69406347","name":"ENHET / TVÄLLEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":2159}]}
+{
+    "id": "69406347",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2159 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9655 }
+    ]
+}

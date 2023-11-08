@@ -1,1 +1,1 @@
-{"id":"00468088","name":"DRÖNA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{ "id": "00468088", "name": "DRÖNA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }

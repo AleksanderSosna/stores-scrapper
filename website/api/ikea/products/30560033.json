@@ -1,1 +1,9 @@
-{"id":"30560033","name":"GATURUM","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "30560033",
+    "name": "GATURUM",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"80381294","name":"TISKEN","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "80381294",
+    "name": "TISKEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

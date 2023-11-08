@@ -1,1 +1,9 @@
-{"id":"10422504","name":"RÖNNINGE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":449}]}
+{
+    "id": "10422504",
+    "name": "RÖNNINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }
+    ]
+}

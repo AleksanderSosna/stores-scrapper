@@ -1,1 +1,9 @@
-{"id":"89325963","name":"BURHULT / SIBBHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":16}]}
+{
+    "id": "89325963",
+    "name": "BURHULT / SIBBHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 16 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

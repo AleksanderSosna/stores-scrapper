@@ -1,1 +1,9 @@
-{"id":"00527238","name":"BÄVE","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":179}]}
+{
+    "id": "00527238",
+    "name": "BÄVE",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
+    ]
+}

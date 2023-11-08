@@ -1,1 +1,9 @@
-{"id":"40222933","name":"KOLDBY","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":899}]}
+{
+    "id": "40222933",
+    "name": "KOLDBY",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4690 }
+    ]
+}

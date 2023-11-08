@@ -1,1 +1,9 @@
-{"id":"50421338","name":"RASSLA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "50421338",
+    "name": "RASSLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30440173","name":"RÖDHAKE","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "30440173",
+    "name": "RÖDHAKE",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

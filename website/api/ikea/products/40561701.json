@@ -1,1 +1,9 @@
-{"id":"40561701","name":"POINSETTIA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "40561701",
+    "name": "POINSETTIA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"20540291","name":"PASSERAD","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "20540291",
+    "name": "PASSERAD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

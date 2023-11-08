@@ -1,1 +1,9 @@
-{"id":"30523719","name":"BARNASINNE","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":12}]}
+{
+    "id": "30523719",
+    "name": "BARNASINNE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 12 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

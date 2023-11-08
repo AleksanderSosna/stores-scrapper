@@ -1,1 +1,9 @@
-{"id":"20383521","name":"LACK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":179}]}
+{
+    "id": "20383521",
+    "name": "LACK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 649 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"80371520","name":"TROGEN","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":99}]}
+{
+    "id": "80371520",
+    "name": "TROGEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

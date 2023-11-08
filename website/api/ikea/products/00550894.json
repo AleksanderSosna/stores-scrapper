@@ -1,1 +1,9 @@
-{"id":"00550894","name":"GREJIG","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "00550894",
+    "name": "GREJIG",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
+    ]
+}

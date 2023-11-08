@@ -1,1 +1,9 @@
-{"id":"20374927","name":"KAFFEREP","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":22}]}
+{
+    "id": "20374927",
+    "name": "KAFFEREP",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 22 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 109 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50518439","name":"LÖVMÅNAD","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "50518439",
+    "name": "LÖVMÅNAD",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

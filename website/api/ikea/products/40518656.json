@@ -1,1 +1,1 @@
-{"id":"40518656","name":"UTBJUDA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{ "id": "40518656", "name": "UTBJUDA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }

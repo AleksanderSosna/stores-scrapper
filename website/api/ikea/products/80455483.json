@@ -1,1 +1,9 @@
-{"id":"80455483","name":"NYMÅNE","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "80455483",
+    "name": "NYMÅNE",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

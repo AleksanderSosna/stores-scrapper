@@ -1,1 +1,9 @@
-{"id":"60219897","name":"BETYDLIG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":5}]}
+{
+    "id": "60219897",
+    "name": "BETYDLIG",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20 }
+    ]
+}

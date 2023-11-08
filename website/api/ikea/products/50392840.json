@@ -1,1 +1,9 @@
-{"id":"50392840","name":"TRÄDKRASSULA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":29}]}
+{
+    "id": "50392840",
+    "name": "TRÄDKRASSULA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

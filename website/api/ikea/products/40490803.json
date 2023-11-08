@@ -1,1 +1,9 @@
-{"id":"40490803","name":"HILLEBORG","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "40490803",
+    "name": "HILLEBORG",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

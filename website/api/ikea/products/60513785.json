@@ -1,1 +1,9 @@
-{"id":"60513785","name":"LILLTJÄRN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":40}]}
+{
+    "id": "60513785",
+    "name": "LILLTJÄRN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

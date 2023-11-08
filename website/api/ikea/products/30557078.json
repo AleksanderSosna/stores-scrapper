@@ -1,1 +1,9 @@
-{"id":"30557078","name":"TROMMA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":12}]}
+{
+    "id": "30557078",
+    "name": "TROMMA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 12 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
+    ]
+}

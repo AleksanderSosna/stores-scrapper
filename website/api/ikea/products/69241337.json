@@ -1,1 +1,9 @@
-{"id":"69241337","name":"SONGESAND","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1499}]}
+{
+    "id": "69241337",
+    "name": "SONGESAND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
+    ]
+}

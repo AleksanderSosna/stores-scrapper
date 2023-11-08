@@ -1,1 +1,9 @@
-{"id":"39320958","name":"ENHET","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":280}]}
+{
+    "id": "39320958",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 280 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1900 }
+    ]
+}

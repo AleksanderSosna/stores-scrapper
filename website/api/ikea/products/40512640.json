@@ -1,1 +1,9 @@
-{"id":"40512640","name":"SKYTTA","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":325}]}
+{
+    "id": "40512640",
+    "name": "SKYTTA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 325 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1600 }
+    ]
+}

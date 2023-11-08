@@ -1,1 +1,9 @@
-{"id":"79501693","name":"BJÖRKSNÄS","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2849}]}
+{
+    "id": "79501693",
+    "name": "BJÖRKSNÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2849 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14790 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30343087","name":"VOXNAN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":350}]}
+{
+    "id": "30343087",
+    "name": "VOXNAN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 350 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

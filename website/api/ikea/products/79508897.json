@@ -1,1 +1,9 @@
-{"id":"79508897","name":"SANDSBERG / LIDÅS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":547}]}
+{
+    "id": "79508897",
+    "name": "SANDSBERG / LIDÅS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 547 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2697 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"19551394","name":"GRÅSALA / ÖSTANÖ","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":755}]}
+{
+    "id": "19551394",
+    "name": "GRÅSALA / ÖSTANÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 755 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3466 }
+    ]
+}

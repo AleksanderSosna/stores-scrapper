@@ -1,1 +1,9 @@
-{"id":"20291786","name":"SILVERHÖJDEN","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "20291786",
+    "name": "SILVERHÖJDEN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

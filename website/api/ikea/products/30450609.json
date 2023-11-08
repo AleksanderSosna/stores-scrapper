@@ -1,1 +1,9 @@
-{"id":"30450609","name":"VESTERÖY","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":899}]}
+{
+    "id": "30450609",
+    "name": "VESTERÖY",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

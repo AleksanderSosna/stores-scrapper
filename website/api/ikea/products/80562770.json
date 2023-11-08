@@ -1,1 +1,9 @@
-{"id":"80562770","name":"MOPPE","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "80562770",
+    "name": "MOPPE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

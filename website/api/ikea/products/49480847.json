@@ -1,1 +1,9 @@
-{"id":"49480847","name":"NORBERG / FRANKLIN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":697}]}
+{
+    "id": "49480847",
+    "name": "NORBERG / FRANKLIN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 697 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3788 }
+    ]
+}

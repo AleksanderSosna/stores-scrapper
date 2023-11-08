@@ -1,1 +1,9 @@
-{"id":"80399897","name":"RAMSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":22}]}
+{
+    "id": "80399897",
+    "name": "RAMSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 22 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 90 }
+    ]
+}

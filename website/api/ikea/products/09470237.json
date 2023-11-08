@@ -1,1 +1,9 @@
-{"id":"09470237","name":"KIVIK","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1999}]}
+{
+    "id": "09470237",
+    "name": "KIVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }
+    ]
+}

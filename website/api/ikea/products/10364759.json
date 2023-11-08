@@ -1,1 +1,9 @@
-{"id":"10364759","name":"SNÖYRA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":29.99}]}
+{
+    "id": "10364759",
+    "name": "SNÖYRA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

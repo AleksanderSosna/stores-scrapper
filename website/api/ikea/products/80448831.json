@@ -1,1 +1,9 @@
-{"id":"80448831","name":"HULTARP","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":9.99}]}
+{
+    "id": "80448831",
+    "name": "HULTARP",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

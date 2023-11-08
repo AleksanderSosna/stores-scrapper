@@ -1,1 +1,9 @@
-{"id":"29067293","name":"ANTILOP","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "29067293",
+    "name": "ANTILOP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

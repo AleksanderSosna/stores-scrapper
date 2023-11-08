@@ -1,1 +1,9 @@
-{"id":"10459149","name":"TOFTBYN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "10459149",
+    "name": "TOFTBYN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

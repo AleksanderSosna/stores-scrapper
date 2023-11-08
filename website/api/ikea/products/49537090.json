@@ -1,1 +1,9 @@
-{"id":"49537090","name":"VIMLE","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":4499}]}
+{
+    "id": "49537090",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 30480 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"19536638","name":"GRÖNLID","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":3099}]}
+{
+    "id": "19536638",
+    "name": "GRÖNLID",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3099 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17990 }
+    ]
+}

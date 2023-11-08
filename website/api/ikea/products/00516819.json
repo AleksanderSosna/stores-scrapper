@@ -1,1 +1,9 @@
-{"id":"00516819","name":"YTBERG","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":49.99}]}
+{
+    "id": "00516819",
+    "name": "YTBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

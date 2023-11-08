@@ -1,1 +1,9 @@
-{"id":"49494830","name":"JÄTTESTA","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":2697}]}
+{
+    "id": "49494830",
+    "name": "JÄTTESTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2697 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14570 }
+    ]
+}

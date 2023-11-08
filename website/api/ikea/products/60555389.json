@@ -1,1 +1,9 @@
-{"id":"60555389","name":"GANSJÖN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{
+    "id": "60555389",
+    "name": "GANSJÖN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
+    ]
+}

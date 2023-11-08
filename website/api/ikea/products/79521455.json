@@ -1,1 +1,9 @@
-{"id":"79521455","name":"FLEKKE","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2197}]}
+{
+    "id": "79521455",
+    "name": "FLEKKE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2197 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11070 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"09495092","name":"MÖRBYLÅNGA / LILLÅNÄS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":4995}]}
+{
+    "id": "09495092",
+    "name": "MÖRBYLÅNGA / LILLÅNÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4995 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 26150 }
+    ]
+}

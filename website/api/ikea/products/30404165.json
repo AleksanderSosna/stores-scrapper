@@ -1,1 +1,9 @@
-{"id":"30404165","name":"SINARP","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":105}]}
+{
+    "id": "30404165",
+    "name": "SINARP",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 105 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 400 }
+    ]
+}

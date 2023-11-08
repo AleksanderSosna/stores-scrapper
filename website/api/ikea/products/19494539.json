@@ -1,1 +1,9 @@
-{"id":"19494539","name":"TROTTEN/LIDKULLEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":848}]}
+{
+    "id": "19494539",
+    "name": "TROTTEN/LIDKULLEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 848 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7280 }
+    ]
+}

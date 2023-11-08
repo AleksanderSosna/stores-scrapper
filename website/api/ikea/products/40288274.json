@@ -1,1 +1,9 @@
-{"id":"40288274","name":"FULLÄNDA","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":3.99}]}
+{
+    "id": "40288274",
+    "name": "FULLÄNDA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
+    ]
+}

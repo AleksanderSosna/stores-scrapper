@@ -1,1 +1,9 @@
-{"id":"20528878","name":"TIPHEDE","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":49}]}
+{
+    "id": "20528878",
+    "name": "TIPHEDE",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
+    ]
+}

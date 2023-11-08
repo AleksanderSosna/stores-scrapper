@@ -1,1 +1,9 @@
-{"id":"90503921","name":"HEMMAFIXARE","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":44.99}]}
+{
+    "id": "90503921",
+    "name": "HEMMAFIXARE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
+    ]
+}

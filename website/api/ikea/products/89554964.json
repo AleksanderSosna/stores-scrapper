@@ -1,1 +1,9 @@
-{"id":"89554964","name":"KOMPLEMENT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":150}]}
+{
+    "id": "89554964",
+    "name": "KOMPLEMENT",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
+    ]
+}

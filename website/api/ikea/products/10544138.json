@@ -1,1 +1,1 @@
-{"id":"10544138","name":"FRÖSÖN","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":50}]}
+{ "id": "10544138", "name": "FRÖSÖN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }] }

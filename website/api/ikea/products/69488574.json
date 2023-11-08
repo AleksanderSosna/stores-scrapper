@@ -1,1 +1,9 @@
-{"id":"69488574","name":"TORALD / SMÄLLEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":218}]}
+{
+    "id": "69488574",
+    "name": "TORALD / SMÄLLEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 218 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1048 }
+    ]
+}

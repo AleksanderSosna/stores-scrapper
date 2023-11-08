@@ -1,1 +1,9 @@
-{"id":"20560806","name":"TVERSTED","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":799}]}
+{
+    "id": "20560806",
+    "name": "TVERSTED",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
+    ]
+}

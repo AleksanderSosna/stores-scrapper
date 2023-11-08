@@ -1,1 +1,9 @@
-{"id":"20512877","name":"DIMFORSEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":15.99}]}
+{
+    "id": "20512877",
+    "name": "DIMFORSEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
+    ]
+}

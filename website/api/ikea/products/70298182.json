@@ -1,1 +1,9 @@
-{"id":"70298182","name":"TUDDAL","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "70298182",
+    "name": "TUDDAL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

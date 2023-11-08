@@ -1,1 +1,9 @@
-{"id":"19417739","name":"ANFALLARE / TILLSLAG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":539}]}
+{
+    "id": "19417739",
+    "name": "ANFALLARE / TILLSLAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 539 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }
+    ]
+}

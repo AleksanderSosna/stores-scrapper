@@ -1,1 +1,9 @@
-{"id":"50546343","name":"SITTPINNE","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":9}]}
+{
+    "id": "50546343",
+    "name": "SITTPINNE",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
+    ]
+}

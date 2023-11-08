@@ -1,1 +1,9 @@
-{"id":"70495234","name":"MAJBRÄKEN","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":14.99}]}
+{
+    "id": "70495234",
+    "name": "MAJBRÄKEN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

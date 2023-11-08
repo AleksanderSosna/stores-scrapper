@@ -1,1 +1,9 @@
-{"id":"70434151","name":"SMÅSTAD","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":229}]}
+{
+    "id": "70434151",
+    "name": "SMÅSTAD",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
+    ]
+}

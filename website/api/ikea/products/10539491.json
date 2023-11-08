@@ -1,1 +1,9 @@
-{"id":"10539491","name":"SITTBRUNN","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":5}]}
+{
+    "id": "10539491",
+    "name": "SITTBRUNN",
+    "categoryKey": "he001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

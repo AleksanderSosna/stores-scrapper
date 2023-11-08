@@ -1,1 +1,9 @@
-{"id":"99280978","name":"IDÅSEN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2799}]}
+{
+    "id": "99280978",
+    "name": "IDÅSEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
+    ]
+}

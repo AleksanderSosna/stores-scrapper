@@ -1,1 +1,9 @@
-{"id":"70277354","name":"VÄRDERA","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "70277354",
+    "name": "VÄRDERA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

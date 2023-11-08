@@ -1,1 +1,9 @@
-{"id":"29515112","name":"IDANÄS / SKOGSBO","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1897}]}
+{
+    "id": "29515112",
+    "name": "IDANÄS / SKOGSBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1897 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9770 }
+    ]
+}

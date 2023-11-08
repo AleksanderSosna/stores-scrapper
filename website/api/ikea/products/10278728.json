@@ -1,1 +1,9 @@
-{"id":"10278728","name":"LEIRSUND","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":550}]}
+{
+    "id": "10278728",
+    "name": "LEIRSUND",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 550 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3000 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"90512379","name":"VODSKOV","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":699}]}
+{
+    "id": "90512379",
+    "name": "VODSKOV",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

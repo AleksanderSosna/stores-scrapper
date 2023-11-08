@@ -1,1 +1,9 @@
-{"id":"20550204","name":"STOPP FILT","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":45}]}
+{
+    "id": "20550204",
+    "name": "STOPP FILT",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

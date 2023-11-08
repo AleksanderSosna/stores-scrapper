@@ -1,1 +1,9 @@
-{"id":"20483592","name":"HUVUDROLL","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":24}]}
+{
+    "id": "20483592",
+    "name": "HUVUDROLL",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 109 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10514179","name":"BUDDINGE","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "10514179",
+    "name": "BUDDINGE",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

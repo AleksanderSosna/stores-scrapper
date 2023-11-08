@@ -1,1 +1,9 @@
-{"id":"60506544","name":"TRIPPEVALS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":239}]}
+{
+    "id": "60506544",
+    "name": "TRIPPEVALS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

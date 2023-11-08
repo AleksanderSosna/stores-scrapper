@@ -1,1 +1,9 @@
-{"id":"50464115","name":"JÄTTELIK","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":119}]}
+{
+    "id": "50464115",
+    "name": "JÄTTELIK",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"10473070","name":"SÄLLSKAPLIG","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":89.99}]}
+{
+    "id": "10473070",
+    "name": "SÄLLSKAPLIG",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30363725","name":"LILLABO","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "30363725",
+    "name": "LILLABO",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

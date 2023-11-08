@@ -1,1 +1,9 @@
-{"id":"90506104","name":"SNURRAD","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":150}]}
+{
+    "id": "90506104",
+    "name": "SNURRAD",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

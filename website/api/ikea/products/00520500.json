@@ -1,1 +1,9 @@
-{"id":"00520500","name":"HÖLASS","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":17}]}
+{
+    "id": "00520500",
+    "name": "HÖLASS",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 17 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
+    ]
+}

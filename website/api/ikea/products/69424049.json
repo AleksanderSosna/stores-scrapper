@@ -1,1 +1,9 @@
-{"id":"69424049","name":"SKYTTA / SVARTISDAL","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":3825}]}
+{
+    "id": "69424049",
+    "name": "SKYTTA / SVARTISDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3825 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 18400 }
+    ]
+}

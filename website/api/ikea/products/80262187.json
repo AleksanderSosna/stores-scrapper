@@ -1,1 +1,9 @@
-{"id":"80262187","name":"FJÄDRAR","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{
+    "id": "80262187",
+    "name": "FJÄDRAR",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 180 }
+    ]
+}

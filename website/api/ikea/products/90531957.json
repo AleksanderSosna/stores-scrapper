@@ -1,1 +1,9 @@
-{"id":"90531957","name":"NISSAFORS","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "90531957",
+    "name": "NISSAFORS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

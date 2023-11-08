@@ -1,1 +1,9 @@
-{"id":"50505955","name":"SKRUVSHULT","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "50505955",
+    "name": "SKRUVSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
+    ]
+}

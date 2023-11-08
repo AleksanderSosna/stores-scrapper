@@ -1,1 +1,9 @@
-{"id":"40565049","name":"KUNGSCISSUS","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":199}]}
+{
+    "id": "40565049",
+    "name": "KUNGSCISSUS",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

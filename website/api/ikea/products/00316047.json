@@ -1,1 +1,9 @@
-{"id":"00316047","name":"BORGHAMN","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "00316047",
+    "name": "BORGHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

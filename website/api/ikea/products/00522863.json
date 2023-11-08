@@ -1,1 +1,9 @@
-{"id":"00522863","name":"NÄSSELKLOCKA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":209}]}
+{
+    "id": "00522863",
+    "name": "NÄSSELKLOCKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 209 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 849 }
+    ]
+}

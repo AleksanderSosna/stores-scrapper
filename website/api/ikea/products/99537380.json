@@ -1,1 +1,9 @@
-{"id":"99537380","name":"UTESPELARE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1198}]}
+{
+    "id": "99537380",
+    "name": "UTESPELARE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1198 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5980 }
+    ]
+}

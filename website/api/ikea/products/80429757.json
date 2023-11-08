@@ -1,1 +1,9 @@
-{"id":"80429757","name":"YLLEVAD","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":6}]}
+{
+    "id": "80429757",
+    "name": "YLLEVAD",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 6 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
+    ]
+}

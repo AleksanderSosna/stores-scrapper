@@ -1,1 +1,9 @@
-{"id":"20399895","name":"PERSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "20399895",
+    "name": "PERSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 90 }
+    ]
+}

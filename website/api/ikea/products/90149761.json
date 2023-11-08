@@ -1,1 +1,9 @@
-{"id":"90149761","name":"KLAMBY","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":15}]}
+{
+    "id": "90149761",
+    "name": "KLAMBY",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

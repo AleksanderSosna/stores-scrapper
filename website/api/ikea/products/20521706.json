@@ -1,1 +1,9 @@
-{"id":"20521706","name":"FÖLJANDE","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":2399}]}
+{
+    "id": "20521706",
+    "name": "FÖLJANDE",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13990 }
+    ]
+}

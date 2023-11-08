@@ -1,1 +1,9 @@
-{"id":"60373803","name":"HOKKSUND","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":275}]}
+{
+    "id": "60373803",
+    "name": "HOKKSUND",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 275 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1500 }
+    ]
+}

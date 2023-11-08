@@ -1,1 +1,9 @@
-{"id":"40496471","name":"NYSJÖN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":500}]}
+{
+    "id": "40496471",
+    "name": "NYSJÖN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 500 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

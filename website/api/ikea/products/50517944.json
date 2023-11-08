@@ -1,1 +1,9 @@
-{"id":"50517944","name":"VIRKLUND","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "50517944",
+    "name": "VIRKLUND",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

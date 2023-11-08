@@ -1,1 +1,9 @@
-{"id":"70474769","name":"ELLOVEN","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "70474769",
+    "name": "ELLOVEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

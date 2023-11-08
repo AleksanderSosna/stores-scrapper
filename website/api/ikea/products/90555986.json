@@ -1,1 +1,9 @@
-{"id":"90555986","name":"OTEREN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1399}]}
+{
+    "id": "90555986",
+    "name": "OTEREN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"59439777","name":"MEHAMN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1075}]}
+{
+    "id": "59439777",
+    "name": "MEHAMN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1075 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5900 }
+    ]
+}

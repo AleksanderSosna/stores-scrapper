@@ -1,1 +1,9 @@
-{"id":"30459191","name":"STRANDMOLKE","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":269}]}
+{
+    "id": "30459191",
+    "name": "STRANDMOLKE",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 269 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

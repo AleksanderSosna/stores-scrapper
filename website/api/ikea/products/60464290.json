@@ -1,1 +1,9 @@
-{"id":"60464290","name":"RODULF","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1300}]}
+{
+    "id": "60464290",
+    "name": "RODULF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1300 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6000 }
+    ]
+}

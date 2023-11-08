@@ -1,1 +1,9 @@
-{"id":"80481118","name":"KOPPANG","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "80481118",
+    "name": "KOPPANG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"00541574","name":"SKÅDIS","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":79}]}
+{
+    "id": "00541574",
+    "name": "SKÅDIS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 429 }
+    ]
+}

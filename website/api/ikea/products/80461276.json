@@ -1,1 +1,9 @@
-{"id":"80461276","name":"LILLHAVET","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "80461276",
+    "name": "LILLHAVET",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

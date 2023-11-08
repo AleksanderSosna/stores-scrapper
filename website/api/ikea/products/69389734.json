@@ -1,1 +1,9 @@
-{"id":"69389734","name":"ESPEVÄR/VALEVÅG","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2744}]}
+{
+    "id": "69389734",
+    "name": "ESPEVÄR/VALEVÅG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2744 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17090 }
+    ]
+}

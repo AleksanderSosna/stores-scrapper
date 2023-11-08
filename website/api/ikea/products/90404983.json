@@ -1,1 +1,9 @@
-{"id":"90404983","name":"DEJSA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":169}]}
+{
+    "id": "90404983",
+    "name": "DEJSA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 169 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
+    ]
+}

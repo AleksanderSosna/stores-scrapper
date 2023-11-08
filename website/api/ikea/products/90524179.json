@@ -1,1 +1,1 @@
-{"id":"90524179","name":"BEVARA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":5}]}
+{ "id": "90524179", "name": "BEVARA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5 }] }

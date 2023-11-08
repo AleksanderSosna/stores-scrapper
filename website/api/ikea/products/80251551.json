@@ -1,1 +1,1 @@
-{"id":"80251551","name":"PRUTA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{ "id": "80251551", "name": "PRUTA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }

@@ -1,1 +1,9 @@
-{"id":"89020472","name":"BILLY","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1194}]}
+{
+    "id": "89020472",
+    "name": "BILLY",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1194 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7170 }
+    ]
+}

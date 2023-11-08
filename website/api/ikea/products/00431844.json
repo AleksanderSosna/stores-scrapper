@@ -1,1 +1,9 @@
-{"id":"00431844","name":"LIVNÄRA","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "00431844",
+    "name": "LIVNÄRA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

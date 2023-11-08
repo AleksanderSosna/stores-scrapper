@@ -1,1 +1,9 @@
-{"id":"80485569","name":"LINDBYN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":349}]}
+{
+    "id": "80485569",
+    "name": "LINDBYN",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

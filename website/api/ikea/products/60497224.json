@@ -1,1 +1,9 @@
-{"id":"60497224","name":"DAGKLAR","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "60497224",
+    "name": "DAGKLAR",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

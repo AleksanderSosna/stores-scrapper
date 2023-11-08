@@ -1,1 +1,1 @@
-{"id":"30212675","name":"TÅNUM","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{ "id": "30212675", "name": "TÅNUM", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }

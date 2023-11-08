@@ -1,1 +1,9 @@
-{"id":"60467830","name":"BLIXTSNABB","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":3299}]}
+{
+    "id": "60467830",
+    "name": "BLIXTSNABB",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }
+    ]
+}

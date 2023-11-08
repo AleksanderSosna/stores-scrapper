@@ -1,1 +1,9 @@
-{"id":"60517953","name":"SPARTANSK","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":4}]}
+{
+    "id": "60517953",
+    "name": "SPARTANSK",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

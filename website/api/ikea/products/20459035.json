@@ -1,1 +1,9 @@
-{"id":"20459035","name":"FJÄLLARNIKA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":209}]}
+{
+    "id": "20459035",
+    "name": "FJÄLLARNIKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 209 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

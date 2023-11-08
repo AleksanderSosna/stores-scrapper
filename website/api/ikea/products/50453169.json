@@ -1,1 +1,9 @@
-{"id":"50453169","name":"STENSUND","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":170}]}
+{
+    "id": "50453169",
+    "name": "STENSUND",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
+    ]
+}

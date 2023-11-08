@@ -1,1 +1,1 @@
-{"id":"80495592","name":"STOENSE","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":399}]}
+{ "id": "80495592", "name": "STOENSE", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }

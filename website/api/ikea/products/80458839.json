@@ -1,1 +1,9 @@
-{"id":"80458839","name":"IDANÄS","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "80458839",
+    "name": "IDANÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
+    ]
+}

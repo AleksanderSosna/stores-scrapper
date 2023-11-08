@@ -1,1 +1,9 @@
-{"id":"09288224","name":"STENSELE","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":650}]}
+{
+    "id": "09288224",
+    "name": "STENSELE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 650 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }
+    ]
+}

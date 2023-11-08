@@ -1,1 +1,9 @@
-{"id":"69417162","name":"GURSKEN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":1047}]}
+{
+    "id": "69417162",
+    "name": "GURSKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1047 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5579 }
+    ]
+}

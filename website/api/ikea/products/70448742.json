@@ -1,1 +1,9 @@
-{"id":"70448742","name":"BOAXEL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":20}]}
+{
+    "id": "70448742",
+    "name": "BOAXEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
+    ]
+}

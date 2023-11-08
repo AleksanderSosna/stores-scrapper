@@ -1,1 +1,9 @@
-{"id":"10436978","name":"LÄTTHET","categoryKey":"bc001","prices":[{"currencyCode":"PLN","price":5}]}
+{
+    "id": "10436978",
+    "name": "LÄTTHET",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
+    ]
+}

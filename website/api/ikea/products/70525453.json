@@ -1,1 +1,1 @@
-{"id":"70525453","name":"VEJSTRUP","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":79.99}]}
+{ "id": "70525453", "name": "VEJSTRUP", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }

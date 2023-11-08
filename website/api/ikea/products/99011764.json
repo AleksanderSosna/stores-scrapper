@@ -1,1 +1,9 @@
-{"id":"99011764","name":"MELLTORP / MARIUS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":257}]}
+{
+    "id": "99011764",
+    "name": "MELLTORP / MARIUS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 257 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1588 }
+    ]
+}

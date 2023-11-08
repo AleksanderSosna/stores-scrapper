@@ -1,1 +1,9 @@
-{"id":"10138163","name":"PATRULL","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "10138163",
+    "name": "PATRULL",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

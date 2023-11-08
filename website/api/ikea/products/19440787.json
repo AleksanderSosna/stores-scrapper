@@ -1,1 +1,9 @@
-{"id":"19440787","name":"FREDDE / MATCHSPEL","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1698}]}
+{
+    "id": "19440787",
+    "name": "FREDDE / MATCHSPEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1698 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9980 }
+    ]
+}

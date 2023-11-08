@@ -1,1 +1,9 @@
-{"id":"49389730","name":"ESPEVÄR/VESTMARKA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":2364}]}
+{
+    "id": "49389730",
+    "name": "ESPEVÄR/VESTMARKA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2364 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14290 }
+    ]
+}

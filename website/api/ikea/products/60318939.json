@@ -1,1 +1,9 @@
-{"id":"60318939","name":"OFTAST","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":3}]}
+{
+    "id": "60318939",
+    "name": "OFTAST",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
+    ]
+}

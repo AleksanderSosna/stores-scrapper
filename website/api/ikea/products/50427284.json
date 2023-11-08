@@ -1,1 +1,9 @@
-{"id":"50427284","name":"KNOPPÄNG","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":17.99}]}
+{
+    "id": "50427284",
+    "name": "KNOPPÄNG",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
+    ]
+}

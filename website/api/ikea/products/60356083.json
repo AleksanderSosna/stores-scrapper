@@ -1,1 +1,9 @@
-{"id":"60356083","name":"LERHYTTAN","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":330}]}
+{
+    "id": "60356083",
+    "name": "LERHYTTAN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 330 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
+    ]
+}

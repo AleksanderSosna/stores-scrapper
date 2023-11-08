@@ -1,1 +1,9 @@
-{"id":"40561796","name":"SNÖKRABBA","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":8.99}]}
+{
+    "id": "40561796",
+    "name": "SNÖKRABBA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 8.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
+    ]
+}

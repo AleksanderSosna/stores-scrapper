@@ -1,1 +1,9 @@
-{"id":"00528662","name":"MITTLED","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":59}]}
+{
+    "id": "00528662",
+    "name": "MITTLED",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

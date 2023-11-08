@@ -1,1 +1,9 @@
-{"id":"90547915","name":"LAGAN","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":999}]}
+{
+    "id": "90547915",
+    "name": "LAGAN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
+    ]
+}

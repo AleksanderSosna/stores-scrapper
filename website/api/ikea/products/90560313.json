@@ -1,1 +1,9 @@
-{"id":"90560313","name":"RASTPLATS","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":1299}]}
+{
+    "id": "90560313",
+    "name": "RASTPLATS",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
+    ]
+}

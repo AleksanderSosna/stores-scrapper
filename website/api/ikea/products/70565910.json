@@ -1,1 +1,9 @@
-{"id":"70565910","name":"TILLFART","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":549}]}
+{
+    "id": "70565910",
+    "name": "TILLFART",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

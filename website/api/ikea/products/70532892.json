@@ -1,1 +1,9 @@
-{"id":"70532892","name":"SVARTSENAP","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":5.99}]}
+{
+    "id": "70532892",
+    "name": "SVARTSENAP",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 35 }
+    ]
+}

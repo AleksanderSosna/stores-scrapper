@@ -1,1 +1,9 @@
-{"id":"20451303","name":"VESTMARKA","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "20451303",
+    "name": "VESTMARKA",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
+    ]
+}

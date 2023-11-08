@@ -1,1 +1,9 @@
-{"id":"00451059","name":"NYSKÖLJD","categoryKey":"lc001","prices":[{"currencyCode":"PLN","price":11}]}
+{
+    "id": "00451059",
+    "name": "NYSKÖLJD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 11 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"50531285","name":"SOTNÄTFJÄRIL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "50531285",
+    "name": "SOTNÄTFJÄRIL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"70361786","name":"IKEA 365+","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":6}]}
+{
+    "id": "70361786",
+    "name": "IKEA 365+",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 6 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 40 }
+    ]
+}

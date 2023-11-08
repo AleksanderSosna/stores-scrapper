@@ -1,1 +1,9 @@
-{"id":"30339288","name":"FIXA","categoryKey":"ka001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "30339288",
+    "name": "FIXA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 80 }
+    ]
+}

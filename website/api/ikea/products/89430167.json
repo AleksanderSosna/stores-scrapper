@@ -1,1 +1,9 @@
-{"id":"89430167","name":"EKET","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":295}]}
+{
+    "id": "89430167",
+    "name": "EKET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 295 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1630 }
+    ]
+}

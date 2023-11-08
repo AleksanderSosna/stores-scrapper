@@ -1,1 +1,9 @@
-{"id":"40450703","name":"VALEVÅG","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":799}]}
+{
+    "id": "40450703",
+    "name": "VALEVÅG",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

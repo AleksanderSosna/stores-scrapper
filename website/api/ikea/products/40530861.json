@@ -1,1 +1,9 @@
-{"id":"40530861","name":"ROSENVIAL","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":349}]}
+{
+    "id": "40530861",
+    "name": "ROSENVIAL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

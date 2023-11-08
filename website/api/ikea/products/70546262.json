@@ -1,1 +1,9 @@
-{"id":"70546262","name":"ALPVIDE","categoryKey":"pp001","prices":[{"currencyCode":"PLN","price":149}]}
+{
+    "id": "70546262",
+    "name": "ALPVIDE",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
+    ]
+}

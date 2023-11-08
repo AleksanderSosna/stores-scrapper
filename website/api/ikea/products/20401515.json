@@ -1,1 +1,9 @@
-{"id":"20401515","name":"PELARBOJ","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "20401515",
+    "name": "PELARBOJ",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

@@ -1,1 +1,1 @@
-{"id":"70527051","name":"STRÖG","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":249}]}
+{ "id": "70527051", "name": "STRÖG", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }

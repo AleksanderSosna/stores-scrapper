@@ -1,1 +1,9 @@
-{"id":"39290956","name":"EKBY ALEX / RAMSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":315}]}
+{
+    "id": "39290956",
+    "name": "EKBY ALEX / RAMSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 315 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1760 }
+    ]
+}

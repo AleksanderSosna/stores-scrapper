@@ -1,1 +1,9 @@
-{"id":"89491028","name":"RULLEBÖR / FRAKTA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":144}]}
+{
+    "id": "89491028",
+    "name": "RULLEBÖR / FRAKTA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 144 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 868 }
+    ]
+}

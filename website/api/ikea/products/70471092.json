@@ -1,1 +1,9 @@
-{"id":"70471092","name":"VESKEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":29}]}
+{
+    "id": "70471092",
+    "name": "VESKEN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
+    ]
+}

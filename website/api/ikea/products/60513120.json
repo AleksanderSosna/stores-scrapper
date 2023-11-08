@@ -1,1 +1,9 @@
-{"id":"60513120","name":"SKATVAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "60513120",
+    "name": "SKATVAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
+    ]
+}

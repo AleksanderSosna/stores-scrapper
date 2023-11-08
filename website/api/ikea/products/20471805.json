@@ -1,1 +1,9 @@
-{"id":"20471805","name":"SANDVIVA","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{
+    "id": "20471805",
+    "name": "SANDVIVA",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

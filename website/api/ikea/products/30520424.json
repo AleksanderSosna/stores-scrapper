@@ -1,1 +1,9 @@
-{"id":"30520424","name":"BUSENKEL","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":69.99}]}
+{
+    "id": "30520424",
+    "name": "BUSENKEL",
+    "categoryKey": "bc001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

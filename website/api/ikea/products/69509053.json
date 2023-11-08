@@ -1,1 +1,9 @@
-{"id":"69509053","name":"MELLTORP / LIDÅS","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1095}]}
+{
+    "id": "69509053",
+    "name": "MELLTORP / LIDÅS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1095 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5386 }
+    ]
+}

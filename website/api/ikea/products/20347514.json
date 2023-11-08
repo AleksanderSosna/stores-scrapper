@@ -1,1 +1,9 @@
-{"id":"20347514","name":"ENERYDA","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":25}]}
+{
+    "id": "20347514",
+    "name": "ENERYDA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

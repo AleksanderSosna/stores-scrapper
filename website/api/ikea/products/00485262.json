@@ -1,1 +1,9 @@
-{"id":"00485262","name":"BAKGLAD","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "00485262",
+    "name": "BAKGLAD",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

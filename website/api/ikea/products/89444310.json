@@ -1,1 +1,9 @@
-{"id":"89444310","name":"KLAGSHAMN","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":400}]}
+{
+    "id": "89444310",
+    "name": "KLAGSHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 400 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
+    ]
+}

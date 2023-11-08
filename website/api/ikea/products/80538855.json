@@ -1,1 +1,9 @@
-{"id":"80538855","name":"PRAKTSPIREA","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":159}]}
+{
+    "id": "80538855",
+    "name": "PRAKTSPIREA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"30562715","name":"HELMER","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":249}]}
+{
+    "id": "30562715",
+    "name": "HELMER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

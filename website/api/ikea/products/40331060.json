@@ -1,1 +1,9 @@
-{"id":"40331060","name":"FONNES","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "40331060",
+    "name": "FONNES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 210 }
+    ]
+}

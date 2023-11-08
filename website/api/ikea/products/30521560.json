@@ -1,1 +1,9 @@
-{"id":"30521560","name":"HASVIK","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":750}]}
+{
+    "id": "30521560",
+    "name": "HASVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 750 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4500 }
+    ]
+}

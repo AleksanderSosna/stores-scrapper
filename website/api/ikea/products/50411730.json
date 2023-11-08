@@ -1,1 +1,9 @@
-{"id":"50411730","name":"FINSMAKARE","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":3399}]}
+{
+    "id": "50411730",
+    "name": "FINSMAKARE",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 18990 }
+    ]
+}

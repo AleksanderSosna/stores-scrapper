@@ -1,1 +1,9 @@
-{"id":"50450340","name":"SÖRBYN","categoryKey":"hi001","prices":[{"currencyCode":"PLN","price":20}]}
+{
+    "id": "50450340",
+    "name": "SÖRBYN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

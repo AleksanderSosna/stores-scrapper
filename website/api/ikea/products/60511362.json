@@ -1,1 +1,9 @@
-{"id":"60511362","name":"LÅNESPELARE","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":99.99}]}
+{
+    "id": "60511362",
+    "name": "LÅNESPELARE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

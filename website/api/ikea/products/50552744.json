@@ -1,1 +1,9 @@
-{"id":"50552744","name":"KÖLDGRADER","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":3999}]}
+{
+    "id": "50552744",
+    "name": "KÖLDGRADER",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20990 }
+    ]
+}

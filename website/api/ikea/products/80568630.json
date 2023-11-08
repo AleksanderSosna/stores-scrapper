@@ -1,1 +1,9 @@
-{"id":"80568630","name":"ÅFJÄLL","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":299}]}
+{
+    "id": "80568630",
+    "name": "ÅFJÄLL",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
+    ]
+}

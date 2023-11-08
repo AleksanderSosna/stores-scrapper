@@ -1,1 +1,9 @@
-{"id":"39452053","name":"SÖDERHAMN","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":1399}]}
+{
+    "id": "39452053",
+    "name": "SÖDERHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
+    ]
+}

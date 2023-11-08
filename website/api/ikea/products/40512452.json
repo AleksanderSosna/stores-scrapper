@@ -1,1 +1,9 @@
-{"id":"40512452","name":"TREDANSEN","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":649}]}
+{
+    "id": "40512452",
+    "name": "TREDANSEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 649 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

@@ -1,1 +1,1 @@
-{"id":"00553675","name":"ISTAD","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":5.99}]}
+{ "id": "00553675", "name": "ISTAD", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 }] }

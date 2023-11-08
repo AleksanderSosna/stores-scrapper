@@ -1,1 +1,1 @@
-{"id":"00324735","name":"DUNVIK","categoryKey":"tl001","prices":[{"currencyCode":"PLN","price":900}]}
+{ "id": "00324735", "name": "DUNVIK", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 900 }] }

@@ -1,1 +1,9 @@
-{"id":"30281292","name":"DALSKÄR","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":300}]}
+{
+    "id": "30281292",
+    "name": "DALSKÄR",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 300 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
+    ]
+}

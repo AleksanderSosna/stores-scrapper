@@ -1,1 +1,9 @@
-{"id":"79408218","name":"EKEDALEN / BERGMUND","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2515}]}
+{
+    "id": "79408218",
+    "name": "EKEDALEN / BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2515 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12550 }
+    ]
+}

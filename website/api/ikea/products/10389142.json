@@ -1,1 +1,9 @@
-{"id":"10389142","name":"UTDRAG","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":499}]}
+{
+    "id": "10389142",
+    "name": "UTDRAG",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
+    ]
+}

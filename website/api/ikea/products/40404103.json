@@ -1,1 +1,9 @@
-{"id":"40404103","name":"SKAFTET","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":50}]}
+{
+    "id": "40404103",
+    "name": "SKAFTET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 320 }
+    ]
+}

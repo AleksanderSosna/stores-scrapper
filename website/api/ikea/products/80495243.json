@@ -1,1 +1,9 @@
-{"id":"80495243","name":"RIKSVIKEN","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":200}]}
+{
+    "id": "80495243",
+    "name": "RIKSVIKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
+    ]
+}

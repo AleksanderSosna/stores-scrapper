@@ -1,1 +1,9 @@
-{"id":"79398672","name":"BRIMNES / BURHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1279}]}
+{
+    "id": "79398672",
+    "name": "BRIMNES / BURHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8268 }
+    ]
+}

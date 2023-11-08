@@ -1,1 +1,9 @@
-{"id":"50558152","name":"DRÖNA","categoryKey":"de001","prices":[{"currencyCode":"PLN","price":24.99}]}
+{
+    "id": "50558152",
+    "name": "DRÖNA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
+    ]
+}

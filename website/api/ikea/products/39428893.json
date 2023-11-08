@@ -1,1 +1,9 @@
-{"id":"39428893","name":"HÅVERUD / SANDSBERG","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":857}]}
+{
+    "id": "39428893",
+    "name": "HÅVERUD / SANDSBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 857 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6188 }
+    ]
+}

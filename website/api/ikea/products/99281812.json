@@ -1,1 +1,9 @@
-{"id":"99281812","name":"BEKANT","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2449}]}
+{
+    "id": "99281812",
+    "name": "BEKANT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14490 }
+    ]
+}

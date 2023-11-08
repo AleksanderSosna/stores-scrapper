@@ -1,1 +1,9 @@
-{"id":"70298139","name":"TUSSÖY","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":449}]}
+{
+    "id": "70298139",
+    "name": "TUSSÖY",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
+    ]
+}

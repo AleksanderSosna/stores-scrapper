@@ -1,1 +1,9 @@
-{"id":"20492596","name":"KNARDRUP","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":399}]}
+{
+    "id": "20492596",
+    "name": "KNARDRUP",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

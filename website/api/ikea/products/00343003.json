@@ -1,1 +1,9 @@
-{"id":"00343003","name":"MOPSIG","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":19}]}
+{
+    "id": "00343003",
+    "name": "MOPSIG",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
+    ]
+}

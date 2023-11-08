@@ -1,1 +1,1 @@
-{"id":"50560046","name":"SPÅRVAGN","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":39.99}]}
+{ "id": "50560046", "name": "SPÅRVAGN", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }

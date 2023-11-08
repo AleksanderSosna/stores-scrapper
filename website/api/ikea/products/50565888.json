@@ -1,1 +1,9 @@
-{"id":"50565888","name":"DUBBELFIL","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":549}]}
+{
+    "id": "50565888",
+    "name": "DUBBELFIL",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
+    ]
+}

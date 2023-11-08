@@ -1,1 +1,9 @@
-{"id":"79483024","name":"EKEDALEN / ODGER","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2195}]}
+{
+    "id": "79483024",
+    "name": "EKEDALEN / ODGER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12950 }
+    ]
+}

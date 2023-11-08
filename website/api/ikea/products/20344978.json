@@ -1,1 +1,1 @@
-{"id":"20344978","name":"VINDUM","categoryKey":"rm001","prices":[{"currencyCode":"PLN","price":399}]}
+{ "id": "20344978", "name": "VINDUM", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }

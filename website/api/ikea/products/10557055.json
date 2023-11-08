@@ -1,1 +1,9 @@
-{"id":"10557055","name":"MÅGEBO","categoryKey":"he001","prices":[{"currencyCode":"PLN","price":1499}]}
+{
+    "id": "10557055",
+    "name": "MÅGEBO",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
+    ]
+}

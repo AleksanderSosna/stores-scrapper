@@ -1,1 +1,9 @@
-{"id":"70561691","name":"ARAUCARIA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":59.99}]}
+{
+    "id": "70561691",
+    "name": "ARAUCARIA",
+    "categoryKey": "wt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
+    ]
+}

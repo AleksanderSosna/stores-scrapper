@@ -1,1 +1,9 @@
-{"id":"10349655","name":"VALLAMOSSE","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":350}]}
+{
+    "id": "10349655",
+    "name": "VALLAMOSSE",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 350 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

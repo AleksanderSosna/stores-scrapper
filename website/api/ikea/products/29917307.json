@@ -1,1 +1,9 @@
-{"id":"29917307","name":"INGATORP / INGOLF","categoryKey":"fu001","prices":[{"currencyCode":"PLN","price":2295}]}
+{
+    "id": "29917307",
+    "name": "INGATORP / INGOLF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2295 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13150 }
+    ]
+}

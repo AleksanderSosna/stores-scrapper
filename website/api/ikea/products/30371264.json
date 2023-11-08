@@ -1,1 +1,9 @@
-{"id":"30371264","name":"TOLKEN","categoryKey":"ba001","prices":[{"currencyCode":"PLN","price":250}]}
+{
+    "id": "30371264",
+    "name": "TOLKEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2200 }
+    ]
+}

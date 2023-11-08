@@ -1,1 +1,9 @@
-{"id":"49416026","name":"LÖKNÄS / SUNNEBY","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":154}]}
+{
+    "id": "49416026",
+    "name": "LÖKNÄS / SUNNEBY",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 154 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
+    ]
+}

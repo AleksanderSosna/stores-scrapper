@@ -1,1 +1,1 @@
-{"id":"20551072","name":"LERFLUNDRA","categoryKey":"od001","prices":[{"currencyCode":"PLN","price":19.99}]}
+{ "id": "20551072", "name": "LERFLUNDRA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }

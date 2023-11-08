@@ -1,1 +1,9 @@
-{"id":"20480843","name":"ÅGOTNES","categoryKey":"bm001","prices":[{"currencyCode":"PLN","price":279}]}
+{
+    "id": "20480843",
+    "name": "ÅGOTNES",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
+    ]
+}

@@ -1,1 +1,9 @@
-{"id":"90441018","name":"MISTERHULT","categoryKey":"li001","prices":[{"currencyCode":"PLN","price":269}]}
+{
+    "id": "90441018",
+    "name": "MISTERHULT",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 269 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

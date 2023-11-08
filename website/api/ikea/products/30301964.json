@@ -1,1 +1,9 @@
-{"id":"30301964","name":"VÅFFLOR","categoryKey":"fb001","prices":[{"currencyCode":"PLN","price":21}]}
+{
+    "id": "30301964",
+    "name": "VÅFFLOR",
+    "categoryKey": "fb001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 21 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
+    ]
+}

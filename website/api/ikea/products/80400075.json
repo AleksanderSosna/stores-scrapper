@@ -1,1 +1,9 @@
-{"id":"80400075","name":"SVENSHULT","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":129}]}
+{
+    "id": "80400075",
+    "name": "SVENSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

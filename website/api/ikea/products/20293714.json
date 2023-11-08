@@ -1,1 +1,9 @@
-{"id":"20293714","name":"TYSSEDAL","categoryKey":"st001","prices":[{"currencyCode":"PLN","price":1699}]}
+{
+    "id": "20293714",
+    "name": "TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
+    ]
+}

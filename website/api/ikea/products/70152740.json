@@ -1,1 +1,9 @@
-{"id":"70152740","name":"IKEA 365+ VÄRDEFULL","categoryKey":"kt001","prices":[{"currencyCode":"PLN","price":34.99}]}
+{
+    "id": "70152740",
+    "name": "IKEA 365+ VÄRDEFULL",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
+    ]
+}
