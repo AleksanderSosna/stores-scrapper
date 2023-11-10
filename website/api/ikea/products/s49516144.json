@@ -1,0 +1,90 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "254x40x190 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-szarozielony-sklejka-sosnowa__1197339_pe903485_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bror-regal-szarozielony-sklejka-sosnowa-s49516144/",
+        "id": "s49516144",
+        "itemNoGlobal": "49516144",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s59471753",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/bror-regal-czarny-s59471753/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-czarny__0618231_pe688412_s5.jpg",
+                    "imageAlt": "BROR Regał, czarny, 254x40x190 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "BROR",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "254x40x190 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-czarny__0618231_pe688412_s5.jpg",
+                    "mainImageAlt": "BROR Regał, czarny, 254x40x190 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-czarny__0911664_pe688438_s5.jpg",
+                    "itemNoGlobal": "59471753",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59471753",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1410,
+                        "current": { "prefix": "", "wholeNumber": "1 410", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49516144",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1935,
+            "current": { "prefix": "", "wholeNumber": "1 935", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-szarozielony-sklejka-sosnowa__1197362_pe903493_s5.jpg",
+        "mainImageAlt": "BROR Regał, szarozielony/sklejka sosnowa, 254x40x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System BROR", "key": "42245" },
+            { "name": "Kombinacje BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49516144",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1935 }]
+}

@@ -1,1 +1,60 @@
-{ "id": "70544022", "name": "SOMMARLÅNKE", "categoryKey": "wt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "SOMMARLÅNKE",
+        "typeName": "LED světelný řetěz, 24 světel",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sommarlanke-led-svetelny-retez-24-svetel-venkovni-na-baterie-dekorace-barevna__1149223_pe883919_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sommarlanke-led-svetelny-retez-24-svetel-venkovni-na-baterie-dekorace-barevna-70544022/",
+        "id": "70544022",
+        "itemNoGlobal": "70544022",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "70544022",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-23",
+            "validTo": "2024-08-31",
+            "availabilityDisclaimer": "Cena platí od 23. září 2023 do 31. srpna 2024 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sommarlanke-led-svetelny-retez-24-svetel-venkovni-na-baterie-dekorace-barevna__1047490_pe843401_s5.jpg",
+        "mainImageAlt": "SOMMARLÅNKE LED světelný řetěz, 24 světel, venkovní na baterie/dekorace barevná",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Seasonal Lighting",
+            "productAreaNo": "1081",
+            "productRangeAreaName": "Seasonal lighting, Outdoor lighting and Lighting chains",
+            "productRangeAreaNo": "108"
+        },
+        "categoryPath": [
+            { "name": "Vánoce", "key": "wt001" },
+            { "name": "Vánoční osvětlení a světýlka do oken", "key": "49150" },
+            { "name": "Světelné řetězy", "key": "700180" },
+            { "name": "Světelne řetězy", "key": "700182" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70544022",
+    "name": "SOMMARLÅNKE",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

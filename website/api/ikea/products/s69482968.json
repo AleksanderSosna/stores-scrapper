@@ -1,0 +1,10 @@
+{
+    "id": "s69482968",
+    "itemNo": "69482968",
+    "name": "EKEDALEN / INGOLF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1795 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9150 }
+    ]
+}

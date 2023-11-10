@@ -1,1 +1,54 @@
-{ "id": "40467765", "name": "TRÅDFRI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "TRÅDFRI",
+        "typeName": "Rychlý vypínač",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-rychly-vypinac-bila-chytre__0988402_pe818100_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tradfri-rychly-vypinac-bila-chytre-40467765/",
+        "id": "40467765",
+        "itemNoGlobal": "40356381",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 9,
+        "itemNo": "40467765",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-rychly-vypinac-bila-chytre__0718470_pe731543_s5.jpg",
+        "mainImageAlt": "TRÅDFRI Rychlý vypínač, bílá chytré",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Connectivity & control",
+            "productAreaNo": "1024",
+            "productRangeAreaName": "Electronics and accessories",
+            "productRangeAreaNo": "102"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Vestavné osvětlení", "key": "16280" },
+            { "name": "Osvětlení knihoven a skříněk", "key": "16281" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40467765",
+    "name": "TRÅDFRI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

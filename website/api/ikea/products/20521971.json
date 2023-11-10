@@ -1,1 +1,57 @@
-{ "id": "20521971", "name": "UPPFYLLD", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }] }
+{
+    "id": {
+        "name": "UPPFYLLD",
+        "typeName": "Miarka, zestaw 2 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppfylld-miarka-zestaw-2-szt-kremowy-jaskrawozielony__1124849_pe875291_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/uppfylld-miarka-zestaw-2-szt-kremowy-jaskrawozielony-20521971/",
+        "id": "20521971",
+        "itemNoGlobal": "20521971",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 5,
+        "itemNo": "20521971",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4.99,
+            "current": { "prefix": "", "wholeNumber": "4", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppfylld-miarka-zestaw-2-szt-kremowy-jaskrawozielony__1124846_pe875289_s5.jpg",
+        "mainImageAlt": "UPPFYLLD Miarka, zestaw 2 szt., kremowy/jaskrawozielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Bakeware",
+            "productAreaNo": "1414",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Akcesoria do gotowania i pieczenia", "key": "kt002" },
+            { "name": "Miarki i miski do mieszania", "key": "15935" },
+            { "name": "Miarki kuchenne", "key": "15949" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20521971",
+    "name": "UPPFYLLD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }]
+}

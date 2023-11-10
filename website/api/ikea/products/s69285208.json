@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "GALANT",
+        "typeName": "Kombinacja z przesuwanymi drzwiami",
+        "itemMeasureReferenceText": "320x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-przesuwanymi-drzwiami-bialy__0651597_pe706960_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-przesuwanymi-drzwiami-bialy-s69285208/",
+        "id": "s69285208",
+        "itemNoGlobal": "69285208",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79285255",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-przesuwanymi-drzwiami-okleina-debowa-bejcowana-na-bialo-s79285255/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-przesuwanymi-drzwiami-okleina-debowa-bejcowana-na-bialo__0651608_pe706974_s5.jpg",
+                    "imageAlt": "GALANT Kombinacja z przesuwanymi drzwiami, okleina dębowa bejcowana na biało, 320x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Kombinacja z przesuwanymi drzwiami",
+                    "itemMeasureReferenceText": "320x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-przesuwanymi-drzwiami-okleina-debowa-bejcowana-na-bialo__0651608_pe706974_s5.jpg",
+                    "mainImageAlt": "GALANT Kombinacja z przesuwanymi drzwiami, okleina dębowa bejcowana na biało, 320x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-przesuwanymi-drzwiami-okleina-debowa-bejcowana-na-bialo__0855937_pe714416_s5.jpg",
+                    "itemNoGlobal": "79285255",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79285255",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 6396,
+                        "current": { "prefix": "", "wholeNumber": "6 396", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69285208",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 5596,
+            "current": { "prefix": "", "wholeNumber": "5 596", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-przesuwanymi-drzwiami-bialy__0856699_pe714417_s5.jpg",
+        "mainImageAlt": "GALANT Kombinacja z przesuwanymi drzwiami, biały, 320x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki biurowe", "key": "10385" },
+            { "name": "Szafki do biura", "key": "47084" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69285208",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5596 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s09495172",
+    "itemNo": "09495172",
+    "name": "EKEDALEN / LILLÅNÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2395 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12950 }
+    ]
+}

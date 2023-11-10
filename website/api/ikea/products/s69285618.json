@@ -1,0 +1,10 @@
+{
+    "id": "s69285618",
+    "itemNo": "69285618",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 31980 }
+    ]
+}

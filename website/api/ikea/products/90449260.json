@@ -1,1 +1,53 @@
-{ "id": "90449260", "name": "MANSTRUP", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "MANSTRUP",
+        "typeName": "Dywan z krótkim włosiem",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/manstrup-dywan-z-krotkim-wlosiem-szary-patynowany-kwiatowy-wzor__0718747_pe731644_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/manstrup-dywan-z-krotkim-wlosiem-szary-patynowany-kwiatowy-wzor-90449260/",
+        "id": "90449260",
+        "itemNoGlobal": "90449260",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 11,
+        "itemNo": "90449260",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/manstrup-dywan-z-krotkim-wlosiem-szary-patynowany-kwiatowy-wzor__0891966_pe733841_s5.jpg",
+        "mainImageAlt": "MANSTRUP Dywan z krótkim włosiem, szary patynowany/kwiatowy wzór, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Small rugs and runners",
+            "productAreaNo": "1314",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Chodniki i małe dywany", "key": "10689" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90449260",
+    "name": "MANSTRUP",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

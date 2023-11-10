@@ -1,0 +1,10 @@
+{
+    "id": "s89560615",
+    "itemNo": "89560615",
+    "name": "SILVERGLANS / RODRET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 344.96 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1765 }
+    ]
+}

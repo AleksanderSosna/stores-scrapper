@@ -1,1 +1,105 @@
-{ "id": "40425266", "name": "ASKERSUND", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 200 }] }
+{
+    "id": {
+        "name": "ASKERSUND",
+        "typeName": "Sokl",
+        "itemMeasureReferenceText": "220x8 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/askersund-sokl-tmave-hneda-vzor-jasan__0915170_pe784633_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/askersund-sokl-tmave-hneda-vzor-jasan-40425266/",
+        "id": "40425266",
+        "itemNoGlobal": "40425266",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90331878",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/askersund-sokl-efekt-svetleho-jasanu-90331878/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/askersund-sokl-efekt-svetleho-jasanu__0632907_pe695658_s5.jpg",
+                    "imageAlt": "ASKERSUND Sokl, efekt světlého jasanu, 220x8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "ASKERSUND",
+                    "typeName": "Sokl",
+                    "itemMeasureReferenceText": "220x8 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/askersund-sokl-efekt-svetleho-jasanu__0632907_pe695658_s5.jpg",
+                    "mainImageAlt": "ASKERSUND Sokl, efekt světlého jasanu, 220x8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/askersund-sokl-efekt-svetleho-jasanu__0865575_pe622915_s5.jpg",
+                    "itemNoGlobal": "90331878",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90331878",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 200,
+                        "current": { "prefix": "", "wholeNumber": "200", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "240", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "2,2 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "40425266",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 200,
+            "current": { "prefix": "", "wholeNumber": "200", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "240", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2,2 m",
+            "unitText": "m",
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/askersund-sokl-tmave-hneda-vzor-jasan__0915675_pe784854_s5.jpg",
+        "mainImageAlt": "ASKERSUND Sokl, tmavě hnědá vzor jasan, 220x8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské linky", "key": "ka003" },
+            { "name": "Systém kuchyní METOD", "key": "ka005" },
+            { "name": "Kuchyňské skříňky", "key": "23598" },
+            { "name": "Nohy a sokly METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40425266",
+    "name": "ASKERSUND",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 200 }]
+}

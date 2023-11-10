@@ -1,1 +1,92 @@
-{ "id": "00238865", "name": "VARIERA", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "VARIERA",
+        "typeName": "Mata szuflady",
+        "itemMeasureReferenceText": "150 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/variera-mata-szuflady-bialy__0164029_pe319135_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/variera-mata-szuflady-bialy-00238865/",
+        "id": "00238865",
+        "itemNoGlobal": "00238865",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80012853",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/variera-mata-szuflady-przezroczysty-80012853/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/variera-mata-szuflady-przezroczysty__0626880_pe693058_s5.jpg",
+                    "imageAlt": "VARIERA Mata szuflady, przezroczysty, 150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 1360,
+                    "name": "VARIERA",
+                    "typeName": "Mata szuflady",
+                    "itemMeasureReferenceText": "150 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/variera-mata-szuflady-przezroczysty__0626880_pe693058_s5.jpg",
+                    "mainImageAlt": "VARIERA Mata szuflady, przezroczysty, 150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/variera-mata-szuflady-przezroczysty__0260304_pe404021_s5.jpg",
+                    "itemNoGlobal": "80012853",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "80012853",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 19.99,
+                        "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "opakowanie",
+                        "unitText": "opakowanie",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 1360,
+        "itemNo": "00238865",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/variera-mata-szuflady-bialy__0260305_pe404022_s5.jpg",
+        "mainImageAlt": "VARIERA Mata szuflady, biały, 150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen interior organisers",
+            "productAreaNo": "0761",
+            "productRangeAreaName": "Kitchen accessories",
+            "productRangeAreaNo": "076"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Wyposażenie wewnętrzne do szafek kuchennych", "key": "24255" },
+            { "name": "Organizery do szuflad kuchennych", "key": "24257" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00238865",
+    "name": "VARIERA",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

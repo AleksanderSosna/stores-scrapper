@@ -1,1 +1,54 @@
-{ "id": "70473703", "name": "VALLMOFRÖN", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "VALLMOFRÖN",
+        "typeName": "Květináč",
+        "itemMeasureReferenceText": "19 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vallmofroen-kvetinac-morska-trava__0705486_pe725616_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vallmofroen-kvetinac-morska-trava-70473703/",
+        "id": "70473703",
+        "itemNoGlobal": "70473703",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 12,
+        "itemNo": "70473703",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vallmofroen-kvetinac-morska-trava__0900568_pe725615_s5.jpg",
+        "mainImageAlt": "VALLMOFRÖN Květináč, mořská tráva, 19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Květináče a truhlíky", "key": "pp004" },
+            { "name": "Vnitřní květináče", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70473703",
+    "name": "VALLMOFRÖN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

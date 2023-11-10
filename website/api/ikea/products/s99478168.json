@@ -1,0 +1,10 @@
+{
+    "id": "s99478168",
+    "itemNo": "99478168",
+    "name": "ÄSPINGE",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1988 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9999 }
+    ]
+}

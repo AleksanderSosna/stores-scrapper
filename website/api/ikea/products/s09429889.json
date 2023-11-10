@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "250x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary__1198121_pe903913_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary-s09429889/",
+        "id": "s09429889",
+        "itemNoGlobal": "09429889",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69429886",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary-s69429886/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary__1152503_pe885390_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/dąb bejcowany na biało ciemnoszary, 250x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "250x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary__1152503_pe885390_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/dąb bejcowany na biało ciemnoszary, 250x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary__1182486_pe897232_s5.jpg",
+                    "itemNoGlobal": "69429886",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69429886",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4195,
+                        "current": { "prefix": "", "wholeNumber": "4 195", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09429889",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3625,
+            "current": { "prefix": "", "wholeNumber": "3 625", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-dab-bejcowany-na-bialo-ciemnoszary__1182494_pe897240_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/dąb bejcowany na biało ciemnoszary, 250x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09429889",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3625 }]
+}

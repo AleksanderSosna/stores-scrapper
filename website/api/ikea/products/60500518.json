@@ -1,1 +1,52 @@
-{ "id": "60500518", "name": "BEFÄSTA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 }] }
+{
+    "id": {
+        "name": "BEFÄSTA",
+        "typeName": "Latarenka na świecę bryłową wew/zew",
+        "itemMeasureReferenceText": "44 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/befaesta-latarenka-na-swiece-brylowa-wew-zew-galwanizowano__1005762_pe825518_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/befaesta-latarenka-na-swiece-brylowa-wew-zew-galwanizowano-60500518/",
+        "id": "60500518",
+        "itemNoGlobal": "60500518",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60500518",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 89.99,
+            "current": { "prefix": "", "wholeNumber": "89", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/befaesta-latarenka-na-swiece-brylowa-wew-zew-galwanizowano__1005767_pe825523_s5.jpg",
+        "mainImageAlt": "BEFÄSTA Latarenka na świecę bryłową wew/zew, galwanizowano, 44 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Lampiony i latarenki dekoracyjne", "key": "20491" },
+            { "name": "Lampiony i latarenki do wewnątrz", "key": "54941" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60500518",
+    "name": "BEFÄSTA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 }]
+}

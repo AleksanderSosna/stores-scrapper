@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "SUNNEBY / MOLNART",
+        "typeName": "Lampa wisząca z żarówką",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sunneby-molnart-lampa-wiszaca-z-zarowka-czarny-czarny-szklo-bezbarwne__1079067_pe857401_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sunneby-molnart-lampa-wiszaca-z-zarowka-czarny-czarny-szklo-bezbarwne-s69478216/",
+        "id": "s69478216",
+        "itemNoGlobal": "69478216",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69478216",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 84.99,
+            "current": { "prefix": "", "wholeNumber": "84", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sunneby-molnart-lampa-wiszaca-z-zarowka-czarny-czarny-szklo-bezbarwne__1011616_pe828510_s5.jpg",
+        "mainImageAlt": "SUNNEBY / MOLNART Lampa wisząca z żarówką, czarny/czarny szkło bezbarwne",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Pendant lamps",
+            "productAreaNo": "1013",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie sufitowe", "key": "18750" },
+            { "name": "Lampy wiszące", "key": "18751" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "69478216",
+    "name": "SUNNEBY / MOLNART",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 84.99 }]
+}

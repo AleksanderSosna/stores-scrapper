@@ -1,9 +1,0 @@
-{
-    "id": "99441778",
-    "name": "VEVELSTAD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 659 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3280 }
-    ]
-}

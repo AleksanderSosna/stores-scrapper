@@ -1,1 +1,93 @@
-{ "id": "70289248", "name": "VARDAGEN", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "VARDAGEN",
+        "typeName": "Mísa",
+        "itemMeasureReferenceText": "26 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-misa-cire-sklo__0712939_pe729151_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vardagen-misa-cire-sklo-70289248/",
+        "id": "70289248",
+        "itemNoGlobal": "70289248",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60289239",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vardagen-servirovaci-misa-cire-sklo-60289239/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-servirovaci-misa-cire-sklo__0712936_pe729148_s5.jpg",
+                    "imageAlt": "VARDAGEN Servírovací mísa, čiré sklo, 20 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 84,
+                    "name": "VARDAGEN",
+                    "typeName": "Servírovací mísa",
+                    "itemMeasureReferenceText": "20 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-servirovaci-misa-cire-sklo__0712936_pe729148_s5.jpg",
+                    "mainImageAlt": "VARDAGEN Servírovací mísa, čiré sklo, 20 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-servirovaci-misa-cire-sklo__0898325_pe584365_s5.jpg",
+                    "itemNoGlobal": "60289239",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60289239",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 79,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-17",
+                        "validTo": "2024-04-13",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 84,
+        "itemNo": "70289248",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-misa-cire-sklo__0899228_pe584363_s5.jpg",
+        "mainImageAlt": "VARDAGEN Mísa, čiré sklo, 26 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Bakeware",
+            "productAreaNo": "1414",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Servírovací misky", "key": "20619" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70289248",
+    "name": "VARDAGEN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

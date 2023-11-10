@@ -1,0 +1,10 @@
+{
+    "id": "s39017839",
+    "itemNo": "39017839",
+    "name": "BILLY",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 822 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4047 }
+    ]
+}

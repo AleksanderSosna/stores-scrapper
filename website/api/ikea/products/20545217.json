@@ -1,1 +1,61 @@
-{ "id": "20545217", "name": "BILD", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "BILD",
+        "typeName": "Plakát",
+        "itemMeasureReferenceText": "21x30 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-pratelska-stvoreni__1118510_pe873163_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bild-plakat-pratelska-stvoreni-20545217/",
+        "id": "20545217",
+        "itemNoGlobal": "20545217",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "žlutá", "id": "10042", "hex": "ffdb00" },
+            { "name": "fialová", "id": "10064", "hex": "a96ecc" },
+            { "name": "oranžová", "id": "10112", "hex": "ff9a02" },
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" },
+            { "name": "tyrkysová", "id": "10152", "hex": "77ddd0" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20545217",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-pratelska-stvoreni__1158272_pe888067_s5.jpg",
+        "mainImageAlt": "BILD Plakát, přátelská stvoření, 21x30 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Plakáty", "key": "10787" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20545217",
+    "name": "BILD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

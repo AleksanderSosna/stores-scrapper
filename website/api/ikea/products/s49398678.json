@@ -1,0 +1,10 @@
+{
+    "id": "s49398678",
+    "itemNo": "49398678",
+    "name": "KALLAX / LACK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1017.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5159 }
+    ]
+}

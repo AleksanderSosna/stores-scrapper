@@ -1,1 +1,53 @@
-{ "id": "60521592", "name": "ARÖD", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }
+{
+    "id": {
+        "name": "ARÖD",
+        "typeName": "Lampa biurkowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aroed-lampa-biurkowa-turkusowy__1036385_pe838432_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aroed-lampa-biurkowa-turkusowy-60521592/",
+        "id": "60521592",
+        "itemNoGlobal": "60521592",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "turkusowy", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 2,
+        "ratingCount": 1,
+        "itemNo": "60521592",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aroed-lampa-biurkowa-turkusowy__1036386_pe838433_s5.jpg",
+        "mainImageAlt": "ARÖD Lampa biurkowa, turkusowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Desk and clamp lamps",
+            "productAreaNo": "1019",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampki na biurko", "key": "20502" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60521592",
+    "name": "ARÖD",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }]
+}

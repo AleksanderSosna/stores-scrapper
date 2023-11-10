@@ -1,1 +1,93 @@
-{ "id": "10540084", "name": "BEGRIPA", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "BEGRIPA",
+        "typeName": "Úchytka",
+        "itemMeasureReferenceText": "130 mm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/begripa-uchytka-zluta-pulkruh__1116098_pe872343_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/begripa-uchytka-zluta-pulkruh-10540084/",
+        "id": "10540084",
+        "itemNoGlobal": "10540084",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70540081",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/begripa-uchytka-bila-pulkruh-70540081/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/begripa-uchytka-bila-pulkruh__1116100_pe872345_s5.jpg",
+                    "imageAlt": "BEGRIPA Úchytka, bílá/půlkruh, 130 mm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "BEGRIPA",
+                    "typeName": "Úchytka",
+                    "itemMeasureReferenceText": "130 mm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/begripa-uchytka-bila-pulkruh__1116100_pe872345_s5.jpg",
+                    "mainImageAlt": "BEGRIPA Úchytka, bílá/půlkruh, 130 mm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/begripa-uchytka-bila-pulkruh__0819708_pe774854_s5.jpg",
+                    "itemNoGlobal": "70540081",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70540081",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 99,
+                        "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "2 ks",
+                        "unitText": "ks",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "žlutá", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10540084",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/begripa-uchytka-zluta-pulkruh__0819746_pe774876_s5.jpg",
+        "mainImageAlt": "BEGRIPA Úchytka, žlutá/půlkruh, 130 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s storage furniture",
+            "productAreaNo": "0921",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Pro děti a miminka", "key": "bc001" },
+            { "name": "Pokoj pro miminka", "key": "bc002" },
+            { "name": "Systém SMÅSTAD", "key": "49140" },
+            { "name": "Úchytky a doplňky pro SMÅSTAD", "key": "49763" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10540084",
+    "name": "BEGRIPA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

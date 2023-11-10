@@ -1,0 +1,10 @@
+{
+    "id": "s49529052",
+    "itemNo": "49529052",
+    "name": "PÅHL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2799 }
+    ]
+}

@@ -1,1 +1,89 @@
-{ "id": "40466780", "name": "VIMLE", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8000 }] }
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "Podnožka s úložným prostorem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-zlatohneda__0817042_pe773789_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-zlatohneda-40466780/",
+        "id": "40466780",
+        "itemNoGlobal": "40466780",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60465384",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-cerna-60465384/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-cerna__0817040_pe773792_s5.jpg",
+                    "imageAlt": "VIMLE Podnožka s úložným prostorem, Grann/Bomstad černá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "VIMLE",
+                    "typeName": "Podnožka s úložným prostorem",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-cerna__0817040_pe773792_s5.jpg",
+                    "mainImageAlt": "VIMLE Podnožka s úložným prostorem, Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-cerna__0817039_pe773786_s5.jpg",
+                    "itemNoGlobal": "60465384",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60465384",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 8000,
+                        "current": { "prefix": "", "wholeNumber": "8 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "40466780",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8000,
+            "current": { "prefix": "", "wholeNumber": "8 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-podnozka-s-uloznym-prostorem-grann-bomstad-zlatohneda__0817041_pe773788_s5.jpg",
+        "mainImageAlt": "VIMLE Podnožka s úložným prostorem, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Footstools",
+            "productAreaNo": "0126",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Taburety a podnožky", "key": "20926" },
+            { "name": "Kožené podnožky a taburety", "key": "20928" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40466780",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8000 }]
+}

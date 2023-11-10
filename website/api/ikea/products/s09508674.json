@@ -1,0 +1,10 @@
+{
+    "id": "s09508674",
+    "itemNo": "09508674",
+    "name": "MITTCIRKEL / ALEX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 548 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3189 }
+    ]
+}

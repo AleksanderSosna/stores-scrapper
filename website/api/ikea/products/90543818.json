@@ -1,1 +1,54 @@
-{ "id": "90543818", "name": "SANSEVIERIA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }
+{
+    "id": {
+        "name": "SANSEVIERIA",
+        "typeName": "Roślina doniczkowa",
+        "itemMeasureReferenceText": "24 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sansevieria-roslina-doniczkowa-rozne__1201507_pe905674_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sansevieria-roslina-doniczkowa-rozne-90543818/",
+        "id": "90543818",
+        "itemNoGlobal": "90543818",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.7,
+        "ratingCount": 3,
+        "itemNo": "90543818",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99.99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sansevieria-roslina-doniczkowa-rozne__1221186_pe914208_s5.jpg",
+        "mainImageAlt": "SANSEVIERIA Roślina doniczkowa, różne, 24 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Donice, rośliny i akcesoria ogrodowe", "key": "31787" },
+            { "name": "Rośliny doniczkowe i sukulenty", "key": "10779" },
+            { "name": "Duże rośliny doniczkowe", "key": "700524" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90543818",
+    "name": "SANSEVIERIA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }]
+}

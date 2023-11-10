@@ -1,0 +1,10 @@
+{
+    "id": "s69408209",
+    "itemNo": "69408209",
+    "name": "INGATORP / BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2815 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15550 }
+    ]
+}

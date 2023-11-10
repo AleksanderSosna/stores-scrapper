@@ -1,0 +1,10 @@
+{
+    "id": "s89536343",
+    "itemNo": "89536343",
+    "name": "EKEDALEN / KRYLBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2395 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10950 }
+    ]
+}

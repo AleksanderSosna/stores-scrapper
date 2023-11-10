@@ -1,0 +1,10 @@
+{
+    "id": "s49478321",
+    "itemNo": "49478321",
+    "name": "LAGKAPTEN / TILLSLAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 379 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1999 }
+    ]
+}

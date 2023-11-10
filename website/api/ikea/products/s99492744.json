@@ -1,0 +1,145 @@
+{
+    "id": {
+        "name": "UPPSPEL / STYRSPEL",
+        "typeName": "Biurko gamingowe i krzesło",
+        "itemMeasureReferenceText": "180x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary__1123718_pe874876_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary-s99492744/",
+        "id": "s99492744",
+        "itemNoGlobal": "99492744",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s49492732",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-niebieski-jasnoszary-s49492732/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-niebieski-jasnoszary__1123717_pe874875_s5.jpg",
+                    "imageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny niebieski/jasnoszary, 180x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPSPEL / STYRSPEL",
+                    "typeName": "Biurko gamingowe i krzesło",
+                    "itemMeasureReferenceText": "180x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-niebieski-jasnoszary__1123717_pe874875_s5.jpg",
+                    "mainImageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny niebieski/jasnoszary, 180x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-niebieski-jasnoszary__1128240_pe876504_s5.jpg",
+                    "itemNoGlobal": "49492732",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49492732",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3998,
+                        "current": { "prefix": "", "wholeNumber": "3 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39492695",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary-czerwony-s39492695/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary-czerwony__1123715_pe874873_s5.jpg",
+                    "imageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny szary/czerwony, 180x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPSPEL / STYRSPEL",
+                    "typeName": "Biurko gamingowe i krzesło",
+                    "itemMeasureReferenceText": "180x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary-czerwony__1123715_pe874873_s5.jpg",
+                    "mainImageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny szary/czerwony, 180x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary-czerwony__1128237_pe876502_s5.jpg",
+                    "itemNoGlobal": "39492695",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39492695",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3998,
+                        "current": { "prefix": "", "wholeNumber": "3 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09492710",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-fiolet-s09492710/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-fiolet__1123716_pe874874_s5.jpg",
+                    "imageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny/fiolet, 180x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPSPEL / STYRSPEL",
+                    "typeName": "Biurko gamingowe i krzesło",
+                    "itemMeasureReferenceText": "180x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-fiolet__1123716_pe874874_s5.jpg",
+                    "mainImageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny/fiolet, 180x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-fiolet__1128239_pe876503_s5.jpg",
+                    "itemNoGlobal": "09492710",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09492710",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3998,
+                        "current": { "prefix": "", "wholeNumber": "3 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99492744",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3998,
+            "current": { "prefix": "", "wholeNumber": "3 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppspel-styrspel-biurko-gamingowe-i-krzeslo-czarny-szary__1128246_pe876505_s5.jpg",
+        "mainImageAlt": "UPPSPEL / STYRSPEL Biurko gamingowe i krzesło, czarny/szary, 180x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Gaming",
+            "productAreaNo": "0371",
+            "productRangeAreaName": "Gaming",
+            "productRangeAreaNo": "037"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Meble gamingowe", "key": "55002" },
+            { "name": "Biurka gamingowe", "key": "47070" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99492744",
+    "name": "UPPSPEL / STYRSPEL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3998 }]
+}

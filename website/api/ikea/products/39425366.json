@@ -1,9 +1,0 @@
-{
-    "id": "39425366",
-    "name": "PLATSA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 535 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2450 }
-    ]
-}

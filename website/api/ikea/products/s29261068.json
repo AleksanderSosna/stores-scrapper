@@ -1,0 +1,10 @@
+{
+    "id": "s29261068",
+    "itemNo": "29261068",
+    "name": "PAX",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 600 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2800 }
+    ]
+}

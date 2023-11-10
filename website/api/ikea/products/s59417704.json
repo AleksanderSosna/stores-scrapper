@@ -1,0 +1,10 @@
+{
+    "id": "s59417704",
+    "itemNo": "59417704",
+    "name": "ANFALLARE / OLOV",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }
+    ]
+}

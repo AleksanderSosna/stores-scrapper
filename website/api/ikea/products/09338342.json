@@ -1,9 +1,0 @@
-{
-    "id": "09338342",
-    "name": "ENHET / TVÄLLEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2868 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12554 }
-    ]
-}

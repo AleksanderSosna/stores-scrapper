@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / MERÅKER",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "250x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary__0573739_pe667901_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary-s79251811/",
+        "id": "s79251811",
+        "itemNoGlobal": "79251811",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99251805",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary-s99251805/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary__0573723_pe667893_s5.jpg",
+                    "imageAlt": "PAX / MERÅKER Szafa, imitacja dębu bejcowanego na biało/ciemnoszary, 250x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / MERÅKER",
+                    "typeName": "Szafa",
+                    "itemMeasureReferenceText": "250x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary__0573723_pe667893_s5.jpg",
+                    "mainImageAlt": "PAX / MERÅKER Szafa, imitacja dębu bejcowanego na biało/ciemnoszary, 250x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary__0573725_pe667894_s5.jpg",
+                    "itemNoGlobal": "99251805",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99251805",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3990,
+                        "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79251811",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3670,
+            "current": { "prefix": "", "wholeNumber": "3 670", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-meraker-szafa-imitacja-debu-bejcowanego-na-bialo-ciemnoszary__0591342_pe674102_s5.jpg",
+        "mainImageAlt": "PAX / MERÅKER Szafa, imitacja dębu bejcowanego na biało/ciemnoszary, 250x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79251811",
+    "name": "PAX / MERÅKER",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3670 }]
+}

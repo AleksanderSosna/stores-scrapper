@@ -1,0 +1,118 @@
+{
+    "id": {
+        "name": "VEDBO / VEDBO",
+        "typeName": "Stół i 4 krzesła",
+        "itemMeasureReferenceText": "160x95 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza__0809111_pe770968_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza-s09306893/",
+        "id": "s09306893",
+        "itemNoGlobal": "09306893",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s19306878",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/vedbo-roenninge-stol-i-4-krzesla-bialy-brzoza-s19306878/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-roenninge-stol-i-4-krzesla-bialy-brzoza__0809094_pe770952_s5.jpg",
+                    "imageAlt": "VEDBO / RÖNNINGE Stół i 4 krzesła, biały/brzoza, 160x95 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VEDBO / RÖNNINGE",
+                    "typeName": "Stół i 4 krzesła",
+                    "itemMeasureReferenceText": "160x95 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-roenninge-stol-i-4-krzesla-bialy-brzoza__0809094_pe770952_s5.jpg",
+                    "mainImageAlt": "VEDBO / RÖNNINGE Stół i 4 krzesła, biały/brzoza, 160x95 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-roenninge-stol-i-4-krzesla-bialy-brzoza__0809096_pe770953_s5.jpg",
+                    "itemNoGlobal": "19306878",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19306878",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4095,
+                        "current": { "prefix": "", "wholeNumber": "4 095", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19306883",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza-s19306883/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza__0809104_pe770961_s5.jpg",
+                    "imageAlt": "VEDBO / VEDBO Stół i 4 krzesła, biały/brzoza, 160x95 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VEDBO / VEDBO",
+                    "typeName": "Stół i 4 krzesła",
+                    "itemMeasureReferenceText": "160x95 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza__0809104_pe770961_s5.jpg",
+                    "mainImageAlt": "VEDBO / VEDBO Stół i 4 krzesła, biały/brzoza, 160x95 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza__0809108_pe770965_s5.jpg",
+                    "itemNoGlobal": "19306883",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19306883",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 5095,
+                        "current": { "prefix": "", "wholeNumber": "5 095", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09306893",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 5895,
+            "current": { "prefix": "", "wholeNumber": "5 895", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vedbo-vedbo-stol-i-4-krzesla-bialy-brzoza__0809112_pe770969_s5.jpg",
+        "mainImageAlt": "VEDBO / VEDBO Stół i 4 krzesła, biały/brzoza, 160x95 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Zestawy stołów z krzesłami", "key": "19145" },
+            { "name": "Zestawy stołów z 4 krzesłami", "key": "36212" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09306893",
+    "name": "VEDBO / VEDBO",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5895 }]
+}

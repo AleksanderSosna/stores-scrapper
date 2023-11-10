@@ -1,1 +1,55 @@
-{ "id": "60494517", "name": "HATTEFJÄLL", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }] }
+{
+    "id": {
+        "name": "HATTEFJÄLL",
+        "typeName": "Kancelářská židle s područkami",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hattefjaell-kancelarska-zidle-s-podruckami-smidig-cerna__1019087_pe831296_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hattefjaell-kancelarska-zidle-s-podruckami-smidig-cerna-60494517/",
+        "id": "60494517",
+        "itemNoGlobal": "60494517",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 11,
+        "itemNo": "60494517",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 9490,
+            "current": { "prefix": "", "wholeNumber": "9 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hattefjaell-kancelarska-zidle-s-podruckami-smidig-cerna__1182872_pe897334_s5.jpg",
+        "mainImageAlt": "HATTEFJÄLL Kancelářská židle s područkami, Smidig černá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office chairs",
+            "productAreaNo": "0352",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Židle k psacímu stolu", "key": "20652" },
+            { "name": "Kancelářská křesla do domácnosti", "key": "20653" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60494517",
+    "name": "HATTEFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }]
+}

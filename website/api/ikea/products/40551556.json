@@ -1,1 +1,56 @@
-{ "id": "40551556", "name": "AFTONSPARV", "categoryKey": "bc001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "AFTONSPARV",
+        "typeName": "Pluszak",
+        "itemMeasureReferenceText": "34 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aftonsparv-pluszak-istota-pozaziemska-zielony__1185115_pe898265_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aftonsparv-pluszak-istota-pozaziemska-zielony-40551556/",
+        "id": "40551556",
+        "itemNoGlobal": "40551556",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 14,
+        "itemNo": "40551556",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aftonsparv-pluszak-istota-pozaziemska-zielony__1193097_pe901333_s5.jpg",
+        "mainImageAlt": "AFTONSPARV Pluszak, istota pozaziemska/zielony, 34 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Comfort toys",
+            "productAreaNo": "0971",
+            "productRangeAreaName": "Children`s play",
+            "productRangeAreaNo": "097"
+        },
+        "categoryPath": [
+            { "name": "Dzieci i niemowlęta", "key": "bc001" },
+            { "name": "Dzieci", "key": "bc003" },
+            { "name": "Zabawki dla dzieci", "key": "18734" },
+            { "name": "Pluszaki i maskotki", "key": "18740" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40551556",
+    "name": "AFTONSPARV",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

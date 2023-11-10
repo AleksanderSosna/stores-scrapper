@@ -1,1 +1,53 @@
-{ "id": "70366798", "name": "SONGESAND", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }] }
+{
+    "id": {
+        "name": "SONGESAND",
+        "typeName": "Komoda, 6 szuflad",
+        "itemMeasureReferenceText": "161x81 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-komoda-6-szuflad-bialy__0552202_pe658935_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/songesand-komoda-6-szuflad-bialy-70366798/",
+        "id": "70366798",
+        "itemNoGlobal": "70366798",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 52,
+        "itemNo": "70366798",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1199,
+            "current": { "prefix": "", "wholeNumber": "1 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-komoda-6-szuflad-bialy__0859171_pe658936_s5.jpg",
+        "mainImageAlt": "SONGESAND Komoda, 6 szuflad, biały, 161x81 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Chest of drawers",
+            "productAreaNo": "0431",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Komody i kontenerki", "key": "st004" },
+            { "name": "Komody do sypialni", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70366798",
+    "name": "SONGESAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }]
+}

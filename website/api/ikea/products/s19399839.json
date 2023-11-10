@@ -1,0 +1,10 @@
+{
+    "id": "s19399839",
+    "itemNo": "19399839",
+    "name": "TEODORES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 516 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3596 }
+    ]
+}

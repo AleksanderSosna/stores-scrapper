@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "HÅRSLINGA / TRÅDFRI",
+        "typeName": "Lampa podłogowa z żarówką",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/harslinga-tradfri-lampa-podlogowa-z-zarowka-czarny-smart-biale-spektrum__1181031_pe896535_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/harslinga-tradfri-lampa-podlogowa-z-zarowka-czarny-smart-biale-spektrum-s59513499/",
+        "id": "s59513499",
+        "itemNoGlobal": "59513499",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59513499",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 179.98,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/harslinga-tradfri-lampa-podlogowa-z-zarowka-czarny-smart-biale-spektrum__1195380_pe902391_s5.jpg",
+        "mainImageAlt": "HÅRSLINGA / TRÅDFRI Lampa podłogowa z żarówką, czarny/smart białe spektrum",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59513499",
+    "name": "HÅRSLINGA / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179.98 }]
+}

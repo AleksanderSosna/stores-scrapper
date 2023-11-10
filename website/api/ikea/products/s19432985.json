@@ -1,0 +1,10 @@
+{
+    "id": "s19432985",
+    "itemNo": "19432985",
+    "name": "PAX / MEHAMN/AULI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11330 }
+    ]
+}

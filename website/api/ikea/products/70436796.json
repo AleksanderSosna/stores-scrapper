@@ -1,1 +1,56 @@
-{ "id": "70436796", "name": "JULKAKTUS", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "JULKAKTUS",
+        "typeName": "Elastický pásek",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/julkaktus-elasticky-pasek__0557220_pe660732_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/julkaktus-elasticky-pasek-70436796/",
+        "id": "70436796",
+        "itemNoGlobal": "70436796",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 63,
+        "itemNo": "70436796",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "4 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/julkaktus-elasticky-pasek__0883709_pe628053_s5.jpg",
+        "mainImageAlt": "JULKAKTUS Elastický pásek",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Sheets and pillow cases",
+            "productAreaNo": "1111",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Prostěradla", "key": "10681" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70436796",
+    "name": "JULKAKTUS",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

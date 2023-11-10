@@ -1,1 +1,122 @@
-{ "id": "20518233", "name": "TOSSBERG", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 649 }] }
+{
+    "id": {
+        "name": "TOSSBERG",
+        "typeName": "Krzesło",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-aksamit-zielony__1040039_pe840561_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tossberg-krzeslo-metal-czarny-aksamit-zielony-20518233/",
+        "id": "20518233",
+        "itemNoGlobal": "20518233",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "80565274",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tossberg-krzeslo-metal-bialy-gunnared-bezowy-80565274/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-bialy-gunnared-bezowy__1142158_pe881185_s5.jpg",
+                    "imageAlt": "TOSSBERG Krzesło, metal biały/Gunnared beżowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 29,
+                    "name": "TOSSBERG",
+                    "typeName": "Krzesło",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-bialy-gunnared-bezowy__1142158_pe881185_s5.jpg",
+                    "mainImageAlt": "TOSSBERG Krzesło, metal biały/Gunnared beżowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-bialy-gunnared-bezowy__1142153_pe881183_s5.jpg",
+                    "itemNoGlobal": "80565274",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80565274",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "90435324",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tossberg-krzeslo-metal-czarny-szary-90435324/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-szary__0661921_pe712124_s5.jpg",
+                    "imageAlt": "TOSSBERG Krzesło, metal czarny/szary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 29,
+                    "name": "TOSSBERG",
+                    "typeName": "Krzesło",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-szary__0661921_pe712124_s5.jpg",
+                    "mainImageAlt": "TOSSBERG Krzesło, metal czarny/szary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-szary__0871477_pe712123_s5.jpg",
+                    "itemNoGlobal": "90435324",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "90435324",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 499,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 29,
+        "itemNo": "20518233",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 649,
+            "current": { "prefix": "", "wholeNumber": "649", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-aksamit-zielony__1040043_pe840565_s5.jpg",
+        "mainImageAlt": "TOSSBERG Krzesło, metal czarny/aksamit zielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Upholstered chairs",
+            "productAreaNo": "0824",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła do jadalni i krzesła składane", "key": "25219" },
+            { "name": "Krzesła do jadalni", "key": "25220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20518233",
+    "name": "TOSSBERG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 649 }]
+}

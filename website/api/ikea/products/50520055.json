@@ -1,1 +1,59 @@
-{ "id": "50520055", "name": "NIMM", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "NIMM",
+        "typeName": "Organizér na kancelářské potřeby",
+        "itemMeasureReferenceText": "10x15 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nimm-organizer-na-kancelarske-potreby-cerna__1095909_pe864092_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nimm-organizer-na-kancelarske-potreby-cerna-50520055/",
+        "id": "50520055",
+        "itemNoGlobal": "50520055",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 4,
+        "itemNo": "50520055",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nimm-organizer-na-kancelarske-potreby-cerna__1100306_pe866125_s5.jpg",
+        "mainImageAlt": "NIMM Organizér na kancelářské potřeby, černá, 10x15 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Organisers",
+            "productAreaNo": "1813",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Malé úložné prostory a organizéry", "key": "st007" },
+            { "name": "Stolní organizéry a doplňky", "key": "10573" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50520055",
+    "name": "NIMM",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

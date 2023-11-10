@@ -1,1 +1,57 @@
-{ "id": "90370209", "name": "MATTRADITION", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1799 }] }
+{
+    "id": {
+        "name": "MATTRADITION",
+        "typeName": "Kuchenka pirolityczna",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/mattradition-kuchenka-pirolityczna-ikea-500-stal-nierdz__0754909_pe748166_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/mattradition-kuchenka-pirolityczna-ikea-500-stal-nierdz-90370209/",
+        "id": "90370209",
+        "itemNoGlobal": "90370209",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.6,
+        "ratingCount": 5,
+        "itemNo": "90370209",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1799,
+            "current": { "prefix": "", "wholeNumber": "1 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "energyLabel": "A+",
+        "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1024956_o_lbl10.svg",
+        "energySymbolImageAlt": "Klasa efektywności energetycznej na każdą komorę A+",
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/mattradition-kuchenka-pirolityczna-ikea-500-stal-nierdz__0868744_pe659154_s5.jpg",
+        "mainImageAlt": "MATTRADITION Kuchenka pirolityczna, IKEA 500 stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Ovens",
+            "productAreaNo": "7011",
+            "productRangeAreaName": "Cooking Appliances",
+            "productRangeAreaNo": "701"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "AGD", "key": "ka002" },
+            { "name": "Piekarniki i piekarniki wielofunkcyjne", "key": "20810" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "productFiche": "Karta produktu"
+    },
+    "itemNo": "90370209",
+    "name": "MATTRADITION",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1799 }]
+}

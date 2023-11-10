@@ -1,1 +1,54 @@
-{ "id": "80524113", "name": "LAGAN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }] }
+{
+    "id": {
+        "name": "LAGAN",
+        "typeName": "Płyta gazowa",
+        "itemMeasureReferenceText": "29 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lagan-plyta-gazowa-stal-nierdz__1109083_pe869807_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lagan-plyta-gazowa-stal-nierdz-80524113/",
+        "id": "80524113",
+        "itemNoGlobal": "90523207",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "80524113",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lagan-plyta-gazowa-stal-nierdz__1109082_pe869808_s5.jpg",
+        "mainImageAlt": "LAGAN Płyta gazowa, stal nierdz, 29 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Hobs",
+            "productAreaNo": "7014",
+            "productRangeAreaName": "Cooking Appliances",
+            "productRangeAreaNo": "701"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "AGD", "key": "ka002" },
+            { "name": "Płyty kuchenne", "key": "20812" },
+            { "name": "Płyty gazowe", "key": "20814" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80524113",
+    "name": "LAGAN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }]
+}

@@ -1,1 +1,55 @@
-{ "id": "10532418", "name": "STRÅLA", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "STRÅLA",
+        "typeName": "Świecznik LED 3-ramienny",
+        "itemMeasureReferenceText": "25 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strala-swiecznik-led-3-ramienny-kolo-na-baterie-kolor-mosiadzu__1089943_pe861767_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/strala-swiecznik-led-3-ramienny-kolo-na-baterie-kolor-mosiadzu-10532418/",
+        "id": "10532418",
+        "itemNoGlobal": "10532418",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "żółty", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10532418",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strala-swiecznik-led-3-ramienny-kolo-na-baterie-kolor-mosiadzu__1067817_pe852799_s5.jpg",
+        "mainImageAlt": "STRÅLA Świecznik LED 3-ramienny, koło/na baterie kolor mosiądzu, 25 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Seasonal Lighting",
+            "productAreaNo": "1081",
+            "productRangeAreaName": "Seasonal lighting, Outdoor lighting and Lighting chains",
+            "productRangeAreaNo": "108"
+        },
+        "categoryPath": [
+            { "name": "Kolekcja świąteczna", "key": "wt001" },
+            { "name": "Oświetlenie świąteczne", "key": "49150" },
+            { "name": "Dekoracyjne oświetlenie stołu", "key": "700179" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10532418",
+    "name": "STRÅLA",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

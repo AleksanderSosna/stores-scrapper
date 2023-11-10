@@ -1,1 +1,54 @@
-{ "id": "90487214", "name": "FYXNÄS", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "FYXNÄS",
+        "typeName": "Lampa stołowa",
+        "itemMeasureReferenceText": "44 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fyxnaes-lampa-stolowa-ciemnoczerwony__0859457_pe780914_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fyxnaes-lampa-stolowa-ciemnoczerwony-90487214/",
+        "id": "90487214",
+        "itemNoGlobal": "90487214",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czerwony", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "90487214",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fyxnaes-lampa-stolowa-ciemnoczerwony__0916948_pe785489_s5.jpg",
+        "mainImageAlt": "FYXNÄS Lampa stołowa, ciemnoczerwony, 44 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Table lamps",
+            "productAreaNo": "1012",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "90487214",
+    "name": "FYXNÄS",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

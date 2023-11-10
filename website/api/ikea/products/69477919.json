@@ -1,9 +1,0 @@
-{
-    "id": "69477919",
-    "name": "SKYTTA / FÄRVIK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3875 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 22200 }
-    ]
-}

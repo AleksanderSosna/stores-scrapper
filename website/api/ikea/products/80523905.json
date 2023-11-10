@@ -1,1 +1,53 @@
-{ "id": "80523905", "name": "FENOMEN", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "FENOMEN",
+        "typeName": "Bezzapachowa świeca kolumnowa, 5szt",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fenomen-bezzapachowa-swieca-kolumnowa-5szt-czerwony__0751964_pe747658_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fenomen-bezzapachowa-swieca-kolumnowa-5szt-czerwony-80523905/",
+        "id": "80523905",
+        "itemNoGlobal": "80523905",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czerwony", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 29,
+        "itemNo": "80523905",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "FENOMEN Bezzapachowa świeca kolumnowa, 5szt, czerwony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candles and atmosphere light",
+            "productAreaNo": "1632",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Świece bezzapachowe", "key": "10782" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "80523905",
+    "name": "FENOMEN",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

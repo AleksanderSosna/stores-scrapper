@@ -1,1 +1,55 @@
-{ "id": "50546055", "name": "ÖMSESIDIG", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-povlak-na-polstar-cerna-zluta__1127147_pe876062_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-povlak-na-polstar-cerna-zluta-50546055/",
+        "id": "50546055",
+        "itemNoGlobal": "50546055",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "černá", "id": "10139", "hex": "000000" },
+            { "name": "barevné", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50546055",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-povlak-na-polstar-cerna-zluta__1194235_ph192430_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Povlak na polštář, černá/žlutá, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50546055",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

@@ -1,0 +1,60 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Spod. sk. na umyvadlo s pol./dvířky",
+        "itemMeasureReferenceText": "80x42x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-spod-sk-na-umyvadlo-s-pol-dvirky-seda-imitace-betonu__0816064_pe773367_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-spod-sk-na-umyvadlo-s-pol-dvirky-seda-imitace-betonu-s59322452/",
+        "id": "s59322452",
+        "itemNoGlobal": "59322452",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "59322452",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2200,
+            "current": { "prefix": "", "wholeNumber": "2 200", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "ENHET Spod. sk. na umyvadlo s pol./dvířky, šedá/imitace betonu, 80x42x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny ENHET", "key": "700458" },
+            { "name": "Umyvadlové skříňky ENHET bez umyvadla", "key": "700492" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "59322452",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2200 }]
+}

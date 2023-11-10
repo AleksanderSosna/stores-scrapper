@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Otevřená úložná sestava",
+        "itemMeasureReferenceText": "258x51x222-350 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-otevrena-ulozna-sestava-bila__0488167_pe622972_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-otevrena-ulozna-sestava-bila-s09187809/",
+        "id": "s09187809",
+        "itemNoGlobal": "09187809",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09187809",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 29610,
+            "current": { "prefix": "", "wholeNumber": "29 610", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-otevrena-ulozna-sestava-bila__0488168_pe622971_s5.jpg",
+        "mainImageAlt": "ELVARLI Otevřená úložná sestava, bílá, 258x51x222-350 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Kombinace se stojnami ELVARLI", "key": "35769" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09187809",
+    "name": "ELVARLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 29610 }]
+}

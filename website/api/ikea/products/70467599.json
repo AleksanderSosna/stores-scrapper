@@ -1,1 +1,55 @@
-{ "id": "70467599", "name": "LURVIG", "categoryKey": "pt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "LURVIG",
+        "typeName": "Domek dla kota/psa igloo",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-domek-dla-kota-psa-igloo-jasnoszary-rozowy__0779782_pe759676_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lurvig-domek-dla-kota-psa-igloo-jasnoszary-rozowy-70467599/",
+        "id": "70467599",
+        "itemNoGlobal": "70467599",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 10,
+        "itemNo": "70467599",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-domek-dla-kota-psa-igloo-jasnoszary-rozowy__0779781_pe759677_s5.jpg",
+        "mainImageAlt": "LURVIG Domek dla kota/psa igloo, jasnoszary/różowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Pet accessories",
+            "productAreaNo": "1871",
+            "productRangeAreaName": "Living with pets",
+            "productRangeAreaNo": "187"
+        },
+        "categoryPath": [
+            { "name": "Produkty dla zwierząt", "key": "pt001" },
+            { "name": "Produkty dla kotów", "key": "39569" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70467599",
+    "name": "LURVIG",
+    "categoryKey": "pt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

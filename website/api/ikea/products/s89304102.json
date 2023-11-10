@@ -1,0 +1,114 @@
+{
+    "id": {
+        "name": "GALANT",
+        "typeName": "Kombinacja z teczkami",
+        "itemMeasureReferenceText": "102x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-bialy__0722610_pe733660_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-teczkami-bialy-s89304102/",
+        "id": "s89304102",
+        "itemNoGlobal": "89304102",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s89304098",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-teczkami-okleina-debowa-bejcowana-na-bialo-s89304098/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okleina-debowa-bejcowana-na-bialo__0722609_pe733661_s5.jpg",
+                    "imageAlt": "GALANT Kombinacja z teczkami, okleina dębowa bejcowana na biało, 102x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Kombinacja z teczkami",
+                    "itemMeasureReferenceText": "102x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okleina-debowa-bejcowana-na-bialo__0722609_pe733661_s5.jpg",
+                    "mainImageAlt": "GALANT Kombinacja z teczkami, okleina dębowa bejcowana na biało, 102x120 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okleina-debowa-bejcowana-na-bialo__0723491_pe733997_s5.jpg",
+                    "itemNoGlobal": "89304098",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89304098",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3398,
+                        "current": { "prefix": "", "wholeNumber": "3 398", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69304099",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-teczkami-okl-jesionowa-bejcowana-na-czarno-s69304099/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okl-jesionowa-bejcowana-na-czarno__0722608_pe733659_s5.jpg",
+                    "imageAlt": "GALANT Kombinacja z teczkami, okl jesionowa bejcowana na czarno, 102x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Kombinacja z teczkami",
+                    "itemMeasureReferenceText": "102x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okl-jesionowa-bejcowana-na-czarno__0722608_pe733659_s5.jpg",
+                    "mainImageAlt": "GALANT Kombinacja z teczkami, okl jesionowa bejcowana na czarno, 102x120 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-okl-jesionowa-bejcowana-na-czarno__0723490_pe733995_s5.jpg",
+                    "itemNoGlobal": "69304099",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69304099",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3398,
+                        "current": { "prefix": "", "wholeNumber": "3 398", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89304102",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2998,
+            "current": { "prefix": "", "wholeNumber": "2 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-teczkami-bialy__0723492_pe733996_s5.jpg",
+        "mainImageAlt": "GALANT Kombinacja z teczkami, biały, 102x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki biurowe", "key": "10385" },
+            { "name": "Szafki do biura", "key": "47084" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89304102",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2998 }]
+}

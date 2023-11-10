@@ -1,0 +1,10 @@
+{
+    "id": "s99528210",
+    "itemNo": "99528210",
+    "name": "NORDVIKEN / SKOGSBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3895 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 21950 }
+    ]
+}

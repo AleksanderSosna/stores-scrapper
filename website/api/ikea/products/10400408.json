@@ -1,1 +1,52 @@
-{ "id": "10400408", "name": "TRÅDFRI", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "TRÅDFRI",
+        "typeName": "Wzmacniacz sygnału",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tradfri-wzmacniacz-sygnalu__0594979_pe675908_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tradfri-wzmacniacz-sygnalu-10400408/",
+        "id": "10400408",
+        "itemNoGlobal": "10400408",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 4,
+        "itemNo": "10400408",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tradfri-wzmacniacz-sygnalu__0882674_pe675911_s5.jpg",
+        "mainImageAlt": "TRÅDFRI Wzmacniacz sygnału",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Connectivity & control",
+            "productAreaNo": "1024",
+            "productRangeAreaName": "Electronics and accessories",
+            "productRangeAreaNo": "102"
+        },
+        "categoryPath": [
+            { "name": "Inteligentny dom", "key": "hs001" },
+            { "name": "Akcesoria do inteligentnego domu", "key": "36814" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10400408",
+    "name": "TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

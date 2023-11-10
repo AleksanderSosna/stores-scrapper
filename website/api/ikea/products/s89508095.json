@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "IVAR",
+        "typeName": "2 działy/półki/szafki",
+        "itemMeasureReferenceText": "175x30x124 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-2-dzialy-polki-szafki-sosna-czarny-siatka__1184100_pe897728_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ivar-2-dzialy-polki-szafki-sosna-czarny-siatka-s89508095/",
+        "id": "s89508095",
+        "itemNoGlobal": "89508095",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89508095",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1471.99,
+            "current": { "prefix": "", "wholeNumber": "1 471", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-2-dzialy-polki-szafki-sosna-czarny-siatka__1192017_pe900793_s5.jpg",
+        "mainImageAlt": "IVAR 2 działy/półki/szafki, sosna/czarny siatka, 175x30x124 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Systemy przechowywania do pokoju dziennego", "key": "29882" },
+            { "name": "System IVAR", "key": "11703" },
+            { "name": "Kombinacje IVAR", "key": "11704" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89508095",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1471.99 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "79287400",
-    "name": "BILLY / OXBERG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 488 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3140 }
-    ]
-}

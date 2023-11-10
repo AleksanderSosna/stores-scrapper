@@ -1,1 +1,53 @@
-{ "id": "40526449", "name": "IKEA 365+", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "IKEA 365+",
+        "typeName": "Pojemnik z pokrywką, 4 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-z-pokrywka-4-szt-plastik__1109089_pe869814_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-z-pokrywka-4-szt-plastik-40526449/",
+        "id": "40526449",
+        "itemNoGlobal": "40526449",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 17,
+        "itemNo": "40526449",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-z-pokrywka-4-szt-plastik__1160583_pe888983_s5.jpg",
+        "mainImageAlt": "IKEA 365+ Pojemnik z pokrywką, 4 szt., plastik",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Pojemniki na żywność", "key": "20606" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40526449",
+    "name": "IKEA 365+",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

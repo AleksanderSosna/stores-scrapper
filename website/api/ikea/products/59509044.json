@@ -1,9 +1,0 @@
-{
-    "id": "59509044",
-    "name": "HÅRSLINGA / LUNNOM",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 548 }
-    ]
-}

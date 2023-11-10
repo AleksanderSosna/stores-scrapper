@@ -1,0 +1,10 @@
+{
+    "id": "s49208112",
+    "itemNo": "49208112",
+    "name": "ESPEVÄR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1790 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11000 }
+    ]
+}

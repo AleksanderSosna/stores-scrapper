@@ -1,1 +1,57 @@
-{ "id": "20544411", "name": "KNALLA", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "KNALLA",
+        "typeName": "Deštník",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/knalla-destnik-skladaci-modra-bila__1166269_pe891094_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/knalla-destnik-skladaci-modra-bila-20544411/",
+        "id": "20544411",
+        "itemNoGlobal": "20544411",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 92,
+        "itemNo": "20544411",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/knalla-destnik-skladaci-modra-bila__1167808_pe891702_s5.jpg",
+        "mainImageAlt": "KNALLA Deštník, skládací modrá/bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Bags and travel accessories",
+            "productAreaNo": "1836",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Tašky", "key": "16248" },
+            { "name": "Cestovní doplňky", "key": "16255" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20544411",
+    "name": "KNALLA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

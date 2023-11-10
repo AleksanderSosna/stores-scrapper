@@ -1,1 +1,57 @@
-{ "id": "20526389", "name": "SKÖTSAM", "categoryKey": "bc001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "SKÖTSAM",
+        "typeName": "Potah na přebalovací podložku",
+        "itemMeasureReferenceText": "55x83 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skoetsam-potah-na-prebalovaci-podlozku-vzor-stene-bila__1056867_pe848622_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skoetsam-potah-na-prebalovaci-podlozku-vzor-stene-bila-20526389/",
+        "id": "20526389",
+        "itemNoGlobal": "20526389",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20526389",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skoetsam-potah-na-prebalovaci-podlozku-vzor-stene-bila__1056865_pe848624_s5.jpg",
+        "mainImageAlt": "SKÖTSAM Potah na přebalovací podložku, vzor štěně/bílá, 55x83 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Baby eating & care",
+            "productAreaNo": "0963",
+            "productRangeAreaName": "Baby",
+            "productRangeAreaNo": "096"
+        },
+        "categoryPath": [
+            { "name": "Pro děti a miminka", "key": "bc001" },
+            { "name": "Pokoj pro miminka", "key": "bc002" },
+            { "name": "Kojení, krmení a stolování", "key": "31772" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20526389",
+    "name": "SKÖTSAM",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

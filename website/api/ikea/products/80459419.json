@@ -1,1 +1,91 @@
-{ "id": "80459419", "name": "HEKTOGRAM", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }] }
+{
+    "id": {
+        "name": "HEKTOGRAM",
+        "typeName": "Lampa podłogowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hektogram-lampa-podlogowa-czarny-bialy__0958284_pe805291_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hektogram-lampa-podlogowa-czarny-bialy-80459419/",
+        "id": "80459419",
+        "itemNoGlobal": "80459419",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40477726",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hektogram-lampa-podlogowa-srebrny-bialy-40477726/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hektogram-lampa-podlogowa-srebrny-bialy__0941175_pe795353_s5.jpg",
+                    "imageAlt": "HEKTOGRAM Lampa podłogowa, srebrny/biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 5,
+                    "name": "HEKTOGRAM",
+                    "typeName": "Lampa podłogowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hektogram-lampa-podlogowa-srebrny-bialy__0941175_pe795353_s5.jpg",
+                    "mainImageAlt": "HEKTOGRAM Lampa podłogowa, srebrny/biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hektogram-lampa-podlogowa-srebrny-bialy__0941176_pe795355_s5.jpg",
+                    "itemNoGlobal": "40477726",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40477726",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 119,
+                        "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "80459419",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hektogram-lampa-podlogowa-czarny-bialy__0958285_pe805293_s5.jpg",
+        "mainImageAlt": "HEKTOGRAM Lampa podłogowa, czarny/biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80459419",
+    "name": "HEKTOGRAM",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }]
+}

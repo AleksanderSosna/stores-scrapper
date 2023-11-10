@@ -1,9 +1,0 @@
-{
-    "id": "09326099",
-    "name": "BURHULT / SIBBHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 32 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 198 }
-    ]
-}

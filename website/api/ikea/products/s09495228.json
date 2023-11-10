@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "GRILLSKÄR",
+        "typeName": "Wyspa kuchenna ze stolikiem",
+        "itemMeasureReferenceText": "93/116x61 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-wyspa-kuchenna-ze-stolikiem-stal-nierdz-zewnetrzne__1144344_pe881791_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/grillskaer-wyspa-kuchenna-ze-stolikiem-stal-nierdz-zewnetrzne-s09495228/",
+        "id": "s09495228",
+        "itemNoGlobal": "09495228",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09495228",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 679,
+            "current": { "prefix": "", "wholeNumber": "679", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-wyspa-kuchenna-ze-stolikiem-stal-nierdz-zewnetrzne__1185297_pe898330_s5.jpg",
+        "mainImageAlt": "GRILLSKÄR Wyspa kuchenna ze stolikiem, stal nierdz/zewnętrzne, 93/116x61 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor kitchens & cooking",
+            "productAreaNo": "1716",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Grille i akcesoria kuchenne na zewnątrz", "key": "700349" },
+            { "name": "Grille ogrodowe", "key": "24898" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09495228",
+    "name": "GRILLSKÄR",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 679 }]
+}

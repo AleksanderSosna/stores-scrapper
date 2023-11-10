@@ -1,9 +1,0 @@
-{
-    "id": "19525786",
-    "name": "KAPPELAND / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 189 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}

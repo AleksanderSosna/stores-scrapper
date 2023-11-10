@@ -1,0 +1,10 @@
+{
+    "id": "s79395796",
+    "itemNo": "79395796",
+    "name": "PAX / TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2975 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16430 }
+    ]
+}

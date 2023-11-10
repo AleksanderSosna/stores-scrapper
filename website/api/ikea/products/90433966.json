@@ -1,1 +1,89 @@
-{ "id": "90433966", "name": "ELVARLI", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }] }
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Zásuvka",
+        "itemMeasureReferenceText": "80x36 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-zasuvka-bila__0751291_pe746958_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-zasuvka-bila-90433966/",
+        "id": "90433966",
+        "itemNoGlobal": "90433966",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50433968",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-zasuvka-bila-50433968/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-zasuvka-bila__0751293_pe746957_s5.jpg",
+                    "imageAlt": "ELVARLI Zásuvka, bílá, 80x51 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 8,
+                    "name": "ELVARLI",
+                    "typeName": "Zásuvka",
+                    "itemMeasureReferenceText": "80x51 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-zasuvka-bila__0751293_pe746957_s5.jpg",
+                    "mainImageAlt": "ELVARLI Zásuvka, bílá, 80x51 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-zasuvka-bila__0855978_pe614659_s5.jpg",
+                    "itemNoGlobal": "50433968",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50433968",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1600,
+                        "current": { "prefix": "", "wholeNumber": "1 600", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 8,
+        "itemNo": "90433966",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1400,
+            "current": { "prefix": "", "wholeNumber": "1 400", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-zasuvka-bila__0857442_pe603427_s5.jpg",
+        "mainImageAlt": "ELVARLI Zásuvka, bílá, 80x36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Stojny, bočnice a vnitřní vybavení ELVARLI", "key": "35767" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90433966",
+    "name": "ELVARLI",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s49482771",
+    "itemNo": "49482771",
+    "name": "EKEDALEN / EKEDALEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1997 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10970 }
+    ]
+}

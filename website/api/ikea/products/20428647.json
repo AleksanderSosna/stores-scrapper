@@ -1,1 +1,60 @@
-{ "id": "20428647", "name": "NYMÅNE", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }] }
+{
+    "id": {
+        "name": "NYMÅNE",
+        "typeName": "Nástěnná lampa dvojitá",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-lampa-dvojita-bila__0666566_pe713610_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nymane-nastenna-lampa-dvojita-bila-20428647/",
+        "id": "20428647",
+        "itemNoGlobal": "20428647",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 18,
+        "itemNo": "20428647",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 799,
+            "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-lampa-dvojita-bila__0879321_pe713611_s5.jpg",
+        "mainImageAlt": "NYMÅNE Nástěnná lampa dvojitá, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Nástěnné osvětlení", "key": "20503" },
+            { "name": "Nástěnné lampy", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20428647",
+    "name": "NYMÅNE",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }]
+}

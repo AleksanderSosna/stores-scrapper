@@ -1,0 +1,10 @@
+{
+    "id": "s49442718",
+    "itemNo": "49442718",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 748 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3390 }
+    ]
+}

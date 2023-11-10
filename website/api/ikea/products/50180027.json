@@ -1,1 +1,92 @@
-{ "id": "50180027", "name": "MICKE", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }] }
+{
+    "id": {
+        "name": "MICKE",
+        "typeName": "Vysoký přídavný díl",
+        "itemMeasureReferenceText": "105x65 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-vysoky-pridavny-dil-cernohneda__0811501_pe771663_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/micke-vysoky-pridavny-dil-cernohneda-50180027/",
+        "id": "50180027",
+        "itemNoGlobal": "50180027",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90180025",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/micke-vysoky-pridavny-dil-bila-90180025/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/micke-vysoky-pridavny-dil-bila__0623697_pe691323_s5.jpg",
+                    "imageAlt": "MICKE Vysoký přídavný díl, bílá, 105x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 37,
+                    "name": "MICKE",
+                    "typeName": "Vysoký přídavný díl",
+                    "itemMeasureReferenceText": "105x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-vysoky-pridavny-dil-bila__0623697_pe691323_s5.jpg",
+                    "mainImageAlt": "MICKE Vysoký přídavný díl, bílá, 105x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-vysoky-pridavny-dil-bila__1162647_pe889914_s5.jpg",
+                    "itemNoGlobal": "90180025",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90180025",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1000,
+                        "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 37,
+        "itemNo": "50180027",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1000,
+            "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-vysoky-pridavny-dil-cernohneda__0401174_pe564808_s5.jpg",
+        "mainImageAlt": "MICKE Vysoký přídavný díl, černohnědá, 105x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Psací a počítačové stoly", "key": "20649" },
+            { "name": "Psací stoly do domácnosti", "key": "20651" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50180027",
+    "name": "MICKE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }]
+}

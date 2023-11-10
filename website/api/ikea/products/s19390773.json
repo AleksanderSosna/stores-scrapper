@@ -1,0 +1,10 @@
+{
+    "id": "s19390773",
+    "itemNo": "19390773",
+    "name": "AGEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Policový díl se skříňkou",
+        "itemMeasureReferenceText": "85x40x190 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-policovy-dil-se-skrinkou-cerna__0684186_pe721047_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bror-policovy-dil-se-skrinkou-cerna-s39283003/",
+        "id": "s39283003",
+        "itemNoGlobal": "39283003",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39283003",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 5560,
+            "current": { "prefix": "", "wholeNumber": "5 560", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-policovy-dil-se-skrinkou-cerna__0910724_pe718500_s5.jpg",
+        "mainImageAlt": "BROR Policový díl se skříňkou, černá, 85x40x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém regálů do garáže BROR", "key": "42245" },
+            { "name": "Sestavy a kombinace BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39283003",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 5560 }]
+}

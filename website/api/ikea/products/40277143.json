@@ -1,1 +1,52 @@
-{ "id": "40277143", "name": "GNEDBY", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }] }
+{
+    "id": {
+        "name": "GNEDBY",
+        "typeName": "Zestaw półek",
+        "itemMeasureReferenceText": "202 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gnedby-zestaw-polek-bialy__0644265_pe702542_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gnedby-zestaw-polek-bialy-40277143/",
+        "id": "40277143",
+        "itemNoGlobal": "40277143",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 140,
+        "itemNo": "40277143",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "GNEDBY Zestaw półek, biały, 202 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40277143",
+    "name": "GNEDBY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }]
+}

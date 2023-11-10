@@ -1,1 +1,100 @@
-{ "id": "20349004", "name": "HEMNES", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Policový díl",
+        "itemMeasureReferenceText": "42x172 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-policovy-dil-seda__0627203_pe693219_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-policovy-dil-seda-20349004/",
+        "id": "20349004",
+        "itemNoGlobal": "20349004",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30217654",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-policovy-dil-bila-30217654/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-policovy-dil-bila__0627205_pe693221_s5.jpg",
+                    "imageAlt": "HEMNES Policový díl, bílá, 42x172 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 27,
+                    "name": "HEMNES",
+                    "typeName": "Policový díl",
+                    "itemMeasureReferenceText": "42x172 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-policovy-dil-bila__0627205_pe693221_s5.jpg",
+                    "mainImageAlt": "HEMNES Policový díl, bílá, 42x172 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-policovy-dil-bila__0381179_pe555929_s5.jpg",
+                    "itemNoGlobal": "30217654",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30217654",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 2990,
+                        "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "3 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 27,
+        "itemNo": "20349004",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2990,
+            "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "3 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-policovy-dil-seda__0490384_pe624422_s5.jpg",
+        "mainImageAlt": "HEMNES Policový díl, šedá, 42x172 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom small furniture",
+            "productAreaNo": "0612",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Úložné prostory HEMNES", "key": "700479" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20349004",
+    "name": "HEMNES",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }]
+}

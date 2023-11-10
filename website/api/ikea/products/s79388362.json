@@ -1,0 +1,10 @@
+{
+    "id": "s79388362",
+    "itemNo": "79388362",
+    "name": "LIXHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1592 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6392 }
+    ]
+}

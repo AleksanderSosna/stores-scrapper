@@ -1,1 +1,62 @@
-{ "id": "00436115", "name": "BILD", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "BILD",
+        "typeName": "Plakát",
+        "itemMeasureReferenceText": "30x40 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-modry-les-i__0664205_pe712685_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bild-plakat-modry-les-i-00436115/",
+        "id": "00436115",
+        "itemNoGlobal": "00436115",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00436115",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-modry-les-i__1048808_pe843913_s5.jpg",
+        "mainImageAlt": "BILD Plakát, Modrý les I, 30x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Plakáty", "key": "10787" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00436115",
+    "name": "BILD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

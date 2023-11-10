@@ -1,9 +1,0 @@
-{
-    "id": "99528050",
-    "name": "SKYTTA / PAX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6040 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 31740 }
-    ]
-}

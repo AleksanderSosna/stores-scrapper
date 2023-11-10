@@ -1,0 +1,10 @@
+{
+    "id": "s29904178",
+    "itemNo": "29904178",
+    "name": "BERGSBO",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1300 }
+    ]
+}

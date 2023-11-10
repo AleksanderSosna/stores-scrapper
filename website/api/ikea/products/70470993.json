@@ -1,1 +1,91 @@
-{ "id": "70470993", "name": "MITTBACK", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }] }
+{
+    "id": {
+        "name": "MITTBACK",
+        "typeName": "Podnoží",
+        "itemMeasureReferenceText": "58x70/93 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/mittback-podnozi-bila-masivni-drevo__0977888_pe813910_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/mittback-podnozi-bila-masivni-drevo-70470993/",
+        "id": "70470993",
+        "itemNoGlobal": "70470993",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30459997",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/mittback-podnozi-briza-30459997/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/mittback-podnozi-briza__0977887_pe813909_s5.jpg",
+                    "imageAlt": "MITTBACK Podnoží, bříza, 58x70/93 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 19,
+                    "name": "MITTBACK",
+                    "typeName": "Podnoží",
+                    "itemMeasureReferenceText": "58x70/93 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/mittback-podnozi-briza__0977887_pe813909_s5.jpg",
+                    "mainImageAlt": "MITTBACK Podnoží, bříza, 58x70/93 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/mittback-podnozi-briza__1105743_pe868443_s5.jpg",
+                    "itemNoGlobal": "30459997",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30459997",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1000,
+                        "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 19,
+        "itemNo": "70470993",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1000,
+            "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/mittback-podnozi-bila-masivni-drevo__1123387_pe874784_s5.jpg",
+        "mainImageAlt": "MITTBACK Podnoží, bílá masívní dřevo, 58x70/93 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Psací a počítačové stoly", "key": "20649" },
+            { "name": "Stoly a psací stoly", "key": "47423" },
+            { "name": "Systém stolů", "key": "11811" },
+            { "name": "Nohy a podstavce", "key": "11845" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70470993",
+    "name": "MITTBACK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }]
+}

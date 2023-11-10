@@ -1,0 +1,10 @@
+{
+    "id": "s49157985",
+    "itemNo": "49157985",
+    "name": "NESTTUN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

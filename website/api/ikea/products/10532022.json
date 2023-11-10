@@ -1,1 +1,84 @@
-{ "id": "10532022", "name": "LINDÖJA", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }] }
+{
+    "id": {
+        "name": "LINDÖJA",
+        "typeName": "Czasza parasola",
+        "itemMeasureReferenceText": "300 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lindoeja-czasza-parasola-jasny-szaro-bezowy__1186053_pe898656_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lindoeja-czasza-parasola-jasny-szaro-bezowy-10532022/",
+        "id": "10532022",
+        "itemNoGlobal": "10532022",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20532026",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lindoeja-czasza-parasola-antracyt-20532026/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lindoeja-czasza-parasola-antracyt__1186055_pe898658_s5.jpg",
+                    "imageAlt": "LINDÖJA Czasza parasola, antracyt, 300 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "LINDÖJA",
+                    "typeName": "Czasza parasola",
+                    "itemMeasureReferenceText": "300 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lindoeja-czasza-parasola-antracyt__1186055_pe898658_s5.jpg",
+                    "mainImageAlt": "LINDÖJA Czasza parasola, antracyt, 300 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lindoeja-czasza-parasola-antracyt__1185518_pe898450_s5.jpg",
+                    "itemNoGlobal": "20532026",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20532026",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 179,
+                        "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10532022",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lindoeja-czasza-parasola-jasny-szaro-bezowy__1173278_ph190467_s5.jpg",
+        "mainImageAlt": "LINDÖJA Czasza parasola, jasny szaro-beżowy, 300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10532022",
+    "name": "LINDÖJA",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }]
+}

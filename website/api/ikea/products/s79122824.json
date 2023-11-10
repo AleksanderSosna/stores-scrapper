@@ -1,0 +1,10 @@
+{
+    "id": "s79122824",
+    "itemNo": "79122824",
+    "name": "MERÅKER",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 525 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3200 }
+    ]
+}

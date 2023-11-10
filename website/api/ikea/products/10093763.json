@@ -1,1 +1,53 @@
-{ "id": "10093763", "name": "RÖNNSKÄR", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }] }
+{
+    "id": {
+        "name": "RÖNNSKÄR",
+        "typeName": "Policový díl",
+        "itemMeasureReferenceText": "42x103 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/roennskaer-policovy-dil-cerna__0721632_pe733305_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/roennskaer-policovy-dil-cerna-10093763/",
+        "id": "10093763",
+        "itemNoGlobal": "10093763",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 18,
+        "itemNo": "10093763",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/roennskaer-policovy-dil-cerna__0379913_pe554955_s5.jpg",
+        "mainImageAlt": "RÖNNSKÄR Policový díl, černá, 42x103 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom small furniture",
+            "productAreaNo": "0612",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Úložné prostory do koupelny", "key": "ba002" },
+            { "name": "Koupelnové policové díly", "key": "20804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10093763",
+    "name": "RÖNNSKÄR",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }]
+}

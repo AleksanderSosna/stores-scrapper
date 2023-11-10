@@ -1,0 +1,10 @@
+{
+    "id": "s49417177",
+    "itemNo": "49417177",
+    "name": "GURSKEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 977 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5179 }
+    ]
+}

@@ -1,1 +1,56 @@
-{ "id": "10032294", "name": "ABSORB", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "ABSORB",
+        "typeName": "Čistič kůže",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/absorb-cistic-kuze__0371546_pe551105_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/absorb-cistic-kuze-10032294/",
+        "id": "10032294",
+        "itemNoGlobal": "10032294",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 39,
+        "itemNo": "10032294",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "0,39 l",
+            "unitText": "l",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "ABSORB Čistič kůže",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Kits, tools and chemical products",
+            "productAreaNo": "1881",
+            "productRangeAreaName": "Clean, care & repair",
+            "productRangeAreaNo": "188"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Rozkládací pohovky a křesla", "key": "10663" },
+            { "name": "Díly a příslušenství k pohovkám", "key": "57538" },
+            { "name": "Opěrky a doplňky k pohovkám", "key": "42249" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10032294",
+    "name": "ABSORB",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

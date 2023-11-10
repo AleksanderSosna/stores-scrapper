@@ -1,1 +1,53 @@
-{ "id": "00504816", "name": "JÖRLUNDE", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "JÖRLUNDE",
+        "typeName": "Wycieraczka",
+        "itemMeasureReferenceText": "40x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/joerlunde-wycieraczka-wielobarwny__1015105_pe829875_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/joerlunde-wycieraczka-wielobarwny-00504816/",
+        "id": "00504816",
+        "itemNoGlobal": "00504816",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00504816",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/joerlunde-wycieraczka-wielobarwny__1015106_pe829877_s5.jpg",
+        "mainImageAlt": "JÖRLUNDE Wycieraczka, wielobarwny, 40x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Wycieraczki pod drzwi", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00504816",
+    "name": "JÖRLUNDE",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "69421951",
-    "name": "BESTÅ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1400 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8060 }
-    ]
-}

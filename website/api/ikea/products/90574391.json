@@ -1,1 +1,52 @@
-{ "id": "90574391", "name": "ALMONDY", "categoryKey": "fb001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 139 }] }
+{
+    "id": {
+        "name": "ALMONDY",
+        "typeName": "Dort mandlový, mraž.",
+        "itemMeasureReferenceText": "400 g",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/almondy-dort-mandlovy-mraz__1200802_pe905029_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/almondy-dort-mandlovy-mraz-90574391/",
+        "id": "90574391",
+        "itemNoGlobal": "90574391",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90574391",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 139,
+            "current": { "prefix": "", "wholeNumber": "139", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "0,4 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/almondy-dort-mandlovy-mraz__0800166_pe767777_s5.jpg",
+        "mainImageAlt": "ALMONDY Dort mandlový, mraž., 400 g",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Pastries, desserts and cookies",
+            "productAreaNo": "9615",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Potraviny a nápoje", "key": "fb001" },
+            { "name": "Pečivo, dezerty a sušenky", "key": "25215" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90574391",
+    "name": "ALMONDY",
+    "categoryKey": "fb001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 139 }]
+}

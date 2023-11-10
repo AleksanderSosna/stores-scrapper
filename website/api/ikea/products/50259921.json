@@ -1,1 +1,54 @@
-{ "id": "50259921", "name": "KRUSNING", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "KRUSNING",
+        "typeName": "Klosz lampy wiszącej",
+        "itemMeasureReferenceText": "85 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/krusning-klosz-lampy-wiszacej-bialy__0316144_pe516617_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/krusning-klosz-lampy-wiszacej-bialy-50259921/",
+        "id": "50259921",
+        "itemNoGlobal": "50259921",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 68,
+        "itemNo": "50259921",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/krusning-klosz-lampy-wiszacej-bialy__0880808_pe613084_s5.jpg",
+        "mainImageAlt": "KRUSNING Klosz lampy wiszącej, biały, 85 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Shades, bases and cord set",
+            "productAreaNo": "1015",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Klosze, podstawy i oprawki", "key": "10803" },
+            { "name": "Klosze i abażury do lamp", "key": "10804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50259921",
+    "name": "KRUSNING",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

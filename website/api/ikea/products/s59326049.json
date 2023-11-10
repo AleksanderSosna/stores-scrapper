@@ -1,0 +1,10 @@
+{
+    "id": "s59326049",
+    "itemNo": "59326049",
+    "name": "BERGSHULT / KROKSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 114.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 524 }
+    ]
+}

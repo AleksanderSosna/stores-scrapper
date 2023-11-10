@@ -1,1 +1,52 @@
-{ "id": "10549367", "name": "INSEKTSMAL", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }] }
+{
+    "id": {
+        "name": "INSEKTSMAL",
+        "typeName": "Końcówki, 1 para",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/insektsmal-koncowki-1-para-bialy-szklo__1157234_pe887543_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/insektsmal-koncowki-1-para-bialy-szklo-10549367/",
+        "id": "10549367",
+        "itemNoGlobal": "10549367",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10549367",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 30,
+            "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/insektsmal-koncowki-1-para-bialy-szklo__1157233_pe887544_s5.jpg",
+        "mainImageAlt": "INSEKTSMAL Końcówki, 1 para, biały/szkło",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Karnisze i akcesoria do zasłon", "key": "18891" },
+            { "name": "Końcówki i elementy karniszy", "key": "700426" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10549367",
+    "name": "INSEKTSMAL",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }]
+}

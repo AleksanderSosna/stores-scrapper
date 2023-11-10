@@ -1,1 +1,126 @@
-{ "id": "60372318", "name": "SKOGSÅ", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 14000 }] }
+{
+    "id": {
+        "name": "SKOGSÅ",
+        "typeName": "Pracovní deska na míru",
+        "itemMeasureReferenceText": "63.6-125x3.8 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0673817_pe717430_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skogsa-pracovni-deska-na-miru-dub-dyha-60372318/",
+        "id": "60372318",
+        "itemNoGlobal": "60372318",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "00372316",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/skogsa-pracovni-deska-na-miru-dub-dyha-00372316/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0673817_pe717430_s5.jpg",
+                    "imageAlt": "SKOGSÅ Pracovní deska na míru, dub/dýha, 30-45x3.8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.7,
+                    "ratingCount": 3,
+                    "name": "SKOGSÅ",
+                    "typeName": "Pracovní deska na míru",
+                    "itemMeasureReferenceText": "30-45x3.8 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0673817_pe717430_s5.jpg",
+                    "mainImageAlt": "SKOGSÅ Pracovní deska na míru, dub/dýha, 30-45x3.8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0869291_pe668949_s5.jpg",
+                    "itemNoGlobal": "00372316",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "00372316",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 6000,
+                        "current": { "prefix": "", "wholeNumber": "6 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80372317",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/skogsa-pracovni-deska-na-miru-dub-dyha-80372317/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0673817_pe717430_s5.jpg",
+                    "imageAlt": "SKOGSÅ Pracovní deska na míru, dub/dýha, 45.1-63.5x3.8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.7,
+                    "ratingCount": 3,
+                    "name": "SKOGSÅ",
+                    "typeName": "Pracovní deska na míru",
+                    "itemMeasureReferenceText": "45.1-63.5x3.8 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0673817_pe717430_s5.jpg",
+                    "mainImageAlt": "SKOGSÅ Pracovní deska na míru, dub/dýha, 45.1-63.5x3.8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0869291_pe668949_s5.jpg",
+                    "itemNoGlobal": "80372317",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "80372317",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 7500,
+                        "current": { "prefix": "", "wholeNumber": "7 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.7,
+        "ratingCount": 3,
+        "itemNo": "60372318",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 14000,
+            "current": { "prefix": "", "wholeNumber": "14 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsa-pracovni-deska-na-miru-dub-dyha__0869291_pe668949_s5.jpg",
+        "mainImageAlt": "SKOGSÅ Pracovní deska na míru, dub/dýha, 63.6-125x3.8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen worktops",
+            "productAreaNo": "0741",
+            "productRangeAreaName": "Kitchen worktops",
+            "productRangeAreaNo": "074"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské pracovní desky", "key": "24264" },
+            { "name": "Pracovní desky na míru", "key": "700420" },
+            { "name": "Pracovní desky ze silné dýhy na míru", "key": "700428" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60372318",
+    "name": "SKOGSÅ",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 14000 }]
+}

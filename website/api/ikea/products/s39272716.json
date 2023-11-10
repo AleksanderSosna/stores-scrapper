@@ -1,0 +1,10 @@
+{
+    "id": "s39272716",
+    "itemNo": "39272716",
+    "name": "TULLSTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
+    ]
+}

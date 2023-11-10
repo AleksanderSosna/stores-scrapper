@@ -1,1 +1,89 @@
-{ "id": "30548687", "name": "HOVKRATS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "HOVKRATS",
+        "typeName": "Pojemnik z pokrywą",
+        "itemMeasureReferenceText": "23x32x14 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hovkrats-pojemnik-z-pokrywa-jasnoszary__1128635_pe876654_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hovkrats-pojemnik-z-pokrywa-jasnoszary-30548687/",
+        "id": "30548687",
+        "itemNoGlobal": "30548687",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10548688",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hovkrats-pojemnik-z-pokrywa-jasnoszary-10548688/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hovkrats-pojemnik-z-pokrywa-jasnoszary__1128626_pe876646_s5.jpg",
+                    "imageAlt": "HOVKRATS Pojemnik z pokrywą, jasnoszary, 16x22x14 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 4,
+                    "name": "HOVKRATS",
+                    "typeName": "Pojemnik z pokrywą",
+                    "itemMeasureReferenceText": "16x22x14 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hovkrats-pojemnik-z-pokrywa-jasnoszary__1128626_pe876646_s5.jpg",
+                    "mainImageAlt": "HOVKRATS Pojemnik z pokrywą, jasnoszary, 16x22x14 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hovkrats-pojemnik-z-pokrywa-jasnoszary__1128625_pe876647_s5.jpg",
+                    "itemNoGlobal": "10548688",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10548688",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 14.99,
+                        "current": { "prefix": "", "wholeNumber": "14", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "30548687",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hovkrats-pojemnik-z-pokrywa-jasnoszary__1128625_pe876647_s5.jpg",
+        "mainImageAlt": "HOVKRATS Pojemnik z pokrywą, jasnoszary, 23x32x14 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boxes and baskets",
+            "productAreaNo": "1811",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Organizery na dokumenty i prasę", "key": "10551" },
+            { "name": "Pudełka kartonowe i ozdobne", "key": "16202" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30548687",
+    "name": "HOVKRATS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

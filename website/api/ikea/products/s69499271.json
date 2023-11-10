@@ -1,0 +1,10 @@
+{
+    "id": "s69499271",
+    "itemNo": "69499271",
+    "name": "MELLTORP / TOBIAS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 997 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5270 }
+    ]
+}

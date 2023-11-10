@@ -1,0 +1,10 @@
+{
+    "id": "s79489686",
+    "itemNo": "79489686",
+    "name": "HYLTARP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 22990 }
+    ]
+}

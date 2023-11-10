@@ -1,1 +1,143 @@
-{ "id": "70526773", "name": "UPPLÖV", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 425 }] }
+{
+    "id": {
+        "name": "UPPLÖV",
+        "typeName": "Drz sza nar 2 szt",
+        "itemMeasureReferenceText": "25x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-leworeczny-matowy-antracyt__1109790_pe870221_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/upploev-drz-sza-nar-2-szt-leworeczny-matowy-antracyt-70526773/",
+        "id": "70526773",
+        "itemNoGlobal": "70526773",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "80470488",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/upploev-drz-sza-nar-2-szt-leworeczny-matowy-ciemny-bez-80470488/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-leworeczny-matowy-ciemny-bez__1109792_pe870222_s5.jpg",
+                    "imageAlt": "UPPLÖV Drz sza nar 2 szt, leworęczny/Matowy ciemny beż, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPLÖV",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-leworeczny-matowy-ciemny-bez__1109792_pe870222_s5.jpg",
+                    "mainImageAlt": "UPPLÖV Drz sza nar 2 szt, leworęczny/Matowy ciemny beż, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-leworeczny-matowy-ciemny-bez__1155396_pe886599_s5.jpg",
+                    "itemNoGlobal": "80470488",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80470488",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 425,
+                        "current": { "prefix": "", "wholeNumber": "425", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80497402",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/upploev-drz-sza-nar-2-szt-praworeczny-matowy-ciemny-bez-80497402/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-ciemny-bez__1109794_pe870223_s5.jpg",
+                    "imageAlt": "UPPLÖV Drz sza nar 2 szt, praworęczny/Matowy ciemny beż, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPLÖV",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-ciemny-bez__1109794_pe870223_s5.jpg",
+                    "mainImageAlt": "UPPLÖV Drz sza nar 2 szt, praworęczny/Matowy ciemny beż, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-ciemny-bez__1155396_pe886599_s5.jpg",
+                    "itemNoGlobal": "80497402",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80497402",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 425,
+                        "current": { "prefix": "", "wholeNumber": "425", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "50526774",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/upploev-drz-sza-nar-2-szt-praworeczny-matowy-antracyt-50526774/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-antracyt__1109786_pe870219_s5.jpg",
+                    "imageAlt": "UPPLÖV Drz sza nar 2 szt, praworęczny/Matowy antracyt, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UPPLÖV",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-antracyt__1109786_pe870219_s5.jpg",
+                    "mainImageAlt": "UPPLÖV Drz sza nar 2 szt, praworęczny/Matowy antracyt, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-praworeczny-matowy-antracyt__1155405_pe886608_s5.jpg",
+                    "itemNoGlobal": "50526774",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50526774",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 425,
+                        "current": { "prefix": "", "wholeNumber": "425", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70526773",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 425,
+            "current": { "prefix": "", "wholeNumber": "425", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/upploev-drz-sza-nar-2-szt-leworeczny-matowy-antracyt__1155405_pe886608_s5.jpg",
+        "mainImageAlt": "UPPLÖV Drz sza nar 2 szt, leworęczny/Matowy antracyt, 25x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Antracytowe, matowe fronty UPPLÖV", "key": "700354" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70526773",
+    "name": "UPPLÖV",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 425 }]
+}

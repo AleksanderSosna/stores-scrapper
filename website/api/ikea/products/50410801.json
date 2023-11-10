@@ -1,1 +1,61 @@
-{ "id": "50410801", "name": "FILODENDRON", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "FILODENDRON",
+        "typeName": "Látka",
+        "itemMeasureReferenceText": "150 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/filodendron-latka-tm-modra-kvetinovy-vzor__0610129_pe684809_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/filodendron-latka-tm-modra-kvetinovy-vzor-50410801/",
+        "id": "50410801",
+        "itemNoGlobal": "50410801",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" },
+            { "name": "barevné", "id": "10583" }
+        ],
+        "badge": { "type": "TOP_SELLER", "text": "Nejprodávanější" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 40,
+        "itemNo": "50410801",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/filodendron-latka-tm-modra-kvetinovy-vzor__0888801_pe684808_s5.jpg",
+        "mainImageAlt": "FILODENDRON Látka, tm.modrá/květinový vzor, 150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Metre fabrics",
+            "productAreaNo": "1221",
+            "productRangeAreaName": "Fabrics and accessories",
+            "productRangeAreaNo": "122"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Metráž a šití", "key": "10655" },
+            { "name": "Látky", "key": "14349" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50410801",
+    "name": "FILODENDRON",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

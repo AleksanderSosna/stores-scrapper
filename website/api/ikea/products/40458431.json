@@ -1,1 +1,104 @@
-{ "id": "40458431", "name": "SMÅSPORRE", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "SMÅSPORRE",
+        "typeName": "Kołdra, bardzo ciepła",
+        "itemMeasureReferenceText": "200x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smasporre-koldra-bardzo-ciepla__0788319_pe763573_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smasporre-koldra-bardzo-ciepla-40458431/",
+        "id": "40458431",
+        "itemNoGlobal": "30458436",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40458426",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/smasporre-koldra-bardzo-ciepla-40458426/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/smasporre-koldra-bardzo-ciepla__0788318_pe763574_s5.jpg",
+                    "imageAlt": "SMÅSPORRE Kołdra, bardzo ciepła, 150x200 cm",
+                    "quickFacts": [{ "type": "TEMPERATURE", "id": "47464", "name": "Bardzo ciepła", "typeName": "Temperatura" }],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 143,
+                    "name": "SMÅSPORRE",
+                    "typeName": "Kołdra, bardzo ciepła",
+                    "itemMeasureReferenceText": "150x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smasporre-koldra-bardzo-ciepla__0788318_pe763574_s5.jpg",
+                    "mainImageAlt": "SMÅSPORRE Kołdra, bardzo ciepła, 150x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smasporre-koldra-bardzo-ciepla__1010050_pe827861_s5.jpg",
+                    "itemNoGlobal": "40458426",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40458426",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "previous": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "validFrom": "2023-10-03",
+                        "validTo": "2024-08-31",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nowa\nniższa\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [{ "type": "TEMPERATURE", "id": "47464", "name": "Bardzo ciepła", "typeName": "Temperatura" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 143,
+        "itemNo": "40458431",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "219", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "219", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-03",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smasporre-koldra-bardzo-ciepla__1010050_pe827861_s5.jpg",
+        "mainImageAlt": "SMÅSPORRE Kołdra, bardzo ciepła, 200x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvets",
+            "productAreaNo": "1121",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Kołdry", "key": "20529" },
+            { "name": "Kołdry poliestrowe", "key": "20530" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40458431",
+    "name": "SMÅSPORRE",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

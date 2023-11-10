@@ -1,0 +1,10 @@
+{
+    "id": "s49030500",
+    "itemNo": "49030500",
+    "name": "ASKVOLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
+    ]
+}

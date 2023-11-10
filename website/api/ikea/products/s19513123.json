@@ -1,0 +1,10 @@
+{
+    "id": "s19513123",
+    "itemNo": "19513123",
+    "name": "TOSSBERG / LÅNGFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5890 }
+    ]
+}

@@ -1,1 +1,89 @@
-{ "id": "90520478", "name": "GRUNDSJÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }
+{
+    "id": {
+        "name": "GRUNDSJÖ",
+        "typeName": "Puf",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grundsjoe-puf-djuparp-ciemnozielony__0997586_pe822709_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/grundsjoe-puf-djuparp-ciemnozielony-90520478/",
+        "id": "90520478",
+        "itemNoGlobal": "90520478",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90517032",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/grundsjoe-puf-gunnared-ciemnoszary-90517032/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/grundsjoe-puf-gunnared-ciemnoszary__0997549_pe822704_s5.jpg",
+                    "imageAlt": "GRUNDSJÖ Puf, Gunnared ciemnoszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.2,
+                    "ratingCount": 5,
+                    "name": "GRUNDSJÖ",
+                    "typeName": "Puf",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grundsjoe-puf-gunnared-ciemnoszary__0997549_pe822704_s5.jpg",
+                    "mainImageAlt": "GRUNDSJÖ Puf, Gunnared ciemnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grundsjoe-puf-gunnared-ciemnoszary__0997550_pe822706_s5.jpg",
+                    "itemNoGlobal": "90517032",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90517032",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.2,
+        "ratingCount": 5,
+        "itemNo": "90520478",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grundsjoe-puf-djuparp-ciemnozielony__0997587_pe822711_s5.jpg",
+        "mainImageAlt": "GRUNDSJÖ Puf, Djuparp ciemnozielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Footstools",
+            "productAreaNo": "0126",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Podnóżki i pufy", "key": "20926" },
+            { "name": "Podnóżki i pufy tapicerowane", "key": "20927" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90520478",
+    "name": "GRUNDSJÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }]
+}

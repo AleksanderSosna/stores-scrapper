@@ -1,1 +1,54 @@
-{ "id": "60392854", "name": "DUMLE", "categoryKey": "fb001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 22 }] }
+{
+    "id": {
+        "name": "DUMLE",
+        "typeName": "Toffi w czekoladzie",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dumle-toffi-w-czekoladzie__0753398_pe747615_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/dumle-toffi-w-czekoladzie-60392854/",
+        "id": "60392854",
+        "itemNoGlobal": "60392854",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 77,
+        "itemNo": "60392854",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 22,
+            "current": { "prefix": "", "wholeNumber": "22", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "0.27 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dumle-toffi-w-czekoladzie__0753399_pe747616_s5.jpg",
+        "mainImageAlt": "DUMLE Toffi w czekoladzie",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Sweets, chocolate & snacks",
+            "productAreaNo": "9616",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Jedzenie i napoje", "key": "fb001" },
+            { "name": "Przekąski i napoje na drogę", "key": "46192" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60392854",
+    "name": "DUMLE",
+    "categoryKey": "fb001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 22 }]
+}

@@ -1,1 +1,57 @@
-{ "id": "10544845", "name": "KÄGELKAKTUS", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }] }
+{
+    "id": {
+        "name": "KÄGELKAKTUS",
+        "typeName": "Sada s tyčí na závěsy",
+        "itemMeasureReferenceText": "120-210 cm 28 mm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kaegelkaktus-sada-s-tyci-na-zavesy-vzor-dub__1159073_pe888306_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kaegelkaktus-sada-s-tyci-na-zavesy-vzor-dub-10544845/",
+        "id": "10544845",
+        "itemNoGlobal": "10544845",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "hnědá", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10544845",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 799,
+            "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kaegelkaktus-sada-s-tyci-na-zavesy-vzor-dub__1159070_pe888303_s5.jpg",
+        "mainImageAlt": "KÄGELKAKTUS Sada s tyčí na závěsy, vzor dub, 120-210 cm 28 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Tyče a kolejnice na závěsy", "key": "18891" },
+            { "name": "Tyče na závěsy", "key": "18892" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10544845",
+    "name": "KÄGELKAKTUS",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }]
+}

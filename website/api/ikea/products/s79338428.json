@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "SUNNERSTA",
+        "typeName": "Organizer kuchenny zest",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-organizer-kuchenny-zest-bez-wiercenia-ociekarka-polka-uchw-papier-poj__0832840_pe777847_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sunnersta-organizer-kuchenny-zest-bez-wiercenia-ociekarka-polka-uchw-papier-poj-s79338428/",
+        "id": "s79338428",
+        "itemNoGlobal": "79338428",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3,
+        "ratingCount": 3,
+        "itemNo": "79338428",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 96,
+            "current": { "prefix": "", "wholeNumber": "96", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-organizer-kuchenny-zest-bez-wiercenia-ociekarka-polka-uchw-papier-poj__0832831_pe777841_s5.jpg",
+        "mainImageAlt": "SUNNERSTA Organizer kuchenny zest, bez wiercenia/ociekarka/półka/uchw papier/poj",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Półki do kuchni", "key": "20676" },
+            { "name": "Ścienne organizery kuchenne", "key": "20677" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "79338428",
+    "name": "SUNNERSTA",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 96 }]
+}

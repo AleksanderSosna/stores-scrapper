@@ -1,1 +1,54 @@
-{ "id": "60417425", "name": "SIVIRENE", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "SIVIRENE",
+        "typeName": "Záclona",
+        "itemMeasureReferenceText": "150x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sivirene-zaclona-bila__0615322_pe687244_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sivirene-zaclona-bila-60417425/",
+        "id": "60417425",
+        "itemNoGlobal": "60417425",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52517", "name": "Vytváří soukromí", "typeName": "Filtrace světla" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 20,
+        "itemNo": "60417425",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sivirene-zaclona-bila__0890864_pe677160_s5.jpg",
+        "mainImageAlt": "SIVIRENE Záclona, bílá, 150x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Závěsy", "key": "10700" },
+            { "name": "Závěsy propouštějící světlo", "key": "700220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60417425",
+    "name": "SIVIRENE",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

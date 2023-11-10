@@ -1,1 +1,53 @@
-{ "id": "60466246", "name": "PILLEMARK", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "PILLEMARK",
+        "typeName": "Rohožka, vnitřní",
+        "itemMeasureReferenceText": "50x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pillemark-rohozka-vnitrni-duha__0806525_pe769978_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/pillemark-rohozka-vnitrni-duha-60466246/",
+        "id": "60466246",
+        "itemNoGlobal": "60466246",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 44,
+        "itemNo": "60466246",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pillemark-rohozka-vnitrni-duha__0806524_pe769979_s5.jpg",
+        "mainImageAlt": "PILLEMARK Rohožka, vnitřní, duha, 50x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Rohožky", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60466246",
+    "name": "PILLEMARK",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

@@ -1,1 +1,91 @@
-{ "id": "10479326", "name": "FRÖSÖN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }] }
+{
+    "id": {
+        "name": "FRÖSÖN",
+        "typeName": "Pokrycie poduszkę krzesła",
+        "itemMeasureReferenceText": "35 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-ciemny-bezowo-zielony__0920302_pe786960_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-ciemny-bezowo-zielony-10479326/",
+        "id": "10479326",
+        "itemNoGlobal": "10479326",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30391709",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-bezowy-30391709/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-bezowy__0685057_pe721327_s5.jpg",
+                    "imageAlt": "FRÖSÖN Pokrycie poduszkę krzesła, zewnętrzne beżowy, 35 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "FRÖSÖN",
+                    "typeName": "Pokrycie poduszkę krzesła",
+                    "itemMeasureReferenceText": "35 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-bezowy__0685057_pe721327_s5.jpg",
+                    "mainImageAlt": "FRÖSÖN Pokrycie poduszkę krzesła, zewnętrzne beżowy, 35 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-bezowy__1175368_ph190460_s5.jpg",
+                    "itemNoGlobal": "30391709",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30391709",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 30,
+                        "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10479326",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 30,
+            "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrycie-poduszke-krzesla-zewnetrzne-ciemny-bezowo-zielony__0960353_pe806633_s5.jpg",
+        "mainImageAlt": "FRÖSÖN Pokrycie poduszkę krzesła, zewnętrzne/ciemny beżowo-zielony, 35 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10479326",
+    "name": "FRÖSÖN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }]
+}

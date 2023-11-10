@@ -1,9 +1,0 @@
-{
-    "id": "59502368",
-    "name": "PAX / GRIMO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1915 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10310 }
-    ]
-}

@@ -1,0 +1,10 @@
+{
+    "id": "s99251805",
+    "itemNo": "99251805",
+    "name": "PAX / MERÅKER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3990 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23200 }
+    ]
+}

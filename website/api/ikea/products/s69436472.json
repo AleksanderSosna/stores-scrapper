@@ -1,0 +1,10 @@
+{
+    "id": "s69436472",
+    "itemNo": "69436472",
+    "name": "HAUGA/BLECKBERGET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1327 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6970 }
+    ]
+}

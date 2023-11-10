@@ -1,9 +1,0 @@
-{
-    "id": "89296866",
-    "name": "EKEDALEN / EKEDALEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1197 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6970 }
-    ]
-}

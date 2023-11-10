@@ -1,1 +1,59 @@
-{ "id": "30554659", "name": "BERGHEMLOCK", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 449 }] }
+{
+    "id": {
+        "name": "BERGHEMLOCK",
+        "typeName": "Povlečení na jednolůžko",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/berghemlock-povleceni-na-jednoluzko-bila-fialova__1166039_pe891441_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/berghemlock-povleceni-na-jednoluzko-bila-fialova-30554659/",
+        "id": "30554659",
+        "itemNoGlobal": "30554659",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "fialová", "id": "10064", "hex": "a96ecc" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30554659",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/berghemlock-povleceni-na-jednoluzko-bila-fialova__1166058_pe891436_s5.jpg",
+        "mainImageAlt": "BERGHEMLOCK Povlečení na jednolůžko, bílá/fialová, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30554659",
+    "name": "BERGHEMLOCK",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 449 }]
+}

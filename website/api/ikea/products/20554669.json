@@ -1,1 +1,58 @@
-{ "id": "20554669", "name": "SOMMARVICKER", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }] }
+{
+    "id": {
+        "name": "SOMMARVICKER",
+        "typeName": "Povlečení na dvoulůžko",
+        "itemMeasureReferenceText": "200x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sommarvicker-povleceni-na-dvouluzko-modra-svetle-ruzova__1166072_pe891431_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sommarvicker-povleceni-na-dvouluzko-modra-svetle-ruzova-20554669/",
+        "id": "20554669",
+        "itemNoGlobal": "70554676",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "žlutá", "id": "10042", "hex": "ffdb00" },
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20554669",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sommarvicker-povleceni-na-dvouluzko-modra-svetle-ruzova__1166090_pe891425_s5.jpg",
+        "mainImageAlt": "SOMMARVICKER Povlečení na dvoulůžko, modrá/světle růžová, 200x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20554669",
+    "name": "SOMMARVICKER",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }]
+}

@@ -1,1 +1,64 @@
-{ "id": "80509853", "name": "KATEBO", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }] }
+{
+    "id": {
+        "name": "KATEBO",
+        "typeName": "Obraz",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/katebo-obraz-nasleduj-sve-srdce__0971375_pe811309_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/katebo-obraz-nasleduj-sve-srdce-80509853/",
+        "id": "80509853",
+        "itemNoGlobal": "80509853",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "žlutá", "id": "10042", "hex": "ffdb00" },
+            { "name": "fialová", "id": "10064", "hex": "a96ecc" },
+            { "name": "oranžová", "id": "10112", "hex": "ff9a02" },
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" },
+            { "name": "tyrkysová", "id": "10152", "hex": "77ddd0" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "80509853",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/katebo-obraz-nasleduj-sve-srdce__1050176_pe844752_s5.jpg",
+        "mainImageAlt": "KATEBO Obraz, následuj své srdce, 50x70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Umění k zavěšení", "key": "10788" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80509853",
+    "name": "KATEBO",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }]
+}

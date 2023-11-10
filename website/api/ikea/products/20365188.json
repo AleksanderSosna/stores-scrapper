@@ -1,1 +1,113 @@
-{ "id": "20365188", "name": "GALANT", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 899 }] }
+{
+    "id": {
+        "name": "GALANT",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "80x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okleina-debowa-bejcowana-na-bialo__0613464_pe686343_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-okleina-debowa-bejcowana-na-bialo-20365188/",
+        "id": "20365188",
+        "itemNoGlobal": "20365188",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "80365190",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-okl-jesionowa-bejcowana-na-czarno-80365190/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okl-jesionowa-bejcowana-na-czarno__0613470_pe686344_s5.jpg",
+                    "imageAlt": "GALANT Regał, okl jesionowa bejcowana na czarno, 80x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "80x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okl-jesionowa-bejcowana-na-czarno__0613470_pe686344_s5.jpg",
+                    "mainImageAlt": "GALANT Regał, okl jesionowa bejcowana na czarno, 80x120 cm",
+                    "itemNoGlobal": "80365190",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80365190",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 899,
+                        "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "40365192",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-bialy-40365192/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-bialy__0613466_pe686346_s5.jpg",
+                    "imageAlt": "GALANT Regał, biały, 80x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "80x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-bialy__0613466_pe686346_s5.jpg",
+                    "mainImageAlt": "GALANT Regał, biały, 80x120 cm",
+                    "itemNoGlobal": "40365192",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40365192",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 799,
+                        "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20365188",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "GALANT Regał, okleina dębowa bejcowana na biało, 80x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20365188",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 899 }]
+}

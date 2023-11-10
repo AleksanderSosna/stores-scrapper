@@ -1,9 +1,0 @@
-{
-    "id": "09502605",
-    "name": "VÅGSJÖN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.96 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 276 }
-    ]
-}

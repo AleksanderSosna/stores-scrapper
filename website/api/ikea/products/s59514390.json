@@ -1,0 +1,10 @@
+{
+    "id": "s59514390",
+    "itemNo": "59514390",
+    "name": "MÅRENÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

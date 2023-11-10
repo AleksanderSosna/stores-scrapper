@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "3místná pohovka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-zlatohneda__0817417_pe774005_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-zlatohneda-s09306690/",
+        "id": "s09306690",
+        "itemNoGlobal": "09306690",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s89306686",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-cerna-s89306686/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-cerna__0817413_pe774028_s5.jpg",
+                    "imageAlt": "VIMLE 3místná pohovka, s lenoškou/Grann/Bomstad černá",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "VIMLE",
+                    "typeName": "3místná pohovka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-cerna__0817413_pe774028_s5.jpg",
+                    "mainImageAlt": "VIMLE 3místná pohovka, s lenoškou/Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-cerna__0817412_pe774012_s5.jpg",
+                    "itemNoGlobal": "89306686",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89306686",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 39990,
+                        "current": { "prefix": "", "wholeNumber": "39 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "09306690",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 39990,
+            "current": { "prefix": "", "wholeNumber": "39 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-3mistna-pohovka-s-lenoskou-grann-bomstad-zlatohneda__0817416_pe774031_s5.jpg",
+        "mainImageAlt": "VIMLE 3místná pohovka, s lenoškou/Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Kožené a koženkové sedačky", "key": "10662" },
+            { "name": "Třímístné kožené pohovky", "key": "10691" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09306690",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 39990 }]
+}

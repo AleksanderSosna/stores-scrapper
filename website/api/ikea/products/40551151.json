@@ -1,1 +1,64 @@
-{ "id": "40551151", "name": "ANNAKAJSA", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }] }
+{
+    "id": {
+        "name": "ANNAKAJSA",
+        "typeName": "Zatemňující závěsy, 1 pár",
+        "itemMeasureReferenceText": "145x300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/annakajsa-zatemnujici-zavesy-1-par-sedo-modra__1136069_pe879262_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/annakajsa-zatemnujici-zavesy-1-par-sedo-modra-40551151/",
+        "id": "40551151",
+        "itemNoGlobal": "40551151",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "šedá", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52515", "name": "Ztmavují místnost", "typeName": "Filtrace světla" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 61,
+        "itemNo": "40551151",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1990,
+            "current": { "prefix": "", "wholeNumber": "1 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/annakajsa-zatemnujici-zavesy-1-par-sedo-modra__1136068_pe879258_s5.jpg",
+        "mainImageAlt": "ANNAKAJSA Zatemňující závěsy, 1 pár, šedo-modrá, 145x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Závěsy", "key": "10700" },
+            { "name": "Závěsy ztmavující místnost", "key": "700219" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40551151",
+    "name": "ANNAKAJSA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s49389706",
+    "itemNo": "49389706",
+    "name": "ESPEVÄR/VATNESTRÖM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4189 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 24190 }
+    ]
+}

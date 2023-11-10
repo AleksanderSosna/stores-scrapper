@@ -1,1 +1,59 @@
-{ "id": "60342595", "name": "KOLSJÖN", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "KOLSJÖN",
+        "typeName": "Sprchová hadice",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kolsjoen-sprchova-hadice-pochromovane__0755436_pe748415_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kolsjoen-sprchova-hadice-pochromovane-60342595/",
+        "id": "60342595",
+        "itemNoGlobal": "60342595",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 16,
+        "itemNo": "60342595",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kolsjoen-sprchova-hadice-pochromovane__0615247_ph148811_s5.jpg",
+        "mainImageAlt": "KOLSJÖN Sprchová hadice, pochromované",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Shower mixers and accessories",
+            "productAreaNo": "0632",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Sprchy", "key": "40690" },
+            { "name": "Sprchové hlavice", "key": "40692" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60342595",
+    "name": "KOLSJÖN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

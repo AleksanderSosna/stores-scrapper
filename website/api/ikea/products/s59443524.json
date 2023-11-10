@@ -1,0 +1,10 @@
+{
+    "id": "s59443524",
+    "itemNo": "59443524",
+    "name": "ESSEBODA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19990 }
+    ]
+}

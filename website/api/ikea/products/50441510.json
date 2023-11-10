@@ -1,1 +1,55 @@
-{ "id": "50441510", "name": "MARIEDAMM", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }] }
+{
+    "id": {
+        "name": "MARIEDAMM",
+        "typeName": "Stůl",
+        "itemMeasureReferenceText": "105 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/mariedamm-stul-tmave-seda__0799242_pe767513_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/mariedamm-stul-tmave-seda-50441510/",
+        "id": "50441510",
+        "itemNoGlobal": "50441510",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "badge": { "type": "TOP_SELLER", "text": "Nejprodávanější" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 12,
+        "itemNo": "50441510",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 6490,
+            "current": { "prefix": "", "wholeNumber": "6 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/mariedamm-stul-tmave-seda__0768536_pe754467_s5.jpg",
+        "mainImageAlt": "MARIEDAMM Stůl, tmavě šedá, 105 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Jídelní stoly", "key": "21825" },
+            { "name": "Jídelní stoly pro 4 osoby", "key": "21826" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50441510",
+    "name": "MARIEDAMM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }]
+}

@@ -1,1 +1,55 @@
-{ "id": "60441840", "name": "BILD", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "BILD",
+        "typeName": "Plakát",
+        "itemMeasureReferenceText": "61x91 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-andelika-cinska__0667800_pe714090_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bild-plakat-andelika-cinska-60441840/",
+        "id": "60441840",
+        "itemNoGlobal": "60441840",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60441840",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-andelika-cinska__1050044_pe844611_s5.jpg",
+        "mainImageAlt": "BILD Plakát, Andělika čínská, 61x91 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Plakáty", "key": "10787" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60441840",
+    "name": "BILD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

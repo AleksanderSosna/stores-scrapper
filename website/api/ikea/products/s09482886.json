@@ -1,0 +1,10 @@
+{
+    "id": "s09482886",
+    "itemNo": "09482886",
+    "name": "KIVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1700 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9000 }
+    ]
+}

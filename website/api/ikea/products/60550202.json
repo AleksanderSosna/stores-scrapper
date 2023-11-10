@@ -1,1 +1,59 @@
-{ "id": "60550202", "name": "BÄRFIS", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }] }
+{
+    "id": {
+        "name": "BÄRFIS",
+        "typeName": "Věšák na dveře",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/baerfis-vesak-na-dvere-nastavitelne__1179724_pe896052_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/baerfis-vesak-na-dvere-nastavitelne-60550202/",
+        "id": "60550202",
+        "itemNoGlobal": "50527127",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "60550202",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/baerfis-vesak-na-dvere-nastavitelne__1181998_pe896906_s5.jpg",
+        "mainImageAlt": "BÄRFIS Věšák na dveře, nastavitelné",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s small storage",
+            "productAreaNo": "0922",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Malé úložné prostory a organizéry", "key": "st007" },
+            { "name": "Ukládání oblečení", "key": "10452" },
+            { "name": "Dětské organizéry na oblečení a na boty", "key": "20477" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60550202",
+    "name": "BÄRFIS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }]
+}

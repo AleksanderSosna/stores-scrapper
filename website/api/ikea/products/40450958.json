@@ -1,1 +1,53 @@
-{ "id": "40450958", "name": "LÖFTESRIK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "LÖFTESRIK",
+        "typeName": "Komplet sztućców, 24 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/loeftesrik-komplet-sztuccow-24-szt-stal-nierdz__1203975_pe906554_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/loeftesrik-komplet-sztuccow-24-szt-stal-nierdz-40450958/",
+        "id": "40450958",
+        "itemNoGlobal": "40450958",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40450958",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/loeftesrik-komplet-sztuccow-24-szt-stal-nierdz__1203971_pe906553_s5.jpg",
+        "mainImageAlt": "LÖFTESRIK Komplet sztućców, 24 szt., stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Cutlery",
+            "productAreaNo": "1531",
+            "productRangeAreaName": "Cutlery",
+            "productRangeAreaNo": "153"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Sztućce stołowe", "key": "18865" },
+            { "name": "Komplety sztućców", "key": "18866" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40450958",
+    "name": "LÖFTESRIK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

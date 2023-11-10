@@ -1,0 +1,10 @@
+{
+    "id": "s99389855",
+    "itemNo": "99389855",
+    "name": "ESPEVÄR/VESTERÖY",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3088 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16980 }
+    ]
+}

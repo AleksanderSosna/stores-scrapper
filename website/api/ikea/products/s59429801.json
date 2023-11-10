@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "PAX / MEHAMN",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "150x66x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-mehamn-szafa-bezowy-2str-bezowy__1032021_pe836741_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-mehamn-szafa-bezowy-2str-bezowy-s59429801/",
+        "id": "s59429801",
+        "itemNoGlobal": "59429801",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59429801",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2100,
+            "current": { "prefix": "", "wholeNumber": "2 100", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-mehamn-szafa-bezowy-2str-bezowy__1182043_pe896925_s5.jpg",
+        "mainImageAlt": "PAX / MEHAMN Szafa, beżowy/2str beżowy, 150x66x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59429801",
+    "name": "PAX / MEHAMN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2100 }]
+}

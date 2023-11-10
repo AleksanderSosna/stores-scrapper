@@ -1,1 +1,59 @@
-{ "id": "60263729", "name": "MOLGAN", "categoryKey": "bc001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }] }
+{
+    "id": {
+        "name": "MOLGAN",
+        "typeName": "LED osvětlení",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/molgan-led-osvetleni-bila-na-baterie__0609826_pe684648_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/molgan-led-osvetleni-bila-na-baterie-60263729/",
+        "id": "60263729",
+        "itemNoGlobal": "60263729",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 34,
+        "itemNo": "60263729",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/molgan-led-osvetleni-bila-na-baterie__0737527_pe655215_s5.jpg",
+        "mainImageAlt": "MOLGAN LED osvětlení, bílá/na baterie",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Children's lighting",
+            "productAreaNo": "1018",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Pro děti a miminka", "key": "bc001" },
+            { "name": "Pokoj pro miminka", "key": "bc002" },
+            { "name": "Dětské osvětlení a lampy", "key": "18773" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60263729",
+    "name": "MOLGAN",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }]
+}

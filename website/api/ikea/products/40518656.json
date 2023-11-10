@@ -1,1 +1,56 @@
-{ "id": "40518656", "name": "UTBJUDA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }
+{
+    "id": {
+        "name": "UTBJUDA",
+        "typeName": "Nakładka na pudełko śniadaniowe",
+        "itemMeasureReferenceText": "0.3 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/utbjuda-nakladka-na-pudelko-sniadaniowe-na-jedzenie-suche-jasnoszarozielony__1062136_pe850677_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/utbjuda-nakladka-na-pudelko-sniadaniowe-na-jedzenie-suche-jasnoszarozielony-40518656/",
+        "id": "40518656",
+        "itemNoGlobal": "40518656",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 4,
+        "itemNo": "40518656",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 9.99,
+            "current": { "prefix": "", "wholeNumber": "9", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/utbjuda-nakladka-na-pudelko-sniadaniowe-na-jedzenie-suche-jasnoszarozielony__1062134_pe850678_s5.jpg",
+        "mainImageAlt": "UTBJUDA Nakładka na pudełko śniadaniowe, na jedzenie suche jasnoszarozielony, 0.3 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eat and drink on the go",
+            "productAreaNo": "1561",
+            "productRangeAreaName": "On the go",
+            "productRangeAreaNo": "156"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Pojemniki na żywność", "key": "20606" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40518656",
+    "name": "UTBJUDA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }]
+}

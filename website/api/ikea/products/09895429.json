@@ -1,9 +1,0 @@
-{
-    "id": "09895429",
-    "name": "PAX",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1350 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7400 }
-    ]
-}

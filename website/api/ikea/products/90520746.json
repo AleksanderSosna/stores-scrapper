@@ -1,1 +1,91 @@
-{ "id": "90520746", "name": "KOLBJÖRN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }] }
+{
+    "id": {
+        "name": "KOLBJÖRN",
+        "typeName": "Szafka wew/zew",
+        "itemMeasureReferenceText": "80x81 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kolbjoern-szafka-wew-zew-brazowoczerwony__1137780_pe879734_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kolbjoern-szafka-wew-zew-brazowoczerwony-90520746/",
+        "id": "90520746",
+        "itemNoGlobal": "90520746",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30409295",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kolbjoern-szafka-wew-zew-bezowy-30409295/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kolbjoern-szafka-wew-zew-bezowy__0664606_pe718444_s5.jpg",
+                    "imageAlt": "KOLBJÖRN Szafka wew/zew, beżowy, 80x81 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 26,
+                    "name": "KOLBJÖRN",
+                    "typeName": "Szafka wew/zew",
+                    "itemMeasureReferenceText": "80x81 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kolbjoern-szafka-wew-zew-bezowy__0664606_pe718444_s5.jpg",
+                    "mainImageAlt": "KOLBJÖRN Szafka wew/zew, beżowy, 80x81 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kolbjoern-szafka-wew-zew-bezowy__0664603_pe718441_s5.jpg",
+                    "itemNoGlobal": "30409295",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30409295",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 499,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 26,
+        "itemNo": "90520746",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kolbjoern-szafka-wew-zew-brazowoczerwony__1155894_pe886757_s5.jpg",
+        "mainImageAlt": "KOLBJÖRN Szafka wew/zew, brązowoczerwony, 80x81 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor approved storage",
+            "productAreaNo": "1714",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały do przechowywania", "key": "10397" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90520746",
+    "name": "KOLBJÖRN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }]
+}

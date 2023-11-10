@@ -1,0 +1,10 @@
+{
+    "id": "s79424044",
+    "itemNo": "79424044",
+    "name": "SKYTTA / HOKKSUND/AULI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3875 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20700 }
+    ]
+}

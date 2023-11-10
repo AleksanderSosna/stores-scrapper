@@ -1,1 +1,89 @@
-{ "id": "40508884", "name": "SAGOGRYN", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "SAGOGRYN",
+        "typeName": "Osłonka doniczki",
+        "itemMeasureReferenceText": "9 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sagogryn-oslonka-doniczki-szary-wykonano-recznie__1132726_pe878267_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sagogryn-oslonka-doniczki-szary-wykonano-recznie-40508884/",
+        "id": "40508884",
+        "itemNoGlobal": "40508884",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40526944",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sagogryn-oslonka-doniczki-szary-wykonano-recznie-40526944/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sagogryn-oslonka-doniczki-szary-wykonano-recznie__1132746_pe878282_s5.jpg",
+                    "imageAlt": "SAGOGRYN Osłonka doniczki, szary/wykonano ręcznie, 13 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "SAGOGRYN",
+                    "typeName": "Osłonka doniczki",
+                    "itemMeasureReferenceText": "13 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sagogryn-oslonka-doniczki-szary-wykonano-recznie__1132746_pe878282_s5.jpg",
+                    "mainImageAlt": "SAGOGRYN Osłonka doniczki, szary/wykonano ręcznie, 13 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sagogryn-oslonka-doniczki-szary-wykonano-recznie__1132743_pe878281_s5.jpg",
+                    "itemNoGlobal": "40526944",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "40526944",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 59.99,
+                        "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "40508884",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sagogryn-oslonka-doniczki-szary-wykonano-recznie__1132723_pe878266_s5.jpg",
+        "mainImageAlt": "SAGOGRYN Osłonka doniczki, szary/wykonano ręcznie, 9 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Doniczki i donice", "key": "pp004" },
+            { "name": "Doniczki do wewnątrz", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "40508884",
+    "name": "SAGOGRYN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

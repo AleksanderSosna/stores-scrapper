@@ -1,0 +1,66 @@
+{
+    "id": {
+        "name": "BESTÅ",
+        "typeName": "Witryna",
+        "itemMeasureReferenceText": "120x42x38 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-witryna-imitacja-debu-bejcowanego-na-bialo-glassvik-biale-matowe-szklo__0352751_pe537346_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/besta-witryna-imitacja-debu-bejcowanego-na-bialo-glassvik-biale-matowe-szklo-s49047831/",
+        "id": "s49047831",
+        "itemNoGlobal": "49047831",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49047831",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 485,
+            "current": { "prefix": "", "wholeNumber": "485", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "505", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "505", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-02",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-witryna-imitacja-debu-bejcowanego-na-bialo-glassvik-biale-matowe-szklo__0764625_pe753248_s5.jpg",
+        "mainImageAlt": "BESTÅ Witryna, imitacja dębu bejcowanego na biało/Glassvik białe/matowe szkło, 120x42x38 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "System furniture",
+            "productAreaNo": "0211",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Systemy przechowywania do pokoju dziennego", "key": "29882" },
+            { "name": "System modułowy BESTÅ", "key": "46053" },
+            { "name": "Szafki modułowe BESTÅ", "key": "700226" },
+            { "name": "Szafki stojące BESTÅ", "key": "55031" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "49047831",
+    "name": "BESTÅ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 485 }]
+}

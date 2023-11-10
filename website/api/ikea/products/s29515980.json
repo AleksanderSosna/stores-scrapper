@@ -1,0 +1,88 @@
+{
+    "id": {
+        "name": "SKÅDIS",
+        "typeName": "Tablica perforowana kombinacja",
+        "itemMeasureReferenceText": "76x56 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skadis-tablica-perforowana-kombinacja-czarny__1205034_pe906916_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/skadis-tablica-perforowana-kombinacja-czarny-s29515980/",
+        "id": "s29515980",
+        "itemNoGlobal": "29515980",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s89515977",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/skadis-tablica-perforowana-kombinacja-bialy-s89515977/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/skadis-tablica-perforowana-kombinacja-bialy__1205035_pe906917_s5.jpg",
+                    "imageAlt": "SKÅDIS Tablica perforowana kombinacja, biały, 76x56 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "SKÅDIS",
+                    "typeName": "Tablica perforowana kombinacja",
+                    "itemMeasureReferenceText": "76x56 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skadis-tablica-perforowana-kombinacja-bialy__1205035_pe906917_s5.jpg",
+                    "mainImageAlt": "SKÅDIS Tablica perforowana kombinacja, biały, 76x56 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skadis-tablica-perforowana-kombinacja-bialy__1205060_pe906927_s5.jpg",
+                    "itemNoGlobal": "89515977",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89515977",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 128.99,
+                        "current": { "prefix": "", "wholeNumber": "128", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "29515980",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 128.99,
+            "current": { "prefix": "", "wholeNumber": "128", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skadis-tablica-perforowana-kombinacja-czarny__1205064_pe906928_s5.jpg",
+        "mainImageAlt": "SKÅDIS Tablica perforowana kombinacja, czarny, 76x56 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Haki, półki i tablice", "key": "st006" },
+            { "name": "Tablice ścienne i akcesoria", "key": "37900" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29515980",
+    "name": "SKÅDIS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 128.99 }]
+}

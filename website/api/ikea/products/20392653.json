@@ -1,1 +1,54 @@
-{ "id": "20392653", "name": "PEPPARKORN", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }] }
+{
+    "id": {
+        "name": "PEPPARKORN",
+        "typeName": "Wazon",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pepparkorn-wazon-niebieski__0577478_pe668880_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pepparkorn-wazon-niebieski-20392653/",
+        "id": "20392653",
+        "itemNoGlobal": "20392653",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 19,
+        "itemNo": "20392653",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 69.99,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pepparkorn-wazon-niebieski__0904089_pe669999_s5.jpg",
+        "mainImageAlt": "PEPPARKORN Wazon, niebieski, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Vases, bowls and accessories",
+            "productAreaNo": "1633",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Wazony i misy dekoracyjne", "key": "10769" },
+            { "name": "Wazony", "key": "10776" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "20392653",
+    "name": "PEPPARKORN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }]
+}

@@ -1,0 +1,88 @@
+{
+    "id": {
+        "name": "ESKILSTUNA",
+        "typeName": "Sofa 3-osobowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-gunnared-niebieski__1215502_pe912024_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/eskilstuna-sofa-3-osobowa-gunnared-niebieski-s79520187/",
+        "id": "s79520187",
+        "itemNoGlobal": "79520187",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s39520189",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/eskilstuna-sofa-3-osobowa-hillared-antracyt-s39520189/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-hillared-antracyt__1256235_pe924960_s5.jpg",
+                    "imageAlt": "ESKILSTUNA Sofa 3-osobowa, Hillared antracyt",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ESKILSTUNA",
+                    "typeName": "Sofa 3-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-hillared-antracyt__1256235_pe924960_s5.jpg",
+                    "mainImageAlt": "ESKILSTUNA Sofa 3-osobowa, Hillared antracyt",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-hillared-antracyt__1256230_pe924955_s5.jpg",
+                    "itemNoGlobal": "39520189",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39520189",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4799,
+                        "current": { "prefix": "", "wholeNumber": "4 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79520187",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4799,
+            "current": { "prefix": "", "wholeNumber": "4 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-gunnared-niebieski__1215501_pe912022_s5.jpg",
+        "mainImageAlt": "ESKILSTUNA Sofa 3-osobowa, Gunnared niebieski",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy tapicerowane", "key": "10661" },
+            { "name": "Sofy tapicerowane, 3-osobowe", "key": "10670" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79520187",
+    "name": "ESKILSTUNA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4799 }]
+}

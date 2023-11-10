@@ -1,0 +1,10 @@
+{
+    "id": "s29389533",
+    "itemNo": "29389533",
+    "name": "ESPEVÄR/VESTMARKA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1919 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12690 }
+    ]
+}

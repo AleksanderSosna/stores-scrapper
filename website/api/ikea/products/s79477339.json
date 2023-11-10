@@ -1,0 +1,90 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "2místná rozkládací pohovka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-zlatohneda__0817317_pe773957_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-zlatohneda-s79477339/",
+        "id": "s79477339",
+        "itemNoGlobal": "79477339",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09477333",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-cerna-s09477333/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-cerna__0817314_pe773955_s5.jpg",
+                    "imageAlt": "VIMLE 2místná rozkládací pohovka, Grann/Bomstad černá",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "ratingValue": 1,
+                    "ratingCount": 1,
+                    "name": "VIMLE",
+                    "typeName": "2místná rozkládací pohovka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-cerna__0817314_pe773955_s5.jpg",
+                    "mainImageAlt": "VIMLE 2místná rozkládací pohovka, Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-cerna__0817360_pe773991_s5.jpg",
+                    "itemNoGlobal": "09477333",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09477333",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 31490,
+                        "current": { "prefix": "", "wholeNumber": "31 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 1,
+        "ratingCount": 1,
+        "itemNo": "79477339",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 31490,
+            "current": { "prefix": "", "wholeNumber": "31 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistna-rozkladaci-pohovka-grann-bomstad-zlatohneda__0817363_pe773989_s5.jpg",
+        "mainImageAlt": "VIMLE 2místná rozkládací pohovka, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Rozkládací pohovky a křesla", "key": "10663" },
+            { "name": "Rozkládací pohovky a sedací soupravy", "key": "20874" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "79477339",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 31490 }]
+}

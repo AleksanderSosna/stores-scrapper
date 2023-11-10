@@ -1,0 +1,10 @@
+{
+    "id": "s39281725",
+    "itemNo": "39281725",
+    "name": "ÅHEIM",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 425 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2200 }
+    ]
+}

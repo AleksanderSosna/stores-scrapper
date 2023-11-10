@@ -1,9 +1,0 @@
-{
-    "id": "59441515",
-    "name": "UPPSPEL / GRUPPSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4597 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 22970 }
-    ]
-}

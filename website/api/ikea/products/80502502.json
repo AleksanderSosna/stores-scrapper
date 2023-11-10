@@ -1,1 +1,100 @@
-{ "id": "80502502", "name": "KABOMBA", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }] }
+{
+    "id": {
+        "name": "KABOMBA",
+        "typeName": "LED stropní lampa",
+        "itemMeasureReferenceText": "36 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kabomba-led-stropni-lampa-pochromovane-lesteno__0990154_pe818779_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kabomba-led-stropni-lampa-pochromovane-lesteno-80502502/",
+        "id": "80502502",
+        "itemNoGlobal": "80502502",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60485278",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/kabomba-led-stropni-lampa-matne-cerna-60485278/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/kabomba-led-stropni-lampa-matne-cerna__0990155_pe818782_s5.jpg",
+                    "imageAlt": "KABOMBA LED stropní lampa, matné/černá, 36 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "KABOMBA",
+                    "typeName": "LED stropní lampa",
+                    "itemMeasureReferenceText": "36 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kabomba-led-stropni-lampa-matne-cerna__0990155_pe818782_s5.jpg",
+                    "mainImageAlt": "KABOMBA LED stropní lampa, matné/černá, 36 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kabomba-led-stropni-lampa-matne-cerna__1010968_pe828367_s5.jpg",
+                    "itemNoGlobal": "60485278",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60485278",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1690,
+                        "current": { "prefix": "", "wholeNumber": "1 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "1 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "80502502",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1690,
+            "current": { "prefix": "", "wholeNumber": "1 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "1 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kabomba-led-stropni-lampa-pochromovane-lesteno__1010967_pe828366_s5.jpg",
+        "mainImageAlt": "KABOMBA LED stropní lampa, pochromované/leštěno, 36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Ceiling lamps and spotlights",
+            "productAreaNo": "1014",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Stropní lampy", "key": "18750" },
+            { "name": "Stropní lampy", "key": "18752" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80502502",
+    "name": "KABOMBA",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }]
+}

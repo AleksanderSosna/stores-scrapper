@@ -1,0 +1,10 @@
+{
+    "id": "s79295462",
+    "itemNo": "79295462",
+    "name": "GODMORGON / TOLKEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1049 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7390 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s79485834",
+    "itemNo": "79485834",
+    "name": "BILLY / HÖGBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1495 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9270 }
+    ]
+}

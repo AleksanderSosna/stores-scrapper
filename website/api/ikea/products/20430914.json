@@ -1,1 +1,58 @@
-{ "id": "20430914", "name": "TORDH", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 200 }] }
+{
+    "id": {
+        "name": "TORDH",
+        "typeName": "Stojna, venkovní",
+        "itemMeasureReferenceText": "161 cm 2 ks",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tordh-stojna-venkovni-hnede-moridlo__0763261_pe761780_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tordh-stojna-venkovni-hnede-moridlo-20430914/",
+        "id": "20430914",
+        "itemNoGlobal": "20430914",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "20430914",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 200,
+            "current": { "prefix": "", "wholeNumber": "200", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "300", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-08-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. srpna 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tordh-stojna-venkovni-hnede-moridlo__0813252_pe772343_s5.jpg",
+        "mainImageAlt": "TORDH Stojna, venkovní, hnědé mořidlo, 161 cm 2 ks",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor approved storage",
+            "productAreaNo": "1714",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní úložné prostory", "key": "21958" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20430914",
+    "name": "TORDH",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 200 }]
+}

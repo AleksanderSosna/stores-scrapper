@@ -1,1 +1,120 @@
-{ "id": "70428112", "name": "GRUNNARP", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2399 }] }
+{
+    "id": {
+        "name": "GRUNNARP",
+        "typeName": "Rozkładana sofa 3-osobowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-gunnared-ciemnoszary__0666760_pe713649_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/grunnarp-rozkladana-sofa-3-osobowa-gunnared-ciemnoszary-70428112/",
+        "id": "70428112",
+        "itemNoGlobal": "70428112",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "80485630",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/grunnarp-rozkladana-sofa-3-osobowa-jasnoszary-80485630/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-jasnoszary__0947896_pe798714_s5.jpg",
+                    "imageAlt": "GRUNNARP Rozkładana sofa 3-osobowa, jasnoszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 83,
+                    "name": "GRUNNARP",
+                    "typeName": "Rozkładana sofa 3-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-jasnoszary__0947896_pe798714_s5.jpg",
+                    "mainImageAlt": "GRUNNARP Rozkładana sofa 3-osobowa, jasnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-jasnoszary__0947897_pe798715_s5.jpg",
+                    "itemNoGlobal": "80485630",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80485630",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2199,
+                        "current": { "prefix": "", "wholeNumber": "2 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "60485631",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/grunnarp-rozkladana-sofa-3-osobowa-rozowy-60485631/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-rozowy__0947908_pe798735_s5.jpg",
+                    "imageAlt": "GRUNNARP Rozkładana sofa 3-osobowa, różowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 83,
+                    "name": "GRUNNARP",
+                    "typeName": "Rozkładana sofa 3-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-rozowy__0947908_pe798735_s5.jpg",
+                    "mainImageAlt": "GRUNNARP Rozkładana sofa 3-osobowa, różowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-rozowy__0947909_pe798736_s5.jpg",
+                    "itemNoGlobal": "60485631",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60485631",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2199,
+                        "current": { "prefix": "", "wholeNumber": "2 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 83,
+        "itemNo": "70428112",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2399,
+            "current": { "prefix": "", "wholeNumber": "2 399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grunnarp-rozkladana-sofa-3-osobowa-gunnared-ciemnoszary__0835769_pe713647_s5.jpg",
+        "mainImageAlt": "GRUNNARP Rozkładana sofa 3-osobowa, Gunnared ciemnoszary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy i fotele rozkładane", "key": "10663" },
+            { "name": "Sofy i narożniki rozkładane", "key": "20874" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70428112",
+    "name": "GRUNNARP",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2399 }]
+}

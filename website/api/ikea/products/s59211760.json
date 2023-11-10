@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Komoda se 6 zásuvkami",
+        "itemMeasureReferenceText": "80x99 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-6-zasuvkami-bila-antracit__0555364_pe660436_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-komoda-se-6-zasuvkami-bila-antracit-s59211760/",
+        "id": "s59211760",
+        "itemNoGlobal": "59211760",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59211760",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 6990,
+            "current": { "prefix": "", "wholeNumber": "6 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-6-zasuvkami-bila-antracit__0858536_pe693368_s5.jpg",
+        "mainImageAlt": "NORDLI Komoda se 6 zásuvkami, bílá/antracit, 80x99 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Chest of drawers",
+            "productAreaNo": "0431",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Komody a zásuvkové díly", "key": "st004" },
+            { "name": "Komody", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "59211760",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }]
+}

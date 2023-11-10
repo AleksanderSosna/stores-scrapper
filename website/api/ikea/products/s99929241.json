@@ -1,0 +1,10 @@
+{
+    "id": "s99929241",
+    "itemNo": "99929241",
+    "name": "RÄCKA",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
+    ]
+}

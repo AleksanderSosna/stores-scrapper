@@ -1,1 +1,54 @@
-{ "id": "70542594", "name": "VINDSTILLA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }] }
+{
+    "id": {
+        "name": "VINDSTILLA",
+        "typeName": "Svícen na čaj. svíčky",
+        "itemMeasureReferenceText": "11 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vindstilla-svicen-na-caj-svicky-seda__1147687_pe883408_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vindstilla-svicen-na-caj-svicky-seda-70542594/",
+        "id": "70542594",
+        "itemNoGlobal": "70542594",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "70542594",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vindstilla-svicen-na-caj-svicky-seda__1147686_pe883409_s5.jpg",
+        "mainImageAlt": "VINDSTILLA Svícen na čaj. svíčky, šedá, 11 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Svícny", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70542594",
+    "name": "VINDSTILLA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }]
+}

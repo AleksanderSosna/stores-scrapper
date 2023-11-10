@@ -1,0 +1,101 @@
+{
+    "id": {
+        "name": "IVAR",
+        "typeName": "4 části/police/skříňka",
+        "itemMeasureReferenceText": "344x30x226 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-4-casti-police-skrinka-borovice-bila-sit__0934465_pe792418_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-4-casti-police-skrinka-borovice-bila-sit-s69395749/",
+        "id": "s69395749",
+        "itemNoGlobal": "69395749",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s29248208",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-4-casti-police-skrinka-borovice-bila-s29248208/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-4-casti-police-skrinka-borovice-bila__0606362_pe682266_s5.jpg",
+                    "imageAlt": "IVAR 4 části/police/skříňka, borovice/bílá, 344x30x226 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "IVAR",
+                    "typeName": "4 části/police/skříňka",
+                    "itemMeasureReferenceText": "344x30x226 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-4-casti-police-skrinka-borovice-bila__0606362_pe682266_s5.jpg",
+                    "mainImageAlt": "IVAR 4 části/police/skříňka, borovice/bílá, 344x30x226 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-4-casti-police-skrinka-borovice-bila__0662932_ph152937_s5.jpg",
+                    "itemNoGlobal": "29248208",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "29248208",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 15990,
+                        "current": { "prefix": "", "wholeNumber": "15 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "16 590", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69395749",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15990,
+            "current": { "prefix": "", "wholeNumber": "15 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "16 590", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-4-casti-police-skrinka-borovice-bila-sit__0934466_pe792419_s5.jpg",
+        "mainImageAlt": "IVAR 4 části/police/skříňka, borovice/bílá síť, 344x30x226 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Úložné systémy do obývacího pokoje", "key": "29882" },
+            { "name": "Systém IVAR", "key": "11703" },
+            { "name": "Sestavy a kombinace IVAR", "key": "11704" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "69395749",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }]
+}

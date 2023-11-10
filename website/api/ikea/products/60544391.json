@@ -1,1 +1,57 @@
-{ "id": "60544391", "name": "SKYNKE", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 39 }] }
+{
+    "id": {
+        "name": "SKYNKE",
+        "typeName": "Nákupní taška",
+        "itemMeasureReferenceText": "45x36 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skynke-nakupni-taska-modra-bila__1166272_pe891097_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skynke-nakupni-taska-modra-bila-60544391/",
+        "id": "60544391",
+        "itemNoGlobal": "60544391",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 241,
+        "itemNo": "60544391",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 39,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skynke-nakupni-taska-modra-bila__1166270_pe891096_s5.jpg",
+        "mainImageAlt": "SKYNKE Nákupní taška, modrá/bílá, 45x36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Bags and travel accessories",
+            "productAreaNo": "1836",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Tašky", "key": "16248" },
+            { "name": "Nákupní tašky", "key": "16295" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60544391",
+    "name": "SKYNKE",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 39 }]
+}

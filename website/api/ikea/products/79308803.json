@@ -1,9 +1,0 @@
-{
-    "id": "79308803",
-    "name": "HÅLLBAR",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 798 }
-    ]
-}

@@ -1,1 +1,54 @@
-{ "id": "20167485", "name": "COCOS NUCIFERA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "COCOS NUCIFERA",
+        "typeName": "Roślina doniczkowa",
+        "itemMeasureReferenceText": "19 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/cocos-nucifera-roslina-doniczkowa-orzech-kokosowy__0653968_pe708197_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/cocos-nucifera-roslina-doniczkowa-orzech-kokosowy-20167485/",
+        "id": "20167485",
+        "itemNoGlobal": "20167485",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 19,
+        "itemNo": "20167485",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/cocos-nucifera-roslina-doniczkowa-orzech-kokosowy__1176133_pe895414_s5.jpg",
+        "mainImageAlt": "COCOS NUCIFERA Roślina doniczkowa, orzech kokosowy, 19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Donice, rośliny i akcesoria ogrodowe", "key": "31787" },
+            { "name": "Rośliny doniczkowe i sukulenty", "key": "10779" },
+            { "name": "Duże rośliny doniczkowe", "key": "700524" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20167485",
+    "name": "COCOS NUCIFERA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

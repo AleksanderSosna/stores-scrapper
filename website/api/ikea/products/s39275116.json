@@ -1,0 +1,99 @@
+{
+    "id": {
+        "name": "HAVSTA",
+        "typeName": "Vitrína se soklem",
+        "itemMeasureReferenceText": "121x37x134 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-se-soklem-seda-cire-sklo__0720152_pe732447_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-vitrina-se-soklem-seda-cire-sklo-s39275116/",
+        "id": "s39275116",
+        "itemNoGlobal": "39275116",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79275119",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-vitrina-se-soklem-bile-cire-sklo-s79275119/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-se-soklem-bile-cire-sklo__0720161_pe732458_s5.jpg",
+                    "imageAlt": "HAVSTA Vitrína se soklem, bílé čiré sklo, 121x37x134 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 8,
+                    "name": "HAVSTA",
+                    "typeName": "Vitrína se soklem",
+                    "itemMeasureReferenceText": "121x37x134 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-se-soklem-bile-cire-sklo__0720161_pe732458_s5.jpg",
+                    "mainImageAlt": "HAVSTA Vitrína se soklem, bílé čiré sklo, 121x37x134 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-se-soklem-bile-cire-sklo__1052145_pe845954_s5.jpg",
+                    "itemNoGlobal": "79275119",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79275119",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 9490,
+                        "current": { "prefix": "", "wholeNumber": "9 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "10 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 8,
+        "itemNo": "39275116",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 9490,
+            "current": { "prefix": "", "wholeNumber": "9 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "10 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-se-soklem-seda-cire-sklo__1052163_pe845966_s5.jpg",
+        "mainImageAlt": "HAVSTA Vitrína se soklem, šedá/čiré sklo, 121x37x134 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Display cabinets",
+            "productAreaNo": "0221",
+            "productRangeAreaName": "Display furniture",
+            "productRangeAreaNo": "022"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Vitríny", "key": "10410" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39275116",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }]
+}

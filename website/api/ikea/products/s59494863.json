@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "TORPARÖ",
+        "typeName": "Stół ogrodowy i 2 składane krzesła",
+        "itemMeasureReferenceText": "50 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-stol-ogrodowy-i-2-skladane-krzesla-bialy-bialy-szary__1146140_pe882913_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/torparoe-stol-ogrodowy-i-2-skladane-krzesla-bialy-bialy-szary-s59494863/",
+        "id": "s59494863",
+        "itemNoGlobal": "59494863",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59494863",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299.97,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": ",", "decimals": "97", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-stol-ogrodowy-i-2-skladane-krzesla-bialy-bialy-szary__1185538_pe898433_s5.jpg",
+        "mainImageAlt": "TORPARÖ Stół ogrodowy i 2 składane krzesła, biały/biały/szary, 50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59494863",
+    "name": "TORPARÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299.97 }]
+}

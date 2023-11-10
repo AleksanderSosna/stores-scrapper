@@ -1,1 +1,54 @@
-{ "id": "70290082", "name": "FIXA", "categoryKey": "hi001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "FIXA",
+        "typeName": "Štětce sada",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fixa-stetce-sada__0710247_pe727425_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/fixa-stetce-sada-70290082/",
+        "id": "70290082",
+        "itemNoGlobal": "70290082",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 55,
+        "itemNo": "70290082",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "3 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fixa-stetce-sada__0478554_pe617585_s5.jpg",
+        "mainImageAlt": "FIXA Štětce sada",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Kits, tools and chemical products",
+            "productAreaNo": "1881",
+            "productRangeAreaName": "Clean, care & repair",
+            "productRangeAreaNo": "188"
+        },
+        "categoryPath": [
+            { "name": "Vylepšení domácnosti", "key": "hi001" },
+            { "name": "Oleje, mořidla & péče o výrobek", "key": "42948" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70290082",
+    "name": "FIXA",
+    "categoryKey": "hi001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

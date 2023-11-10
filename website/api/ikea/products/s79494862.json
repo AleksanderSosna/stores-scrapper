@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "DUVSKÄR",
+        "typeName": "Stół i 2 krzesła",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/duvskaer-stol-i-2-krzesla-zewnetrzne-czarnoniebieski__1146147_pe882918_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/duvskaer-stol-i-2-krzesla-zewnetrzne-czarnoniebieski-s79494862/",
+        "id": "s79494862",
+        "itemNoGlobal": "79494862",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79494862",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1297,
+            "current": { "prefix": "", "wholeNumber": "1 297", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/duvskaer-stol-i-2-krzesla-zewnetrzne-czarnoniebieski__1149864_pe884236_s5.jpg",
+        "mainImageAlt": "DUVSKÄR Stół i 2 krzesła, zewnętrzne/czarnoniebieski",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79494862",
+    "name": "DUVSKÄR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1297 }]
+}

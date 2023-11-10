@@ -1,0 +1,10 @@
+{
+    "id": "s29269074",
+    "itemNo": "29269074",
+    "name": "IKEA 365+",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 33.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
+    ]
+}

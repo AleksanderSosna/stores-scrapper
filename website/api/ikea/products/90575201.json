@@ -1,1 +1,91 @@
-{ "id": "90575201", "name": "STEFAN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "STEFAN",
+        "typeName": "Krzesło",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-bialy-knisa-szary-bez__1210066_pe909531_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stefan-krzeslo-bialy-knisa-szary-bez-90575201/",
+        "id": "90575201",
+        "itemNoGlobal": "90575201",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80512087",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stefan-krzeslo-brazowoczarny-knisa-szary-bez-80512087/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-brazowoczarny-knisa-szary-bez__1068137_pe852981_s5.jpg",
+                    "imageAlt": "STEFAN Krzesło, brązowoczarny/Knisa szary/beż",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 7,
+                    "name": "STEFAN",
+                    "typeName": "Krzesło",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-brazowoczarny-knisa-szary-bez__1068137_pe852981_s5.jpg",
+                    "mainImageAlt": "STEFAN Krzesło, brązowoczarny/Knisa szary/beż",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-brazowoczarny-knisa-szary-bez__1068133_pe852979_s5.jpg",
+                    "itemNoGlobal": "80512087",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80512087",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "90575201",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-bialy-knisa-szary-bez__1210064_pe909533_s5.jpg",
+        "mainImageAlt": "STEFAN Krzesło, biały/Knisa szary/beż",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Upholstered chairs",
+            "productAreaNo": "0824",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła do jadalni i krzesła składane", "key": "25219" },
+            { "name": "Krzesła do jadalni", "key": "25220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90575201",
+    "name": "STEFAN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

@@ -1,1 +1,62 @@
-{ "id": "40201916", "name": "STENSTORP", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }] }
+{
+    "id": {
+        "name": "STENSTORP",
+        "typeName": "Kuch. servírovací stolek",
+        "itemMeasureReferenceText": "45x43x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/stenstorp-kuch-servirovaci-stolek-bila-dub__0736873_pe740787_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/stenstorp-kuch-servirovaci-stolek-bila-dub-40201916/",
+        "id": "40201916",
+        "itemNoGlobal": "40201916",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 19,
+        "itemNo": "40201916",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3490,
+            "current": { "prefix": "", "wholeNumber": "3 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/stenstorp-kuch-servirovaci-stolek-bila-dub__0870755_pe600653_s5.jpg",
+        "mainImageAlt": "STENSTORP Kuch. servírovací stolek, bílá/dub, 45x43x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Vozíky", "key": "fu005" },
+            { "name": "Kuchyňské ostrůvky a servírovací stolky", "key": "10471" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40201916",
+    "name": "STENSTORP",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }]
+}

@@ -1,1 +1,119 @@
-{ "id": "70501843", "name": "DRÖNJÖNS", "categoryKey": "lc001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }
+{
+    "id": {
+        "name": "DRÖNJÖNS",
+        "typeName": "Kosz na odpady",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-czarny__0945488_pe797691_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/droenjoens-kosz-na-odpady-czarny-70501843/",
+        "id": "70501843",
+        "itemNoGlobal": "70501843",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "40554159",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/droenjoens-kosz-na-odpady-jasnoszaro-niebieski-40554159/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-jasnoszaro-niebieski__1177513_pe895349_s5.jpg",
+                    "imageAlt": "DRÖNJÖNS Kosz na odpady, jasnoszaro-niebieski",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 120,
+                    "name": "DRÖNJÖNS",
+                    "typeName": "Kosz na odpady",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-jasnoszaro-niebieski__1177513_pe895349_s5.jpg",
+                    "mainImageAlt": "DRÖNJÖNS Kosz na odpady, jasnoszaro-niebieski",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-jasnoszaro-niebieski__1177519_pe895351_s5.jpg",
+                    "itemNoGlobal": "40554159",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "40554159",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 24.99,
+                        "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "60460107",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/droenjoens-kosz-na-odpady-bialy-60460107/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-bialy__0778785_pe759132_s5.jpg",
+                    "imageAlt": "DRÖNJÖNS Kosz na odpady, biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 120,
+                    "name": "DRÖNJÖNS",
+                    "typeName": "Kosz na odpady",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-bialy__0778785_pe759132_s5.jpg",
+                    "mainImageAlt": "DRÖNJÖNS Kosz na odpady, biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-bialy__0778783_pe759131_s5.jpg",
+                    "itemNoGlobal": "60460107",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60460107",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 24.99,
+                        "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 120,
+        "itemNo": "70501843",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 24.99,
+            "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-czarny__0961926_pe807883_s5.jpg",
+        "mainImageAlt": "DRÖNJÖNS Kosz na odpady, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Sorting bins",
+            "productAreaNo": "1852",
+            "productRangeAreaName": "Sorting solutions",
+            "productRangeAreaNo": "185"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Kosze i worki na śmieci", "key": "16213" },
+            { "name": "Kosze na odpady", "key": "16215" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70501843",
+    "name": "DRÖNJÖNS",
+    "categoryKey": "lc001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }]
+}

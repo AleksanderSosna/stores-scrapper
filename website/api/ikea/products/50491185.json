@@ -1,1 +1,89 @@
-{ "id": "50491185", "name": "MICKE", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "MICKE",
+        "typeName": "Nadstawka na biurko",
+        "itemMeasureReferenceText": "105x65 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/micke-nadstawka-na-biurko-dab-bejcowany-na-bialo__0930673_pe790871_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/micke-nadstawka-na-biurko-dab-bejcowany-na-bialo-50491185/",
+        "id": "50491185",
+        "itemNoGlobal": "50491185",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90180025",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/micke-nadstawka-na-biurko-bialy-90180025/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/micke-nadstawka-na-biurko-bialy__0623697_pe691323_s5.jpg",
+                    "imageAlt": "MICKE Nadstawka na biurko, biały, 105x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 51,
+                    "name": "MICKE",
+                    "typeName": "Nadstawka na biurko",
+                    "itemMeasureReferenceText": "105x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/micke-nadstawka-na-biurko-bialy__0623697_pe691323_s5.jpg",
+                    "mainImageAlt": "MICKE Nadstawka na biurko, biały, 105x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/micke-nadstawka-na-biurko-bialy__1162647_pe889914_s5.jpg",
+                    "itemNoGlobal": "90180025",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90180025",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 51,
+        "itemNo": "50491185",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/micke-nadstawka-na-biurko-dab-bejcowany-na-bialo__0930674_pe790870_s5.jpg",
+        "mainImageAlt": "MICKE Nadstawka na biurko, dąb bejcowany na biało, 105x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Biurka do domu", "key": "20651" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50491185",
+    "name": "MICKE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

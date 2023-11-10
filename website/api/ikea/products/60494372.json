@@ -1,1 +1,88 @@
-{ "id": "60494372", "name": "TORKIS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "TORKIS",
+        "typeName": "Flexi kosz na pranie wew/zew",
+        "itemMeasureReferenceText": "35 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torkis-flexi-kosz-na-pranie-wew-zew-szary__0923134_pe788298_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/torkis-flexi-kosz-na-pranie-wew-zew-szary-60494372/",
+        "id": "60494372",
+        "itemNoGlobal": "60494372",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80339224",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/torkis-flexi-kosz-na-pranie-wew-zew-niebieski-80339224/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/torkis-flexi-kosz-na-pranie-wew-zew-niebieski__0711192_pe728061_s5.jpg",
+                    "imageAlt": "TORKIS Flexi kosz na pranie wew/zew, niebieski, 35 l",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 305,
+                    "name": "TORKIS",
+                    "typeName": "Flexi kosz na pranie wew/zew",
+                    "itemMeasureReferenceText": "35 l",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torkis-flexi-kosz-na-pranie-wew-zew-niebieski__0711192_pe728061_s5.jpg",
+                    "mainImageAlt": "TORKIS Flexi kosz na pranie wew/zew, niebieski, 35 l",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torkis-flexi-kosz-na-pranie-wew-zew-niebieski__0908944_pe654313_s5.jpg",
+                    "itemNoGlobal": "80339224",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80339224",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 29.99,
+                        "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 305,
+        "itemNo": "60494372",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torkis-flexi-kosz-na-pranie-wew-zew-szary__0923135_pe788301_s5.jpg",
+        "mainImageAlt": "TORKIS Flexi kosz na pranie wew/zew, szary, 35 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Laundry & laundry accessories",
+            "productAreaNo": "1833",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Pralnia", "key": "ba003" },
+            { "name": "Kosze na pranie i bieliznę", "key": "20601" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60494372",
+    "name": "TORKIS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

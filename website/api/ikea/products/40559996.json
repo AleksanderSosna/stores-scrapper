@@ -1,1 +1,58 @@
-{ "id": "40559996", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Sztuczny bukiet",
+        "itemMeasureReferenceText": "52 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-eukaliptus-rozowy-czerwony__1188028_pe899331_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smycka-sztuczny-bukiet-eukaliptus-rozowy-czerwony-40559996/",
+        "id": "40559996",
+        "itemNoGlobal": "40559996",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" },
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "40559996",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-eukaliptus-rozowy-czerwony__1213299_pe911061_s5.jpg",
+        "mainImageAlt": "SMYCKA Sztuczny bukiet, eukaliptus/różowy/czerwony, 52 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Rośliny i kwiaty", "key": "pp003" },
+            { "name": "Sztuczne rośliny i kwiaty", "key": "20492" },
+            { "name": "Sztuczne bukiety", "key": "700518" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "40559996",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

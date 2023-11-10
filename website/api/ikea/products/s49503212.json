@@ -1,0 +1,10 @@
+{
+    "id": "s49503212",
+    "itemNo": "49503212",
+    "name": "JUSTINA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 258 }
+    ]
+}

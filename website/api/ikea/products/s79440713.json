@@ -1,0 +1,10 @@
+{
+    "id": "s79440713",
+    "itemNo": "79440713",
+    "name": "DOCKSTA / ODGER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11950 }
+    ]
+}

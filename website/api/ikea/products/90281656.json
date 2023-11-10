@@ -1,1 +1,56 @@
-{ "id": "90281656", "name": "AVSKILD", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }] }
+{
+    "id": {
+        "name": "AVSKILD",
+        "typeName": "Podložka",
+        "itemMeasureReferenceText": "10 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/avskild-podlozka-korek__0711637_pe728376_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/avskild-podlozka-korek-90281656/",
+        "id": "90281656",
+        "itemNoGlobal": "90281656",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 90,
+        "itemNo": "90281656",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 19,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": true,
+            "priceUnit": "4 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/avskild-podlozka-korek__0897587_pe609588_s5.jpg",
+        "mainImageAlt": "AVSKILD Podložka, korek, 10 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Drinking glasses",
+            "productAreaNo": "1521",
+            "productRangeAreaName": "Glassware",
+            "productRangeAreaNo": "152"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Jídelní textil", "key": "20538" },
+            { "name": "Prostírání", "key": "20539" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "90281656",
+    "name": "AVSKILD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }]
+}

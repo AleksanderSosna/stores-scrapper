@@ -1,1 +1,55 @@
-{ "id": "00432706", "name": "VERKLIGHET", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "VERKLIGHET",
+        "typeName": "Papírové ubrousky",
+        "itemMeasureReferenceText": "38x38 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/verklighet-papirove-ubrousky-bila-modra__0684027_pe720971_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/verklighet-papirove-ubrousky-bila-modra-00432706/",
+        "id": "00432706",
+        "itemNoGlobal": "00432706",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 19,
+        "itemNo": "00432706",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "30 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/verklighet-papirove-ubrousky-bila-modra__0895863_pe720970_s5.jpg",
+        "mainImageAlt": "VERKLIGHET Papírové ubrousky, bílá/modrá, 38x38 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Napkins",
+            "productAreaNo": "1541",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Ubrousky, stojany a držáky", "key": "20560" },
+            { "name": "Ubrousky", "key": "20561" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00432706",
+    "name": "VERKLIGHET",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

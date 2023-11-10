@@ -1,1 +1,119 @@
-{ "id": "60424690", "name": "NORDVIKEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }
+{
+    "id": {
+        "name": "NORDVIKEN",
+        "typeName": "Stołek barowy z oparciem",
+        "itemMeasureReferenceText": "62 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-bialy__0714174_pe729957_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-stolek-barowy-z-oparciem-bialy-60424690/",
+        "id": "60424690",
+        "itemNoGlobal": "60424690",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "00424693",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-stolek-barowy-z-oparciem-czarny-00424693/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-czarny__0714166_pe729956_s5.jpg",
+                    "imageAlt": "NORDVIKEN Stołek barowy z oparciem, czarny, 62 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 16,
+                    "name": "NORDVIKEN",
+                    "typeName": "Stołek barowy z oparciem",
+                    "itemMeasureReferenceText": "62 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-czarny__0714166_pe729956_s5.jpg",
+                    "mainImageAlt": "NORDVIKEN Stołek barowy z oparciem, czarny, 62 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-czarny__0797137_pe766703_s5.jpg",
+                    "itemNoGlobal": "00424693",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00424693",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "60369113",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-stolek-barowy-z-oparciem-bialy-60369113/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-bialy__0714193_pe729960_s5.jpg",
+                    "imageAlt": "NORDVIKEN Stołek barowy z oparciem, biały, 75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 16,
+                    "name": "NORDVIKEN",
+                    "typeName": "Stołek barowy z oparciem",
+                    "itemMeasureReferenceText": "75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-bialy__0714193_pe729960_s5.jpg",
+                    "mainImageAlt": "NORDVIKEN Stołek barowy z oparciem, biały, 75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-bialy__0797143_pe766709_s5.jpg",
+                    "itemNoGlobal": "60369113",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60369113",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 16,
+        "itemNo": "60424690",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stolek-barowy-z-oparciem-bialy__0797138_pe766704_s5.jpg",
+        "mainImageAlt": "NORDVIKEN Stołek barowy z oparciem, biały, 62 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Bar stools",
+            "productAreaNo": "0823",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Stołki i krzesła barowe", "key": "20864" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60424690",
+    "name": "NORDVIKEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }]
+}

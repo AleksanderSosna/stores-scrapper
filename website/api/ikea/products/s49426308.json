@@ -1,0 +1,10 @@
+{
+    "id": "s49426308",
+    "itemNo": "49426308",
+    "name": "SMÅSTAD / PLATSA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 690 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3599 }
+    ]
+}

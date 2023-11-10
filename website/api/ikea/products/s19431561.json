@@ -1,0 +1,10 @@
+{
+    "id": "s19431561",
+    "itemNo": "19431561",
+    "name": "SKATSJÖN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
+    ]
+}

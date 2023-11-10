@@ -1,0 +1,10 @@
+{
+    "id": "s89483957",
+    "itemNo": "89483957",
+    "name": "INGATORP / DANDERYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3015 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19150 }
+    ]
+}

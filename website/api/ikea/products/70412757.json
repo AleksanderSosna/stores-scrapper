@@ -1,1 +1,54 @@
-{ "id": "70412757", "name": "DUMLE", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29 }] }
+{
+    "id": {
+        "name": "DUMLE",
+        "typeName": "Toffi w czekoladzie",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dumle-toffi-w-czekoladzie-smak-piernikowy__0753366_pe747611_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/dumle-toffi-w-czekoladzie-smak-piernikowy-70412757/",
+        "id": "70412757",
+        "itemNoGlobal": "70412757",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 18,
+        "itemNo": "70412757",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "0.32 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dumle-toffi-w-czekoladzie-smak-piernikowy__0753374_pe747613_s5.jpg",
+        "mainImageAlt": "DUMLE Toffi w czekoladzie, smak piernikowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Pastries, desserts and cookies",
+            "productAreaNo": "9615",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Jedzenie i napoje", "key": "fb001" },
+            { "name": "Przekąski i napoje na drogę", "key": "46192" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70412757",
+    "name": "DUMLE",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29 }]
+}

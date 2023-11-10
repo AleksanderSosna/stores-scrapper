@@ -1,0 +1,10 @@
+{
+    "id": "s99431312",
+    "itemNo": "99431312",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2990 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16000 }
+    ]
+}

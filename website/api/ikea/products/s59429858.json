@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "PAX / FLISBERGET",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "200x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-flisberget-kombinacja-szafy-bezowy-bezowy__1030146_pe836158_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-flisberget-kombinacja-szafy-bezowy-bezowy-s59429858/",
+        "id": "s59429858",
+        "itemNoGlobal": "59429858",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59429858",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4645,
+            "current": { "prefix": "", "wholeNumber": "4 645", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-flisberget-kombinacja-szafy-bezowy-bezowy__1182206_pe897084_s5.jpg",
+        "mainImageAlt": "PAX / FLISBERGET Kombinacja szafy, beżowy/beżowy, 200x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59429858",
+    "name": "PAX / FLISBERGET",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4645 }]
+}

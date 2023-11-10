@@ -1,1 +1,55 @@
-{ "id": "00483461", "name": "PARADISISK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "PARADISISK",
+        "typeName": "Talerzyk",
+        "itemMeasureReferenceText": "20 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-talerzyk-kremowy__1062789_pe851012_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/paradisisk-talerzyk-kremowy-00483461/",
+        "id": "00483461",
+        "itemNoGlobal": "00483461",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 7,
+        "itemNo": "00483461",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-talerzyk-kremowy__1062786_pe851011_s5.jpg",
+        "mainImageAlt": "PARADISISK Talerzyk, kremowy, 20 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Zastawa stołowa", "key": "18860" },
+            { "name": "Talerzyki deserowe", "key": "18863" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00483461",
+    "name": "PARADISISK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

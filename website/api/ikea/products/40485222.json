@@ -1,1 +1,119 @@
-{ "id": "40485222", "name": "KAMOMILL", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }] }
+{
+    "id": {
+        "name": "KAMOMILL",
+        "typeName": "Osłonka doniczki",
+        "itemMeasureReferenceText": "19 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski__0953668_pe804264_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski-40485222/",
+        "id": "40485222",
+        "itemNoGlobal": "40485222",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "80485220",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski-80485220/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski__0953665_pe804261_s5.jpg",
+                    "imageAlt": "KAMOMILL Osłonka doniczki, do wewnątrz/na zewnątrz niebieski, 15 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 90,
+                    "name": "KAMOMILL",
+                    "typeName": "Osłonka doniczki",
+                    "itemMeasureReferenceText": "15 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski__0953665_pe804261_s5.jpg",
+                    "mainImageAlt": "KAMOMILL Osłonka doniczki, do wewnątrz/na zewnątrz niebieski, 15 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski__0953666_pe804262_s5.jpg",
+                    "itemNoGlobal": "80485220",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80485220",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 29.99,
+                        "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "50441930",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-zielony-50441930/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-zielony__0705547_pe725650_s5.jpg",
+                    "imageAlt": "KAMOMILL Osłonka doniczki, do wewnątrz/na zewnątrz zielony, 15 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 90,
+                    "name": "KAMOMILL",
+                    "typeName": "Osłonka doniczki",
+                    "itemMeasureReferenceText": "15 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-zielony__0705547_pe725650_s5.jpg",
+                    "mainImageAlt": "KAMOMILL Osłonka doniczki, do wewnątrz/na zewnątrz zielony, 15 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-zielony__0705545_pe725673_s5.jpg",
+                    "itemNoGlobal": "50441930",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50441930",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 29.99,
+                        "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 90,
+        "itemNo": "40485222",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 69.99,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kamomill-oslonka-doniczki-do-wewnatrz-na-zewnatrz-niebieski__0953669_pe804265_s5.jpg",
+        "mainImageAlt": "KAMOMILL Osłonka doniczki, do wewnątrz/na zewnątrz niebieski, 19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Doniczki i donice", "key": "pp004" },
+            { "name": "Doniczki do wewnątrz", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40485222",
+    "name": "KAMOMILL",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }]
+}

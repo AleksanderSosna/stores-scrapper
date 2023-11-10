@@ -1,0 +1,10 @@
+{
+    "id": "s09384763",
+    "itemNo": "09384763",
+    "name": "BESTÅ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1750 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9760 }
+    ]
+}

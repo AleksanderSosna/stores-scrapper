@@ -1,0 +1,10 @@
+{
+    "id": "s49416012",
+    "itemNo": "49416012",
+    "name": "ÖRFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
+    ]
+}

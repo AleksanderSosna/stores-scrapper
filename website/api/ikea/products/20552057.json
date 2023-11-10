@@ -1,1 +1,54 @@
-{ "id": "20552057", "name": "MÄVINN", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Ubrousek",
+        "itemMeasureReferenceText": "45x45 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-ubrousek-modra__1171471_pe893084_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-ubrousek-modra-20552057/",
+        "id": "20552057",
+        "itemNoGlobal": "20552057",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20552057",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-ubrousek-modra__1200388_ph192790_s5.jpg",
+        "mainImageAlt": "MÄVINN Ubrousek, modrá, 45x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Napkins",
+            "productAreaNo": "1541",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Ubrousky, stojany a držáky", "key": "20560" },
+            { "name": "Ubrousky", "key": "20561" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20552057",
+    "name": "MÄVINN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

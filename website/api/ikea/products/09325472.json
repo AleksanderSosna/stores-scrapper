@@ -1,9 +1,0 @@
-{
-    "id": "09325472",
-    "name": "BERGSHULT / RAMSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 135.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 569 }
-    ]
-}

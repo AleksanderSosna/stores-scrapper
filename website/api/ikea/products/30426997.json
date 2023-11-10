@@ -1,1 +1,53 @@
-{ "id": "30426997", "name": "SÅNGLÄRKA", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }] }
+{
+    "id": {
+        "name": "SÅNGLÄRKA",
+        "typeName": "Povlečení na jednolůžko",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sanglaerka-povleceni-na-jednoluzko-tm-modra__0656618_pe709435_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sanglaerka-povleceni-na-jednoluzko-tm-modra-30426997/",
+        "id": "30426997",
+        "itemNoGlobal": "30426997",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30426997",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sanglaerka-povleceni-na-jednoluzko-tm-modra__0878254_pe709432_s5.jpg",
+        "mainImageAlt": "SÅNGLÄRKA Povlečení na jednolůžko, tm.modrá, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Sleep textiles for children",
+            "productAreaNo": "0936",
+            "productRangeAreaName": "Children`s sleep",
+            "productRangeAreaNo": "093"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30426997",
+    "name": "SÅNGLÄRKA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }]
+}

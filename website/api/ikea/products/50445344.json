@@ -1,1 +1,91 @@
-{ "id": "50445344", "name": "UTLÄNGAN", "categoryKey": "rm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }
+{
+    "id": {
+        "name": "UTLÄNGAN",
+        "typeName": "Płyta podłogowa, ogrodowa",
+        "itemMeasureReferenceText": "0.90 m²",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/utlaengan-plyta-podlogowa-ogrodowa-szara-bejca__0960165_pe806524_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/utlaengan-plyta-podlogowa-ogrodowa-szara-bejca-50445344/",
+        "id": "50445344",
+        "itemNoGlobal": "50445344",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70480416",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/utlaengan-plyta-podlogowa-ogrodowa-brazowy-70480416/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/utlaengan-plyta-podlogowa-ogrodowa-brazowy__0960158_pe806517_s5.jpg",
+                    "imageAlt": "UTLÄNGAN Płyta podłogowa, ogrodowa, brązowy, 0.90 m²",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.7,
+                    "ratingCount": 3,
+                    "name": "UTLÄNGAN",
+                    "typeName": "Płyta podłogowa, ogrodowa",
+                    "itemMeasureReferenceText": "0.90 m²",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/utlaengan-plyta-podlogowa-ogrodowa-brazowy__0960158_pe806517_s5.jpg",
+                    "mainImageAlt": "UTLÄNGAN Płyta podłogowa, ogrodowa, brązowy, 0.90 m²",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/utlaengan-plyta-podlogowa-ogrodowa-brazowy__0979371_pe814513_s5.jpg",
+                    "itemNoGlobal": "70480416",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70480416",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "opakowanie",
+                        "unitText": "opakowanie",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.7,
+        "ratingCount": 3,
+        "itemNo": "50445344",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "opakowanie",
+            "unitText": "opakowanie",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/utlaengan-plyta-podlogowa-ogrodowa-szara-bejca__0960167_pe806526_s5.jpg",
+        "mainImageAlt": "UTLÄNGAN Płyta podłogowa, ogrodowa, szara bejca, 0.90 m²",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor flooring",
+            "productAreaNo": "1718",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Podłogi na balkon i taras", "key": "21957" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50445344",
+    "name": "UTLÄNGAN",
+    "categoryKey": "rm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }]
+}

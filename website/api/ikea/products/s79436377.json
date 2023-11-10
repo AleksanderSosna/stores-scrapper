@@ -1,0 +1,10 @@
+{
+    "id": "s79436377",
+    "itemNo": "79436377",
+    "name": "MALM/MILLBERGET / BILLY/OXBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1845 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10170 }
+    ]
+}

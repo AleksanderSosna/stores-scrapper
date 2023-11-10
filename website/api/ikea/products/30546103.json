@@ -1,1 +1,54 @@
-{ "id": "30546103", "name": "ÖMSESIDIG", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Servírovací mísa",
+        "itemMeasureReferenceText": "28x24 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-servirovaci-misa-bila__1127191_pe876073_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-servirovaci-misa-bila-30546103/",
+        "id": "30546103",
+        "itemNoGlobal": "30546103",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30546103",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-servirovaci-misa-bila__1194279_ph192462_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Servírovací mísa, bílá, 28x24 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Serving",
+            "productAreaNo": "1512",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Servírovací misky", "key": "20619" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30546103",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

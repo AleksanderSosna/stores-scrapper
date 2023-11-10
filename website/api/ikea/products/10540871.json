@@ -1,1 +1,88 @@
-{ "id": "10540871", "name": "SÖNDRUM", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "SÖNDRUM",
+        "typeName": "Zegar",
+        "itemMeasureReferenceText": "35 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/soendrum-zegar-niskie-napiecie-szary__0790234_pe767381_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/soendrum-zegar-niskie-napiecie-szary-10540871/",
+        "id": "10540871",
+        "itemNoGlobal": "10540871",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60540864",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/soendrum-zegar-niskie-napiecie-bialy-60540864/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/soendrum-zegar-niskie-napiecie-bialy__0325578_pe517501_s5.jpg",
+                    "imageAlt": "SÖNDRUM Zegar, niskie napięcie/biały, 35 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.4,
+                    "ratingCount": 7,
+                    "name": "SÖNDRUM",
+                    "typeName": "Zegar",
+                    "itemMeasureReferenceText": "35 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/soendrum-zegar-niskie-napiecie-bialy__0325578_pe517501_s5.jpg",
+                    "mainImageAlt": "SÖNDRUM Zegar, niskie napięcie/biały, 35 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/soendrum-zegar-niskie-napiecie-bialy__0905390_pe515033_s5.jpg",
+                    "itemNoGlobal": "60540864",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "60540864",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 79.99,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 7,
+        "itemNo": "10540871",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/soendrum-zegar-niskie-napiecie-szary__0948658_pe799198_s5.jpg",
+        "mainImageAlt": "SÖNDRUM Zegar, niskie napięcie/szary, 35 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Clocks",
+            "productAreaNo": "1643",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Zegary", "key": "10759" },
+            { "name": "Zegary ścienne i stołowe", "key": "10785" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10540871",
+    "name": "SÖNDRUM",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

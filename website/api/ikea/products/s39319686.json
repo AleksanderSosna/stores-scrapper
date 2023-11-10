@@ -1,0 +1,56 @@
+{
+    "id": {
+        "name": "NYMÖ / SKAFTET",
+        "typeName": "Lampa podłogowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-skaftet-lampa-podlogowa-czarny-mosiadz-mosiadz__0765034_pe753489_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nymoe-skaftet-lampa-podlogowa-czarny-mosiadz-mosiadz-s39319686/",
+        "id": "s39319686",
+        "itemNoGlobal": "39319686",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 25,
+        "itemNo": "39319686",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-skaftet-lampa-podlogowa-czarny-mosiadz-mosiadz__0880050_pe632574_s5.jpg",
+        "mainImageAlt": "NYMÖ / SKAFTET Lampa podłogowa, czarny mosiądz/mosiądz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39319686",
+    "name": "NYMÖ / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

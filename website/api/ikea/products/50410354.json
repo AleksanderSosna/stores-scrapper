@@ -1,1 +1,53 @@
-{ "id": "50410354", "name": "GRÅVAL", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }] }
+{
+    "id": {
+        "name": "GRÅVAL",
+        "typeName": "Krzesło dziecięce",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/graval-krzeslo-dzieciece__0817779_pe774132_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/graval-krzeslo-dzieciece-50410354/",
+        "id": "50410354",
+        "itemNoGlobal": "50410354",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50410354",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/graval-krzeslo-dzieciece__0817778_pe774133_s5.jpg",
+        "mainImageAlt": "GRÅVAL Krzesło dziecięce",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Baby eating & care",
+            "productAreaNo": "0963",
+            "productRangeAreaName": "Baby",
+            "productRangeAreaNo": "096"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesełka do karmienia", "key": "45782" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50410354",
+    "name": "GRÅVAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }]
+}

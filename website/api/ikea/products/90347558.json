@@ -1,1 +1,126 @@
-{ "id": "90347558", "name": "BARKABODA", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 7500 }] }
+{
+    "id": {
+        "name": "BARKABODA",
+        "typeName": "Pracovní deska na míru",
+        "itemMeasureReferenceText": "45.1-63.5x3.8 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0444083_pe594696_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/barkaboda-pracovni-deska-na-miru-orech-dyha-90347558/",
+        "id": "90347558",
+        "itemNoGlobal": "90347558",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "10347557",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/barkaboda-pracovni-deska-na-miru-orech-dyha-10347557/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0444083_pe594696_s5.jpg",
+                    "imageAlt": "BARKABODA Pracovní deska na míru, ořech/dýha, 30-45x3.8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 2.3,
+                    "ratingCount": 3,
+                    "name": "BARKABODA",
+                    "typeName": "Pracovní deska na míru",
+                    "itemMeasureReferenceText": "30-45x3.8 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0444083_pe594696_s5.jpg",
+                    "mainImageAlt": "BARKABODA Pracovní deska na míru, ořech/dýha, 30-45x3.8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0896052_pe594698_s5.jpg",
+                    "itemNoGlobal": "10347557",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "10347557",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 6000,
+                        "current": { "prefix": "", "wholeNumber": "6 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "70347559",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/barkaboda-pracovni-deska-na-miru-orech-dyha-70347559/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0444083_pe594696_s5.jpg",
+                    "imageAlt": "BARKABODA Pracovní deska na míru, ořech/dýha, 63.6-125x3.8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 2.3,
+                    "ratingCount": 3,
+                    "name": "BARKABODA",
+                    "typeName": "Pracovní deska na míru",
+                    "itemMeasureReferenceText": "63.6-125x3.8 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0444083_pe594696_s5.jpg",
+                    "mainImageAlt": "BARKABODA Pracovní deska na míru, ořech/dýha, 63.6-125x3.8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0896052_pe594698_s5.jpg",
+                    "itemNoGlobal": "70347559",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "70347559",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 14000,
+                        "current": { "prefix": "", "wholeNumber": "14 000", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 2.3,
+        "ratingCount": 3,
+        "itemNo": "90347558",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 7500,
+            "current": { "prefix": "", "wholeNumber": "7 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/barkaboda-pracovni-deska-na-miru-orech-dyha__0896052_pe594698_s5.jpg",
+        "mainImageAlt": "BARKABODA Pracovní deska na míru, ořech/dýha, 45.1-63.5x3.8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen worktops",
+            "productAreaNo": "0741",
+            "productRangeAreaName": "Kitchen worktops",
+            "productRangeAreaNo": "074"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské pracovní desky", "key": "24264" },
+            { "name": "Pracovní desky na míru", "key": "700420" },
+            { "name": "Pracovní desky ze silné dýhy na míru", "key": "700428" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90347558",
+    "name": "BARKABODA",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 7500 }]
+}

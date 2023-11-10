@@ -1,0 +1,10 @@
+{
+    "id": "s09521604",
+    "itemNo": "09521604",
+    "name": "LAGKAPTEN / ALEX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 797 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4379 }
+    ]
+}

@@ -1,1 +1,54 @@
-{ "id": "20552038", "name": "MÄVINN", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Běhoun",
+        "itemMeasureReferenceText": "35x130 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-behoun-tm-modra__1171469_pe893082_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-behoun-tm-modra-20552038/",
+        "id": "20552038",
+        "itemNoGlobal": "20552038",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "20552038",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-behoun-tm-modra__1200412_ph192794_s5.jpg",
+        "mainImageAlt": "MÄVINN Běhoun, tm.modrá, 35x130 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eating textiles",
+            "productAreaNo": "1543",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Jídelní textil", "key": "20538" },
+            { "name": "Ubrusy a běhouny", "key": "20541" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20552038",
+    "name": "MÄVINN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

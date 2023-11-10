@@ -1,1 +1,54 @@
-{ "id": "90517211", "name": "HEDERVÄRD", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "HEDERVÄRD",
+        "typeName": "Świecznik",
+        "itemMeasureReferenceText": "3 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hedervaerd-swiecznik-czarny__1059569_pe849672_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hedervaerd-swiecznik-czarny-90517211/",
+        "id": "90517211",
+        "itemNoGlobal": "90517211",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "90517211",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hedervaerd-swiecznik-czarny__1059568_pe849673_s5.jpg",
+        "mainImageAlt": "HEDERVÄRD Świecznik, czarny, 3 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Świeczniki i podstawki pod świece", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "90517211",
+    "name": "HEDERVÄRD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

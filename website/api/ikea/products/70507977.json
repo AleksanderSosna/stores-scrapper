@@ -1,1 +1,54 @@
-{ "id": "70507977", "name": "SKUBB", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "SKUBB",
+        "typeName": "Wiszący organizer na buty 12 kiesz",
+        "itemMeasureReferenceText": "34x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skubb-wiszacy-organizer-na-buty-12-kiesz-ciemnoszary__0974004_pe812252_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/skubb-wiszacy-organizer-na-buty-12-kiesz-ciemnoszary-70507977/",
+        "id": "70507977",
+        "itemNoGlobal": "70507977",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 13,
+        "itemNo": "70507977",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skubb-wiszacy-organizer-na-buty-12-kiesz-ciemnoszary__0974005_pe812251_s5.jpg",
+        "mainImageAlt": "SKUBB Wiszący organizer na buty 12 kiesz, ciemnoszary, 34x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Clothes and shoe organisers",
+            "productAreaNo": "1831",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Akcesoria do przechowywania ubrań", "key": "10452" },
+            { "name": "Akcesoria do wieszania ubrań", "key": "10459" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70507977",
+    "name": "SKUBB",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

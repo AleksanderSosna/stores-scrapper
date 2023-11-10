@@ -1,0 +1,10 @@
+{
+    "id": "s29293682",
+    "itemNo": "29293682",
+    "name": "HEMNES / RÄTTVIKEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9780 }
+    ]
+}

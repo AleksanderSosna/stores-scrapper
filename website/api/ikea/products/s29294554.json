@@ -1,0 +1,10 @@
+{
+    "id": "s29294554",
+    "itemNo": "29294554",
+    "name": "VITTSJÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 847 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4370 }
+    ]
+}

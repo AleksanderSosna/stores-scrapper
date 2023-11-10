@@ -1,0 +1,10 @@
+{
+    "id": "s19326249",
+    "itemNo": "19326249",
+    "name": "OPPEJEN / FOTINGEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2247 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11470 }
+    ]
+}

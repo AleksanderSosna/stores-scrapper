@@ -1,0 +1,10 @@
+{
+    "id": "s89395885",
+    "itemNo": "89395885",
+    "name": "IDÅSEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

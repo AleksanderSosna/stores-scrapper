@@ -1,0 +1,10 @@
+{
+    "id": "s99419131",
+    "itemNo": "99419131",
+    "name": "TRUBBNATE / HEMMA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Koupelnový nábytek, sada 11 ks",
+        "itemMeasureReferenceText": "84x43x87 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-tvaellen-koupelnovy-nabytek-sada-11-ks-imitace-betonu-bila-baterie-pilkan__0831873_pe777454_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-tvaellen-koupelnovy-nabytek-sada-11-ks-imitace-betonu-bila-baterie-pilkan-s99337593/",
+        "id": "s99337593",
+        "itemNoGlobal": "99337593",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99337593",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 7187,
+            "current": { "prefix": "", "wholeNumber": "7 187", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "7 917", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-tvaellen-koupelnovy-nabytek-sada-11-ks-imitace-betonu-bila-baterie-pilkan__0914770_pe784291_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Koupelnový nábytek, sada 11 ks, imitace betonu/bílá Baterie Pilkån, 84x43x87 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny ENHET", "key": "700458" },
+            { "name": "Koupelnové sestavy ENHET", "key": "700491" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "99337593",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 7187 }]
+}

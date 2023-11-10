@@ -1,0 +1,10 @@
+{
+    "id": "s39306368",
+    "itemNo": "39306368",
+    "name": "NYHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

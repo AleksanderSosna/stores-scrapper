@@ -1,1 +1,93 @@
-{ "id": "00296172", "name": "ELVARLI", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 210 }] }
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Konzola pro stojnu",
+        "itemMeasureReferenceText": "51 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-konzola-pro-stojnu-bila__0626634_pe692922_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-konzola-pro-stojnu-bila-00296172/",
+        "id": "00296172",
+        "itemNoGlobal": "00296172",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00317527",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-konzola-pro-stojnu-bila-00317527/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-konzola-pro-stojnu-bila__0626635_pe692923_s5.jpg",
+                    "imageAlt": "ELVARLI Konzola pro stojnu, bílá, 36 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 4,
+                    "name": "ELVARLI",
+                    "typeName": "Konzola pro stojnu",
+                    "itemMeasureReferenceText": "36 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-konzola-pro-stojnu-bila__0626635_pe692923_s5.jpg",
+                    "mainImageAlt": "ELVARLI Konzola pro stojnu, bílá, 36 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-konzola-pro-stojnu-bila__0855636_pe603432_s5.jpg",
+                    "itemNoGlobal": "00317527",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00317527",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 180,
+                        "current": { "prefix": "", "wholeNumber": "180", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "2 ks",
+                        "unitText": "ks",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "00296172",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 210,
+            "current": { "prefix": "", "wholeNumber": "210", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-konzola-pro-stojnu-bila__0855570_pe595859_s5.jpg",
+        "mainImageAlt": "ELVARLI Konzola pro stojnu, bílá, 51 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Stojny, bočnice a vnitřní vybavení ELVARLI", "key": "35767" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00296172",
+    "name": "ELVARLI",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 210 }]
+}

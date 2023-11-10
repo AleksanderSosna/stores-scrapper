@@ -1,1 +1,56 @@
-{ "id": "20546108", "name": "ÖMSESIDIG", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Talíř",
+        "itemMeasureReferenceText": "25 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-talir-bila__1127195_pe876075_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-talir-bila-20546108/",
+        "id": "20546108",
+        "itemNoGlobal": "20546108",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "20546108",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-talir-bila__1194261_ph192449_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Talíř, bílá, 25 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Stolní nádobí", "key": "18860" },
+            { "name": "Talíře", "key": "18861" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20546108",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

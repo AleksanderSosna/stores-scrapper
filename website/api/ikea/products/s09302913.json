@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "PLATSA",
+        "typeName": "Rama łóżka z 4 szufladami",
+        "itemMeasureReferenceText": "142x244x43 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/platsa-rama-lozka-z-4-szufladami-bialy-fonnes__0746108_pe744327_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/platsa-rama-lozka-z-4-szufladami-bialy-fonnes-s09302913/",
+        "id": "s09302913",
+        "itemNoGlobal": "09302913",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09302913",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1939,
+            "current": { "prefix": "", "wholeNumber": "1 939", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/platsa-rama-lozka-z-4-szufladami-bialy-fonnes__0746984_pe744308_s5.jpg",
+        "mainImageAlt": "PLATSA Rama łóżka z 4 szufladami, biały/Fonnes, 142x244x43 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka podwójne", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09302913",
+    "name": "PLATSA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1939 }]
+}

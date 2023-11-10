@@ -1,1 +1,54 @@
-{ "id": "40463017", "name": "BLÅBÄRSMOTT", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }] }
+{
+    "id": {
+        "name": "BLÅBÄRSMOTT",
+        "typeName": "Zasłony zaciemniające, para",
+        "itemMeasureReferenceText": "145x300 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/blabaersmott-zaslony-zaciemniajace-para-zielony__0742863_pe742849_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/blabaersmott-zaslony-zaciemniajace-para-zielony-40463017/",
+        "id": "40463017",
+        "itemNoGlobal": "40463017",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52514", "name": "Zaciemniające", "typeName": "Właściwości filtrujące światło" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "40463017",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/blabaersmott-zaslony-zaciemniajace-para-zielony__0742860_pe742848_s5.jpg",
+        "mainImageAlt": "BLÅBÄRSMOTT Zasłony zaciemniające, para, zielony, 145x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Firanki i zasłony", "key": "10700" },
+            { "name": "Zasłony zaciemniające", "key": "700218" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40463017",
+    "name": "BLÅBÄRSMOTT",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }]
+}

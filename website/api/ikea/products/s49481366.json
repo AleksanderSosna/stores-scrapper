@@ -1,0 +1,10 @@
+{
+    "id": "s49481366",
+    "itemNo": "49481366",
+    "name": "LÖNSET",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 450 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2600 }
+    ]
+}

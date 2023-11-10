@@ -1,0 +1,10 @@
+{
+    "id": "s69428194",
+    "itemNo": "69428194",
+    "name": "MELLTORP / KÄTTIL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 597 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4270 }
+    ]
+}

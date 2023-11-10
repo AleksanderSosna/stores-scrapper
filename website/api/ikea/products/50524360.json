@@ -1,1 +1,57 @@
-{ "id": "50524360", "name": "HÄSTHAGE", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "HÄSTHAGE",
+        "typeName": "Puszka z pokrywką, 3 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/haesthage-puszka-z-pokrywka-3-szt-wielobarwny__1062985_pe851162_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/haesthage-puszka-z-pokrywka-3-szt-wielobarwny-50524360/",
+        "id": "50524360",
+        "itemNoGlobal": "50524360",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" },
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 1,
+        "ratingCount": 1,
+        "itemNo": "50524360",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/haesthage-puszka-z-pokrywka-3-szt-wielobarwny__1062983_pe851164_s5.jpg",
+        "mainImageAlt": "HÄSTHAGE Puszka z pokrywką, 3 szt., wielobarwny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Słoiki, puszki i chlebaki", "key": "15950" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50524360",
+    "name": "HÄSTHAGE",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

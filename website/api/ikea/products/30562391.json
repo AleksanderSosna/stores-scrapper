@@ -1,1 +1,60 @@
-{ "id": "30562391", "name": "TABBERAS", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "TABBERAS",
+        "typeName": "Ubrus",
+        "itemMeasureReferenceText": "145x240 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tabberas-ubrus-otiratelny-vzorovano-barevne__1182315_pe897158_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tabberas-ubrus-otiratelny-vzorovano-barevne-30562391/",
+        "id": "30562391",
+        "itemNoGlobal": "30562391",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30562391",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tabberas-ubrus-otiratelny-vzorovano-barevne__1182312_pe897157_s5.jpg",
+        "mainImageAlt": "TABBERAS Ubrus, otíratelný vzorováno/barevné, 145x240 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eating textiles",
+            "productAreaNo": "1543",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Jídelní textil", "key": "20538" },
+            { "name": "Ubrusy a běhouny", "key": "20541" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30562391",
+    "name": "TABBERAS",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

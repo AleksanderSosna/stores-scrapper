@@ -1,9 +1,0 @@
-{
-    "id": "79491203",
-    "name": "SUNNEBY / MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 74.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}

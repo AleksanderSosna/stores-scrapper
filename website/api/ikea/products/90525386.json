@@ -1,1 +1,63 @@
-{ "id": "90525386", "name": "KVISTBRO", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "KVISTBRO",
+        "typeName": "Stolek s úlož.prostorem",
+        "itemMeasureReferenceText": "44 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kvistbro-stolek-s-uloz-prostorem-cervena-svetle-seda__1057236_pe848794_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kvistbro-stolek-s-uloz-prostorem-cervena-svetle-seda-90525386/",
+        "id": "90525386",
+        "itemNoGlobal": "90525386",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 215,
+        "itemNo": "90525386",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-14",
+            "validTo": "2024-08-31",
+            "availabilityDisclaimer": "Cena platí od 14. září 2023 do 31. srpna 2024 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kvistbro-stolek-s-uloz-prostorem-cervena-svetle-seda__1057234_pe848795_s5.jpg",
+        "mainImageAlt": "KVISTBRO Stolek s úlož.prostorem, červená/světle šedá, 44 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa tables",
+            "productAreaNo": "0121",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Stolky do obývacího pokoje", "key": "10705" },
+            { "name": "Konferenční stolky", "key": "10716" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "90525386",
+    "name": "KVISTBRO",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

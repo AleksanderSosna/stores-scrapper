@@ -1,0 +1,10 @@
+{
+    "id": "s09483032",
+    "itemNo": "09483032",
+    "name": "VANGSTA / JANINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1693 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11930 }
+    ]
+}

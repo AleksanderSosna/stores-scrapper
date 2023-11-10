@@ -1,0 +1,10 @@
+{
+    "id": "s39415876",
+    "itemNo": "39415876",
+    "name": "NYSJÖN / BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 624 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3088 }
+    ]
+}

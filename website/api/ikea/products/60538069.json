@@ -1,1 +1,55 @@
-{ "id": "60538069", "name": "PJÄTTERYD", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }
+{
+    "id": {
+        "name": "PJÄTTERYD",
+        "typeName": "Obraz",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-zblizenie__1099714_pe865873_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-zblizenie-60538069/",
+        "id": "60538069",
+        "itemNoGlobal": "60538069",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60538069",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99.99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-zblizenie__1136619_pe879447_s5.jpg",
+        "mainImageAlt": "PJÄTTERYD Obraz, zbliżenie, 50x70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Ramki i obrazki", "key": "10757" },
+            { "name": "Obrazy", "key": "10788" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60538069",
+    "name": "PJÄTTERYD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }]
+}

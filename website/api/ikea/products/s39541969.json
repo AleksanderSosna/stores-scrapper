@@ -1,0 +1,263 @@
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Łóżko",
+        "itemMeasureReferenceText": "120x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-valevag-srednio-twardy__1236197_pe917472_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-lozko-biala-bejca-valevag-srednio-twardy-s39541969/",
+        "id": "s39541969",
+        "itemNoGlobal": "39541969",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 21,
+            "variants": [
+                {
+                    "id": "s09543248",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy-s09543248/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1236194_pe917473_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, szary bejcowane/Valevåg średnio twardy, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1236194_pe917473_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, szary bejcowane/Valevåg średnio twardy, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1101558_pe866733_s5.jpg",
+                    "itemNoGlobal": "09543248",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09543248",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3098,
+                        "current": { "prefix": "", "wholeNumber": "3 098", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09543328",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-lozko-szary-bejcowane-akrehamn-twardy-s09543328/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-akrehamn-twardy__1236193_pe917469_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, szary bejcowane/Åkrehamn twardy, 140x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47474", "name": "Pianka memory", "typeName": "Materiał materaca", "moreCount": 1 },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-akrehamn-twardy__1236193_pe917469_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, szary bejcowane/Åkrehamn twardy, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-akrehamn-twardy__1101558_pe866733_s5.jpg",
+                    "itemNoGlobal": "09543328",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09543328",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3098,
+                        "current": { "prefix": "", "wholeNumber": "3 098", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09543333",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-rama-lozka-z-materacem-szary-bejcowane-valevag-srednio-twardy-s09543333/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1236194_pe917473_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, szary bejcowane/Valevåg średnio twardy, 140x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1236194_pe917473_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, szary bejcowane/Valevåg średnio twardy, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-szary-bejcowane-valevag-srednio-twardy__1101558_pe866733_s5.jpg",
+                    "itemNoGlobal": "09543333",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09543333",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2598,
+                        "current": { "prefix": "", "wholeNumber": "2 598", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09536813",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-lozko-biala-bejca-valevag-twardy-s09536813/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-valevag-twardy__1236197_pe917472_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, biała bejca/Valevåg twardy, 90x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "90x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-valevag-twardy__1236197_pe917472_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, biała bejca/Valevåg twardy, 90x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-valevag-twardy__1101520_pe866699_s5.jpg",
+                    "itemNoGlobal": "09536813",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09536813",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1998,
+                        "current": { "prefix": "", "wholeNumber": "1 998", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09541999",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-rama-lozka-z-materacem-biala-bejca-akrehamn-srednio-twardy-s09541999/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-srednio-twardy__1236191_pe917467_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, biała bejca/Åkrehamn średnio twardy, 140x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47474", "name": "Pianka memory", "typeName": "Materiał materaca", "moreCount": 1 },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-srednio-twardy__1236191_pe917467_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, biała bejca/Åkrehamn średnio twardy, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-srednio-twardy__1101574_pe866748_s5.jpg",
+                    "itemNoGlobal": "09541999",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09541999",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3198,
+                        "current": { "prefix": "", "wholeNumber": "3 198", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19536817",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-rama-lozka-z-materacem-biala-bejca-akrehamn-twardy-s19536817/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-twardy__1236191_pe917467_s5.jpg",
+                    "imageAlt": "HEMNES Łóżko, biała bejca/Åkrehamn twardy, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47474", "name": "Pianka memory", "typeName": "Materiał materaca", "moreCount": 1 },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Łóżko",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-twardy__1236191_pe917467_s5.jpg",
+                    "mainImageAlt": "HEMNES Łóżko, biała bejca/Åkrehamn twardy, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-akrehamn-twardy__1101574_pe866748_s5.jpg",
+                    "itemNoGlobal": "19536817",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19536817",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3598,
+                        "current": { "prefix": "", "wholeNumber": "3 598", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "39541969",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2298,
+            "current": { "prefix": "", "wholeNumber": "2 298", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-lozko-biala-bejca-valevag-srednio-twardy__1101580_pe866754_s5.jpg",
+        "mainImageAlt": "HEMNES Łóżko, biała bejca/Valevåg średnio twardy, 120x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Łóżka z materacami", "key": "700513" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39541969",
+    "name": "HEMNES",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2298 }]
+}

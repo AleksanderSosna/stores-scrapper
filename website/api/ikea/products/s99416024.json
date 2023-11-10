@@ -1,0 +1,10 @@
+{
+    "id": "s99416024",
+    "itemNo": "99416024",
+    "name": "LÖKNÄS / HEMMA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "id": {
+        "name": "ESPEVÄR/VESTERÖY",
+        "typeName": "Łóżko kontynentalne",
+        "itemMeasureReferenceText": "160x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s39414853/",
+        "id": "s39414853",
+        "itemNoGlobal": "39414853",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 23,
+            "variants": [
+                {
+                    "id": "s09389591",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s09389591/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "09389591",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09389591",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2603,
+                        "current": { "prefix": "", "wholeNumber": "2 603", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09389888",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s09389888/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0965242_pe809356_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 180x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "180x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0965242_pe809356_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 180x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "09389888",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09389888",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3028,
+                        "current": { "prefix": "", "wholeNumber": "3 028", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09414835",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s09414835/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "09414835",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09414835",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2663,
+                        "current": { "prefix": "", "wholeNumber": "2 663", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09490848",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-srednio-twardy-jasnoniebieski-s09490848/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-srednio-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy/średnio twardy jasnoniebieski, 180x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47459", "name": "Różna twardość (dwa materace)", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "180x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-srednio-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/twardy/średnio twardy jasnoniebieski, 180x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-twardy-srednio-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "09490848",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09490848",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3028,
+                        "current": { "prefix": "", "wholeNumber": "3 028", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19389656",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s19389656/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 180x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "180x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929615_pe790392_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 180x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "19389656",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "19389656",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3028,
+                        "current": { "prefix": "", "wholeNumber": "3 028", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19389878",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s19389878/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0965241_pe809354_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 180x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTERÖY",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "180x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0965241_pe809354_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 180x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+                    "itemNoGlobal": "19389878",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "19389878",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2968,
+                        "current": { "prefix": "", "wholeNumber": "2 968", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "itemNo": "39414853",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2603,
+            "current": { "prefix": "", "wholeNumber": "2 603", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vesteroey-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905192_pe783062_s5.jpg",
+        "mainImageAlt": "ESPEVÄR/VESTERÖY Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bases and slats",
+            "productAreaNo": "0514",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka kontynentalne", "key": "28433" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "39414853",
+    "name": "ESPEVÄR/VESTERÖY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2603 }]
+}

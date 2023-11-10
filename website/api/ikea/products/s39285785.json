@@ -1,0 +1,114 @@
+{
+    "id": {
+        "name": "GALANT",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "320x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okl-jesionowa-bejcowana-na-czarno__0653058_pe707768_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-okl-jesionowa-bejcowana-na-czarno-s39285785/",
+        "id": "s39285785",
+        "itemNoGlobal": "39285785",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s79285788",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-okleina-debowa-bejcowana-na-bialo-s79285788/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okleina-debowa-bejcowana-na-bialo__0653059_pe707769_s5.jpg",
+                    "imageAlt": "GALANT Regał, okleina dębowa bejcowana na biało, 320x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "320x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okleina-debowa-bejcowana-na-bialo__0653059_pe707769_s5.jpg",
+                    "mainImageAlt": "GALANT Regał, okleina dębowa bejcowana na biało, 320x120 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okleina-debowa-bejcowana-na-bialo__0856668_pe714426_s5.jpg",
+                    "itemNoGlobal": "79285788",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79285788",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4196,
+                        "current": { "prefix": "", "wholeNumber": "4 196", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s89285783",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-regal-bialy-s89285783/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-bialy__0653057_pe707767_s5.jpg",
+                    "imageAlt": "GALANT Regał, biały, 320x120 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "320x120 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-bialy__0653057_pe707767_s5.jpg",
+                    "mainImageAlt": "GALANT Regał, biały, 320x120 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-bialy__0856006_pe714425_s5.jpg",
+                    "itemNoGlobal": "89285783",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89285783",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3596,
+                        "current": { "prefix": "", "wholeNumber": "3 596", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39285785",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4196,
+            "current": { "prefix": "", "wholeNumber": "4 196", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-regal-okl-jesionowa-bejcowana-na-czarno__0856564_pe714424_s5.jpg",
+        "mainImageAlt": "GALANT Regał, okl jesionowa bejcowana na czarno, 320x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki biurowe", "key": "10385" },
+            { "name": "Szafki do biura", "key": "47084" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39285785",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4196 }]
+}

@@ -1,0 +1,99 @@
+{
+    "id": {
+        "name": "HAVSTA",
+        "typeName": "Úložná sestava s pos. skl. dvířky",
+        "itemMeasureReferenceText": "121x47x212 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-ulozna-sestava-s-pos-skl-dvirky-seda__0720065_pe732391_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-ulozna-sestava-s-pos-skl-dvirky-seda-s39265914/",
+        "id": "s39265914",
+        "itemNoGlobal": "39265914",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69265917",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-ulozna-sestava-s-pos-skl-dvirky-bila-s69265917/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-ulozna-sestava-s-pos-skl-dvirky-bila__0720070_pe732394_s5.jpg",
+                    "imageAlt": "HAVSTA Úložná sestava s pos. skl. dvířky, bílá, 121x47x212 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 9,
+                    "name": "HAVSTA",
+                    "typeName": "Úložná sestava s pos. skl. dvířky",
+                    "itemMeasureReferenceText": "121x47x212 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-ulozna-sestava-s-pos-skl-dvirky-bila__0720070_pe732394_s5.jpg",
+                    "mainImageAlt": "HAVSTA Úložná sestava s pos. skl. dvířky, bílá, 121x47x212 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-ulozna-sestava-s-pos-skl-dvirky-bila__0675401_pe718317_s5.jpg",
+                    "itemNoGlobal": "69265917",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69265917",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 17490,
+                        "current": { "prefix": "", "wholeNumber": "17 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "18 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 9,
+        "itemNo": "39265914",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 17490,
+            "current": { "prefix": "", "wholeNumber": "17 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "18 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-ulozna-sestava-s-pos-skl-dvirky-seda__0844401_pe693084_s5.jpg",
+        "mainImageAlt": "HAVSTA Úložná sestava s pos. skl. dvířky, šedá, 121x47x212 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Display cabinets",
+            "productAreaNo": "0221",
+            "productRangeAreaName": "Display furniture",
+            "productRangeAreaNo": "022"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Skříňky", "key": "10409" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39265914",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 17490 }]
+}

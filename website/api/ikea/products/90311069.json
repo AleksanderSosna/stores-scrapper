@@ -1,1 +1,55 @@
-{ "id": "90311069", "name": "OBSERVATÖR", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 110 }] }
+{
+    "id": {
+        "name": "OBSERVATÖR",
+        "typeName": "Závěsný košík",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/observatoer-zavesny-kosik-bila__0624364_pe691785_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/observatoer-zavesny-kosik-bila-90311069/",
+        "id": "90311069",
+        "itemNoGlobal": "90311069",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 31,
+        "itemNo": "90311069",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 110,
+            "current": { "prefix": "", "wholeNumber": "110", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/observatoer-zavesny-kosik-bila__0911542_pe621513_s5.jpg",
+        "mainImageAlt": "OBSERVATÖR Závěsný košík, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Úložné systémy do obývacího pokoje", "key": "29882" },
+            { "name": "Systém IVAR", "key": "11703" },
+            { "name": "Všechny části a díly IVAR", "key": "11705" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90311069",
+    "name": "OBSERVATÖR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 110 }]
+}

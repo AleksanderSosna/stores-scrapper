@@ -1,9 +1,0 @@
-{
-    "id": "09516136",
-    "name": "SYMFONISK",
-    "categoryKey": "hs001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 749 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3689 }
-    ]
-}

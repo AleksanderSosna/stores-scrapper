@@ -1,1 +1,51 @@
-{ "id": "70534792", "name": "LILLÅNÄS", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }] }
+{
+    "id": {
+        "name": "LILLÅNÄS",
+        "typeName": "Barová stolička",
+        "itemMeasureReferenceText": "76 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/lillanaes-barova-stolicka-pochromovane-gunnared-tmave-seda__1150259_pe893865_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/lillanaes-barova-stolicka-pochromovane-gunnared-tmave-seda-70534792/",
+        "id": "70534792",
+        "itemNoGlobal": "70534792",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70534792",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2990,
+            "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/lillanaes-barova-stolicka-pochromovane-gunnared-tmave-seda__1150258_pe893866_s5.jpg",
+        "mainImageAlt": "LILLÅNÄS Barová stolička, pochromované/Gunnared tmavě šedá, 76 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Bar stools",
+            "productAreaNo": "0823",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Barové stoličky a židle", "key": "20864" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70534792",
+    "name": "LILLÅNÄS",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }]
+}

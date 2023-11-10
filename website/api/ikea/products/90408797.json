@@ -1,1 +1,59 @@
-{ "id": "90408797", "name": "TRÅDFRI", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 279 }] }
+{
+    "id": {
+        "name": "TRÅDFRI",
+        "typeName": "LED žárovka E27, 806 lm",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-led-zarovka-e27-806-lm-chytre-bezdratove-stmivatelne-teple-bile-kulata__0753611_pe747640_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tradfri-led-zarovka-e27-806-lm-chytre-bezdratove-stmivatelne-teple-bile-kulata-90408797/",
+        "id": "90408797",
+        "itemNoGlobal": "90408797",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 16,
+        "itemNo": "90408797",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 279,
+            "current": { "prefix": "", "wholeNumber": "279", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "energyLabel": "F",
+        "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1009954_o_lbl10.svg",
+        "energySymbolImageAlt": "Energetická třída F",
+        "energySymbolProductSheetLabel": "Informační list výrobku",
+        "energySymbolProductSheetUrl": "https://eprel.ec.europa.eu/qr/847432",
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-led-zarovka-e27-806-lm-chytre-bezdratove-stmivatelne-teple-bile-kulata__0773339_pe756274_s5.jpg",
+        "mainImageAlt": "TRÅDFRI LED žárovka E27, 806 lm, chytré bezdrátové, stmívatelné/teplé bílé kulatá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Smart Lighting",
+            "productAreaNo": "1032",
+            "productRangeAreaName": "Light sources and Smart Lighting",
+            "productRangeAreaNo": "103"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Chytré osvětlení", "key": "36812" },
+            { "name": "Chytré LED žárovky", "key": "36813" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "90408797",
+    "name": "TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 279 }]
+}

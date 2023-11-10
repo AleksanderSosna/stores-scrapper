@@ -1,0 +1,10 @@
+{
+    "id": "s49417554",
+    "itemNo": "49417554",
+    "name": "LAGKAPTEN / KRILLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 459 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2999 }
+    ]
+}

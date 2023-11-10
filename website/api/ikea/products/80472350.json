@@ -1,1 +1,55 @@
-{ "id": "80472350", "name": "EKTORP", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }] }
+{
+    "id": {
+        "name": "EKTORP",
+        "typeName": "Potah 2místné pohovky",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ektorp-potah-2mistne-pohovky-totebo-tmave-tyrkysova__0826816_pe776414_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ektorp-potah-2mistne-pohovky-totebo-tmave-tyrkysova-80472350/",
+        "id": "80472350",
+        "itemNoGlobal": "80472350",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "tyrkysová", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 18,
+        "itemNo": "80472350",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1490,
+            "current": { "prefix": "", "wholeNumber": "1 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ektorp-potah-2mistne-pohovky-totebo-tmave-tyrkysova__0818547_pe774478_s5.jpg",
+        "mainImageAlt": "EKTORP Potah 2místné pohovky, Totebo tmavě tyrkysová",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Potahy na pohovky a křesla", "key": "10664" },
+            { "name": "EKTORP", "key": "10978" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80472350",
+    "name": "EKTORP",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }]
+}

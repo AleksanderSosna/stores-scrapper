@@ -1,0 +1,10 @@
+{
+    "id": "s89177566",
+    "itemNo": "89177566",
+    "name": "LÅNGFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
+    ]
+}

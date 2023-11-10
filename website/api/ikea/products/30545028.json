@@ -1,1 +1,53 @@
-{ "id": "30545028", "name": "HUVUDTÅG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }
+{
+    "id": {
+        "name": "HUVUDTÅG",
+        "typeName": "Miarka do kawy",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/huvudtag-miarka-do-kawy-stal-nierdz__1157665_pe887805_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/huvudtag-miarka-do-kawy-stal-nierdz-30545028/",
+        "id": "30545028",
+        "itemNoGlobal": "30545028",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30545028",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 9.99,
+            "current": { "prefix": "", "wholeNumber": "9", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/huvudtag-miarka-do-kawy-stal-nierdz__1157660_pe887803_s5.jpg",
+        "mainImageAlt": "HUVUDTÅG Miarka do kawy, stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Coffee and tea accessories",
+            "productAreaNo": "1552",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Akcesoria do kawy", "key": "20622" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30545028",
+    "name": "HUVUDTÅG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }]
+}

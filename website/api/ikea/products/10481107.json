@@ -1,1 +1,54 @@
-{ "id": "10481107", "name": "HOLMEJA", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "HOLMEJA",
+        "typeName": "Klosz lampy wiszącej",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/holmeja-klosz-lampy-wiszacej-szary__0937209_pe793618_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/holmeja-klosz-lampy-wiszacej-szary-10481107/",
+        "id": "10481107",
+        "itemNoGlobal": "10481107",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10481107",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/holmeja-klosz-lampy-wiszacej-szary__0979911_pe814748_s5.jpg",
+        "mainImageAlt": "HOLMEJA Klosz lampy wiszącej, szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Shades, bases and cord set",
+            "productAreaNo": "1015",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Klosze, podstawy i oprawki", "key": "10803" },
+            { "name": "Klosze i abażury do lamp", "key": "10804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10481107",
+    "name": "HOLMEJA",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "PAX / FARDAL",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "250x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-fardal-kombinacja-szafy-dab-bejcowany-na-bialo-polysk-czarny__0961129_pe807391_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-fardal-kombinacja-szafy-dab-bejcowany-na-bialo-polysk-czarny-s79387287/",
+        "id": "s79387287",
+        "itemNoGlobal": "79387287",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79387287",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3390,
+            "current": { "prefix": "", "wholeNumber": "3 390", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-fardal-kombinacja-szafy-dab-bejcowany-na-bialo-polysk-czarny__0573725_pe667894_s5.jpg",
+        "mainImageAlt": "PAX / FARDAL Kombinacja szafy, dąb bejcowany na biało/połysk/czarny, 250x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79387287",
+    "name": "PAX / FARDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3390 }]
+}

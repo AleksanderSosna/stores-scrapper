@@ -1,0 +1,10 @@
+{
+    "id": "s99418315",
+    "itemNo": "99418315",
+    "name": "BERGSHULT / TOMTHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 108.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 419 }
+    ]
+}

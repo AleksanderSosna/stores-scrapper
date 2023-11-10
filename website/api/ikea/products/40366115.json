@@ -1,1 +1,56 @@
-{ "id": "40366115", "name": "VADHOLMA", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }] }
+{
+    "id": {
+        "name": "VADHOLMA",
+        "typeName": "Kuchyňský ostrůvek",
+        "itemMeasureReferenceText": "79x63x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vadholma-kuchynsky-ostruvek-cerna-dub__0736821_pe740763_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vadholma-kuchynsky-ostruvek-cerna-dub-40366115/",
+        "id": "40366115",
+        "itemNoGlobal": "40366115",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 13,
+        "itemNo": "40366115",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8990,
+            "current": { "prefix": "", "wholeNumber": "8 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vadholma-kuchynsky-ostruvek-cerna-dub__0870771_pe683519_s5.jpg",
+        "mainImageAlt": "VADHOLMA Kuchyňský ostrůvek, černá/dub, 79x63x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Vozíky", "key": "fu005" },
+            { "name": "Kuchyňské ostrůvky a servírovací stolky", "key": "10471" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40366115",
+    "name": "VADHOLMA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s79290803",
+    "itemNo": "79290803",
+    "name": "BERGSHULT / GRANHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
+    ]
+}

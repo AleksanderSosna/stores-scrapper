@@ -1,0 +1,56 @@
+{
+    "id": {
+        "name": "RINGSTA / SKAFTET",
+        "typeName": "Lampa podłogowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ringsta-skaftet-lampa-podlogowa-bialy-mosiadz__0856894_pe780850_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ringsta-skaftet-lampa-podlogowa-bialy-mosiadz-s59385958/",
+        "id": "s59385958",
+        "itemNoGlobal": "59385958",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 10,
+        "itemNo": "59385958",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 239,
+            "current": { "prefix": "", "wholeNumber": "239", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ringsta-skaftet-lampa-podlogowa-bialy-mosiadz__0785991_pe762840_s5.jpg",
+        "mainImageAlt": "RINGSTA / SKAFTET Lampa podłogowa, biały/mosiądz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59385958",
+    "name": "RINGSTA / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 239 }]
+}

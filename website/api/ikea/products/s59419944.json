@@ -1,0 +1,10 @@
+{
+    "id": "s59419944",
+    "itemNo": "59419944",
+    "name": "PAX / REINSVOLL/ÅHEIM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4780 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 25700 }
+    ]
+}

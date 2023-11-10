@@ -1,0 +1,10 @@
+{
+    "id": "s79561494",
+    "itemNo": "79561494",
+    "name": "TVÄRDRAG / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 389.95 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2293 }
+    ]
+}

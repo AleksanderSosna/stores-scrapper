@@ -1,0 +1,10 @@
+{
+    "id": "s99904189",
+    "itemNo": "99904189",
+    "name": "FARDAL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 300 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2100 }
+    ]
+}

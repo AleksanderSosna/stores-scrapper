@@ -1,1 +1,53 @@
-{ "id": "90486686", "name": "VITROCKA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }] }
+{
+    "id": {
+        "name": "VITROCKA",
+        "typeName": "Maselniczka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vitrocka-maselniczka-szklo-bezbarwne__0956830_pe804825_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vitrocka-maselniczka-szklo-bezbarwne-90486686/",
+        "id": "90486686",
+        "itemNoGlobal": "90486686",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 113,
+        "itemNo": "90486686",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 34.99,
+            "current": { "prefix": "", "wholeNumber": "34", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vitrocka-maselniczka-szklo-bezbarwne__0956831_pe804824_s5.jpg",
+        "mainImageAlt": "VITROCKA Maselniczka, szkło bezbarwne",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Serving",
+            "productAreaNo": "1512",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do serwowania potraw", "key": "16043" },
+            { "name": "Patery, półmiski i maselniczki", "key": "16047" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90486686",
+    "name": "VITROCKA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }]
+}

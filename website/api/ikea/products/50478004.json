@@ -1,1 +1,55 @@
-{ "id": "50478004", "name": "SÄLLSKAPLIG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "SÄLLSKAPLIG",
+        "typeName": "Filiżanka ze spodkiem",
+        "itemMeasureReferenceText": "7 cl",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/saellskaplig-filizanka-ze-spodkiem-szklo-bezbarwne-wzor__1010791_pe828241_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/saellskaplig-filizanka-ze-spodkiem-szklo-bezbarwne-wzor-50478004/",
+        "id": "50478004",
+        "itemNoGlobal": "50478004",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50478004",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/saellskaplig-filizanka-ze-spodkiem-szklo-bezbarwne-wzor__1010792_pe828242_s5.jpg",
+        "mainImageAlt": "SÄLLSKAPLIG Filiżanka ze spodkiem, szkło bezbarwne/wzór, 7 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Mugs and cups",
+            "productAreaNo": "1551",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Kubki i filiżanki", "key": "16045" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50478004",
+    "name": "SÄLLSKAPLIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

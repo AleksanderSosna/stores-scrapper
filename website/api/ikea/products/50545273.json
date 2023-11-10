@@ -1,1 +1,62 @@
-{ "id": "50545273", "name": "VÄXBO", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "VÄXBO",
+        "typeName": "Umělecká pohlednice",
+        "itemMeasureReferenceText": "13x18 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vaexbo-umelecka-pohlednice-teply-vanek__1118566_pe873185_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vaexbo-umelecka-pohlednice-teply-vanek-50545273/",
+        "id": "50545273",
+        "itemNoGlobal": "50545273",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" },
+            { "name": "tyrkysová", "id": "10152", "hex": "77ddd0" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50545273",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "8 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vaexbo-umelecka-pohlednice-teply-vanek__1158938_pe888234_s5.jpg",
+        "mainImageAlt": "VÄXBO Umělecká pohlednice, teplý vánek, 13x18 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Umělecké pohlednice", "key": "24831" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50545273",
+    "name": "VÄXBO",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "69505880",
-    "name": "EKEDALEN / KLINTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3093 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17930 }
-    ]
-}

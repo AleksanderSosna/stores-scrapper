@@ -1,9 +1,0 @@
-{
-    "id": "69516770",
-    "name": "MÖRBYLÅNGA / KARLPETTER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4155 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 22550 }
-    ]
-}

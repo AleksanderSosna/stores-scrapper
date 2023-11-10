@@ -1,0 +1,119 @@
+{
+    "id": {
+        "name": "KALLAX",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "77x77 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-fala-bialy__1246185_pe922034_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-regal-z-4-szufladami-fala-bialy-s69552956/",
+        "id": "s69552956",
+        "itemNoGlobal": "69552956",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s99552950",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-regal-z-4-szufladami-dab-bejcowany-na-bialo-s99552950/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-dab-bejcowany-na-bialo__1246022_pe921915_s5.jpg",
+                    "imageAlt": "KALLAX Regał, z 4 szufladami/dąb bejcowany na biało, 77x77 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "KALLAX",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "77x77 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-dab-bejcowany-na-bialo__1246022_pe921915_s5.jpg",
+                    "mainImageAlt": "KALLAX Regał, z 4 szufladami/dąb bejcowany na biało, 77x77 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-dab-bejcowany-na-bialo__1246696_pe922241_s5.jpg",
+                    "itemNoGlobal": "99552950",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99552950",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 429,
+                        "current": { "prefix": "", "wholeNumber": "429", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19552949",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-regal-z-4-szufladami-bialy-s19552949/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-bialy__1246018_pe921913_s5.jpg",
+                    "imageAlt": "KALLAX Regał, z 4 szufladami/biały, 77x77 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "KALLAX",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "77x77 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-bialy__1246018_pe921913_s5.jpg",
+                    "mainImageAlt": "KALLAX Regał, z 4 szufladami/biały, 77x77 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-bialy__1246681_pe922230_s5.jpg",
+                    "itemNoGlobal": "19552949",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19552949",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "69552956",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 419,
+            "current": { "prefix": "", "wholeNumber": "419", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-z-4-szufladami-fala-bialy__1246689_pe922235_s5.jpg",
+        "mainImageAlt": "KALLAX Regał, z 4 szufladami fala/biały, 77x77 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Open storage",
+            "productAreaNo": "0215",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały modułowe", "key": "11465" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69552956",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 419 }]
+}

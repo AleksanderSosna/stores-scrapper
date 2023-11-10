@@ -1,1 +1,54 @@
-{ "id": "40103826", "name": "DOLD", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "DOLD",
+        "typeName": "Dávkovač cukru",
+        "itemMeasureReferenceText": "15 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/dold-davkovac-cukru-cire-sklo-nerezavejici-ocel__0711106_pe727962_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/dold-davkovac-cukru-cire-sklo-nerezavejici-ocel-40103826/",
+        "id": "40103826",
+        "itemNoGlobal": "40103826",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 41,
+        "itemNo": "40103826",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/dold-davkovac-cukru-cire-sklo-nerezavejici-ocel__0465598_pe610184_s5.jpg",
+        "mainImageAlt": "DOLD Dávkovač cukru, čiré sklo/nerezavějící ocel, 15 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Kitchen utensils",
+            "productAreaNo": "1422",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Skladování potravin", "key": "15937" },
+            { "name": "Kořenky a mlýnky", "key": "15951" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40103826",
+    "name": "DOLD",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

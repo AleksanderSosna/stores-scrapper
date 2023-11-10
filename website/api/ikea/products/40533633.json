@@ -1,1 +1,94 @@
-{ "id": "40533633", "name": "NILSOVE", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }] }
+{
+    "id": {
+        "name": "NILSOVE",
+        "typeName": "Krzesło z podłokietnikami",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nilsove-krzeslo-z-podlokietnikami-rattan-czarny__1115754_pe872239_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nilsove-krzeslo-z-podlokietnikami-rattan-czarny-40533633/",
+        "id": "40533633",
+        "itemNoGlobal": "40533633",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50434312",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nilsove-krzeslo-z-podlokietnikami-rattan-bialy-50434312/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nilsove-krzeslo-z-podlokietnikami-rattan-bialy__0672929_pe716967_s5.jpg",
+                    "imageAlt": "NILSOVE Krzesło z podłokietnikami, rattan/biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 18,
+                    "name": "NILSOVE",
+                    "typeName": "Krzesło z podłokietnikami",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nilsove-krzeslo-z-podlokietnikami-rattan-bialy__0672929_pe716967_s5.jpg",
+                    "mainImageAlt": "NILSOVE Krzesło z podłokietnikami, rattan/biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nilsove-krzeslo-z-podlokietnikami-rattan-bialy__0870240_pe716965_s5.jpg",
+                    "itemNoGlobal": "50434312",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50434312",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 449,
+                        "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 18,
+        "itemNo": "40533633",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nilsove-krzeslo-z-podlokietnikami-rattan-czarny__1115758_pe872241_s5.jpg",
+        "mainImageAlt": "NILSOVE Krzesło z podłokietnikami, rattan/czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Non upholstered chairs",
+            "productAreaNo": "0821",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Fotele i szezlongi", "key": "fu006" },
+            { "name": "Fotele", "key": "16239" },
+            { "name": "Fotele i krzesła rattanowe", "key": "20907" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40533633",
+    "name": "NILSOVE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }]
+}

@@ -1,1 +1,104 @@
-{ "id": "50415224", "name": "NYMÅNE", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }] }
+{
+    "id": {
+        "name": "NYMÅNE",
+        "typeName": "Nástěnná/čtecí lampa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-cteci-lampa-antracit__0611158_pe685365_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nymane-nastenna-cteci-lampa-antracit-50415224/",
+        "id": "50415224",
+        "itemNoGlobal": "50415224",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20356909",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nymane-nastenna-cteci-lampa-bila-20356909/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-cteci-lampa-bila__0556007_pe660372_s5.jpg",
+                    "imageAlt": "NYMÅNE Nástěnná/čtecí lampa, bílá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.1,
+                    "ratingCount": 72,
+                    "name": "NYMÅNE",
+                    "typeName": "Nástěnná/čtecí lampa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-cteci-lampa-bila__0556007_pe660372_s5.jpg",
+                    "mainImageAlt": "NYMÅNE Nástěnná/čtecí lampa, bílá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-cteci-lampa-bila__1035341_pe840528_s5.jpg",
+                    "itemNoGlobal": "20356909",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Nejprodávanější" },
+                    "itemNo": "20356909",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 499,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.1,
+        "ratingCount": 72,
+        "itemNo": "50415224",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nymane-nastenna-cteci-lampa-antracit__0879291_pe707154_s5.jpg",
+        "mainImageAlt": "NYMÅNE Nástěnná/čtecí lampa, antracit",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Nástěnné osvětlení", "key": "20503" },
+            { "name": "Nástěnné lampy", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50415224",
+    "name": "NYMÅNE",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s19180464",
+    "itemNo": "19180464",
+    "name": "KNOXHULT",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1006 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5798 }
+    ]
+}

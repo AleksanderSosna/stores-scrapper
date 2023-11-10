@@ -1,1 +1,123 @@
-{ "id": "50340832", "name": "NYMÖ", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "NYMÖ",
+        "typeName": "Klosz",
+        "itemMeasureReferenceText": "59 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0503240_pe632548_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nymoe-klosz-bialy-kolor-mosiadzu-50340832/",
+        "id": "50340832",
+        "itemNoGlobal": "50340832",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "10377200",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nymoe-klosz-bialy-kolor-mosiadzu-10377200/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0503228_pe632550_s5.jpg",
+                    "imageAlt": "NYMÖ Klosz, biały/kolor mosiądzu, 24 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 55,
+                    "name": "NYMÖ",
+                    "typeName": "Klosz",
+                    "itemMeasureReferenceText": "24 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0503228_pe632550_s5.jpg",
+                    "mainImageAlt": "NYMÖ Klosz, biały/kolor mosiądzu, 24 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0880616_pe714889_s5.jpg",
+                    "itemNoGlobal": "10377200",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10377200",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 99.99,
+                        "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "10377219",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nymoe-klosz-bialy-kolor-mosiadzu-10377219/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0503236_pe632558_s5.jpg",
+                    "imageAlt": "NYMÖ Klosz, biały/kolor mosiądzu, 44 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 55,
+                    "name": "NYMÖ",
+                    "typeName": "Klosz",
+                    "itemMeasureReferenceText": "44 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0503236_pe632558_s5.jpg",
+                    "mainImageAlt": "NYMÖ Klosz, biały/kolor mosiądzu, 44 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0880619_pe632577_s5.jpg",
+                    "itemNoGlobal": "10377219",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10377219",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 159,
+                        "current": { "prefix": "", "wholeNumber": "159", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 55,
+        "itemNo": "50340832",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymoe-klosz-bialy-kolor-mosiadzu__0881049_pe632589_s5.jpg",
+        "mainImageAlt": "NYMÖ Klosz, biały/kolor mosiądzu, 59 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Shades, bases and cord set",
+            "productAreaNo": "1015",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Klosze, podstawy i oprawki", "key": "10803" },
+            { "name": "Klosze i abażury do lamp", "key": "10804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50340832",
+    "name": "NYMÖ",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

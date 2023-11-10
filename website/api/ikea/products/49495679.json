@@ -1,9 +1,0 @@
-{
-    "id": "49495679",
-    "name": "BRIMNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2698 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12680 }
-    ]
-}

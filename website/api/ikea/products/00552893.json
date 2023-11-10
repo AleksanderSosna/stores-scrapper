@@ -1,1 +1,56 @@
-{ "id": "00552893", "name": "MÄVINN", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Plakát",
+        "itemMeasureReferenceText": "50x35 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-plakat__1171491_pe893104_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-plakat-00552893/",
+        "id": "00552893",
+        "itemNoGlobal": "00552893",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00552893",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-plakat__1200399_ph192810_s5.jpg",
+        "mainImageAlt": "MÄVINN Plakát, 50x35 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Plakáty", "key": "10787" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00552893",
+    "name": "MÄVINN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }]
+}

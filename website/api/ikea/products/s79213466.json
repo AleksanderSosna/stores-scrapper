@@ -1,0 +1,10 @@
+{
+    "id": "s79213466",
+    "itemNo": "79213466",
+    "name": "HJÄLPA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 60 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 280 }
+    ]
+}

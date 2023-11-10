@@ -1,0 +1,10 @@
+{
+    "id": "s39437294",
+    "itemNo": "39437294",
+    "name": "JOSTEIN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1770 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9700 }
+    ]
+}

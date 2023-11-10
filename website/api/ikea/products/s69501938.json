@@ -1,0 +1,10 @@
+{
+    "id": "s69501938",
+    "itemNo": "69501938",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 969 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5480 }
+    ]
+}

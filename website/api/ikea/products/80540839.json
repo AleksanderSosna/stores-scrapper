@@ -1,1 +1,53 @@
-{ "id": "80540839", "name": "PLIRA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "PLIRA",
+        "typeName": "Budzik",
+        "itemMeasureReferenceText": "10 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/plira-budzik-niskie-napiecie-turkusowy__0898243_pe784752_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/plira-budzik-niskie-napiecie-turkusowy-80540839/",
+        "id": "80540839",
+        "itemNoGlobal": "80540839",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "turkusowy", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "80540839",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/plira-budzik-niskie-napiecie-turkusowy__0898244_pe784754_s5.jpg",
+        "mainImageAlt": "PLIRA Budzik, niskie napięcie/turkusowy, 10 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Clocks",
+            "productAreaNo": "1643",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Zegary", "key": "10759" },
+            { "name": "Budziki", "key": "10786" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80540839",
+    "name": "PLIRA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

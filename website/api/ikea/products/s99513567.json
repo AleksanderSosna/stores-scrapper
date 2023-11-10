@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "KALLAX",
+        "typeName": "Biurko",
+        "itemMeasureReferenceText": "147x154x147 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-biurko-bialy__1198046_pe903885_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-biurko-bialy-s99513567/",
+        "id": "s99513567",
+        "itemNoGlobal": "99513567",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99513567",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 728,
+            "current": { "prefix": "", "wholeNumber": "728", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "778", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "778", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-08-30",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-biurko-bialy__1198045_pe903886_s5.jpg",
+        "mainImageAlt": "KALLAX Biurko, biały, 147x154x147 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały modułowe", "key": "11465" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99513567",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 728 }]
+}

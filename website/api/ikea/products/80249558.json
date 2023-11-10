@@ -1,1 +1,89 @@
-{ "id": "80249558", "name": "HEMNES", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Rama łóżka",
+        "itemMeasureReferenceText": "120x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-rama-lozka-biala-bejca__0948861_pe799327_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-rama-lozka-biala-bejca-80249558/",
+        "id": "80249558",
+        "itemNoGlobal": "80249558",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30249546",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-rama-lozka-biala-bejca-30249546/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-rama-lozka-biala-bejca__0637616_pe698429_s5.jpg",
+                    "imageAlt": "HEMNES Rama łóżka, biała bejca, 90x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 21,
+                    "name": "HEMNES",
+                    "typeName": "Rama łóżka",
+                    "itemMeasureReferenceText": "90x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-rama-lozka-biala-bejca__0637616_pe698429_s5.jpg",
+                    "mainImageAlt": "HEMNES Rama łóżka, biała bejca, 90x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-rama-lozka-biala-bejca__1101520_pe866699_s5.jpg",
+                    "itemNoGlobal": "30249546",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30249546",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 999,
+                        "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozmiar", "count": 2, "label": "2 rozmiary/rozmiarów" }]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 21,
+        "itemNo": "80249558",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1199,
+            "current": { "prefix": "", "wholeNumber": "1 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-rama-lozka-biala-bejca__1101580_pe866754_s5.jpg",
+        "mainImageAlt": "HEMNES Rama łóżka, biała bejca, 120x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka pojedyncze", "key": "16285" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80249558",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }]
+}

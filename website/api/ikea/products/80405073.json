@@ -1,1 +1,93 @@
-{ "id": "80405073", "name": "LAUTERS", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }
+{
+    "id": {
+        "name": "LAUTERS",
+        "typeName": "Lampa podłogowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-brazowy-jesion-bialy__0714123_pe729942_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lauters-lampa-podlogowa-brazowy-jesion-bialy-80405073/",
+        "id": "80405073",
+        "itemNoGlobal": "80405073",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30405042",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lauters-lampa-podlogowa-jesion-bialy-30405042/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-jesion-bialy__0663863_pe712536_s5.jpg",
+                    "imageAlt": "LAUTERS Lampa podłogowa, jesion/biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 164,
+                    "name": "LAUTERS",
+                    "typeName": "Lampa podłogowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-jesion-bialy__0663863_pe712536_s5.jpg",
+                    "mainImageAlt": "LAUTERS Lampa podłogowa, jesion/biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-jesion-bialy__0879908_pe714870_s5.jpg",
+                    "itemNoGlobal": "30405042",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "30405042",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 299,
+                        "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 164,
+        "itemNo": "80405073",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-brazowy-jesion-bialy__0714122_pe729943_s5.jpg",
+        "mainImageAlt": "LAUTERS Lampa podłogowa, brązowy jesion/biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80405073",
+    "name": "LAUTERS",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

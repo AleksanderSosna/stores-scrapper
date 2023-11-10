@@ -1,1 +1,52 @@
-{ "id": "60490086", "name": "ANKARSPEL", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }] }
+{
+    "id": {
+        "name": "ANKARSPEL",
+        "typeName": "Nástěnná lampa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ankarspel-nastenna-lampa-vzor-cin__1067390_pe852702_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ankarspel-nastenna-lampa-vzor-cin-60490086/",
+        "id": "60490086",
+        "itemNoGlobal": "60490086",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60490086",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ankarspel-nastenna-lampa-vzor-cin__1089979_pe861787_s5.jpg",
+        "mainImageAlt": "ANKARSPEL Nástěnná lampa, vzor cín",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Nástěnné osvětlení", "key": "20503" },
+            { "name": "Nástěnné lampy", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60490086",
+    "name": "ANKARSPEL",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }]
+}

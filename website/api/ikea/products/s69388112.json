@@ -1,0 +1,10 @@
+{
+    "id": "s69388112",
+    "itemNo": "69388112",
+    "name": "BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
+    ]
+}

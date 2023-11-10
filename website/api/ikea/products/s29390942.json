@@ -1,0 +1,162 @@
+{
+    "id": {
+        "name": "FYRESDAL",
+        "typeName": "Leżanka z 2 materacami",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-vannareid-twardy__1162739_pe889947_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-vannareid-twardy-s29390942/",
+        "id": "s29390942",
+        "itemNoGlobal": "29390942",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s09521468",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy-s09521468/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy__1162174_pe889672_s5.jpg",
+                    "imageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Åfjäll średnio twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "FYRESDAL",
+                    "typeName": "Leżanka z 2 materacami",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy__1162174_pe889672_s5.jpg",
+                    "mainImageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Åfjäll średnio twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy__1101302_pe866571_s5.jpg",
+                    "itemNoGlobal": "09521468",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09521468",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1597,
+                        "current": { "prefix": "", "wholeNumber": "1 597", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99428098",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-agotnes-twardy-s99428098/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-agotnes-twardy__1171956_pe893219_s5.jpg",
+                    "imageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Ågotnes twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "FYRESDAL",
+                    "typeName": "Leżanka z 2 materacami",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-agotnes-twardy__1171956_pe893219_s5.jpg",
+                    "mainImageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Ågotnes twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-agotnes-twardy__1101302_pe866571_s5.jpg",
+                    "itemNoGlobal": "99428098",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99428098",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1357,
+                        "current": { "prefix": "", "wholeNumber": "1 357", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99521464",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-afjaell-twardy-s99521464/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-twardy__1162174_pe889672_s5.jpg",
+                    "imageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Åfjäll twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "FYRESDAL",
+                    "typeName": "Leżanka z 2 materacami",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-twardy__1162174_pe889672_s5.jpg",
+                    "mainImageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Åfjäll twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-twardy__1101302_pe866571_s5.jpg",
+                    "itemNoGlobal": "99521464",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99521464",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1597,
+                        "current": { "prefix": "", "wholeNumber": "1 597", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 17,
+        "itemNo": "29390942",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1897,
+            "current": { "prefix": "", "wholeNumber": "1 897", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-vannareid-twardy__1101302_pe866571_s5.jpg",
+        "mainImageAlt": "FYRESDAL Leżanka z 2 materacami, czarny/Vannareid twardy, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Flexible sleep solutions",
+            "productAreaNo": "0522",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka pojedyncze", "key": "16285" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29390942",
+    "name": "FYRESDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1897 }]
+}

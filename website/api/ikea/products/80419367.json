@@ -1,1 +1,52 @@
-{ "id": "80419367", "name": "SÄVSTA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 10 }] }
+{
+    "id": {
+        "name": "SÄVSTA",
+        "typeName": "Tablica na notatki",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/saevsta-tablica-na-notatki-czarny__0808882_pe770871_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/saevsta-tablica-na-notatki-czarny-80419367/",
+        "id": "80419367",
+        "itemNoGlobal": "80419367",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.1,
+        "ratingCount": 36,
+        "itemNo": "80419367",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 10,
+            "current": { "prefix": "", "wholeNumber": "10", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/saevsta-tablica-na-notatki-czarny__0916694_pe785345_s5.jpg",
+        "mainImageAlt": "SÄVSTA Tablica na notatki, czarny, 50x70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Tablice magnetyczne, korkowe i inne", "key": "10574" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80419367",
+    "name": "SÄVSTA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 10 }]
+}

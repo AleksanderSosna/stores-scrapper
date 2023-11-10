@@ -1,0 +1,10 @@
+{
+    "id": "s39408215",
+    "itemNo": "39408215",
+    "name": "EKEDALEN / BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2395 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12550 }
+    ]
+}

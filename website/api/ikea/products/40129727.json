@@ -1,1 +1,55 @@
-{ "id": "40129727", "name": "SNITSIG", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }] }
+{
+    "id": {
+        "name": "SNITSIG",
+        "typeName": "Hrnec s poklicí",
+        "itemMeasureReferenceText": "8.5 l",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/snitsig-hrnec-s-poklici-nerezavejici-ocel__0712823_pe729086_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/snitsig-hrnec-s-poklici-nerezavejici-ocel-40129727/",
+        "id": "40129727",
+        "itemNoGlobal": "40129727",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 199,
+        "itemNo": "40129727",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/snitsig-hrnec-s-poklici-nerezavejici-ocel__0893062_pe609853_s5.jpg",
+        "mainImageAlt": "SNITSIG Hrnec s poklicí, nerezavějící ocel, 8.5 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pots and cooking accessories",
+            "productAreaNo": "1411",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí na vaření", "key": "kt003" },
+            { "name": "Hrnce a rendlíky", "key": "20633" },
+            { "name": "Hrnce", "key": "20634" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40129727",
+    "name": "SNITSIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }]
+}

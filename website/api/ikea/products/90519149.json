@@ -1,1 +1,54 @@
-{ "id": "90519149", "name": "HUSKNUT", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "HUSKNUT",
+        "typeName": "Rondel",
+        "itemMeasureReferenceText": "1.8 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/husknut-rondel-czarny__1018009_pe831012_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/husknut-rondel-czarny-90519149/",
+        "id": "90519149",
+        "itemNoGlobal": "90519149",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.7,
+        "ratingCount": 6,
+        "itemNo": "90519149",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/husknut-rondel-czarny__1018010_pe831015_s5.jpg",
+        "mainImageAlt": "HUSKNUT Rondel, czarny, 1.8 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Garnki i rondle", "key": "20633" },
+            { "name": "Rondle", "key": "20635" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90519149",
+    "name": "HUSKNUT",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

@@ -1,0 +1,117 @@
+{
+    "id": {
+        "name": "LANDSKRONA",
+        "typeName": "Sofa 4 osobowa z szezlongiem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-czarny-drewno__1249653_pe923405_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-czarny-drewno-s59554277/",
+        "id": "s59554277",
+        "itemNoGlobal": "59554277",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s79554281",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-drewno-s79554281/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-drewno__1249665_pe923429_s5.jpg",
+                    "imageAlt": "LANDSKRONA Sofa 4 osobowa z szezlongiem, Grann/Bomstad złoto-brązowy/drewno",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "LANDSKRONA",
+                    "typeName": "Sofa 4 osobowa z szezlongiem",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-drewno__1249665_pe923429_s5.jpg",
+                    "mainImageAlt": "LANDSKRONA Sofa 4 osobowa z szezlongiem, Grann/Bomstad złoto-brązowy/drewno",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-drewno__1249664_pe923428_s5.jpg",
+                    "itemNoGlobal": "79554281",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79554281",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 6799,
+                        "current": { "prefix": "", "wholeNumber": "6 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99554280",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-metal-s99554280/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-metal__1249671_pe923435_s5.jpg",
+                    "imageAlt": "LANDSKRONA Sofa 4 osobowa z szezlongiem, Grann/Bomstad złoto-brązowy/metal",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "LANDSKRONA",
+                    "typeName": "Sofa 4 osobowa z szezlongiem",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-metal__1249671_pe923435_s5.jpg",
+                    "mainImageAlt": "LANDSKRONA Sofa 4 osobowa z szezlongiem, Grann/Bomstad złoto-brązowy/metal",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-zloto-brazowy-metal__1249670_pe923434_s5.jpg",
+                    "itemNoGlobal": "99554280",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99554280",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 6799,
+                        "current": { "prefix": "", "wholeNumber": "6 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59554277",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 6799,
+            "current": { "prefix": "", "wholeNumber": "6 799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-4-osobowa-z-szezlongiem-grann-bomstad-czarny-drewno__1249652_pe923421_s5.jpg",
+        "mainImageAlt": "LANDSKRONA Sofa 4 osobowa z szezlongiem, Grann/Bomstad czarny/drewno",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy skórzane/ze sztucznej skóry", "key": "10662" },
+            { "name": "Sofy skórzane/ze szucznej skóry z szezlongiem", "key": "47391" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59554277",
+    "name": "LANDSKRONA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6799 }]
+}

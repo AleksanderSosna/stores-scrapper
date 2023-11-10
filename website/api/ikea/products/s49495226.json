@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "GRILLSKÄR",
+        "typeName": "Zlew z blatem bocznym",
+        "itemMeasureReferenceText": "93/116x61 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-zlew-z-blatem-bocznym-stal-nierdz-zewnetrzne__1144334_pe881790_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/grillskaer-zlew-z-blatem-bocznym-stal-nierdz-zewnetrzne-s49495226/",
+        "id": "s49495226",
+        "itemNoGlobal": "49495226",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49495226",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1217,
+            "current": { "prefix": "", "wholeNumber": "1 217", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-zlew-z-blatem-bocznym-stal-nierdz-zewnetrzne__1185286_pe898338_s5.jpg",
+        "mainImageAlt": "GRILLSKÄR Zlew z blatem bocznym, stal nierdz/zewnętrzne, 93/116x61 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor kitchens & cooking",
+            "productAreaNo": "1716",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Grille i akcesoria kuchenne na zewnątrz", "key": "700349" },
+            { "name": "Grille ogrodowe", "key": "24898" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49495226",
+    "name": "GRILLSKÄR",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1217 }]
+}

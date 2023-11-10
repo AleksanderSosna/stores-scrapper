@@ -1,1 +1,88 @@
-{ "id": "00429412", "name": "HEMNES", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Otevřená umyv. skříňka s 1 zásuvkou",
+        "itemMeasureReferenceText": "82x48x76 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-seda__0639366_pe699549_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-seda-00429412/",
+        "id": "00429412",
+        "itemNoGlobal": "00429412",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30396698",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-bila-30396698/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-bila__0634588_pe696604_s5.jpg",
+                    "imageAlt": "HEMNES Otevřená umyv. skříňka s 1 zásuvkou, bílá, 82x48x76 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 6,
+                    "name": "HEMNES",
+                    "typeName": "Otevřená umyv. skříňka s 1 zásuvkou",
+                    "itemMeasureReferenceText": "82x48x76 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-bila__0634588_pe696604_s5.jpg",
+                    "mainImageAlt": "HEMNES Otevřená umyv. skříňka s 1 zásuvkou, bílá, 82x48x76 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-otevrena-umyv-skrinka-s-1-zasuvkou-bila__0862132_pe697189_s5.jpg",
+                    "itemNoGlobal": "30396698",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30396698",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 5990,
+                        "current": { "prefix": "", "wholeNumber": "5 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 6,
+        "itemNo": "00429412",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 5990,
+            "current": { "prefix": "", "wholeNumber": "5 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "HEMNES Otevřená umyv. skříňka s 1 zásuvkou, šedá, 82x48x76 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Umyvadlové skříňky HEMNES bez umyvadla", "key": "700480" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00429412",
+    "name": "HEMNES",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }]
+}

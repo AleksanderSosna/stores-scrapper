@@ -1,1 +1,89 @@
-{ "id": "40368713", "name": "NORDVIKEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2199 }] }
+{
+    "id": {
+        "name": "NORDVIKEN",
+        "typeName": "Stół rozkładany",
+        "itemMeasureReferenceText": "210/289x105 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stol-rozkladany-bialy__0714242_pe729980_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-stol-rozkladany-bialy-40368713/",
+        "id": "40368713",
+        "itemNoGlobal": "40368713",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00488543",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-stol-rozkladany-bejca-patynowa-00488543/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stol-rozkladany-bejca-patynowa__0832852_pe777856_s5.jpg",
+                    "imageAlt": "NORDVIKEN Stół rozkładany, bejca patynowa, 210/289x105 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 12,
+                    "name": "NORDVIKEN",
+                    "typeName": "Stół rozkładany",
+                    "itemMeasureReferenceText": "210/289x105 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stol-rozkladany-bejca-patynowa__0832852_pe777856_s5.jpg",
+                    "mainImageAlt": "NORDVIKEN Stół rozkładany, bejca patynowa, 210/289x105 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stol-rozkladany-bejca-patynowa__0898266_pe782491_s5.jpg",
+                    "itemNoGlobal": "00488543",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00488543",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2199,
+                        "current": { "prefix": "", "wholeNumber": "2 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 12,
+        "itemNo": "40368713",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2199,
+            "current": { "prefix": "", "wholeNumber": "2 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-stol-rozkladany-bialy__0747585_pe744605_s5.jpg",
+        "mainImageAlt": "NORDVIKEN Stół rozkładany, biały, 210/289x105 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Stoły do jadalni", "key": "21825" },
+            { "name": "Stoły do jadalni do 6 osób", "key": "21827" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40368713",
+    "name": "NORDVIKEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2199 }]
+}

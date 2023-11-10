@@ -1,1 +1,55 @@
-{ "id": "90532221", "name": "STRÅLA", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }] }
+{
+    "id": {
+        "name": "STRÅLA",
+        "typeName": "Klosz",
+        "itemMeasureReferenceText": "70 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strala-klosz-kolor-mosiadzu-paski__1090409_pe862053_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/strala-klosz-kolor-mosiadzu-paski-90532221/",
+        "id": "90532221",
+        "itemNoGlobal": "90532221",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "żółty", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 11,
+        "itemNo": "90532221",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 34.99,
+            "current": { "prefix": "", "wholeNumber": "34", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strala-klosz-kolor-mosiadzu-paski__1068120_pe852970_s5.jpg",
+        "mainImageAlt": "STRÅLA Klosz, kolor mosiądzu/paski, 70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Seasonal Lighting",
+            "productAreaNo": "1081",
+            "productRangeAreaName": "Seasonal lighting, Outdoor lighting and Lighting chains",
+            "productRangeAreaNo": "108"
+        },
+        "categoryPath": [
+            { "name": "Kolekcja świąteczna", "key": "wt001" },
+            { "name": "Oświetlenie świąteczne", "key": "49150" },
+            { "name": "Dekoracyjne abażury", "key": "700178" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90532221",
+    "name": "STRÅLA",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }]
+}

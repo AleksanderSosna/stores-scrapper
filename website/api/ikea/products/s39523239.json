@@ -1,0 +1,10 @@
+{
+    "id": "s39523239",
+    "itemNo": "39523239",
+    "name": "SKYTTA / BOAXEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2275 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11850 }
+    ]
+}

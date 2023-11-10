@@ -1,0 +1,10 @@
+{
+    "id": "s69482954",
+    "itemNo": "69482954",
+    "name": "LANEBERG / EKEDALEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1815 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9950 }
+    ]
+}

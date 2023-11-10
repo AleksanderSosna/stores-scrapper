@@ -1,0 +1,10 @@
+{
+    "id": "s49422744",
+    "itemNo": "49422744",
+    "name": "SKYTTA / MEHAMN/AULI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1600 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7900 }
+    ]
+}

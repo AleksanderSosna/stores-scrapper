@@ -1,1 +1,53 @@
-{ "id": "10515683", "name": "VÄRMANSÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1399 }] }
+{
+    "id": {
+        "name": "VÄRMANSÖ",
+        "typeName": "Stół, ogrodowy",
+        "itemMeasureReferenceText": "224x93 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaermansoe-stol-ogrodowy-ciemnoszary__1148142_pe883692_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaermansoe-stol-ogrodowy-ciemnoszary-10515683/",
+        "id": "10515683",
+        "itemNoGlobal": "10515683",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10515683",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1399,
+            "current": { "prefix": "", "wholeNumber": "1 399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaermansoe-stol-ogrodowy-ciemnoszary__1185540_pe898434_s5.jpg",
+        "mainImageAlt": "VÄRMANSÖ Stół, ogrodowy, ciemnoszary, 224x93 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble balkonowe i na taras", "key": "700351" },
+            { "name": "Stoliki i stoły na balkon i do ogrodu", "key": "700191" },
+            { "name": "Stoły do ogrodu i na balkon", "key": "21965" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10515683",
+    "name": "VÄRMANSÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1399 }]
+}

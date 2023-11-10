@@ -1,1 +1,53 @@
-{ "id": "60178887", "name": "BEKVÄM", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }] }
+{
+    "id": {
+        "name": "BEKVÄM",
+        "typeName": "Schůdky",
+        "itemMeasureReferenceText": "50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bekvaem-schudky-buk__0108612_pe258294_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bekvaem-schudky-buk-60178887/",
+        "id": "60178887",
+        "itemNoGlobal": "60178887",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 62,
+        "itemNo": "60178887",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bekvaem-schudky-buk__1214000_pe911457_s5.jpg",
+        "mainImageAlt": "BEKVÄM Schůdky, buk, 50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Stoličky a schůdky", "key": "20611" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60178887",
+    "name": "BEKVÄM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }]
+}

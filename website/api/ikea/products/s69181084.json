@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "FLISBERGET",
+        "typeName": "Drzwi z zawiasami",
+        "itemMeasureReferenceText": "50x229 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flisberget-drzwi-z-zawiasami-niebieski__0475754_pe615795_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/flisberget-drzwi-z-zawiasami-niebieski-s69181084/",
+        "id": "s69181084",
+        "itemNoGlobal": "69181084",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99181068",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/flisberget-drzwi-z-zawiasami-jasnobezowy-s99181068/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/flisberget-drzwi-z-zawiasami-jasnobezowy__0477021_pe616695_s5.jpg",
+                    "imageAlt": "FLISBERGET Drzwi z zawiasami, jasnobeżowy, 50x229 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 45,
+                    "name": "FLISBERGET",
+                    "typeName": "Drzwi z zawiasami",
+                    "itemMeasureReferenceText": "50x229 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flisberget-drzwi-z-zawiasami-jasnobezowy__0477021_pe616695_s5.jpg",
+                    "mainImageAlt": "FLISBERGET Drzwi z zawiasami, jasnobeżowy, 50x229 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flisberget-drzwi-z-zawiasami-jasnobezowy__0935513_ph170335_s5.jpg",
+                    "itemNoGlobal": "99181068",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99181068",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 275,
+                        "current": { "prefix": "", "wholeNumber": "275", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 45,
+        "itemNo": "69181084",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 275,
+            "current": { "prefix": "", "wholeNumber": "275", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flisberget-drzwi-z-zawiasami-niebieski__0758546_pe749871_s5.jpg",
+        "mainImageAlt": "FLISBERGET Drzwi z zawiasami, niebieski, 50x229 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Drzwi PAX z zawiasami", "key": "19112" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69181084",
+    "name": "FLISBERGET",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 275 }]
+}

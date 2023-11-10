@@ -1,9 +1,0 @@
-{
-    "id": "59508940",
-    "name": "BJÖRKSTA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 429 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2190 }
-    ]
-}

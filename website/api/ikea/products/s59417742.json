@@ -1,0 +1,10 @@
+{
+    "id": "s59417742",
+    "itemNo": "59417742",
+    "name": "ANFALLARE / ALEX",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 708 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4980 }
+    ]
+}

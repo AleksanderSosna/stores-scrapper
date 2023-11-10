@@ -1,0 +1,10 @@
+{
+    "id": "s79239843",
+    "itemNo": "79239843",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 900 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4690 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s69284647",
+    "itemNo": "69284647",
+    "name": "EKET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 625 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3950 }
+    ]
+}

@@ -1,1 +1,53 @@
-{ "id": "30372188", "name": "KALLAX", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 189 }] }
+{
+    "id": {
+        "name": "KALLAX",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "42x112 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-bialy__0512856_pe638696_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-regal-bialy-30372188/",
+        "id": "30372188",
+        "itemNoGlobal": "30372188",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 128,
+        "itemNo": "30372188",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 189,
+            "current": { "prefix": "", "wholeNumber": "189", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-regal-bialy__0502405_pe632160_s5.jpg",
+        "mainImageAlt": "KALLAX Regał, biały, 42x112 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Open storage",
+            "productAreaNo": "0215",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały modułowe", "key": "11465" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30372188",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 189 }]
+}

@@ -1,1 +1,89 @@
-{ "id": "40545136", "name": "CHILIFRUKT", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 119 }] }
+{
+    "id": {
+        "name": "CHILIFRUKT",
+        "typeName": "Váza/konev",
+        "itemMeasureReferenceText": "17 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/chilifrukt-vaza-konev-jasne-zluta__1160538_pe888947_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/chilifrukt-vaza-konev-jasne-zluta-40545136/",
+        "id": "40545136",
+        "itemNoGlobal": "40545136",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30492242",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/chilifrukt-vaza-konev-cire-sklo-30492242/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/chilifrukt-vaza-konev-cire-sklo__0990262_pe818834_s5.jpg",
+                    "imageAlt": "CHILIFRUKT Váza/konev, čiré sklo, 21 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 9,
+                    "name": "CHILIFRUKT",
+                    "typeName": "Váza/konev",
+                    "itemMeasureReferenceText": "21 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/chilifrukt-vaza-konev-cire-sklo__0990262_pe818834_s5.jpg",
+                    "mainImageAlt": "CHILIFRUKT Váza/konev, čiré sklo, 21 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/chilifrukt-vaza-konev-cire-sklo__0990263_pe818837_s5.jpg",
+                    "itemNoGlobal": "30492242",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30492242",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 369,
+                        "current": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "žlutá", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 9,
+        "itemNo": "40545136",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/chilifrukt-vaza-konev-jasne-zluta__1160536_pe888949_s5.jpg",
+        "mainImageAlt": "CHILIFRUKT Váza/konev, jasně žlutá, 17 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Vases, bowls and accessories",
+            "productAreaNo": "1633",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Vázy a mísy", "key": "10769" },
+            { "name": "Vázy", "key": "10776" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40545136",
+    "name": "CHILIFRUKT",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 119 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "99181068",
-    "name": "FLISBERGET",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 275 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
-    ]
-}

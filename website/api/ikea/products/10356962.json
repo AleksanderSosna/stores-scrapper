@@ -1,1 +1,90 @@
-{ "id": "10356962", "name": "NYMÅNE", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 159 }] }
+{
+    "id": {
+        "name": "NYMÅNE",
+        "typeName": "Kinkiet z obrotowym ramieniem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymane-kinkiet-z-obrotowym-ramieniem-bialy__0556041_pe660482_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nymane-kinkiet-z-obrotowym-ramieniem-bialy-10356962/",
+        "id": "10356962",
+        "itemNoGlobal": "40356908",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70415218",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nymane-lampa-scienna-z-ramieniem-obrotowym-antracyt-70415218/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nymane-lampa-scienna-z-ramieniem-obrotowym-antracyt__0611159_pe685368_s5.jpg",
+                    "imageAlt": "NYMÅNE Lampa ścienna z ramieniem obrotowym, antracyt",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 134,
+                    "name": "NYMÅNE",
+                    "typeName": "Lampa ścienna z ramieniem obrotowym",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nymane-lampa-scienna-z-ramieniem-obrotowym-antracyt__0611159_pe685368_s5.jpg",
+                    "mainImageAlt": "NYMÅNE Lampa ścienna z ramieniem obrotowym, antracyt",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymane-lampa-scienna-z-ramieniem-obrotowym-antracyt__0879565_pe707507_s5.jpg",
+                    "itemNoGlobal": "70415218",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "70415218",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 159,
+                        "current": { "prefix": "", "wholeNumber": "159", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 134,
+        "itemNo": "10356962",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 159,
+            "current": { "prefix": "", "wholeNumber": "159", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nymane-kinkiet-z-obrotowym-ramieniem-bialy__0879152_pe672123_s5.jpg",
+        "mainImageAlt": "NYMÅNE Kinkiet z obrotowym ramieniem, biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie ścienne", "key": "20503" },
+            { "name": "Lampy ścienne i kinkiety", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10356962",
+    "name": "NYMÅNE",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 159 }]
+}

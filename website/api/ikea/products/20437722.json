@@ -1,1 +1,59 @@
-{ "id": "20437722", "name": "KLOCKREN", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "KLOCKREN",
+        "typeName": "Víko",
+        "itemMeasureReferenceText": "36x26 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/klockren-viko-silikon__0791114_pe764517_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/klockren-viko-silikon-20437722/",
+        "id": "20437722",
+        "itemNoGlobal": "20437722",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 19,
+        "itemNo": "20437722",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/klockren-viko-silikon__0791113_pe764518_s5.jpg",
+        "mainImageAlt": "KLOCKREN Víko, silikon, 36x26 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Ovenware",
+            "productAreaNo": "1413",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí na vaření", "key": "kt003" },
+            { "name": "Náčiní k vaření", "key": "15927" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20437722",
+    "name": "KLOCKREN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

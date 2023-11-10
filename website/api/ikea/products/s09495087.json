@@ -1,0 +1,10 @@
+{
+    "id": "s09495087",
+    "itemNo": "09495087",
+    "name": "MÖRBYLÅNGA / LILLÅNÄS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4515 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 24950 }
+    ]
+}

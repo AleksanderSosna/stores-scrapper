@@ -1,9 +1,0 @@
-{
-    "id": "99428197",
-    "name": "LERGRYN / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}

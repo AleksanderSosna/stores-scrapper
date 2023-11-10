@@ -1,1 +1,91 @@
-{ "id": "00560044", "name": "SPÅRVAGN", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "SPÅRVAGN",
+        "typeName": "Wycieraczka",
+        "itemMeasureReferenceText": "40x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sparvagn-wycieraczka-zielony__1185984_pe898635_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sparvagn-wycieraczka-zielony-00560044/",
+        "id": "00560044",
+        "itemNoGlobal": "00560044",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50560046",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sparvagn-wycieraczka-zielony-50560046/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sparvagn-wycieraczka-zielony__1185984_pe898635_s5.jpg",
+                    "imageAlt": "SPÅRVAGN Wycieraczka, zielony, 60x90 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "SPÅRVAGN",
+                    "typeName": "Wycieraczka",
+                    "itemMeasureReferenceText": "60x90 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sparvagn-wycieraczka-zielony__1185984_pe898635_s5.jpg",
+                    "mainImageAlt": "SPÅRVAGN Wycieraczka, zielony, 60x90 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sparvagn-wycieraczka-zielony__1185981_pe898645_s5.jpg",
+                    "itemNoGlobal": "50560046",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50560046",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 39.99,
+                        "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "00560044",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sparvagn-wycieraczka-zielony__1185980_pe898644_s5.jpg",
+        "mainImageAlt": "SPÅRVAGN Wycieraczka, zielony, 40x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Wycieraczki pod drzwi", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00560044",
+    "name": "SPÅRVAGN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

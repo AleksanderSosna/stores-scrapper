@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "JUTHOLMEN",
+        "typeName": "2-osobowa sofa modułowa, zewn",
+        "itemMeasureReferenceText": "146x73 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/jutholmen-2-osobowa-sofa-modulowa-zewn-ciemnoszary-kuddarna-bezowy__0835239_pe778358_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/jutholmen-2-osobowa-sofa-modulowa-zewn-ciemnoszary-kuddarna-bezowy-s49385162/",
+        "id": "s49385162",
+        "itemNoGlobal": "49385162",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49385162",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 859.98,
+            "current": { "prefix": "", "wholeNumber": "859", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/jutholmen-2-osobowa-sofa-modulowa-zewn-ciemnoszary-kuddarna-bezowy__0825764_pe776349_s5.jpg",
+        "mainImageAlt": "JUTHOLMEN 2-osobowa sofa modułowa, zewn, ciemnoszary/Kuddarna beżowy, 146x73 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor sofas & relax",
+            "productAreaNo": "1712",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble do ogrodu i na taras", "key": "700350" },
+            { "name": "Sofy do ogrodu i na balkon", "key": "21959" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49385162",
+    "name": "JUTHOLMEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 859.98 }]
+}

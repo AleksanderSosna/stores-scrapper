@@ -1,9 +1,0 @@
-{
-    "id": "59501057",
-    "name": "UPPDATERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179.97 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 827 }
-    ]
-}

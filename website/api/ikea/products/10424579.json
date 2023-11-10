@@ -1,1 +1,53 @@
-{ "id": "10424579", "name": "SMULGUBBE", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "SMULGUBBE",
+        "typeName": "Doniczka z podstawką",
+        "itemMeasureReferenceText": "9 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smulgubbe-doniczka-z-podstawka-imitacja-betonu-zewnetrzne__0653256_pe707878_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smulgubbe-doniczka-z-podstawka-imitacja-betonu-zewnetrzne-10424579/",
+        "id": "10424579",
+        "itemNoGlobal": "10424579",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "10424579",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smulgubbe-doniczka-z-podstawka-imitacja-betonu-zewnetrzne__0899938_pe707873_s5.jpg",
+        "mainImageAlt": "SMULGUBBE Doniczka z podstawką, imitacja betonu/zewnętrzne, 9 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Donice, rośliny i akcesoria ogrodowe", "key": "31787" },
+            { "name": "Doniczki na zewnątrz", "key": "30436" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10424579",
+    "name": "SMULGUBBE",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

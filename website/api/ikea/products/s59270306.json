@@ -1,0 +1,10 @@
+{
+    "id": "s59270306",
+    "itemNo": "59270306",
+    "name": "LANDSKRONA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
+    ]
+}

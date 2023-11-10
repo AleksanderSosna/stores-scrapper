@@ -1,0 +1,120 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Szafka z lustrem i drzwiami",
+        "itemMeasureReferenceText": "40x17x75 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-bialy__0816124_pe773242_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-z-lustrem-i-drzwiami-bialy-s79322724/",
+        "id": "s79322724",
+        "itemNoGlobal": "79322724",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s99322501",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-z-lustrem-i-drzwiami-szary-s99322501/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-szary__0816117_pe773298_s5.jpg",
+                    "imageAlt": "ENHET Szafka z lustrem i drzwiami, szary, 40x17x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 18,
+                    "name": "ENHET",
+                    "typeName": "Szafka z lustrem i drzwiami",
+                    "itemMeasureReferenceText": "40x17x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-szary__0816117_pe773298_s5.jpg",
+                    "mainImageAlt": "ENHET Szafka z lustrem i drzwiami, szary, 40x17x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-szary__0918423_pe786271_s5.jpg",
+                    "itemNoGlobal": "99322501",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99322501",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 300,
+                        "current": { "prefix": "", "wholeNumber": "300", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s49323701",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-z-lustrem-i-drzwiami-bialy-s49323701/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-bialy__0816131_pe773281_s5.jpg",
+                    "imageAlt": "ENHET Szafka z lustrem i drzwiami, biały, 40x32x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 18,
+                    "name": "ENHET",
+                    "typeName": "Szafka z lustrem i drzwiami",
+                    "itemMeasureReferenceText": "40x32x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-bialy__0816131_pe773281_s5.jpg",
+                    "mainImageAlt": "ENHET Szafka z lustrem i drzwiami, biały, 40x32x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-bialy__0918432_pe786279_s5.jpg",
+                    "itemNoGlobal": "49323701",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49323701",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 310,
+                        "current": { "prefix": "", "wholeNumber": "310", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 18,
+        "itemNo": "79322724",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 300,
+            "current": { "prefix": "", "wholeNumber": "300", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-z-lustrem-i-drzwiami-bialy__0918428_pe786276_s5.jpg",
+        "mainImageAlt": "ENHET Szafka z lustrem i drzwiami, biały, 40x17x75 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Szafki Z lustrem I lustrem ENHET", "key": "700484" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79322724",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 300 }]
+}

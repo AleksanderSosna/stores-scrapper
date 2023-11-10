@@ -1,1 +1,97 @@
-{ "id": "70392274", "name": "GODMORGON", "categoryKey": "ba001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1000 }] }
+{
+    "id": {
+        "name": "GODMORGON",
+        "typeName": "Szafka wysoka",
+        "itemMeasureReferenceText": "40x32x192 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-szafka-wysoka-kasjoen-bialy__0721628_pe733301_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/godmorgon-szafka-wysoka-kasjoen-bialy-70392274/",
+        "id": "70392274",
+        "itemNoGlobal": "70392274",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90392273",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/godmorgon-szafka-wysoka-kasjoen-jasnoszary-90392273/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-szafka-wysoka-kasjoen-jasnoszary__0721629_pe733298_s5.jpg",
+                    "imageAlt": "GODMORGON Szafka wysoka, Kasjön jasnoszary, 40x32x192 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 11,
+                    "name": "GODMORGON",
+                    "typeName": "Szafka wysoka",
+                    "itemMeasureReferenceText": "40x32x192 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-szafka-wysoka-kasjoen-jasnoszary__0721629_pe733298_s5.jpg",
+                    "mainImageAlt": "GODMORGON Szafka wysoka, Kasjön jasnoszary, 40x32x192 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-szafka-wysoka-kasjoen-jasnoszary__0859840_pe689750_s5.jpg",
+                    "itemNoGlobal": "90392273",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "90392273",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 750,
+                        "current": { "prefix": "", "wholeNumber": "750", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "previous": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "validFrom": "2023-10-03",
+                        "validTo": "2024-08-31",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nowa\nniższa\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 11,
+        "itemNo": "70392274",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1000,
+            "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-szafka-wysoka-kasjoen-bialy__0862858_pe689764_s5.jpg",
+        "mainImageAlt": "GODMORGON Szafka wysoka, Kasjön biały, 40x32x192 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Przechowywanie w łazience", "key": "ba002" },
+            { "name": "Szafki łazienkowe", "key": "20802" },
+            { "name": "Szafki wysokie łazienkowe", "key": "20806" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "70392274",
+    "name": "GODMORGON",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1000 }]
+}

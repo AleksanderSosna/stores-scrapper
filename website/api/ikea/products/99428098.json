@@ -1,9 +1,0 @@
-{
-    "id": "99428098",
-    "name": "FYRESDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1357 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6788 }
-    ]
-}

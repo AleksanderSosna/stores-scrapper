@@ -1,0 +1,10 @@
+{
+    "id": "s79418806",
+    "itemNo": "79418806",
+    "name": "MINNEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3540 }
+    ]
+}

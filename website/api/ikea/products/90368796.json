@@ -1,1 +1,60 @@
-{ "id": "90368796", "name": "PRIMULA OBCONICA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }] }
+{
+    "id": {
+        "name": "PRIMULA OBCONICA",
+        "typeName": "Rostlina",
+        "itemMeasureReferenceText": "14 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/primula-obconica-rostlina-prvosenka-ruzne-barvy__0573927_pe667972_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/primula-obconica-rostlina-prvosenka-ruzne-barvy-90368796/",
+        "id": "90368796",
+        "itemNoGlobal": "90368796",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "fialová", "id": "10064", "hex": "a96ecc" },
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" },
+            { "name": "barevné", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90368796",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/primula-obconica-rostlina-prvosenka-ruzne-barvy__0902013_pe668036_s5.jpg",
+        "mainImageAlt": "PRIMULA OBCONICA Rostlina, prvosenka různé barvy, 14 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní květináče a rostliny", "key": "31787" },
+            { "name": "Rostliny", "key": "10779" },
+            { "name": "Stolní rostliny", "key": "700523" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "90368796",
+    "name": "PRIMULA OBCONICA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }]
+}

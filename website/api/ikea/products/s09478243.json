@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "PAX / TYSSEDAL",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "150x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-szary__1080734_pe858172_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-tyssedal-szafa-bialy-szary-s09478243/",
+        "id": "s09478243",
+        "itemNoGlobal": "09478243",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09478243",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2935,
+            "current": { "prefix": "", "wholeNumber": "2 935", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-szary__1104094_pe867512_s5.jpg",
+        "mainImageAlt": "PAX / TYSSEDAL Szafa, biały/szary, 150x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09478243",
+    "name": "PAX / TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2935 }]
+}

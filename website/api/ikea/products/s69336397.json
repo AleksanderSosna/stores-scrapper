@@ -1,0 +1,88 @@
+{
+    "id": {
+        "name": "PAX / FORSAND/ÅHEIM",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "75x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-aheim-kombinacja-szafy-bialy-lustro__0928648_pe789944_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-aheim-kombinacja-szafy-bialy-lustro-s69336397/",
+        "id": "s69336397",
+        "itemNoGlobal": "69336397",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09336395",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-aheim-kombinacja-szafy-bialy-lustro-s09336395/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-aheim-kombinacja-szafy-bialy-lustro__0928647_pe789945_s5.jpg",
+                    "imageAlt": "PAX / FORSAND/ÅHEIM Kombinacja szafy, biały/lustro, 75x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND/ÅHEIM",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "75x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-aheim-kombinacja-szafy-bialy-lustro__0928647_pe789945_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND/ÅHEIM Kombinacja szafy, biały/lustro, 75x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-aheim-kombinacja-szafy-bialy-lustro__0820617_pe775073_s5.jpg",
+                    "itemNoGlobal": "09336395",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09336395",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1685,
+                        "current": { "prefix": "", "wholeNumber": "1 685", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69336397",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1855,
+            "current": { "prefix": "", "wholeNumber": "1 855", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-aheim-kombinacja-szafy-bialy-lustro__0820472_pe775039_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND/ÅHEIM Kombinacja szafy, biały/lustro, 75x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69336397",
+    "name": "PAX / FORSAND/ÅHEIM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1855 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s79437838",
+    "itemNo": "79437838",
+    "name": "SANNIDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
+    ]
+}

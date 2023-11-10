@@ -1,1 +1,58 @@
-{ "id": "60537852", "name": "TORPARÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }] }
+{
+    "id": {
+        "name": "TORPARÖ",
+        "typeName": "Krzesło z podłokietnikami wew/zew",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-krzeslo-z-podlokietnikami-wew-zew-bialy-szary__1138957_pe880162_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/torparoe-krzeslo-z-podlokietnikami-wew-zew-bialy-szary-60537852/",
+        "id": "60537852",
+        "itemNoGlobal": "60537852",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "60537852",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-krzeslo-z-podlokietnikami-wew-zew-bialy-szary__1185564_pe898449_s5.jpg",
+        "mainImageAlt": "TORPARÖ Krzesło z podłokietnikami wew/zew, biały/szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble do ogrodu i na taras", "key": "700350" },
+            { "name": "Krzesła i fotele ogrodowe", "key": "21964" },
+            { "name": "Krzesła i stołki na balkon i taras", "key": "21966" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60537852",
+    "name": "TORPARÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s39389660",
+    "itemNo": "39389660",
+    "name": "ESPEVÄR/VÅGSTRANDA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4528 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 22780 }
+    ]
+}

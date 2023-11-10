@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "GALANT",
+        "typeName": "Kombinacja z szufladami",
+        "itemMeasureReferenceText": "160x160 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-szufladami-bialy__0651246_pe706799_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-szufladami-bialy-s69285067/",
+        "id": "s69285067",
+        "itemNoGlobal": "69285067",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69285109",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/galant-kombinacja-z-szufladami-okleina-debowa-bejcowana-na-bialo-s69285109/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-szufladami-okleina-debowa-bejcowana-na-bialo__0651575_pe706954_s5.jpg",
+                    "imageAlt": "GALANT Kombinacja z szufladami, okleina dębowa bejcowana na biało, 160x160 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "GALANT",
+                    "typeName": "Kombinacja z szufladami",
+                    "itemMeasureReferenceText": "160x160 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-szufladami-okleina-debowa-bejcowana-na-bialo__0651575_pe706954_s5.jpg",
+                    "mainImageAlt": "GALANT Kombinacja z szufladami, okleina dębowa bejcowana na biało, 160x160 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-szufladami-okleina-debowa-bejcowana-na-bialo__0856769_pe714409_s5.jpg",
+                    "itemNoGlobal": "69285109",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69285109",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4498,
+                        "current": { "prefix": "", "wholeNumber": "4 498", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69285067",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3698,
+            "current": { "prefix": "", "wholeNumber": "3 698", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/galant-kombinacja-z-szufladami-bialy__0856697_pe714414_s5.jpg",
+        "mainImageAlt": "GALANT Kombinacja z szufladami, biały, 160x160 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki biurowe", "key": "10385" },
+            { "name": "Szafki do biura", "key": "47084" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69285067",
+    "name": "GALANT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3698 }]
+}

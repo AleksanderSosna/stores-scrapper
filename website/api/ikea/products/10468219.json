@@ -1,1 +1,121 @@
-{ "id": "10468219", "name": "STRIMMIG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "STRIMMIG",
+        "typeName": "Kubek",
+        "itemMeasureReferenceText": "36 cl",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-bialy__1062936_pe851130_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/strimmig-kubek-bialy-10468219/",
+        "id": "10468219",
+        "itemNoGlobal": "10468219",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "50426388",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/strimmig-kubek-kamionka-niebieski-50426388/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-niebieski__0736539_pe740602_s5.jpg",
+                    "imageAlt": "STRIMMIG Kubek, kamionka niebieski, 36 cl",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 226,
+                    "name": "STRIMMIG",
+                    "typeName": "Kubek",
+                    "itemMeasureReferenceText": "36 cl",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-niebieski__0736539_pe740602_s5.jpg",
+                    "mainImageAlt": "STRIMMIG Kubek, kamionka niebieski, 36 cl",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-niebieski__0736537_pe740601_s5.jpg",
+                    "itemNoGlobal": "50426388",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50426388",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 19.99,
+                        "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "70443184",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/strimmig-kubek-kamionka-szary-70443184/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-szary__0736543_pe740604_s5.jpg",
+                    "imageAlt": "STRIMMIG Kubek, kamionka szary, 36 cl",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 226,
+                    "name": "STRIMMIG",
+                    "typeName": "Kubek",
+                    "itemMeasureReferenceText": "36 cl",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-szary__0736543_pe740604_s5.jpg",
+                    "mainImageAlt": "STRIMMIG Kubek, kamionka szary, 36 cl",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-kamionka-szary__0947760_ph174018_s5.jpg",
+                    "itemNoGlobal": "70443184",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70443184",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 19.99,
+                        "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 226,
+        "itemNo": "10468219",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strimmig-kubek-bialy__1062933_pe851129_s5.jpg",
+        "mainImageAlt": "STRIMMIG Kubek, biały, 36 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Mugs and cups",
+            "productAreaNo": "1551",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Kubki i filiżanki", "key": "16045" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10468219",
+    "name": "STRIMMIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

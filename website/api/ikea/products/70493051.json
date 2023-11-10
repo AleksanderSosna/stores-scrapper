@@ -1,1 +1,53 @@
-{ "id": "70493051", "name": "TORVFLY", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 }] }
+{
+    "id": {
+        "name": "TORVFLY",
+        "typeName": "Łapka do garnków",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torvfly-lapka-do-garnkow-wzor-pomaranczowy__0956213_pe804614_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/torvfly-lapka-do-garnkow-wzor-pomaranczowy-70493051/",
+        "id": "70493051",
+        "itemNoGlobal": "70493051",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "70493051",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 6.99,
+            "current": { "prefix": "", "wholeNumber": "6", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torvfly-lapka-do-garnkow-wzor-pomaranczowy__0956214_pe804629_s5.jpg",
+        "mainImageAlt": "TORVFLY Łapka do garnków, wzór/pomarańczowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking textiles",
+            "productAreaNo": "1415",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia do kuchni", "key": "18850" },
+            { "name": "Rękawice kuchenne", "key": "20537" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70493051",
+    "name": "TORVFLY",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 }]
+}

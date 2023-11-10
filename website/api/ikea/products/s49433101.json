@@ -1,0 +1,88 @@
+{
+    "id": {
+        "name": "PAX / AULI",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "150x66x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-auli-kombinacja-szafy-bezowy-lustro__1032318_pe836871_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-auli-kombinacja-szafy-bezowy-lustro-s49433101/",
+        "id": "s49433101",
+        "itemNoGlobal": "49433101",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09433099",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-auli-kombinacja-szafy-bezowy-lustro-s09433099/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-auli-kombinacja-szafy-bezowy-lustro__1152497_pe885384_s5.jpg",
+                    "imageAlt": "PAX / AULI Kombinacja szafy, beżowy/lustro, 150x66x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / AULI",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "150x66x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-auli-kombinacja-szafy-bezowy-lustro__1152497_pe885384_s5.jpg",
+                    "mainImageAlt": "PAX / AULI Kombinacja szafy, beżowy/lustro, 150x66x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-auli-kombinacja-szafy-bezowy-lustro__1183936_pe897665_s5.jpg",
+                    "itemNoGlobal": "09433099",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09433099",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2580,
+                        "current": { "prefix": "", "wholeNumber": "2 580", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49433101",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2820,
+            "current": { "prefix": "", "wholeNumber": "2 820", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-auli-kombinacja-szafy-bezowy-lustro__1183917_pe897641_s5.jpg",
+        "mainImageAlt": "PAX / AULI Kombinacja szafy, beżowy/lustro, 150x66x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49433101",
+    "name": "PAX / AULI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2820 }]
+}

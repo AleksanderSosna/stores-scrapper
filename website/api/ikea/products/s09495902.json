@@ -1,0 +1,10 @@
+{
+    "id": "s09495902",
+    "itemNo": "09495902",
+    "name": "KALBÅDEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 640 }
+    ]
+}

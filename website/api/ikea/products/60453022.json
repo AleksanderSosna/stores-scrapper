@@ -1,1 +1,53 @@
-{ "id": "60453022", "name": "DATA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }
+{
+    "id": {
+        "name": "DATA",
+        "typeName": "Komplet sztućców, 24 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/data-komplet-sztuccow-24-szt-stal-nierdz__39120_pe131528_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/data-komplet-sztuccow-24-szt-stal-nierdz-60453022/",
+        "id": "60453022",
+        "itemNoGlobal": "60453022",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 62,
+        "itemNo": "60453022",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/data-komplet-sztuccow-24-szt-stal-nierdz__0897686_pe386389_s5.jpg",
+        "mainImageAlt": "DATA Komplet sztućców, 24 szt., stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Cutlery",
+            "productAreaNo": "1531",
+            "productRangeAreaName": "Cutlery",
+            "productRangeAreaNo": "153"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Sztućce stołowe", "key": "18865" },
+            { "name": "Komplety sztućców", "key": "18866" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60453022",
+    "name": "DATA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }]
+}

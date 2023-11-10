@@ -1,1 +1,61 @@
-{ "id": "30463305", "name": "VIHOLMEN", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }] }
+{
+    "id": {
+        "name": "VIHOLMEN",
+        "typeName": "Stůl, venkovní",
+        "itemMeasureReferenceText": "135x74 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/viholmen-stul-venkovni-tmave-seda__0959917_pe806288_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/viholmen-stul-venkovni-tmave-seda-30463305/",
+        "id": "30463305",
+        "itemNoGlobal": "30463305",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "30463305",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1690,
+            "current": { "prefix": "", "wholeNumber": "1 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-08-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. srpna 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/viholmen-stul-venkovni-tmave-seda__0997559_ph177038_s5.jpg",
+        "mainImageAlt": "VIHOLMEN Stůl, venkovní, tmavě šedá, 135x74 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní nábytek", "key": "od003" },
+            { "name": "Venkovní stolování", "key": "700351" },
+            { "name": "Venkovní stoly", "key": "700191" },
+            { "name": "Venkovní jídelní stoly", "key": "21965" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30463305",
+    "name": "VIHOLMEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }]
+}

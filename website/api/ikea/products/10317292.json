@@ -1,1 +1,89 @@
-{ "id": "10317292", "name": "ELVARLI", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 400 }] }
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Police na boty",
+        "itemMeasureReferenceText": "40x36 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-na-boty-bila__0430464_pe584641_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-police-na-boty-bila-10317292/",
+        "id": "10317292",
+        "itemNoGlobal": "10317292",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50317290",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-police-na-boty-bila-50317290/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-na-boty-bila__0430465_pe584642_s5.jpg",
+                    "imageAlt": "ELVARLI Police na boty, bílá, 80x36 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.5,
+                    "ratingCount": 2,
+                    "name": "ELVARLI",
+                    "typeName": "Police na boty",
+                    "itemMeasureReferenceText": "80x36 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-na-boty-bila__0430465_pe584642_s5.jpg",
+                    "mainImageAlt": "ELVARLI Police na boty, bílá, 80x36 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-na-boty-bila__0856070_pe595933_s5.jpg",
+                    "itemNoGlobal": "50317290",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50317290",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 500,
+                        "current": { "prefix": "", "wholeNumber": "500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.5,
+        "ratingCount": 2,
+        "itemNo": "10317292",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 400,
+            "current": { "prefix": "", "wholeNumber": "400", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-na-boty-bila__0856659_pe603431_s5.jpg",
+        "mainImageAlt": "ELVARLI Police na boty, bílá, 40x36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Stojny, bočnice a vnitřní vybavení ELVARLI", "key": "35767" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10317292",
+    "name": "ELVARLI",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 400 }]
+}

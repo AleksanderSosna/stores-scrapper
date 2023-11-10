@@ -1,1 +1,94 @@
-{ "id": "40535627", "name": "STJÄRNANIS", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }] }
+{
+    "id": {
+        "name": "STJÄRNANIS",
+        "typeName": "Truhlík",
+        "itemMeasureReferenceText": "43x15 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernanis-truhlik-venkovni-morene-svetle-seda__1033982_pe840212_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/stjaernanis-truhlik-venkovni-morene-svetle-seda-40535627/",
+        "id": "40535627",
+        "itemNoGlobal": "40535627",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20535633",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/stjaernanis-truhlik-venkovni-morene-svetle-seda-20535633/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernanis-truhlik-venkovni-morene-svetle-seda__1033985_pe840215_s5.jpg",
+                    "imageAlt": "STJÄRNANIS Truhlík, venkovní mořené/světle šedá, 75x27 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 27,
+                    "name": "STJÄRNANIS",
+                    "typeName": "Truhlík",
+                    "itemMeasureReferenceText": "75x27 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernanis-truhlik-venkovni-morene-svetle-seda__1033985_pe840215_s5.jpg",
+                    "mainImageAlt": "STJÄRNANIS Truhlík, venkovní mořené/světle šedá, 75x27 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernanis-truhlik-venkovni-morene-svetle-seda__1122970_pe874696_s5.jpg",
+                    "itemNoGlobal": "20535633",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "20535633",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 799,
+                        "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-08-01",
+                        "validTo": "2023-12-31",
+                        "availabilityDisclaimer": "Cena platí od 1. srpna 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+                        "tag": "TIME_RESTRICTED_OFFER",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 27,
+        "itemNo": "40535627",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernanis-truhlik-venkovni-morene-svetle-seda__1122945_pe874693_s5.jpg",
+        "mainImageAlt": "STJÄRNANIS Truhlík, venkovní mořené/světle šedá, 43x15 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní květináče a rostliny", "key": "31787" },
+            { "name": "Venkovní květináče", "key": "30436" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40535627",
+    "name": "STJÄRNANIS",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }]
+}

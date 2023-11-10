@@ -1,0 +1,10 @@
+{
+    "id": "s59157391",
+    "itemNo": "59157391",
+    "name": "LÅNGUDDEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 289 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
+    ]
+}

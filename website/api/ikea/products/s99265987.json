@@ -1,0 +1,10 @@
+{
+    "id": "s99265987",
+    "itemNo": "99265987",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2198 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12490 }
+    ]
+}

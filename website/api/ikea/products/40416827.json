@@ -1,1 +1,59 @@
-{ "id": "40416827", "name": "BROGRUND", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "BROGRUND",
+        "typeName": "Stojan na toaletní papír",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/brogrund-stojan-na-toaletni-papir-nerezavejici-ocel__0711690_pe728383_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/brogrund-stojan-na-toaletni-papir-nerezavejici-ocel-40416827/",
+        "id": "40416827",
+        "itemNoGlobal": "40416827",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 20,
+        "itemNo": "40416827",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/brogrund-stojan-na-toaletni-papir-nerezavejici-ocel__0863758_pe685562_s5.jpg",
+        "mainImageAlt": "BROGRUND Stojan na toaletní papír, nerezavějící ocel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom, shower and toilet solutions",
+            "productAreaNo": "0623",
+            "productRangeAreaName": "Bathroom accessories",
+            "productRangeAreaNo": "062"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové doplňky", "key": "10555" },
+            { "name": "Držáky a stojany na toaletní papír", "key": "10657" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40416827",
+    "name": "BROGRUND",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

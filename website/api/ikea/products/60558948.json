@@ -1,1 +1,56 @@
-{ "id": "60558948", "name": "GJERTRUD", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "GJERTRUD",
+        "typeName": "Firanka, 1 szt.",
+        "itemMeasureReferenceText": "60x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gjertrud-firanka-1-szt-bialy__1160433_pe888910_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gjertrud-firanka-1-szt-bialy-60558948/",
+        "id": "60558948",
+        "itemNoGlobal": "60558948",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52517", "name": "Tkanina przeźroczysta", "typeName": "Właściwości filtrujące światło" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 1,
+        "itemNo": "60558948",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/gjertrud-firanka-1-szt-bialy__1160444_pe888914_s5.jpg",
+        "mainImageAlt": "GJERTRUD Firanka, 1 szt., biały, 60x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Firanki i zasłony", "key": "10700" },
+            { "name": "Firanki", "key": "700221" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60558948",
+    "name": "GJERTRUD",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

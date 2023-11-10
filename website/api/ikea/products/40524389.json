@@ -1,1 +1,52 @@
-{ "id": "40524389", "name": "KAFFEREP", "categoryKey": "fb001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 16 }] }
+{
+    "id": {
+        "name": "KAFFEREP",
+        "typeName": "Ciasto czekoladowe",
+        "itemMeasureReferenceText": "400 g",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kafferep-ciasto-czekoladowe-mrozone-certyfikowane-rainforest-alliance__1119933_pe873652_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kafferep-ciasto-czekoladowe-mrozone-certyfikowane-rainforest-alliance-40524389/",
+        "id": "40524389",
+        "itemNoGlobal": "40524389",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40524389",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 16,
+            "current": { "prefix": "", "wholeNumber": "16", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "0.4 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kafferep-ciasto-czekoladowe-mrozone-certyfikowane-rainforest-alliance__0963271_pe808430_s5.jpg",
+        "mainImageAlt": "KAFFEREP Ciasto czekoladowe, mrożone certyfikowane Rainforest Alliance, 400 g",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Pastries, desserts and cookies",
+            "productAreaNo": "9615",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Jedzenie i napoje", "key": "fb001" },
+            { "name": "Desery, ciasta i ciasteczka", "key": "25215" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40524389",
+    "name": "KAFFEREP",
+    "categoryKey": "fb001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 16 }]
+}

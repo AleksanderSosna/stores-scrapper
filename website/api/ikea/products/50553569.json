@@ -1,1 +1,91 @@
-{ "id": "50553569", "name": "PALPFJÄRIL", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "PALPFJÄRIL",
+        "typeName": "Podnos",
+        "itemMeasureReferenceText": "33x33 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/palpfjaeril-podnos-vzorovano-barevna__1174034_pe894368_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/palpfjaeril-podnos-vzorovano-barevna-50553569/",
+        "id": "50553569",
+        "itemNoGlobal": "50553569",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10553566",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/palpfjaeril-podnos-vzorovano-barevna-10553566/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/palpfjaeril-podnos-vzorovano-barevna__1173884_pe894345_s5.jpg",
+                    "imageAlt": "PALPFJÄRIL Podnos, vzorováno/barevná, 20x28 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 3,
+                    "name": "PALPFJÄRIL",
+                    "typeName": "Podnos",
+                    "itemMeasureReferenceText": "20x28 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/palpfjaeril-podnos-vzorovano-barevna__1173884_pe894345_s5.jpg",
+                    "mainImageAlt": "PALPFJÄRIL Podnos, vzorováno/barevná, 20x28 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/palpfjaeril-podnos-vzorovano-barevna__1236540_pe917688_s5.jpg",
+                    "itemNoGlobal": "10553566",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10553566",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 79,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Novinka",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 3,
+        "itemNo": "50553569",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/palpfjaeril-podnos-vzorovano-barevna__1174032_pe894370_s5.jpg",
+        "mainImageAlt": "PALPFJÄRIL Podnos, vzorováno/barevná, 33x33 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Podnosy a tácy", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50553569",
+    "name": "PALPFJÄRIL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

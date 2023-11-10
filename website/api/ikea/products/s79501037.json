@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "200x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153786_pe885844_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s79501037/",
+        "id": "s79501037",
+        "itemNoGlobal": "79501037",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69501033",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s69501033/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153785_pe885845_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Szafa, biały/biały, 200x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Szafa",
+                    "itemMeasureReferenceText": "200x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153785_pe885845_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Szafa, biały/biały, 200x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1160821_pe889123_s5.jpg",
+                    "itemNoGlobal": "69501033",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69501033",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1620,
+                        "current": { "prefix": "", "wholeNumber": "1 620", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79501037",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1980,
+            "current": { "prefix": "", "wholeNumber": "1 980", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1160823_pe889121_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Szafa, biały/biały, 200x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79501037",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1980 }]
+}

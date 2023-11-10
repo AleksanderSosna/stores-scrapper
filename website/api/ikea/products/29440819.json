@@ -1,9 +1,0 @@
-{
-    "id": "29440819",
-    "name": "SAMLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 529 }
-    ]
-}

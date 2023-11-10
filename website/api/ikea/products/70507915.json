@@ -1,1 +1,122 @@
-{ "id": "70507915", "name": "STARREKLINTE", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }] }
+{
+    "id": {
+        "name": "STARREKLINTE",
+        "typeName": "Koberec, hladce tkaný",
+        "itemMeasureReferenceText": "185x280 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1074496_pe856211_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena-70507915/",
+        "id": "70507915",
+        "itemNoGlobal": "70507915",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "00507909",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena-00507909/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1074496_pe856211_s5.jpg",
+                    "imageAlt": "STARREKLINTE Koberec, hladce tkaný, přírodní/světle zelená, 155x220 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.9,
+                    "ratingCount": 10,
+                    "name": "STARREKLINTE",
+                    "typeName": "Koberec, hladce tkaný",
+                    "itemMeasureReferenceText": "155x220 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1074496_pe856211_s5.jpg",
+                    "mainImageAlt": "STARREKLINTE Koberec, hladce tkaný, přírodní/světle zelená, 155x220 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1080098_pe857861_s5.jpg",
+                    "itemNoGlobal": "00507909",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00507909",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 799,
+                        "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "30507917",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena-30507917/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1074496_pe856211_s5.jpg",
+                    "imageAlt": "STARREKLINTE Koberec, hladce tkaný, přírodní/světle zelená, 120x180 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.9,
+                    "ratingCount": 10,
+                    "name": "STARREKLINTE",
+                    "typeName": "Koberec, hladce tkaný",
+                    "itemMeasureReferenceText": "120x180 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1074496_pe856211_s5.jpg",
+                    "mainImageAlt": "STARREKLINTE Koberec, hladce tkaný, přírodní/světle zelená, 120x180 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1080091_pe857858_s5.jpg",
+                    "itemNoGlobal": "30507917",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30507917",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.9,
+        "ratingCount": 10,
+        "itemNo": "70507915",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1290,
+            "current": { "prefix": "", "wholeNumber": "1 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/starreklinte-koberec-hladce-tkany-prirodni-svetle-zelena__1080101_pe857863_s5.jpg",
+        "mainImageAlt": "STARREKLINTE Koberec, hladce tkaný, přírodní/světle zelená, 185x280 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Rugs",
+            "productAreaNo": "1311",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Velké a středně velké koberce", "key": "10692" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70507915",
+    "name": "STARREKLINTE",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }]
+}

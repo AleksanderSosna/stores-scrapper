@@ -1,1 +1,54 @@
-{ "id": "30327308", "name": "TOPPIG", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "TOPPIG",
+        "typeName": "Lampion",
+        "itemMeasureReferenceText": "49 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/toppig-lampion-czarny__0459631_pe606228_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/toppig-lampion-czarny-30327308/",
+        "id": "30327308",
+        "itemNoGlobal": "30327308",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 11,
+        "itemNo": "30327308",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/toppig-lampion-czarny__0903219_pe606227_s5.jpg",
+        "mainImageAlt": "TOPPIG Lampion, czarny, 49 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Lampiony i latarenki dekoracyjne", "key": "20491" },
+            { "name": "Lampiony i latarenki do wewnątrz", "key": "54941" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30327308",
+    "name": "TOPPIG",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "GODMORGON/TOLKEN / KATTEVIK",
+        "typeName": "Meble łazienkowe, zest. 5 szt.",
+        "itemMeasureReferenceText": "82 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-kattevik-meble-lazienkowe-zest-5-szt-kasjoen-bialy-imitacja-marmuru-bateria-voxnan__0731007_pe737920_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/godmorgon-tolken-kattevik-meble-lazienkowe-zest-5-szt-kasjoen-bialy-imitacja-marmuru-bateria-voxnan-s59304504/",
+        "id": "s59304504",
+        "itemNoGlobal": "59304504",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59304504",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3498,
+            "current": { "prefix": "", "wholeNumber": "3 498", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-kattevik-meble-lazienkowe-zest-5-szt-kasjoen-bialy-imitacja-marmuru-bateria-voxnan__0756593_pe748971_s5.jpg",
+        "mainImageAlt": "GODMORGON/TOLKEN / KATTEVIK Meble łazienkowe, zest. 5 szt., Kasjön biały/imitacja marmuru bateria Voxnan, 82 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Zestawy mebli łazienkowych", "key": "46079" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "59304504",
+    "name": "GODMORGON/TOLKEN / KATTEVIK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3498 }]
+}

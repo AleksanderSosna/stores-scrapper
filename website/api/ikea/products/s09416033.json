@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "ÄLVSTARR / SUNNEBY",
+        "typeName": "Lampa wisząca",
+        "itemMeasureReferenceText": "51 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aelvstarr-sunneby-lampa-wiszaca-efekt-chromowania__0966712_pe809903_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aelvstarr-sunneby-lampa-wiszaca-efekt-chromowania-s09416033/",
+        "id": "s09416033",
+        "itemNoGlobal": "09416033",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "09416033",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 204,
+            "current": { "prefix": "", "wholeNumber": "204", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aelvstarr-sunneby-lampa-wiszaca-efekt-chromowania__0953691_pe802869_s5.jpg",
+        "mainImageAlt": "ÄLVSTARR / SUNNEBY Lampa wisząca, efekt chromowania, 51 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Pendant lamps",
+            "productAreaNo": "1013",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie sufitowe", "key": "18750" },
+            { "name": "Lampy wiszące", "key": "18751" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "09416033",
+    "name": "ÄLVSTARR / SUNNEBY",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 204 }]
+}

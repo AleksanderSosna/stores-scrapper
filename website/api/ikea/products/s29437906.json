@@ -1,0 +1,10 @@
+{
+    "id": "s29437906",
+    "itemNo": "29437906",
+    "name": "AULI",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1200 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6000 }
+    ]
+}

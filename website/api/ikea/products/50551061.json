@@ -1,1 +1,59 @@
-{ "id": "50551061", "name": "MALINDA", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "MALINDA",
+        "typeName": "Sedák na židli",
+        "itemMeasureReferenceText": "40/35x38x7 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/malinda-sedak-na-zidli-tm-zelena__1138170_pe879869_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/malinda-sedak-na-zidli-tm-zelena-50551061/",
+        "id": "50551061",
+        "itemNoGlobal": "50551061",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 258,
+        "itemNo": "50551061",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/malinda-sedak-na-zidli-tm-zelena__1138169_pe879870_s5.jpg",
+        "mainImageAlt": "MALINDA Sedák na židli, tm.zelená, 40/35x38x7 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Chairpads",
+            "productAreaNo": "1233",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Sedáky na židle", "key": "20542" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50551061",
+    "name": "MALINDA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

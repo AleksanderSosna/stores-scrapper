@@ -1,0 +1,10 @@
+{
+    "id": "s19506033",
+    "itemNo": "19506033",
+    "name": "SMÅGÖRA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1597 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8170 }
+    ]
+}

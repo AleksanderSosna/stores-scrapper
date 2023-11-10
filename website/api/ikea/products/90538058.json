@@ -1,1 +1,62 @@
-{ "id": "90538058", "name": "PJÄTTERYD", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }] }
+{
+    "id": {
+        "name": "PJÄTTERYD",
+        "typeName": "Obraz",
+        "itemMeasureReferenceText": "28x38 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-wystrojone-koty__1107187_pe868970_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-wystrojone-koty-90538058/",
+        "id": "90538058",
+        "itemNoGlobal": "90538058",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" },
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" },
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" },
+            { "name": "turkusowy", "id": "10152", "hex": "77ddd0" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90538058",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-wystrojone-koty__1136634_pe879453_s5.jpg",
+        "mainImageAlt": "PJÄTTERYD Obraz, wystrojone koty, 28x38 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Ramki i obrazki", "key": "10757" },
+            { "name": "Obrazy", "key": "10788" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90538058",
+    "name": "PJÄTTERYD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }]
+}

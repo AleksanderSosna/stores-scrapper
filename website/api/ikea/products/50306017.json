@@ -1,1 +1,53 @@
-{ "id": "50306017", "name": "VIKARN", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "VIKARN",
+        "typeName": "Tyč na sprchový závěs",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vikarn-tyc-na-sprchovy-zaves-bila__0601990_pe680080_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vikarn-tyc-na-sprchovy-zaves-bila-50306017/",
+        "id": "50306017",
+        "itemNoGlobal": "50306017",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 17,
+        "itemNo": "50306017",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vikarn-tyc-na-sprchovy-zaves-bila__0886367_pe614281_s5.jpg",
+        "mainImageAlt": "VIKARN Tyč na sprchový závěs, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Shower curtains and accessories",
+            "productAreaNo": "1133",
+            "productRangeAreaName": "Bath textiles",
+            "productRangeAreaNo": "113"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Sprchy", "key": "40690" },
+            { "name": "Sprchové závěsy", "key": "18908" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50306017",
+    "name": "VIKARN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s39442785",
+    "itemNo": "39442785",
+    "name": "ÖVERSIDAN / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 280 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1226 }
+    ]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "09932177",
-    "name": "LINNMON / ADILS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}

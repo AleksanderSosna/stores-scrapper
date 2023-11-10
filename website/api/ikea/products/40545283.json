@@ -1,1 +1,60 @@
-{ "id": "40545283", "name": "SORTSÖ", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "SORTSÖ",
+        "typeName": "Koberec, hladce tkaný",
+        "itemMeasureReferenceText": "55x85 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sortsoe-koberec-hladce-tkany-svetle-zelena__1147104_pe883253_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sortsoe-koberec-hladce-tkany-svetle-zelena-40545283/",
+        "id": "40545283",
+        "itemNoGlobal": "40545283",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 62,
+        "itemNo": "40545283",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sortsoe-koberec-hladce-tkany-svetle-zelena__1147105_pe883255_s5.jpg",
+        "mainImageAlt": "SORTSÖ Koberec, hladce tkaný, světle zelená, 55x85 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Small rugs and runners",
+            "productAreaNo": "1314",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Běhouny a malé koberce", "key": "10689" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40545283",
+    "name": "SORTSÖ",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s09508754",
+    "itemNo": "09508754",
+    "name": "MITTCIRKEL / TILLSLAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 429 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2199 }
+    ]
+}

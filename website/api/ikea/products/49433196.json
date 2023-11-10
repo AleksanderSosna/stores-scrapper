@@ -1,9 +1,0 @@
-{
-    "id": "49433196",
-    "name": "PAX / MEHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4000 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 20920 }
-    ]
-}

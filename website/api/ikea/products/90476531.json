@@ -1,1 +1,53 @@
-{ "id": "90476531", "name": "HJÄLPREDA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "HJÄLPREDA",
+        "typeName": "Łopatka do sera",
+        "itemMeasureReferenceText": "22 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hjaelpreda-lopatka-do-sera-czarny__0817248_pe773921_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hjaelpreda-lopatka-do-sera-czarny-90476531/",
+        "id": "90476531",
+        "itemNoGlobal": "90476531",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 32,
+        "itemNo": "90476531",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hjaelpreda-lopatka-do-sera-czarny__0817251_pe773927_s5.jpg",
+        "mainImageAlt": "HJÄLPREDA Łopatka do sera, czarny, 22 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Kitchen utensils",
+            "productAreaNo": "1422",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Akcesoria do gotowania i pieczenia", "key": "kt002" },
+            { "name": "Akcesoria do gotowania", "key": "33499" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90476531",
+    "name": "HJÄLPREDA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

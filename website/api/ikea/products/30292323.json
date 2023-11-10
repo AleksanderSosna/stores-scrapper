@@ -1,1 +1,88 @@
-{ "id": "30292323", "name": "TOSTERÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "TOSTERÖ",
+        "typeName": "Pokrowiec na meble",
+        "itemMeasureReferenceText": "145x145 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny__0709165_pe726848_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny-30292323/",
+        "id": "30292323",
+        "itemNoGlobal": "30292323",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80292325",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny-80292325/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny__0709170_pe726853_s5.jpg",
+                    "imageAlt": "TOSTERÖ Pokrowiec na meble, komplet jadalniany/czarny, 215x135 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 32,
+                    "name": "TOSTERÖ",
+                    "typeName": "Pokrowiec na meble",
+                    "itemMeasureReferenceText": "215x135 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny__0709170_pe726853_s5.jpg",
+                    "mainImageAlt": "TOSTERÖ Pokrowiec na meble, komplet jadalniany/czarny, 215x135 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny__0907036_pe619793_s5.jpg",
+                    "itemNoGlobal": "80292325",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80292325",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 32,
+        "itemNo": "30292323",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-komplet-jadalniany-czarny__0907445_pe624148_s5.jpg",
+        "mainImageAlt": "TOSTERÖ Pokrowiec na meble, komplet jadalniany/czarny, 145x145 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor accessories & covers",
+            "productAreaNo": "1721",
+            "productRangeAreaName": "Outdoor accessories & covers",
+            "productRangeAreaNo": "172"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30292323",
+    "name": "TOSTERÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

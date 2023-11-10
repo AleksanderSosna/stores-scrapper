@@ -1,1 +1,53 @@
-{ "id": "30509803", "name": "SUNNERSTA", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "SUNNERSTA",
+        "typeName": "Držák na papírové utěrky",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sunnersta-drzak-na-papirove-uterky__0832806_pe777823_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sunnersta-drzak-na-papirove-uterky-30509803/",
+        "id": "30509803",
+        "itemNoGlobal": "30509803",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "30509803",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "SUNNERSTA Držák na papírové utěrky, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Sektorové kuchyně", "key": "22957" },
+            { "name": "Kuchyně SUNNERSTA", "key": "48985" },
+            { "name": "Doplňky pro SUNNERSTA", "key": "48987" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30509803",
+    "name": "SUNNERSTA",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

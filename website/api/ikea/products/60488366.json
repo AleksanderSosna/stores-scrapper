@@ -1,1 +1,88 @@
-{ "id": "60488366", "name": "STYRBAR", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "STYRBAR",
+        "typeName": "Pilot zdalnego sterowania",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/styrbar-pilot-zdalnego-sterowania-smart-bialy__0956695_pe804773_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/styrbar-pilot-zdalnego-sterowania-smart-bialy-60488366/",
+        "id": "60488366",
+        "itemNoGlobal": "30488363",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00468045",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/styrbar-pilot-zdalnego-sterowania-smart-stal-nierdz-00468045/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/styrbar-pilot-zdalnego-sterowania-smart-stal-nierdz__0944238_pe797204_s5.jpg",
+                    "imageAlt": "STYRBAR Pilot zdalnego sterowania, smart stal nierdz",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 50,
+                    "name": "STYRBAR",
+                    "typeName": "Pilot zdalnego sterowania",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/styrbar-pilot-zdalnego-sterowania-smart-stal-nierdz__0944238_pe797204_s5.jpg",
+                    "mainImageAlt": "STYRBAR Pilot zdalnego sterowania, smart stal nierdz",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/styrbar-pilot-zdalnego-sterowania-smart-stal-nierdz__0975193_pe812671_s5.jpg",
+                    "itemNoGlobal": "10435224",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00468045",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 59.99,
+                        "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 50,
+        "itemNo": "60488366",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/styrbar-pilot-zdalnego-sterowania-smart-bialy__0959555_pe806080_s5.jpg",
+        "mainImageAlt": "STYRBAR Pilot zdalnego sterowania, smart biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Smart Lighting",
+            "productAreaNo": "1032",
+            "productRangeAreaName": "Light sources and Smart Lighting",
+            "productRangeAreaNo": "103"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Oświetlenie zintegrowane", "key": "16280" },
+            { "name": "Oświetlenie regałów", "key": "16281" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60488366",
+    "name": "STYRBAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

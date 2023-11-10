@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "ÄLVSTARR / HEMMA",
+        "typeName": "Lampa wisząca",
+        "itemMeasureReferenceText": "51 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aelvstarr-hemma-lampa-wiszaca-efekt-chromowania__0966664_pe809886_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aelvstarr-hemma-lampa-wiszaca-efekt-chromowania-s69416025/",
+        "id": "s69416025",
+        "itemNoGlobal": "69416025",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "69416025",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aelvstarr-hemma-lampa-wiszaca-efekt-chromowania__0966665_pe809888_s5.jpg",
+        "mainImageAlt": "ÄLVSTARR / HEMMA Lampa wisząca, efekt chromowania, 51 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Pendant lamps",
+            "productAreaNo": "1013",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie sufitowe", "key": "18750" },
+            { "name": "Lampy wiszące", "key": "18751" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "69416025",
+    "name": "ÄLVSTARR / HEMMA",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

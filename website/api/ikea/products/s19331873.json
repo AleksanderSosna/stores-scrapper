@@ -1,0 +1,124 @@
+{
+    "id": {
+        "name": "ELDBERGET / MALSKÄR",
+        "typeName": "Krzesło obrotowe + poduszka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-bezowy-czarny__0814538_pe772656_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/eldberget-malskaer-krzeslo-obrotowe-poduszka-bezowy-czarny-s19331873/",
+        "id": "s19331873",
+        "itemNoGlobal": "19331873",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s29331900",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/eldberget-malskaer-krzeslo-obrotowe-poduszka-ciemnoszary-czarny-s29331900/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-ciemnoszary-czarny__0814543_pe772659_s5.jpg",
+                    "imageAlt": "ELDBERGET / MALSKÄR Krzesło obrotowe + poduszka, ciemnoszary/czarny",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 13,
+                    "name": "ELDBERGET / MALSKÄR",
+                    "typeName": "Krzesło obrotowe + poduszka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-ciemnoszary-czarny__0814543_pe772659_s5.jpg",
+                    "mainImageAlt": "ELDBERGET / MALSKÄR Krzesło obrotowe + poduszka, ciemnoszary/czarny",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-ciemnoszary-czarny__0814542_pe772658_s5.jpg",
+                    "itemNoGlobal": "29331900",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29331900",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 289,
+                        "current": { "prefix": "", "wholeNumber": "289", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69444410",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/eldberget-malskaer-krzeslo-obrotowe-poduszka-zielony-czarny-ciemnoszary-s69444410/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-zielony-czarny-ciemnoszary__1077154_pe856902_s5.jpg",
+                    "imageAlt": "ELDBERGET / MALSKÄR Krzesło obrotowe + poduszka, zielony czarny/ciemnoszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 13,
+                    "name": "ELDBERGET / MALSKÄR",
+                    "typeName": "Krzesło obrotowe + poduszka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-zielony-czarny-ciemnoszary__1077154_pe856902_s5.jpg",
+                    "mainImageAlt": "ELDBERGET / MALSKÄR Krzesło obrotowe + poduszka, zielony czarny/ciemnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-zielony-czarny-ciemnoszary__1103349_pe867260_s5.jpg",
+                    "itemNoGlobal": "69444410",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69444410",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 289,
+                        "current": { "prefix": "", "wholeNumber": "289", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 13,
+        "itemNo": "19331873",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 289,
+            "current": { "prefix": "", "wholeNumber": "289", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eldberget-malskaer-krzeslo-obrotowe-poduszka-bezowy-czarny__0814537_pe772654_s5.jpg",
+        "mainImageAlt": "ELDBERGET / MALSKÄR Krzesło obrotowe + poduszka, beżowy/czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home swivel chairs",
+            "productAreaNo": "0342",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła i fotele biurowe", "key": "20652" },
+            { "name": "Krzesła do biurka w domu", "key": "20653" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "19331873",
+    "name": "ELDBERGET / MALSKÄR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 289 }]
+}

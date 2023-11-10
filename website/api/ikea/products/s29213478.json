@@ -1,0 +1,10 @@
+{
+    "id": "s29213478",
+    "itemNo": "29213478",
+    "name": "FONNES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 55 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 210 }
+    ]
+}

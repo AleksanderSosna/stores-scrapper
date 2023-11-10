@@ -1,1 +1,88 @@
-{ "id": "20411430", "name": "HÖGÖN", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 239 }] }
+{
+    "id": {
+        "name": "HÖGÖN",
+        "typeName": "Parasol",
+        "itemMeasureReferenceText": "270 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-bialy__0663131_pe712775_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-bialy-20411430/",
+        "id": "20411430",
+        "itemNoGlobal": "20411430",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60515751",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-szary-60515751/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-szary__1035302_pe838029_s5.jpg",
+                    "imageAlt": "HÖGÖN Parasol, szary, 270 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HÖGÖN",
+                    "typeName": "Parasol",
+                    "itemMeasureReferenceText": "270 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-szary__1035302_pe838029_s5.jpg",
+                    "mainImageAlt": "HÖGÖN Parasol, szary, 270 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-szary__1128050_pe876393_s5.jpg",
+                    "itemNoGlobal": "60515751",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60515751",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 239,
+                        "current": { "prefix": "", "wholeNumber": "239", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "20411430",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 239,
+            "current": { "prefix": "", "wholeNumber": "239", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-bialy__1191263_pe900583_s5.jpg",
+        "mainImageAlt": "HÖGÖN Parasol, biały, 270 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20411430",
+    "name": "HÖGÖN",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 239 }]
+}

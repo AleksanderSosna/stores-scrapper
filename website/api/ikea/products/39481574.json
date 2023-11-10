@@ -1,9 +1,0 @@
-{
-    "id": "39481574",
-    "name": "DOCKSTA / ÄLVSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2275 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11950 }
-    ]
-}

@@ -1,1 +1,89 @@
-{ "id": "00388261", "name": "TROLLBERGET", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }] }
+{
+    "id": {
+        "name": "TROLLBERGET",
+        "typeName": "Stolička",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/trollberget-stolicka-grann-bezova__0727385_pe735637_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/trollberget-stolicka-grann-bezova-00388261/",
+        "id": "00388261",
+        "itemNoGlobal": "00388261",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80379347",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/trollberget-stolicka-glose-cerna-80379347/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/trollberget-stolicka-glose-cerna__0727397_pe735649_s5.jpg",
+                    "imageAlt": "TROLLBERGET Stolička, Glose černá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 10,
+                    "name": "TROLLBERGET",
+                    "typeName": "Stolička",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/trollberget-stolicka-glose-cerna__0727397_pe735649_s5.jpg",
+                    "mainImageAlt": "TROLLBERGET Stolička, Glose černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/trollberget-stolicka-glose-cerna__0853984_pe709354_s5.jpg",
+                    "itemNoGlobal": "80379347",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80379347",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 3990,
+                        "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 10,
+        "itemNo": "00388261",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3990,
+            "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/trollberget-stolicka-grann-bezova__0854126_pe709355_s5.jpg",
+        "mainImageAlt": "TROLLBERGET Stolička, Grann béžová",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office chairs",
+            "productAreaNo": "0352",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Židle k psacímu stolu", "key": "20652" },
+            { "name": "Kancelářská křesla do domácnosti", "key": "20653" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00388261",
+    "name": "TROLLBERGET",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }]
+}

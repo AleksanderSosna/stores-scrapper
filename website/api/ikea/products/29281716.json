@@ -1,9 +1,0 @@
-{
-    "id": "29281716",
-    "name": "ÅHEIM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 325 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1700 }
-    ]
-}

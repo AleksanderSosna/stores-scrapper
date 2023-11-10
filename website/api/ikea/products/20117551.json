@@ -1,1 +1,86 @@
-{ "id": "20117551", "name": "UTBY", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 75 }] }
+{
+    "id": {
+        "name": "UTBY",
+        "typeName": "Noga",
+        "itemMeasureReferenceText": "101.5 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/utby-noga-stal-nierdz__0625792_pe692469_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/utby-noga-stal-nierdz-20117551/",
+        "id": "20117551",
+        "itemNoGlobal": "20117551",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30503660",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/utby-noga-stal-nierdz-30503660/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/utby-noga-stal-nierdz__0625794_pe692467_s5.jpg",
+                    "imageAlt": "UTBY Noga, stal nierdz, 88 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "UTBY",
+                    "typeName": "Noga",
+                    "itemMeasureReferenceText": "88 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/utby-noga-stal-nierdz__0625794_pe692467_s5.jpg",
+                    "mainImageAlt": "UTBY Noga, stal nierdz, 88 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/utby-noga-stal-nierdz__0863233_pe658829_s5.jpg",
+                    "itemNoGlobal": "30503660",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30503660",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 80,
+                        "current": { "prefix": "", "wholeNumber": "80", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20117551",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 75,
+            "current": { "prefix": "", "wholeNumber": "75", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/utby-noga-stal-nierdz__0862855_pe598573_s5.jpg",
+        "mainImageAlt": "UTBY Noga, stal nierdz, 101.5 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen cabinets, kitchen legs, open frames",
+            "productAreaNo": "0711",
+            "productRangeAreaName": "Kitchen cabinets",
+            "productRangeAreaNo": "071"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20117551",
+    "name": "UTBY",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 75 }]
+}

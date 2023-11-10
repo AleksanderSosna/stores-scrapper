@@ -1,0 +1,10 @@
+{
+    "id": "s79290775",
+    "itemNo": "79290775",
+    "name": "BERGSHULT / PERSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 136.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 619 }
+    ]
+}

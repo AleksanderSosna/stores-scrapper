@@ -1,1 +1,59 @@
-{ "id": "30399324", "name": "KLIPPAN", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }] }
+{
+    "id": {
+        "name": "KLIPPAN",
+        "typeName": "2místná pohovka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/klippan-2mistna-pohovka-bomstad-hneda__0562968_pe663658_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/klippan-2mistna-pohovka-bomstad-hneda-30399324/",
+        "id": "30399324",
+        "itemNoGlobal": "30399324",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "itemNo": "30399324",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8490,
+            "current": { "prefix": "", "wholeNumber": "8 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "9 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/klippan-2mistna-pohovka-bomstad-hneda__0820773_pe709128_s5.jpg",
+        "mainImageAlt": "KLIPPAN 2místná pohovka, Bomstad hnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Kožené a koženkové sedačky", "key": "10662" },
+            { "name": "Dvoumístné kožené a koženkové pohovky", "key": "10690" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30399324",
+    "name": "KLIPPAN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }]
+}

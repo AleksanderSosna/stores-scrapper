@@ -1,1 +1,52 @@
-{ "id": "50475500", "name": "HAVSTORP", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 100 }] }
+{
+    "id": {
+        "name": "HAVSTORP",
+        "typeName": "Front do zmywarki",
+        "itemMeasureReferenceText": "45x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-front-do-zmywarki-jasnorozowy__0975679_pe812844_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/havstorp-front-do-zmywarki-jasnorozowy-50475500/",
+        "id": "50475500",
+        "itemNoGlobal": "50475500",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "różowy", "id": "10119", "hex": "ffb8c3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50475500",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 100,
+            "current": { "prefix": "", "wholeNumber": "100", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-front-do-zmywarki-jasnorozowy__0974361_pe812378_s5.jpg",
+        "mainImageAlt": "HAVSTORP Front do zmywarki, jasnoróżowy, 45x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Jasnoróżowe fronty HAVSTORP", "key": "700384" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50475500",
+    "name": "HAVSTORP",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 100 }]
+}

@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+        "itemMeasureReferenceText": "84x43x87 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-tvaellen-umyvadlova-skrinka-se-2-zasuvkami-seda-ram-seda-baterie-pilkan__1084767_pe859851_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-tvaellen-umyvadlova-skrinka-se-2-zasuvkami-seda-ram-seda-baterie-pilkan-s59480106/",
+        "id": "s59480106",
+        "itemNoGlobal": "59480106",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59480106",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 6248,
+            "current": { "prefix": "", "wholeNumber": "6 248", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "6 768", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-tvaellen-umyvadlova-skrinka-se-2-zasuvkami-seda-ram-seda-baterie-pilkan__1084766_pe859852_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Umyvadlová skříňka se 2 zásuvkami, šedá rám/šedá Baterie Pilkån, 84x43x87 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny ENHET", "key": "700458" },
+            { "name": "Umyvadlové skříňky ENHET s umyvadlem", "key": "700493" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "59480106",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6248 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s89292991",
+    "itemNo": "89292991",
+    "name": "GODMORGON / ODENSVIK",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10280 }
+    ]
+}

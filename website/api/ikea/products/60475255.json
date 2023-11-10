@@ -1,1 +1,94 @@
-{ "id": "60475255", "name": "HAVSTORP", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 85 }] }
+{
+    "id": {
+        "name": "HAVSTORP",
+        "typeName": "Pasek dekoracyjny zaokr",
+        "itemMeasureReferenceText": "221 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-pasek-dekoracyjny-zaokr-bezowy__0978077_pe814004_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/havstorp-pasek-dekoracyjny-zaokr-bezowy-60475255/",
+        "id": "60475255",
+        "itemNoGlobal": "60475255",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90475471",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/havstorp-pasek-dekoracyjny-zaokr-jasnorozowy-90475471/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-pasek-dekoracyjny-zaokr-jasnorozowy__0978079_pe814006_s5.jpg",
+                    "imageAlt": "HAVSTORP Pasek dekoracyjny zaokr, jasnoróżowy, 221 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3,
+                    "ratingCount": 2,
+                    "name": "HAVSTORP",
+                    "typeName": "Pasek dekoracyjny zaokr",
+                    "itemMeasureReferenceText": "221 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-pasek-dekoracyjny-zaokr-jasnorozowy__0978079_pe814006_s5.jpg",
+                    "mainImageAlt": "HAVSTORP Pasek dekoracyjny zaokr, jasnoróżowy, 221 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-pasek-dekoracyjny-zaokr-jasnorozowy__0979967_pe814771_s5.jpg",
+                    "itemNoGlobal": "90475471",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90475471",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 75,
+                        "current": { "prefix": "", "wholeNumber": "75", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2.21 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3,
+        "ratingCount": 2,
+        "itemNo": "60475255",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 85,
+            "current": { "prefix": "", "wholeNumber": "85", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2.21 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havstorp-pasek-dekoracyjny-zaokr-bezowy__0979948_pe814763_s5.jpg",
+        "mainImageAlt": "HAVSTORP Pasek dekoracyjny zaokr, beżowy, 221 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Panele maskujące i listwy dekoracyjne METOD", "key": "23614" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60475255",
+    "name": "HAVSTORP",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 85 }]
+}

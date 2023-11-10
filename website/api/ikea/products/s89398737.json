@@ -1,0 +1,106 @@
+{
+    "id": {
+        "name": "BESTÅ / LACK",
+        "typeName": "Szafka pod TV",
+        "itemMeasureReferenceText": "300x42x195 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-lack-szafka-pod-tv-czarnybraz__0943563_pe796980_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/besta-lack-szafka-pod-tv-czarnybraz-s89398737/",
+        "id": "s89398737",
+        "itemNoGlobal": "89398737",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99398690",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/besta-lack-szafka-pod-tv-bialy-s99398690/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/besta-lack-szafka-pod-tv-bialy__0943569_pe796981_s5.jpg",
+                    "imageAlt": "BESTÅ / LACK Szafka pod TV, biały, 300x42x195 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "BESTÅ / LACK",
+                    "typeName": "Szafka pod TV",
+                    "itemMeasureReferenceText": "300x42x195 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-lack-szafka-pod-tv-bialy__0943569_pe796981_s5.jpg",
+                    "mainImageAlt": "BESTÅ / LACK Szafka pod TV, biały, 300x42x195 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-lack-szafka-pod-tv-bialy__0955675_pe803962_s5.jpg",
+                    "itemNoGlobal": "99398690",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99398690",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2009.98,
+                        "current": { "prefix": "", "wholeNumber": "2 009", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+                        "previous": { "prefix": "", "wholeNumber": "2 019", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+                        "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "2 019", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "validFrom": "2023-10-10",
+                        "validTo": "2024-08-31",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nowa\nniższa\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "89398737",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2269.98,
+            "current": { "prefix": "", "wholeNumber": "2 269", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "2 319", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "2 319", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-10",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-lack-szafka-pod-tv-czarnybraz__0955676_pe803963_s5.jpg",
+        "mainImageAlt": "BESTÅ / LACK Szafka pod TV, czarnybrąz, 300x42x195 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "TV & Media Furniture",
+            "productAreaNo": "0231",
+            "productRangeAreaName": "Media furniture",
+            "productRangeAreaNo": "023"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Meble RTV", "key": "10475" },
+            { "name": "Zestawy szafek RTV", "key": "14885" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89398737",
+    "name": "BESTÅ / LACK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2269.98 }]
+}

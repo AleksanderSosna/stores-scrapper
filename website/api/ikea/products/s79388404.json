@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "KNOXHULT",
+        "typeName": "Kuchnia narożna",
+        "itemMeasureReferenceText": "182x183x220 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/knoxhult-kuchnia-narozna-szary__0921763_pe787964_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/knoxhult-kuchnia-narozna-szary-s79388404/",
+        "id": "s79388404",
+        "itemNoGlobal": "79388404",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "79388404",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1933,
+            "current": { "prefix": "", "wholeNumber": "1 933", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/knoxhult-kuchnia-narozna-szary__0956298_pe804631_s5.jpg",
+        "mainImageAlt": "KNOXHULT Kuchnia narożna, szary, 182x183x220 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Complete kitchen cabinets",
+            "productAreaNo": "0783",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe KNOXHULT", "key": "48977" },
+            { "name": "Kompletne kuchnie modułowe KNOXHULT", "key": "48978" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79388404",
+    "name": "KNOXHULT",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1933 }]
+}

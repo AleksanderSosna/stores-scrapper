@@ -1,9 +1,0 @@
-{
-    "id": "09483027",
-    "name": "VANGSTA / TEODORES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1273 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8384 }
-    ]
-}

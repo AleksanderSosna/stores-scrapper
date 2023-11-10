@@ -1,0 +1,10 @@
+{
+    "id": "s29228205",
+    "itemNo": "29228205",
+    "name": "HOLMSUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19490 }
+    ]
+}

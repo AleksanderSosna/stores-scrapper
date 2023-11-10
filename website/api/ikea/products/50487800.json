@@ -1,1 +1,89 @@
-{ "id": "50487800", "name": "ÄPPELROS", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }] }
+{
+    "id": {
+        "name": "ÄPPELROS",
+        "typeName": "Wisząca doniczka",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy__0998243_pe822980_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy-50487800/",
+        "id": "50487800",
+        "itemNoGlobal": "50487800",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90487799",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy-90487799/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy__0998245_pe822981_s5.jpg",
+                    "imageAlt": "ÄPPELROS Wisząca doniczka, do wewnątrz/na zewnątrz kremowy, 27 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 15,
+                    "name": "ÄPPELROS",
+                    "typeName": "Wisząca doniczka",
+                    "itemMeasureReferenceText": "27 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy__0998245_pe822981_s5.jpg",
+                    "mainImageAlt": "ÄPPELROS Wisząca doniczka, do wewnątrz/na zewnątrz kremowy, 27 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy__1104950_pe867988_s5.jpg",
+                    "itemNoGlobal": "90487799",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "90487799",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 29.99,
+                        "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 15,
+        "itemNo": "50487800",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 14.99,
+            "current": { "prefix": "", "wholeNumber": "14", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aeppelros-wiszaca-doniczka-do-wewnatrz-na-zewnatrz-kremowy__0958917_pe809511_s5.jpg",
+        "mainImageAlt": "ÄPPELROS Wisząca doniczka, do wewnątrz/na zewnątrz kremowy, 12 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Doniczki i donice", "key": "pp004" },
+            { "name": "Doniczki do wewnątrz", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "50487800",
+    "name": "ÄPPELROS",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }]
+}

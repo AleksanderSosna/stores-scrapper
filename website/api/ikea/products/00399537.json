@@ -1,1 +1,62 @@
-{ "id": "00399537", "name": "VÅRKUL", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }] }
+{
+    "id": {
+        "name": "VÅRKUL",
+        "typeName": "Podnos",
+        "itemMeasureReferenceText": "28x20 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/varkul-podnos-cerna-vzorovano__0711758_pe728450_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/varkul-podnos-cerna-vzorovano-00399537/",
+        "id": "00399537",
+        "itemNoGlobal": "00399537",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "černá", "id": "10139", "hex": "000000" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 49,
+        "itemNo": "00399537",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 79,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/varkul-podnos-cerna-vzorovano__0896364_pe689827_s5.jpg",
+        "mainImageAlt": "VÅRKUL Podnos, černá/vzorováno, 28x20 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Podnosy a tácy", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00399537",
+    "name": "VÅRKUL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }]
+}

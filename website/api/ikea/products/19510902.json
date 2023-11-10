@@ -1,9 +1,0 @@
-{
-    "id": "19510902",
-    "name": "JÄTTEBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7147 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 40500 }
-    ]
-}

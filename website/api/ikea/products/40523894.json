@@ -1,1 +1,55 @@
-{ "id": "40523894", "name": "FANTASTISK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 }] }
+{
+    "id": {
+        "name": "FANTASTISK",
+        "typeName": "Serwetki",
+        "itemMeasureReferenceText": "24x24 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fantastisk-serwetki-czerwony__0085748_pe213572_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fantastisk-serwetki-czerwony-40523894/",
+        "id": "40523894",
+        "itemNoGlobal": "40523894",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czerwony", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 19,
+        "itemNo": "40523894",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 5.99,
+            "current": { "prefix": "", "wholeNumber": "5", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "50 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fantastisk-serwetki-czerwony__0895843_pe648497_s5.jpg",
+        "mainImageAlt": "FANTASTISK Serwetki, czerwony, 24x24 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Napkins",
+            "productAreaNo": "1541",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Serwetki i serwetniki", "key": "20560" },
+            { "name": "Serwetki", "key": "20561" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40523894",
+    "name": "FANTASTISK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 }]
+}

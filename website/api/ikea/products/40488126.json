@@ -1,1 +1,89 @@
-{ "id": "40488126", "name": "IKEA 365+", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "IKEA 365+",
+        "typeName": "Patelnia do smażenia sauté",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-do-smazenia-saute-stal-nierdz__1006183_pe825768_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ikea-365-patelnia-do-smazenia-saute-stal-nierdz-40488126/",
+        "id": "40488126",
+        "itemNoGlobal": "40488126",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00484253",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ikea-365-patelnia-do-smazenia-saute-stal-nierdz-00484253/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-do-smazenia-saute-stal-nierdz__1006181_pe825766_s5.jpg",
+                    "imageAlt": "IKEA 365+ Patelnia do smażenia sauté, stal nierdz, 24 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 57,
+                    "name": "IKEA 365+",
+                    "typeName": "Patelnia do smażenia sauté",
+                    "itemMeasureReferenceText": "24 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-do-smazenia-saute-stal-nierdz__1006181_pe825766_s5.jpg",
+                    "mainImageAlt": "IKEA 365+ Patelnia do smażenia sauté, stal nierdz, 24 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-do-smazenia-saute-stal-nierdz__1015752_pe842427_s5.jpg",
+                    "itemNoGlobal": "00484253",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00484253",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 89.99,
+                        "current": { "prefix": "", "wholeNumber": "89", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 57,
+        "itemNo": "40488126",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-do-smazenia-saute-stal-nierdz__1015754_pe842429_s5.jpg",
+        "mainImageAlt": "IKEA 365+ Patelnia do smażenia sauté, stal nierdz, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Patelnie i woki", "key": "20624" },
+            { "name": "Rondle do smażenia sauté", "key": "22665" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40488126",
+    "name": "IKEA 365+",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

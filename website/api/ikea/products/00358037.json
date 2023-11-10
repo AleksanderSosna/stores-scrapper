@@ -1,1 +1,53 @@
-{ "id": "00358037", "name": "BAROMETER", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }
+{
+    "id": {
+        "name": "BAROMETER",
+        "typeName": "Lampa biurkowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/barometer-lampa-biurkowa-kolor-mosiadzu__0549308_pe657633_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/barometer-lampa-biurkowa-kolor-mosiadzu-00358037/",
+        "id": "00358037",
+        "itemNoGlobal": "00358037",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "żółty", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 37,
+        "itemNo": "00358037",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/barometer-lampa-biurkowa-kolor-mosiadzu__0881028_pe659206_s5.jpg",
+        "mainImageAlt": "BAROMETER Lampa biurkowa, kolor mosiądzu",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Desk and clamp lamps",
+            "productAreaNo": "1019",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00358037",
+    "name": "BAROMETER",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }]
+}

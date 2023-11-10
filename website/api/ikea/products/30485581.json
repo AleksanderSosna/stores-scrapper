@@ -1,1 +1,55 @@
-{ "id": "30485581", "name": "TROLLMAL", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "TROLLMAL",
+        "typeName": "Látka",
+        "itemMeasureReferenceText": "150 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/trollmal-latka-prirodni-kvetinovy-vzor__0920513_pe787079_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/trollmal-latka-prirodni-kvetinovy-vzor-30485581/",
+        "id": "30485581",
+        "itemNoGlobal": "30485581",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "30485581",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/trollmal-latka-prirodni-kvetinovy-vzor__0920514_pe787078_s5.jpg",
+        "mainImageAlt": "TROLLMAL Látka, přírodní/květinový vzor, 150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Metre fabrics",
+            "productAreaNo": "1221",
+            "productRangeAreaName": "Fabrics and accessories",
+            "productRangeAreaNo": "122"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Metráž a šití", "key": "10655" },
+            { "name": "Látky", "key": "14349" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30485581",
+    "name": "TROLLMAL",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

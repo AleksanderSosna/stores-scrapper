@@ -1,0 +1,10 @@
+{
+    "id": "s49484893",
+    "itemNo": "49484893",
+    "name": "STRANDTORP / TOBIAS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3595 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19950 }
+    ]
+}

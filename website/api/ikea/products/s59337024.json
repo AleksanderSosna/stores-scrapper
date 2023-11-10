@@ -1,0 +1,10 @@
+{
+    "id": "s59337024",
+    "itemNo": "59337024",
+    "name": "KILSVIKEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 979 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
+    ]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "39025599",
-    "name": "PAX / BERGSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1820 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10750 }
-    ]
-}

@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "TARVA",
+        "typeName": "Rama łóżka",
+        "itemMeasureReferenceText": "90x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-luroey__0655004_pe708894_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-luroey-s89009568/",
+        "id": "s89009568",
+        "itemNoGlobal": "89009568",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99495059",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-lindbaden-s99495059/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-lindbaden__0655004_pe708894_s5.jpg",
+                    "imageAlt": "TARVA Rama łóżka, sosna/Lindbåden, 90x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 30,
+                    "name": "TARVA",
+                    "typeName": "Rama łóżka",
+                    "itemMeasureReferenceText": "90x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-lindbaden__0655004_pe708894_s5.jpg",
+                    "mainImageAlt": "TARVA Rama łóżka, sosna/Lindbåden, 90x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-lindbaden__1101955_pe866881_s5.jpg",
+                    "itemNoGlobal": "99495059",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99495059",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 449,
+                        "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Dno łóżka z listew", "count": 2, "label": "2 typy/typów den łóżek z listwami" }]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 30,
+        "itemNo": "89009568",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-luroey__1101955_pe866881_s5.jpg",
+        "mainImageAlt": "TARVA Rama łóżka, sosna/Luröy, 90x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka pojedyncze", "key": "16285" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89009568",
+    "name": "TARVA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }]
+}

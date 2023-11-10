@@ -1,9 +1,0 @@
-{
-    "id": "19335705",
-    "name": "LUFTMASSA / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "id": "69275110",
-    "name": "HAVSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1328 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6790 }
-    ]
-}

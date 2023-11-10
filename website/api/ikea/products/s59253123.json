@@ -1,0 +1,88 @@
+{
+    "id": {
+        "name": "FRÖSÖN/DUVHOLMEN",
+        "typeName": "Poducha siedziska/oparcia, ogrodowa",
+        "itemMeasureReferenceText": "116x45 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-bezowy__0685072_pe721335_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-bezowy-s59253123/",
+        "id": "s59253123",
+        "itemNoGlobal": "59253123",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79412767",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-ciemny-bezowo-zielony-s79412767/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-ciemny-bezowo-zielony__0936590_pe793307_s5.jpg",
+                    "imageAlt": "FRÖSÖN/DUVHOLMEN Poducha siedziska/oparcia, ogrodowa, ciemny beżowo-zielony, 116x45 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 20,
+                    "name": "FRÖSÖN/DUVHOLMEN",
+                    "typeName": "Poducha siedziska/oparcia, ogrodowa",
+                    "itemMeasureReferenceText": "116x45 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-ciemny-bezowo-zielony__0936590_pe793307_s5.jpg",
+                    "mainImageAlt": "FRÖSÖN/DUVHOLMEN Poducha siedziska/oparcia, ogrodowa, ciemny beżowo-zielony, 116x45 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-ciemny-bezowo-zielony__0960374_pe806649_s5.jpg",
+                    "itemNoGlobal": "79412767",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "79412767",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 135,
+                        "current": { "prefix": "", "wholeNumber": "135", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 20,
+        "itemNo": "59253123",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 135,
+            "current": { "prefix": "", "wholeNumber": "135", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-bezowy__0905638_pe674553_s5.jpg",
+        "mainImageAlt": "FRÖSÖN/DUVHOLMEN Poducha siedziska/oparcia, ogrodowa, beżowy, 116x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59253123",
+    "name": "FRÖSÖN/DUVHOLMEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 135 }]
+}

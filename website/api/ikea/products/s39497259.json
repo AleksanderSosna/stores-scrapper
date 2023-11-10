@@ -1,0 +1,10 @@
+{
+    "id": "s39497259",
+    "itemNo": "39497259",
+    "name": "GRÅSALA / ADDE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 635 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3186 }
+    ]
+}

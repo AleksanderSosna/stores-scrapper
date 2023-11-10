@@ -1,1 +1,100 @@
-{ "id": "60486744", "name": "SKOGSFRÄKEN", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "SKOGSFRÄKEN",
+        "typeName": "Polštář, vysoký",
+        "itemMeasureReferenceText": "70x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsfraeken-polstar-vysoky__0789288_pe763917_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skogsfraeken-polstar-vysoky-60486744/",
+        "id": "60486744",
+        "itemNoGlobal": "60486744",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50460527",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/skogsfraeken-polstar-vysoky-50460527/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/skogsfraeken-polstar-vysoky__0789288_pe763917_s5.jpg",
+                    "imageAlt": "SKOGSFRÄKEN Polštář, vysoký, 50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 111,
+                    "name": "SKOGSFRÄKEN",
+                    "typeName": "Polštář, vysoký",
+                    "itemMeasureReferenceText": "50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsfraeken-polstar-vysoky__0789288_pe763917_s5.jpg",
+                    "mainImageAlt": "SKOGSFRÄKEN Polštář, vysoký, 50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsfraeken-polstar-vysoky__0970237_ph172412_s5.jpg",
+                    "itemNoGlobal": "50460527",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50460527",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 299,
+                        "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 111,
+        "itemNo": "60486744",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsfraeken-polstar-vysoky__0970237_ph172412_s5.jpg",
+        "mainImageAlt": "SKOGSFRÄKEN Polštář, vysoký, 70x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Polštáře", "key": "20533" },
+            { "name": "Polyesterové polštáře", "key": "20534" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60486744",
+    "name": "SKOGSFRÄKEN",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

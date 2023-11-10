@@ -1,0 +1,10 @@
+{
+    "id": "s49157457",
+    "itemNo": "49157457",
+    "name": "BRIMNES",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1949 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10290 }
+    ]
+}

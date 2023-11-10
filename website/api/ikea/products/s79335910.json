@@ -1,0 +1,10 @@
+{
+    "id": "s79335910",
+    "itemNo": "79335910",
+    "name": "REINSVOLL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 450 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2800 }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "id": {
+        "name": "TROFAST",
+        "typeName": "Regał z pojemnikiem/tace",
+        "itemMeasureReferenceText": "34x44x56 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy-bialy__1085126_pe859992_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy-bialy-s59480385/",
+        "id": "s59480385",
+        "itemNoGlobal": "59480385",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s19480392",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikiem-tace-bialy-szary-pomaranczowy-s19480392/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-pomaranczowy__1085152_pe859997_s5.jpg",
+                    "imageAlt": "TROFAST Regał z pojemnikiem/tace, biały szary/pomarańczowy, 34x44x56 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "TROFAST",
+                    "typeName": "Regał z pojemnikiem/tace",
+                    "itemMeasureReferenceText": "34x44x56 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-pomaranczowy__1085152_pe859997_s5.jpg",
+                    "mainImageAlt": "TROFAST Regał z pojemnikiem/tace, biały szary/pomarańczowy, 34x44x56 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-pomaranczowy__1102752_pe867119_s5.jpg",
+                    "itemNoGlobal": "19480392",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19480392",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s79480389",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikiem-tace-bialy-szary-turkusowy-s79480389/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-turkusowy__1085148_pe859995_s5.jpg",
+                    "imageAlt": "TROFAST Regał z pojemnikiem/tace, biały szary/turkusowy, 34x44x56 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "TROFAST",
+                    "typeName": "Regał z pojemnikiem/tace",
+                    "itemMeasureReferenceText": "34x44x56 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-turkusowy__1085148_pe859995_s5.jpg",
+                    "mainImageAlt": "TROFAST Regał z pojemnikiem/tace, biały szary/turkusowy, 34x44x56 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-szary-turkusowy__1085256_pe860028_s5.jpg",
+                    "itemNoGlobal": "79480389",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79480389",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09480378",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy-s09480378/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy__1085063_pe859989_s5.jpg",
+                    "imageAlt": "TROFAST Regał z pojemnikiem/tace, biały/turkusowy, 34x44x56 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "TROFAST",
+                    "typeName": "Regał z pojemnikiem/tace",
+                    "itemMeasureReferenceText": "34x44x56 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy__1085063_pe859989_s5.jpg",
+                    "mainImageAlt": "TROFAST Regał z pojemnikiem/tace, biały/turkusowy, 34x44x56 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy__1102763_pe867123_s5.jpg",
+                    "itemNoGlobal": "09480378",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09480378",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "turkusowy", "id": "10152", "hex": "77ddd0" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "59480385",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikiem-tace-bialy-turkusowy-bialy__1102755_pe867117_s5.jpg",
+        "mainImageAlt": "TROFAST Regał z pojemnikiem/tace, biały turkusowy/biały, 34x44x56 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s storage furniture",
+            "productAreaNo": "0921",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Meble dla niemowląt", "key": "45780" },
+            { "name": "Przechowywanie zabawek", "key": "20474" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59480385",
+    "name": "TROFAST",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

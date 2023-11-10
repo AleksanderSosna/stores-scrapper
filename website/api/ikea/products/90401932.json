@@ -1,1 +1,54 @@
-{ "id": "90401932", "name": "BILLY", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }] }
+{
+    "id": {
+        "name": "BILLY",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "80x40x202 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/billy-regal-bialy__0568611_pe665523_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/billy-regal-bialy-90401932/",
+        "id": "90401932",
+        "itemNoGlobal": "90401932",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 53,
+        "itemNo": "90401932",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/billy-regal-bialy__0656372_pe709314_s5.jpg",
+        "mainImageAlt": "BILLY Regał, biały, 80x40x202 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90401932",
+    "name": "BILLY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }]
+}

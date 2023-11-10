@@ -1,1 +1,51 @@
-{ "id": "20445312", "name": "JÄRPÖN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 70 }] }
+{
+    "id": {
+        "name": "JÄRPÖN",
+        "typeName": "Pokrycie poduszkę krzesła",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/jaerpoen-pokrycie-poduszke-krzesla-zewnetrzne-antracyt__0747936_pe744777_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/jaerpoen-pokrycie-poduszke-krzesla-zewnetrzne-antracyt-20445312/",
+        "id": "20445312",
+        "itemNoGlobal": "20445312",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "20445312",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 70,
+            "current": { "prefix": "", "wholeNumber": "70", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/jaerpoen-pokrycie-poduszke-krzesla-zewnetrzne-antracyt__0786574_pe763023_s5.jpg",
+        "mainImageAlt": "JÄRPÖN Pokrycie poduszkę krzesła, zewnętrzne antracyt, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20445312",
+    "name": "JÄRPÖN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 70 }]
+}

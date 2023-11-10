@@ -1,0 +1,10 @@
+{
+    "id": "s09309698",
+    "itemNo": "09309698",
+    "name": "HÅLLBAR",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 314.96 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1324 }
+    ]
+}

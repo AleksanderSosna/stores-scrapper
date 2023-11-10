@@ -1,1 +1,52 @@
-{ "id": "70522416", "name": "BORSTEN", "categoryKey": "ba001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 750 }] }
+{
+    "id": {
+        "name": "BORSTEN",
+        "typeName": "Umywalka na blat",
+        "itemMeasureReferenceText": "50x40 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/borsten-umywalka-na-blat-czarny-imitacja-kamienia__1037034_pe838598_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/borsten-umywalka-na-blat-czarny-imitacja-kamienia-70522416/",
+        "id": "70522416",
+        "itemNoGlobal": "70522416",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "70522416",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 750,
+            "current": { "prefix": "", "wholeNumber": "750", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/borsten-umywalka-na-blat-czarny-imitacja-kamienia__1080514_pe858066_s5.jpg",
+        "mainImageAlt": "BORSTEN Umywalka na blat, czarny/imitacja kamienia, 50x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom sinks",
+            "productAreaNo": "0634",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Umywalki", "key": "20723" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70522416",
+    "name": "BORSTEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 750 }]
+}

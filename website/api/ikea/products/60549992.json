@@ -1,1 +1,53 @@
-{ "id": "60549992", "name": "ÖMSESIDIG", "categoryKey": "wt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Pohlednice",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-pohlednice-motivy-mix__1127274_pe876132_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-pohlednice-motivy-mix-60549992/",
+        "id": "60549992",
+        "itemNoGlobal": "60549992",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60549992",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 89,
+            "current": { "prefix": "", "wholeNumber": "89", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "10 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-pohlednice-motivy-mix__1194252_ph192444_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Pohlednice, motivy mix",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Balící papír a doplňky z papíru", "key": "25227" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60549992",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }]
+}

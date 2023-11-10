@@ -1,0 +1,10 @@
+{
+    "id": "s99508919",
+    "itemNo": "99508919",
+    "name": "BJÖRKSTA",
+    "categoryKey": "de001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 269 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1390 }
+    ]
+}

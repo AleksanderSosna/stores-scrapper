@@ -1,1 +1,53 @@
-{ "id": "10309777", "name": "BEGÄRLIG", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "BEGÄRLIG",
+        "typeName": "Wazon",
+        "itemMeasureReferenceText": "18 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/begaerlig-wazon-szklo-bezbarwne__0367304_pe549496_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/begaerlig-wazon-szklo-bezbarwne-10309777/",
+        "id": "10309777",
+        "itemNoGlobal": "10309777",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 32,
+        "itemNo": "10309777",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/begaerlig-wazon-szklo-bezbarwne__0392620_pe560404_s5.jpg",
+        "mainImageAlt": "BEGÄRLIG Wazon, szkło bezbarwne, 18 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Vases, bowls and accessories",
+            "productAreaNo": "1633",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Wazony i misy dekoracyjne", "key": "10769" },
+            { "name": "Wazony", "key": "10776" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10309777",
+    "name": "BEGÄRLIG",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

@@ -1,1 +1,53 @@
-{ "id": "30396127", "name": "LINDÖJA", "categoryKey": "od001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }] }
+{
+    "id": {
+        "name": "LINDÖJA",
+        "typeName": "Plachta na slunečník",
+        "itemMeasureReferenceText": "300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/lindoeja-plachta-na-slunecnik-tm-modra__0648185_pe704827_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/lindoeja-plachta-na-slunecnik-tm-modra-30396127/",
+        "id": "30396127",
+        "itemNoGlobal": "30396127",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30396127",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "LINDÖJA Plachta na slunečník, tm.modrá, 300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Slunečníky a altány", "key": "17887" },
+            { "name": "Slunečníky a podstavce", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30396127",
+    "name": "LINDÖJA",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }]
+}

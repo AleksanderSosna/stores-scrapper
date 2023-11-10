@@ -1,1 +1,52 @@
-{ "id": "40298895", "name": "FILBUNKE", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }] }
+{
+    "id": {
+        "name": "FILBUNKE",
+        "typeName": "Przybory kuchenne, 3 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/filbunke-przybory-kuchenne-3-szt__0350490_pe535785_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/filbunke-przybory-kuchenne-3-szt-40298895/",
+        "id": "40298895",
+        "itemNoGlobal": "40298895",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 179,
+        "itemNo": "40298895",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 14.99,
+            "current": { "prefix": "", "wholeNumber": "14", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "FILBUNKE Przybory kuchenne, 3 szt.",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking utensils",
+            "productAreaNo": "1421",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Akcesoria do gotowania i pieczenia", "key": "kt002" },
+            { "name": "Chochle, trzepaczki i łyżki kuchenne", "key": "33498" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40298895",
+    "name": "FILBUNKE",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }]
+}

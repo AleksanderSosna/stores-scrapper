@@ -1,1 +1,154 @@
-{ "id": "40458964", "name": "IDANÄS", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2999 }] }
+{
+    "id": {
+        "name": "IDANÄS",
+        "typeName": "Łóżko z pojemnikiem",
+        "itemMeasureReferenceText": "140x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary__1012428_pe829081_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary-40458964/",
+        "id": "40458964",
+        "itemNoGlobal": "40458964",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "10458970",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary-10458970/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary__1012430_pe829086_s5.jpg",
+                    "imageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared ciemnoszary, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "IDANÄS",
+                    "typeName": "Łóżko z pojemnikiem",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary__1012430_pe829086_s5.jpg",
+                    "mainImageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared ciemnoszary, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary__1079002_pe857426_s5.jpg",
+                    "itemNoGlobal": "10458970",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10458970",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3299,
+                        "current": { "prefix": "", "wholeNumber": "3 299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "50458973",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy-50458973/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1012431_pe829084_s5.jpg",
+                    "imageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared bladoróżowy, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "IDANÄS",
+                    "typeName": "Łóżko z pojemnikiem",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1012431_pe829084_s5.jpg",
+                    "mainImageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared bladoróżowy, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1036902_pe838569_s5.jpg",
+                    "itemNoGlobal": "50458973",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50458973",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3299,
+                        "current": { "prefix": "", "wholeNumber": "3 299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "90458966",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy-90458966/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1012429_pe829082_s5.jpg",
+                    "imageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared bladoróżowy, 140x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 17,
+                    "name": "IDANÄS",
+                    "typeName": "Łóżko z pojemnikiem",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1012429_pe829082_s5.jpg",
+                    "mainImageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared bladoróżowy, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-bladorozowy__1079013_pe857414_s5.jpg",
+                    "itemNoGlobal": "90458966",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90458966",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2999,
+                        "current": { "prefix": "", "wholeNumber": "2 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [
+                { "name": "Kolor", "count": 2, "label": "2 kolory/kolorów" },
+                { "name": "Rozmiar", "count": 2, "label": "2 rozmiary/rozmiarów" }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 17,
+        "itemNo": "40458964",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2999,
+            "current": { "prefix": "", "wholeNumber": "2 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/idanaes-lozko-z-pojemnikiem-gunnared-ciemnoszary__1079003_pe857427_s5.jpg",
+        "mainImageAlt": "IDANÄS Łóżko z pojemnikiem, Gunnared ciemnoszary, 140x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka podwójne", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40458964",
+    "name": "IDANÄS",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2999 }]
+}

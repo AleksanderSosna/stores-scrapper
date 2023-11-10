@@ -1,1 +1,53 @@
-{ "id": "00563429", "name": "MÅNÖGA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }] }
+{
+    "id": {
+        "name": "MÅNÖGA",
+        "typeName": "Nůžky",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/manoega-nuzky-nerezavejici-ocel-cerna__1215197_pe911911_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/manoega-nuzky-nerezavejici-ocel-cerna-00563429/",
+        "id": "00563429",
+        "itemNoGlobal": "00563429",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00563429",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 19,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/manoega-nuzky-nerezavejici-ocel-cerna__1215195_pe911913_s5.jpg",
+        "mainImageAlt": "MÅNÖGA Nůžky, nerezavějící ocel/černá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Kitchen utensils",
+            "productAreaNo": "1422",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Náčiní k vaření", "key": "kt002" },
+            { "name": "Kuchyňské pomůcky a doplňky", "key": "33499" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00563429",
+    "name": "MÅNÖGA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }]
+}

@@ -1,0 +1,97 @@
+{
+    "id": {
+        "name": "HEMNES / ODENSVIK",
+        "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+        "itemMeasureReferenceText": "103x49x89 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer__0937423_pe793714_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer-s09390047/",
+        "id": "s09390047",
+        "itemNoGlobal": "09390047",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79293477",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer-s79293477/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0382296_pe557170_s5.jpg",
+                    "imageAlt": "HEMNES / ODENSVIK Umyvadlová skříňka se 2 zásuvkami, bílá/Baterie Runskär, 103x49x89 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "HEMNES / ODENSVIK",
+                    "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+                    "itemMeasureReferenceText": "103x49x89 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0382296_pe557170_s5.jpg",
+                    "mainImageAlt": "HEMNES / ODENSVIK Umyvadlová skříňka se 2 zásuvkami, bílá/Baterie Runskär, 103x49x89 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0380896_pe555759_s5.jpg",
+                    "itemNoGlobal": "79293477",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "79293477",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 13770,
+                        "current": { "prefix": "", "wholeNumber": "13 770", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "14 270", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09390047",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 13770,
+            "current": { "prefix": "", "wholeNumber": "13 770", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "14 270", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer__0937424_pe793715_s5.jpg",
+        "mainImageAlt": "HEMNES / ODENSVIK Umyvadlová skříňka se 2 zásuvkami, šedá/Baterie Runskär, 103x49x89 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Umyvadlové skříňky HEMNES s umyvadlem", "key": "700481" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "09390047",
+    "name": "HEMNES / ODENSVIK",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 13770 }]
+}

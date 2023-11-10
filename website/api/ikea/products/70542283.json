@@ -1,1 +1,60 @@
-{ "id": "70542283", "name": "GRILLTIDER", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "GRILLTIDER",
+        "typeName": "3dílná sada grilovacího náčiní",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/grilltider-3dilna-sada-grilovaciho-nacini-nerezavejici-ocel-buk__1164647_pe890629_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/grilltider-3dilna-sada-grilovaciho-nacini-nerezavejici-ocel-buk-70542283/",
+        "id": "70542283",
+        "itemNoGlobal": "70542283",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "šedá", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70542283",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. října 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/grilltider-3dilna-sada-grilovaciho-nacini-nerezavejici-ocel-buk__1164644_pe890626_s5.jpg",
+        "mainImageAlt": "GRILLTIDER 3dílná sada grilovacího náčiní, nerezavějící ocel/buk",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking utensils",
+            "productAreaNo": "1421",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Náčiní k vaření", "key": "kt002" },
+            { "name": "Kuchyňské náčiní", "key": "33498" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70542283",
+    "name": "GRILLTIDER",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

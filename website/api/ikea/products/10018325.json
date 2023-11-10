@@ -1,1 +1,60 @@
-{ "id": "10018325", "name": "GROGGY", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "GROGGY",
+        "typeName": "Podnos",
+        "itemMeasureReferenceText": "38 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/groggy-podnos-nerezavejici-ocel__15448_pe066071_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/groggy-podnos-nerezavejici-ocel-10018325/",
+        "id": "10018325",
+        "itemNoGlobal": "10018325",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 15,
+        "itemNo": "10018325",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/groggy-podnos-nerezavejici-ocel__0896446_pe610338_s5.jpg",
+        "mainImageAlt": "GROGGY Podnos, nerezavějící ocel, 38 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Podnosy a tácy", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10018325",
+    "name": "GROGGY",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

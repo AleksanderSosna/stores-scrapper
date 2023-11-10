@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Policový díl se skříňkami",
+        "itemMeasureReferenceText": "170x40x190 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-policovy-dil-se-skrinkami-cerna__0618253_pe688435_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bror-policovy-dil-se-skrinkami-cerna-s49471744/",
+        "id": "s49471744",
+        "itemNoGlobal": "49471744",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49471744",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 10920,
+            "current": { "prefix": "", "wholeNumber": "10 920", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-policovy-dil-se-skrinkami-cerna__0910942_pe688436_s5.jpg",
+        "mainImageAlt": "BROR Policový díl se skříňkami, černá, 170x40x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém regálů do garáže BROR", "key": "42245" },
+            { "name": "Sestavy a kombinace BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49471744",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 10920 }]
+}

@@ -1,0 +1,153 @@
+{
+    "id": {
+        "name": "LÄCKÖ",
+        "typeName": "Stół+2 krzesła, na zewnątrz",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-ciemny-bezowo-zielony__0961525_pe807653_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-ciemny-bezowo-zielony-s49413966/",
+        "id": "s49413966",
+        "itemNoGlobal": "49413966",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s39269016",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-bezowy-s39269016/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-bezowy__0735586_pe740067_s5.jpg",
+                    "imageAlt": "LÄCKÖ Stół+2 krzesła, na zewnątrz, szary/Frösön/Duvholmen beżowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 8,
+                    "name": "LÄCKÖ",
+                    "typeName": "Stół+2 krzesła, na zewnątrz",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-bezowy__0735586_pe740067_s5.jpg",
+                    "mainImageAlt": "LÄCKÖ Stół+2 krzesła, na zewnątrz, szary/Frösön/Duvholmen beżowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary-froesoen-duvholmen-bezowy__0958674_pe805410_s5.jpg",
+                    "itemNoGlobal": "39269016",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39269016",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 547,
+                        "current": { "prefix": "", "wholeNumber": "547", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19413524",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/laeckoe-viholmen-stol-2-krzesla-na-zewnatrz-szary-ciemnoszary-s19413524/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-viholmen-stol-2-krzesla-na-zewnatrz-szary-ciemnoszary__0959983_pe806338_s5.jpg",
+                    "imageAlt": "LÄCKÖ / VIHOLMEN Stół+2 krzesła, na zewnątrz, szary/ciemnoszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 8,
+                    "name": "LÄCKÖ / VIHOLMEN",
+                    "typeName": "Stół+2 krzesła, na zewnątrz",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-viholmen-stol-2-krzesla-na-zewnatrz-szary-ciemnoszary__0959983_pe806338_s5.jpg",
+                    "mainImageAlt": "LÄCKÖ / VIHOLMEN Stół+2 krzesła, na zewnątrz, szary/ciemnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-viholmen-stol-2-krzesla-na-zewnatrz-szary-ciemnoszary__0959984_pe806341_s5.jpg",
+                    "itemNoGlobal": "19413524",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "19413524",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 567,
+                        "current": { "prefix": "", "wholeNumber": "567", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s49898435",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/laeckoe-stol-2-krzesla-na-zewnatrz-szary-s49898435/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary__0735585_pe740066_s5.jpg",
+                    "imageAlt": "LÄCKÖ Stół+2 krzesła, na zewnątrz, szary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 8,
+                    "name": "LÄCKÖ",
+                    "typeName": "Stół+2 krzesła, na zewnątrz",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary__0735585_pe740066_s5.jpg",
+                    "mainImageAlt": "LÄCKÖ Stół+2 krzesła, na zewnątrz, szary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/laeckoe-stol-2-krzesla-na-zewnatrz-szary__0958674_pe805410_s5.jpg",
+                    "itemNoGlobal": "49898435",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49898435",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 447,
+                        "current": { "prefix": "", "wholeNumber": "447", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 8,
+        "itemNo": "49413966",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 547,
+            "current": { "prefix": "", "wholeNumber": "547", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "LÄCKÖ Stół+2 krzesła, na zewnątrz, szary/Frösön/Duvholmen ciemny beżowo-zielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49413966",
+    "name": "LÄCKÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 547 }]
+}

@@ -1,1 +1,56 @@
-{ "id": "70453762", "name": "RAKKESTAD", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }] }
+{
+    "id": {
+        "name": "RAKKESTAD",
+        "typeName": "Szafa/3 drzwi",
+        "itemMeasureReferenceText": "117x176 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/rakkestad-szafa-3-drzwi-czarnybraz__0823987_pe776018_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/rakkestad-szafa-3-drzwi-czarnybraz-70453762/",
+        "id": "70453762",
+        "itemNoGlobal": "70453762",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 25,
+        "itemNo": "70453762",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/rakkestad-szafa-3-drzwi-czarnybraz__0823988_pe776019_s5.jpg",
+        "mainImageAlt": "RAKKESTAD Szafa/3 drzwi, czarnybrąz, 117x176 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Solitaire wardrobes",
+            "productAreaNo": "0423",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafy", "key": "19053" },
+            { "name": "Szafy wolnostojące", "key": "43631" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70453762",
+    "name": "RAKKESTAD",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }]
+}

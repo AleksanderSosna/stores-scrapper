@@ -1,1 +1,57 @@
-{ "id": "60254008", "name": "MIXA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 25 }] }
+{
+    "id": {
+        "name": "MIXA",
+        "typeName": "Lžíce",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/mixa-lzice-buk__0784019_pe761598_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/mixa-lzice-buk-60254008/",
+        "id": "60254008",
+        "itemNoGlobal": "60254008",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 107,
+        "itemNo": "60254008",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 25,
+            "current": { "prefix": "", "wholeNumber": "25", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "29", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-08-31",
+            "availabilityDisclaimer": "Cena platí od 1. září 2023 do 31. srpna 2024 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "MIXA Lžíce, buk",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking utensils",
+            "productAreaNo": "1421",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Náčiní k vaření", "key": "kt002" },
+            { "name": "Kuchyňské náčiní", "key": "33498" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60254008",
+    "name": "MIXA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 25 }]
+}

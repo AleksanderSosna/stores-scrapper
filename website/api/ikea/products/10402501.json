@@ -1,1 +1,55 @@
-{ "id": "10402501", "name": "FANTASTISK", "categoryKey": "wt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "FANTASTISK",
+        "typeName": "Papírové ubrousky",
+        "itemMeasureReferenceText": "40x40 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fantastisk-papirove-ubrousky-tmave-cervena__0586802_pe672260_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/fantastisk-papirove-ubrousky-tmave-cervena-10402501/",
+        "id": "10402501",
+        "itemNoGlobal": "10402501",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "červená", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 776,
+        "itemNo": "10402501",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "50 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fantastisk-papirove-ubrousky-tmave-cervena__1084951_pe859957_s5.jpg",
+        "mainImageAlt": "FANTASTISK Papírové ubrousky, tmavě červená, 40x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Napkins",
+            "productAreaNo": "1541",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Ubrousky, stojany a držáky", "key": "20560" },
+            { "name": "Ubrousky", "key": "20561" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10402501",
+    "name": "FANTASTISK",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

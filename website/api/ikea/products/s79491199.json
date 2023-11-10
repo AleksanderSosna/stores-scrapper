@@ -1,0 +1,10 @@
+{
+    "id": "s79491199",
+    "itemNo": "79491199",
+    "name": "SUNNEBY / LUNNOM",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
+    ]
+}

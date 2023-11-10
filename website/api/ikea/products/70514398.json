@@ -1,1 +1,57 @@
-{ "id": "70514398", "name": "TROLLDOM", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "TROLLDOM",
+        "typeName": "Povlečení do dětské postýlky",
+        "itemMeasureReferenceText": "110x125/35x55 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/trolldom-povleceni-do-detske-postylky-vzor-jelen-ruzova__1007929_pe826597_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/trolldom-povleceni-do-detske-postylky-vzor-jelen-ruzova-70514398/",
+        "id": "70514398",
+        "itemNoGlobal": "70514398",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" },
+            { "name": "barevné", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "70514398",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/trolldom-povleceni-do-detske-postylky-vzor-jelen-ruzova__1007932_pe826599_s5.jpg",
+        "mainImageAlt": "TROLLDOM Povlečení do dětské postýlky, vzor jelen/růžová, 110x125/35x55 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Baby sleep textiles",
+            "productAreaNo": "0962",
+            "productRangeAreaName": "Baby",
+            "productRangeAreaNo": "096"
+        },
+        "categoryPath": [
+            { "name": "Pro děti a miminka", "key": "bc001" },
+            { "name": "Pokoj pro miminka", "key": "bc002" },
+            { "name": "Textil pro miminka", "key": "18690" },
+            { "name": "Povlečení do dětské postýlky", "key": "18692" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70514398",
+    "name": "TROLLDOM",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

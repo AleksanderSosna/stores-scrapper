@@ -1,9 +1,0 @@
-{
-    "id": "19559007",
-    "name": "SKYDRAG / TRÅDFRI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 559.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2493 }
-    ]
-}

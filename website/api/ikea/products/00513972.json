@@ -1,1 +1,53 @@
-{ "id": "00513972", "name": "FLUGBO", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "FLUGBO",
+        "typeName": "Lampa stołowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flugbo-lampa-stolowa-niklowano-szklo__1003035_pe824998_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/flugbo-lampa-stolowa-niklowano-szklo-00513972/",
+        "id": "00513972",
+        "itemNoGlobal": "00513972",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 3,
+        "itemNo": "00513972",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flugbo-lampa-stolowa-niklowano-szklo__1003036_pe824997_s5.jpg",
+        "mainImageAlt": "FLUGBO Lampa stołowa, niklowano/szkło",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Table lamps",
+            "productAreaNo": "1012",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00513972",
+    "name": "FLUGBO",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

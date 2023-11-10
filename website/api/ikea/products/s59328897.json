@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "PAX / BERGSBO",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "200x38x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-bialy-szklo-matowe__0800908_pe768057_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-kombinacja-szafy-bialy-szklo-matowe-s59328897/",
+        "id": "s59328897",
+        "itemNoGlobal": "59328897",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59328897",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2440,
+            "current": { "prefix": "", "wholeNumber": "2 440", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-bialy-szklo-matowe__0800906_pe768056_s5.jpg",
+        "mainImageAlt": "PAX / BERGSBO Kombinacja szafy, biały/szkło matowe, 200x38x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59328897",
+    "name": "PAX / BERGSBO",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2440 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s49395788",
+    "itemNo": "49395788",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1980 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
+    ]
+}

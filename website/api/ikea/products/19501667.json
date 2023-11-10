@@ -1,9 +1,0 @@
-{
-    "id": "19501667",
-    "name": "HÅRSLINGA / TRÅDFRI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 798 }
-    ]
-}

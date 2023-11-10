@@ -1,1 +1,56 @@
-{ "id": "50471446", "name": "GRILLSKÄR", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 500 }] }
+{
+    "id": {
+        "name": "GRILLSKÄR",
+        "typeName": "Regał wyspa kuchenna",
+        "itemMeasureReferenceText": "86x61 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-zewnetrzne__0820260_pe774984_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-zewnetrzne-50471446/",
+        "id": "50471446",
+        "itemNoGlobal": "50471446",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50471446",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 500,
+            "current": { "prefix": "", "wholeNumber": "500", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-zewnetrzne__0979313_pe814498_s5.jpg",
+        "mainImageAlt": "GRILLSKÄR Regał wyspa kuchenna, czarny/stal nierdz zewnętrzne, 86x61 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor kitchens & cooking",
+            "productAreaNo": "1716",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Grille i akcesoria kuchenne na zewnątrz", "key": "700349" },
+            { "name": "Grille ogrodowe", "key": "24898" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50471446",
+    "name": "GRILLSKÄR",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 500 }]
+}

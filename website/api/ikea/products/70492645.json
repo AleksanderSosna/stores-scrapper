@@ -1,1 +1,54 @@
-{ "id": "70492645", "name": "MARIEDAMM", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }] }
+{
+    "id": {
+        "name": "MARIEDAMM",
+        "typeName": "Stół",
+        "itemMeasureReferenceText": "105 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/mariedamm-stol-czarny-imitacja-marmuru__0916869_pe785444_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/mariedamm-stol-czarny-imitacja-marmuru-70492645/",
+        "id": "70492645",
+        "itemNoGlobal": "70492645",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "70492645",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1199,
+            "current": { "prefix": "", "wholeNumber": "1 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/mariedamm-stol-czarny-imitacja-marmuru__0933647_pe792161_s5.jpg",
+        "mainImageAlt": "MARIEDAMM Stół, czarny imitacja marmuru, 105 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Stoły do jadalni", "key": "21825" },
+            { "name": "Stoły do jadalni do 4 osób", "key": "21826" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70492645",
+    "name": "MARIEDAMM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }]
+}

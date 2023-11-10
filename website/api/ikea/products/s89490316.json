@@ -1,0 +1,10 @@
+{
+    "id": "s89490316",
+    "itemNo": "89490316",
+    "name": "SLATTUM / KULLEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1556 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7878 }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "MYLLRA",
+        "typeName": "2cz zest mebli dla niemowląt",
+        "itemMeasureReferenceText": "60x120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-2cz-zest-mebli-dla-niemowlat-bialy__1192472_pe901105_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/myllra-2cz-zest-mebli-dla-niemowlat-bialy-s89506124/",
+        "id": "s89506124",
+        "itemNoGlobal": "89506124",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89506124",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2798,
+            "current": { "prefix": "", "wholeNumber": "2 798", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-2cz-zest-mebli-dla-niemowlat-bialy__1192472_pe901105_s5.jpg",
+        "mainImageAlt": "MYLLRA 2cz zest mebli dla niemowląt, biały, 60x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Baby furniture",
+            "productAreaNo": "0961",
+            "productRangeAreaName": "Baby",
+            "productRangeAreaNo": "096"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżeczka dla niemowląt", "key": "45781" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89506124",
+    "name": "MYLLRA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2798 }]
+}

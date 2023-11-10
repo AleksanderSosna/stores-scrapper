@@ -1,1 +1,55 @@
-{ "id": "50457695", "name": "ENHET", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 300 }] }
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Dveře",
+        "itemMeasureReferenceText": "30x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-dvere-imitace-betonu__0807126_pe770317_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-dvere-imitace-betonu-50457695/",
+        "id": "50457695",
+        "itemNoGlobal": "50457695",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50457695",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 300,
+            "current": { "prefix": "", "wholeNumber": "300", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-dvere-imitace-betonu__0915694_pe784870_s5.jpg",
+        "mainImageAlt": "ENHET Dveře, imitace betonu, 30x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny ENHET", "key": "700458" },
+            { "name": "Dveře a čela ENHET", "key": "700487" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50457695",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 300 }]
+}

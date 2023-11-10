@@ -1,0 +1,10 @@
+{
+    "id": "s59331569",
+    "itemNo": "59331569",
+    "name": "ENHET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 819 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5369 }
+    ]
+}

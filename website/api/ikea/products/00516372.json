@@ -1,1 +1,128 @@
-{ "id": "00516372", "name": "AINA", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 269 }] }
+{
+    "id": {
+        "name": "AINA",
+        "typeName": "Látka",
+        "itemMeasureReferenceText": "150 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-svetle-sedozelena__1033627_pe837364_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/aina-latka-svetle-sedozelena-00516372/",
+        "id": "00516372",
+        "itemNoGlobal": "00516372",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "30196944",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/aina-latka-prirodni-30196944/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-prirodni__0598076_pe677443_s5.jpg",
+                    "imageAlt": "AINA Látka, přírodní, 150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 24,
+                    "name": "AINA",
+                    "typeName": "Látka",
+                    "itemMeasureReferenceText": "150 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-prirodni__0598076_pe677443_s5.jpg",
+                    "mainImageAlt": "AINA Látka, přírodní, 150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-prirodni__0888855_pe569978_s5.jpg",
+                    "itemNoGlobal": "30196944",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30196944",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 269,
+                        "current": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "90159887",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/aina-latka-seda-90159887/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-seda__0598093_pe677460_s5.jpg",
+                    "imageAlt": "AINA Látka, šedá, 150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 24,
+                    "name": "AINA",
+                    "typeName": "Látka",
+                    "itemMeasureReferenceText": "150 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-seda__0598093_pe677460_s5.jpg",
+                    "mainImageAlt": "AINA Látka, šedá, 150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-seda__0888887_pe569979_s5.jpg",
+                    "itemNoGlobal": "90159887",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90159887",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 269,
+                        "current": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "metr",
+                        "unitText": "metr",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 24,
+        "itemNo": "00516372",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 269,
+            "current": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aina-latka-svetle-sedozelena__1033628_pe837388_s5.jpg",
+        "mainImageAlt": "AINA Látka, světle šedozelená, 150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Metre fabrics",
+            "productAreaNo": "1221",
+            "productRangeAreaName": "Fabrics and accessories",
+            "productRangeAreaNo": "122"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Metráž a šití", "key": "10655" },
+            { "name": "Látky", "key": "14349" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00516372",
+    "name": "AINA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 269 }]
+}

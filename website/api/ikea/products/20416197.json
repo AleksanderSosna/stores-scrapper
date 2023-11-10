@@ -1,1 +1,53 @@
-{ "id": "20416197", "name": "KALLAX", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }] }
+{
+    "id": {
+        "name": "KALLAX",
+        "typeName": "Wkład drzwi perforowane",
+        "itemMeasureReferenceText": "33x33 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-wklad-drzwi-perforowane-bialy__0627499_pe693417_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kallax-wklad-drzwi-perforowane-bialy-20416197/",
+        "id": "20416197",
+        "itemNoGlobal": "20416197",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 6,
+        "itemNo": "20416197",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 110,
+            "current": { "prefix": "", "wholeNumber": "110", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kallax-wklad-drzwi-perforowane-bialy__0851475_pe693416_s5.jpg",
+        "mainImageAlt": "KALLAX Wkład drzwi perforowane, biały, 33x33 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Open storage",
+            "productAreaNo": "0215",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały modułowe", "key": "11465" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20416197",
+    "name": "KALLAX",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }]
+}

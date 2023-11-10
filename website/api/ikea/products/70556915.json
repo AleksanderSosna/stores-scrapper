@@ -1,1 +1,98 @@
-{ "id": "70556915", "name": "FINFÖRDELA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6 }] }
+{
+    "id": {
+        "name": "FINFÖRDELA",
+        "typeName": "Deska do krojenia, giętka",
+        "itemMeasureReferenceText": "28x36 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/finfoerdela-deska-do-krojenia-gietka-czarny-ciemny-szaro-bezowy__1173141_pe893820_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/finfoerdela-deska-do-krojenia-gietka-czarny-ciemny-szaro-bezowy-70556915/",
+        "id": "70556915",
+        "itemNoGlobal": "70556915",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40559680",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/finfoerdela-deska-do-krojenia-gietka-zielony-jaskrawozielony-40559680/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/finfoerdela-deska-do-krojenia-gietka-zielony-jaskrawozielony__1199194_pe904414_s5.jpg",
+                    "imageAlt": "FINFÖRDELA Deska do krojenia, giętka, zielony/jaskrawozielony, 28x36 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 804,
+                    "name": "FINFÖRDELA",
+                    "typeName": "Deska do krojenia, giętka",
+                    "itemMeasureReferenceText": "28x36 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/finfoerdela-deska-do-krojenia-gietka-zielony-jaskrawozielony__1199194_pe904414_s5.jpg",
+                    "mainImageAlt": "FINFÖRDELA Deska do krojenia, giętka, zielony/jaskrawozielony, 28x36 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/finfoerdela-deska-do-krojenia-gietka-zielony-jaskrawozielony__1173130_pe893818_s5.jpg",
+                    "itemNoGlobal": "40559680",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40559680",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 6,
+                        "current": { "prefix": "", "wholeNumber": "6", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "priceUnit": "2 szt.",
+                        "unitText": "szt.",
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 804,
+        "itemNo": "70556915",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 6,
+            "current": { "prefix": "", "wholeNumber": "6", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "priceUnit": "2 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/finfoerdela-deska-do-krojenia-gietka-czarny-ciemny-szaro-bezowy__1173139_pe893822_s5.jpg",
+        "mainImageAlt": "FINFÖRDELA Deska do krojenia, giętka, czarny/ciemny szaro-beżowy, 28x36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Chopping boards",
+            "productAreaNo": "1424",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Noże i deski do krojenia", "key": "15934" },
+            { "name": "Deski do krojenia", "key": "15947" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70556915",
+    "name": "FINFÖRDELA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6 }]
+}

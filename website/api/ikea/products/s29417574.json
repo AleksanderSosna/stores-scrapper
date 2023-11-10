@@ -1,0 +1,10 @@
+{
+    "id": "s29417574",
+    "itemNo": "29417574",
+    "name": "LAGKAPTEN / ADILS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 234 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1499 }
+    ]
+}

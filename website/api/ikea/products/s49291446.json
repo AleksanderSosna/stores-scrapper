@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "KUGGÖ / LINDÖJA",
+        "typeName": "Slunečník",
+        "itemMeasureReferenceText": "300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kuggoe-lindoeja-slunecnik-modra__0664688_pe712860_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kuggoe-lindoeja-slunecnik-modra-s49291446/",
+        "id": "s49291446",
+        "itemNoGlobal": "49291446",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 1,
+        "itemNo": "49291446",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1799,
+            "current": { "prefix": "", "wholeNumber": "1 799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kuggoe-lindoeja-slunecnik-modra__0732071_pe738559_s5.jpg",
+        "mainImageAlt": "KUGGÖ / LINDÖJA Slunečník, modrá, 300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Slunečníky a altány", "key": "17887" },
+            { "name": "Slunečníky a podstavce", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "49291446",
+    "name": "KUGGÖ / LINDÖJA",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1799 }]
+}

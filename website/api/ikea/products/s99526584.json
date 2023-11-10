@@ -1,0 +1,10 @@
+{
+    "id": "s99526584",
+    "itemNo": "99526584",
+    "name": "PEKTOLIT / HEMMA",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
+    ]
+}

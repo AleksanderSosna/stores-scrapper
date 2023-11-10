@@ -1,0 +1,10 @@
+{
+    "id": "s79299016",
+    "itemNo": "79299016",
+    "name": "BUSKBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
+    ]
+}

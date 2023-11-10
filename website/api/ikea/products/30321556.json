@@ -1,1 +1,55 @@
-{ "id": "30321556", "name": "BRONSSOPP", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "BRONSSOPP",
+        "typeName": "Taca na kanapki",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bronssopp-taca-na-kanapki-bambus__0406339_pe569259_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bronssopp-taca-na-kanapki-bambus-30321556/",
+        "id": "30321556",
+        "itemNoGlobal": "30321556",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 66,
+        "itemNo": "30321556",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bronssopp-taca-na-kanapki-bambus__0896618_pe612960_s5.jpg",
+        "mainImageAlt": "BRONSSOPP Taca na kanapki, bambus",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do serwowania potraw", "key": "16043" },
+            { "name": "Tace", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30321556",
+    "name": "BRONSSOPP",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

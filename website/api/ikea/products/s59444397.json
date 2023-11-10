@@ -1,0 +1,10 @@
+{
+    "id": "s59444397",
+    "itemNo": "59444397",
+    "name": "ELDBERGET / MALSKÄR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
+    ]
+}

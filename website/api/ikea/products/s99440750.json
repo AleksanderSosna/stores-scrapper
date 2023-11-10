@@ -1,0 +1,10 @@
+{
+    "id": "s99440750",
+    "itemNo": "99440750",
+    "name": "LISABO / ODGER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2095 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12950 }
+    ]
+}

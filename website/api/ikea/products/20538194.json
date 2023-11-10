@@ -1,1 +1,54 @@
-{ "id": "20538194", "name": "ÄNGABODA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }] }
+{
+    "id": {
+        "name": "ÄNGABODA",
+        "typeName": "Zrcadlo",
+        "itemMeasureReferenceText": "80x53 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aengaboda-zrcadlo-cerna__1144402_pe881809_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/aengaboda-zrcadlo-cerna-20538194/",
+        "id": "20538194",
+        "itemNoGlobal": "20538194",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "20538194",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aengaboda-zrcadlo-cerna__1144400_pe881808_s5.jpg",
+        "mainImageAlt": "ÄNGABODA Zrcadlo, černá, 80x53 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Mirrors",
+            "productAreaNo": "1645",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Zrcadla", "key": "20489" },
+            { "name": "Koupelnová zrcadla", "key": "20498" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20538194",
+    "name": "ÄNGABODA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }]
+}

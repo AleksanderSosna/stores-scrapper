@@ -1,0 +1,10 @@
+{
+    "id": "s59471753",
+    "itemNo": "59471753",
+    "name": "BROR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1410 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7860 }
+    ]
+}

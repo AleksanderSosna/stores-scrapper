@@ -1,0 +1,10 @@
+{
+    "id": "s79499303",
+    "itemNo": "79499303",
+    "name": "TREDANSEN",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1048 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5480 }
+    ]
+}

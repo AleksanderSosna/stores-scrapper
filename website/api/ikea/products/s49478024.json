@@ -1,0 +1,100 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Šatní skříň",
+        "itemMeasureReferenceText": "250x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-satni-skrin-bila-bila__1080484_pe858058_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/pax-forsand-satni-skrin-bila-bila-s49478024/",
+        "id": "s49478024",
+        "itemNoGlobal": "49494335",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s29478082",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/pax-forsand-satni-skrin-bila-bila-s29478082/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-satni-skrin-bila-bila__1080483_pe858059_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Šatní skříň, bílá/bílá, 250x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "PAX / FORSAND",
+                    "typeName": "Šatní skříň",
+                    "itemMeasureReferenceText": "250x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-satni-skrin-bila-bila__1080483_pe858059_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Šatní skříň, bílá/bílá, 250x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-satni-skrin-bila-bila__1103604_pe867332_s5.jpg",
+                    "itemNoGlobal": "29478082",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29478082",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 12660,
+                        "current": { "prefix": "", "wholeNumber": "12 660", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "14 080", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "49478024",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15520,
+            "current": { "prefix": "", "wholeNumber": "15 520", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "16 600", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-satni-skrin-bila-bila__1103605_pe867331_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Šatní skříň, bílá/bílá, 250x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém PAX", "key": "19086" },
+            { "name": "Skříně PAX s dveřmi", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49478024",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15520 }]
+}

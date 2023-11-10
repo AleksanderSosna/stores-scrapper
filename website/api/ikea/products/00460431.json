@@ -1,1 +1,54 @@
-{ "id": "00460431", "name": "GRÖNAMARANT", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "GRÖNAMARANT",
+        "typeName": "Poduszka, niska",
+        "itemMeasureReferenceText": "50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/groenamarant-poduszka-niska__0789260_pe763889_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/groenamarant-poduszka-niska-00460431/",
+        "id": "00460431",
+        "itemNoGlobal": "00460431",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 135,
+        "itemNo": "00460431",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/groenamarant-poduszka-niska__1010058_pe827864_s5.jpg",
+        "mainImageAlt": "GRÖNAMARANT Poduszka, niska, 50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Poduszki", "key": "20533" },
+            { "name": "Poduszki poliestrowe", "key": "20534" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00460431",
+    "name": "GRÖNAMARANT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

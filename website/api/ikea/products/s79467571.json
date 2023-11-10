@@ -1,0 +1,10 @@
+{
+    "id": "s79467571",
+    "itemNo": "79467571",
+    "name": "BOAXEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1095 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6370 }
+    ]
+}

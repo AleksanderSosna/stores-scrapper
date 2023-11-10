@@ -1,1 +1,54 @@
-{ "id": "30409790", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 12 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Umělé květiny",
+        "itemMeasureReferenceText": "30 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-karafiat-ruzova__0611395_pe685419_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/smycka-umele-kvetiny-karafiat-ruzova-30409790/",
+        "id": "30409790",
+        "itemNoGlobal": "30409790",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "růžová", "id": "10119", "hex": "ffb8c3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 43,
+        "itemNo": "30409790",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 12,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-karafiat-ruzova__0903360_pe685418_s5.jpg",
+        "mainImageAlt": "SMYCKA Umělé květiny, karafiát/růžová, 30 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Rostliny a květiny", "key": "pp003" },
+            { "name": "Umělé rostliny a květiny", "key": "20492" },
+            { "name": "Umělé řezané květiny", "key": "700516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30409790",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 12 }]
+}

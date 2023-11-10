@@ -1,9 +1,0 @@
-{
-    "id": "39254326",
-    "name": "KUNGSFORS",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 459.97 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2596 }
-    ]
-}

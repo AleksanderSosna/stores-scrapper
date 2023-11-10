@@ -1,1 +1,53 @@
-{ "id": "40125786", "name": "DYNING", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 139 }] }
+{
+    "id": {
+        "name": "DYNING",
+        "typeName": "Baldachim",
+        "itemMeasureReferenceText": "360 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dyning-baldachim-ksztalt-klina-bialy__0712024_pe728616_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/dyning-baldachim-ksztalt-klina-bialy-40125786/",
+        "id": "40125786",
+        "itemNoGlobal": "40125786",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 24,
+        "itemNo": "40125786",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 139,
+            "current": { "prefix": "", "wholeNumber": "139", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dyning-baldachim-ksztalt-klina-bialy__0906607_pe615037_s5.jpg",
+        "mainImageAlt": "DYNING Baldachim, kształt klina/biały, 360 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parawany i osłony balkonowe", "key": "17895" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40125786",
+    "name": "DYNING",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 139 }]
+}

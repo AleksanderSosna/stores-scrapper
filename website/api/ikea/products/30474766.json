@@ -1,1 +1,89 @@
-{ "id": "30474766", "name": "TROTTEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 899 }] }
+{
+    "id": {
+        "name": "TROTTEN",
+        "typeName": "Szafka/drzwi",
+        "itemMeasureReferenceText": "70x35x173 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-drzwi-bialy__1007249_pe826000_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-drzwi-bialy-30474766/",
+        "id": "30474766",
+        "itemNoGlobal": "30474766",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40474836",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-drzwi-antracyt-40474836/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-drzwi-antracyt__1007248_pe825999_s5.jpg",
+                    "imageAlt": "TROTTEN Szafka/drzwi, antracyt, 70x35x173 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 5,
+                    "name": "TROTTEN",
+                    "typeName": "Szafka/drzwi",
+                    "itemMeasureReferenceText": "70x35x173 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-drzwi-antracyt__1007248_pe825999_s5.jpg",
+                    "mainImageAlt": "TROTTEN Szafka/drzwi, antracyt, 70x35x173 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-drzwi-antracyt__1025897_pe834168_s5.jpg",
+                    "itemNoGlobal": "40474836",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40474836",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 899,
+                        "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "30474766",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-drzwi-bialy__1054169_pe847549_s5.jpg",
+        "mainImageAlt": "TROTTEN Szafka/drzwi, biały, 70x35x173 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki biurowe", "key": "10385" },
+            { "name": "Szafki biurowe do domu", "key": "47083" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30474766",
+    "name": "TROTTEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 899 }]
+}

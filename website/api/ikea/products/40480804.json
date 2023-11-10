@@ -1,1 +1,55 @@
-{ "id": "40480804", "name": "MILDRUN", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }] }
+{
+    "id": {
+        "name": "MILDRUN",
+        "typeName": "Závěsy, 1 pár",
+        "itemMeasureReferenceText": "145x300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/mildrun-zavesy-1-par-tmave-seda-pruhovany__0814447_pe772580_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/mildrun-zavesy-1-par-tmave-seda-pruhovany-40480804/",
+        "id": "40480804",
+        "itemNoGlobal": "40480804",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52516", "name": "Propouštějí denní světlo", "typeName": "Filtrace světla" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "40480804",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/mildrun-zavesy-1-par-tmave-seda-pruhovany__0814446_pe772579_s5.jpg",
+        "mainImageAlt": "MILDRUN Závěsy, 1 pár, tmavě šedá/pruhovaný, 145x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Závěsy", "key": "10700" },
+            { "name": "Závěsy propouštějící světlo", "key": "700220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40480804",
+    "name": "MILDRUN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }]
+}

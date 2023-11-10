@@ -1,0 +1,147 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Kuchnia",
+        "itemMeasureReferenceText": "183x63.5x222 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy-blady-szaro-zielony__1155662_pe886727_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-blady-szaro-zielony-s79499204/",
+        "id": "s79499204",
+        "itemNoGlobal": "79499204",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s89337334",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-imit-debu-s89337334/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy-imit-debu__0958569_pe775349_s5.jpg",
+                    "imageAlt": "ENHET Kuchnia, biały/imit. dębu, 183x63.5x222 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Kuchnia",
+                    "itemMeasureReferenceText": "183x63.5x222 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy-imit-debu__0958569_pe775349_s5.jpg",
+                    "mainImageAlt": "ENHET Kuchnia, biały/imit. dębu, 183x63.5x222 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy-imit-debu__0913408_pe783526_s5.jpg",
+                    "itemNoGlobal": "89337334",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89337334",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2262,
+                        "current": { "prefix": "", "wholeNumber": "2 262", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s49337294",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-s49337294/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy__0957467_pe775346_s5.jpg",
+                    "imageAlt": "ENHET Kuchnia, biały, 183x63.5x222 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Kuchnia",
+                    "itemMeasureReferenceText": "183x63.5x222 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy__0957467_pe775346_s5.jpg",
+                    "mainImageAlt": "ENHET Kuchnia, biały, 183x63.5x222 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy__0913405_pe783529_s5.jpg",
+                    "itemNoGlobal": "49337294",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49337294",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2114,
+                        "current": { "prefix": "", "wholeNumber": "2 114", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s89337348",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-kuchnia-antracyt-bialy-s89337348/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-antracyt-bialy__0958497_pe775354_s5.jpg",
+                    "imageAlt": "ENHET Kuchnia, antracyt/biały, 183x63.5x222 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Kuchnia",
+                    "itemMeasureReferenceText": "183x63.5x222 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-antracyt-bialy__0958497_pe775354_s5.jpg",
+                    "mainImageAlt": "ENHET Kuchnia, antracyt/biały, 183x63.5x222 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-antracyt-bialy__0913405_pe783529_s5.jpg",
+                    "itemNoGlobal": "89337348",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89337348",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2172,
+                        "current": { "prefix": "", "wholeNumber": "2 172", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79499204",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2302,
+            "current": { "prefix": "", "wholeNumber": "2 302", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-kuchnia-bialy-blady-szaro-zielony__1158243_pe888050_s5.jpg",
+        "mainImageAlt": "ENHET Kuchnia, biały/blady szaro-zielony, 183x63.5x222 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen cabinets, kitchen legs, open frames",
+            "productAreaNo": "0711",
+            "productRangeAreaName": "Kitchen cabinets",
+            "productRangeAreaNo": "071"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe ENHET", "key": "ka004" },
+            { "name": "Kombinacje kuchni ENHET", "key": "50007" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79499204",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2302 }]
+}

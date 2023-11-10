@@ -1,1 +1,57 @@
-{ "id": "80520822", "name": "TOFTÖ", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }] }
+{
+    "id": {
+        "name": "TOFTÖ",
+        "typeName": "Povlak na polštář, vnitřní/venkovní",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/toftoe-povlak-na-polstar-vnitrni-venkovni-jasne-zelena__1103928_pe867428_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/toftoe-povlak-na-polstar-vnitrni-venkovni-jasne-zelena-80520822/",
+        "id": "80520822",
+        "itemNoGlobal": "80520822",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "80520822",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "259", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-08-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. srpna 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/toftoe-povlak-na-polstar-vnitrni-venkovni-jasne-zelena__1191475_ph191314_s5.jpg",
+        "mainImageAlt": "TOFTÖ Povlak na polštář, vnitřní/venkovní, jasně zelená, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80520822",
+    "name": "TOFTÖ",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 179 }]
+}

@@ -1,1 +1,93 @@
-{ "id": "90493106", "name": "KÅLFJÄRIL", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "KÅLFJÄRIL",
+        "typeName": "Ścierka",
+        "itemMeasureReferenceText": "45x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-scierka-wzor-rozowy-jasnobezowy__1080621_pe858113_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kalfjaeril-scierka-wzor-rozowy-jasnobezowy-90493106/",
+        "id": "90493106",
+        "itemNoGlobal": "90493106",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80493116",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kalfjaeril-scierka-wzor-niebieski-jasnoturkusowy-80493116/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-scierka-wzor-niebieski-jasnoturkusowy__1080620_pe858114_s5.jpg",
+                    "imageAlt": "KÅLFJÄRIL Ścierka, wzór niebieski/jasnoturkusowy, 45x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "KÅLFJÄRIL",
+                    "typeName": "Ścierka",
+                    "itemMeasureReferenceText": "45x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-scierka-wzor-niebieski-jasnoturkusowy__1080620_pe858114_s5.jpg",
+                    "mainImageAlt": "KÅLFJÄRIL Ścierka, wzór niebieski/jasnoturkusowy, 45x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-scierka-wzor-niebieski-jasnoturkusowy__1152236_pe885202_s5.jpg",
+                    "itemNoGlobal": "80493116",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80493116",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 39.99,
+                        "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2 szt.",
+                        "unitText": "szt.",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "90493106",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-scierka-wzor-rozowy-jasnobezowy__1152238_pe885199_s5.jpg",
+        "mainImageAlt": "KÅLFJÄRIL Ścierka, wzór różowy/jasnobeżowy, 45x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking textiles",
+            "productAreaNo": "1415",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia do kuchni", "key": "18850" },
+            { "name": "Ścierki i ściereczki kuchenne", "key": "18851" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90493106",
+    "name": "KÅLFJÄRIL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

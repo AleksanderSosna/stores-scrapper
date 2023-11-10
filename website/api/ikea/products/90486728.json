@@ -1,1 +1,56 @@
-{ "id": "90486728", "name": "VANNAREID", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }] }
+{
+    "id": {
+        "name": "VANNAREID",
+        "typeName": "Materac, sprężyny kieszeniowe",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vannareid-materac-sprezyny-kieszeniowe-twardy-bezowy__0962751_pe817171_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vannareid-materac-sprezyny-kieszeniowe-twardy-bezowy-90486728/",
+        "id": "90486728",
+        "itemNoGlobal": "90486728",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 9,
+        "itemNo": "90486728",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vannareid-materac-sprezyny-kieszeniowe-twardy-bezowy__1050045_pe844615_s5.jpg",
+        "mainImageAlt": "VANNAREID Materac, sprężyny kieszeniowe, twardy/beżowy, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Mattresses",
+            "productAreaNo": "0511",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Materace", "key": "bm002" },
+            { "name": "Materace sprężynowe", "key": "24828" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90486728",
+    "name": "VANNAREID",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 449 }]
+}

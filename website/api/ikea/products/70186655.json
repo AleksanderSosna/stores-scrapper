@@ -1,1 +1,59 @@
-{ "id": "70186655", "name": "PAPAJA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "PAPAJA",
+        "typeName": "Květináč",
+        "itemMeasureReferenceText": "12x19 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/papaja-kvetinac-bila__0641004_pe700184_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/papaja-kvetinac-bila-70186655/",
+        "id": "70186655",
+        "itemNoGlobal": "70186655",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 40,
+        "itemNo": "70186655",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/papaja-kvetinac-bila__0702983_pe724638_s5.jpg",
+        "mainImageAlt": "PAPAJA Květináč, bílá, 12x19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Květináče a truhlíky", "key": "pp004" },
+            { "name": "Vnitřní květináče", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70186655",
+    "name": "PAPAJA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

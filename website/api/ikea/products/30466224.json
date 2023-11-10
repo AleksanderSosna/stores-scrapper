@@ -1,1 +1,52 @@
-{ "id": "30466224", "name": "TOTEBO", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }] }
+{
+    "id": {
+        "name": "TOTEBO",
+        "typeName": "Fixa na tabule",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/totebo-fixa-na-tabule-bila__0799179_pe767587_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/totebo-fixa-na-tabule-bila-30466224/",
+        "id": "30466224",
+        "itemNoGlobal": "30466224",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 24,
+        "itemNo": "30466224",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 69,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/totebo-fixa-na-tabule-bila__0918696_pe786461_s5.jpg",
+        "mainImageAlt": "TOTEBO Fixa na tabule, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnky", "key": "10574" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30466224",
+    "name": "TOTEBO",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }]
+}

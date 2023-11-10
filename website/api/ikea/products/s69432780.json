@@ -1,0 +1,10 @@
+{
+    "id": "s69432780",
+    "itemNo": "69432780",
+    "name": "UPPDATERA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 74.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 298 }
+    ]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "59428811",
-    "name": "EKEDALEN / KÄTTIL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1197 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6970 }
-    ]
-}

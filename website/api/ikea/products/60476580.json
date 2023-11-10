@@ -1,1 +1,55 @@
-{ "id": "60476580", "name": "HAKVINGE", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 169 }] }
+{
+    "id": {
+        "name": "HAKVINGE",
+        "typeName": "Látka",
+        "itemMeasureReferenceText": "150 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hakvinge-latka-prirodni-tmave-cervena-vzor-listu__0832406_pe777663_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hakvinge-latka-prirodni-tmave-cervena-vzor-listu-60476580/",
+        "id": "60476580",
+        "itemNoGlobal": "60476580",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "červená", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 17,
+        "itemNo": "60476580",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 169,
+            "current": { "prefix": "", "wholeNumber": "169", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "metr",
+            "unitText": "metr",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hakvinge-latka-prirodni-tmave-cervena-vzor-listu__0832407_pe777678_s5.jpg",
+        "mainImageAlt": "HAKVINGE Látka, přírodní tmavě červená/vzor listů, 150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Metre fabrics",
+            "productAreaNo": "1221",
+            "productRangeAreaName": "Fabrics and accessories",
+            "productRangeAreaNo": "122"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Metráž a šití", "key": "10655" },
+            { "name": "Látky", "key": "14349" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60476580",
+    "name": "HAKVINGE",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 169 }]
+}

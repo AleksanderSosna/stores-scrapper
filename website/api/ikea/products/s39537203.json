@@ -1,0 +1,10 @@
+{
+    "id": "s39537203",
+    "itemNo": "39537203",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4099 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 26480 }
+    ]
+}

@@ -1,1 +1,59 @@
-{ "id": "60426707", "name": "BROGRUND", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "BROGRUND",
+        "typeName": "Věšák na ručníky, 3 tyčky",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/brogrund-vesak-na-rucniky-3-tycky-nerezavejici-ocel__0749051_pe745412_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/brogrund-vesak-na-rucniky-3-tycky-nerezavejici-ocel-60426707/",
+        "id": "60426707",
+        "itemNoGlobal": "60426707",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 64,
+        "itemNo": "60426707",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/brogrund-vesak-na-rucniky-3-tycky-nerezavejici-ocel__0863431_pe706798_s5.jpg",
+        "mainImageAlt": "BROGRUND Věšák na ručníky, 3 tyčky, nerezavějící ocel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom towel solutions",
+            "productAreaNo": "0622",
+            "productRangeAreaName": "Bathroom accessories",
+            "productRangeAreaNo": "062"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové doplňky", "key": "10555" },
+            { "name": "Věšáky na ručníky", "key": "10650" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60426707",
+    "name": "BROGRUND",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

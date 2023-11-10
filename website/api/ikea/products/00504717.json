@@ -1,1 +1,54 @@
-{ "id": "00504717", "name": "VÄNKRETS", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "VÄNKRETS",
+        "typeName": "Poszwa na kołdrę i poszewka",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaenkrets-poszwa-na-koldre-i-poszewka-wzor-w-banany-bladozielony__0988447_pe818120_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaenkrets-poszwa-na-koldre-i-poszewka-wzor-w-banany-bladozielony-00504717/",
+        "id": "00504717",
+        "itemNoGlobal": "00504717",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "00504717",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaenkrets-poszwa-na-koldre-i-poszewka-wzor-w-banany-bladozielony__0963760_pe809742_s5.jpg",
+        "mainImageAlt": "VÄNKRETS Poszwa na kołdrę i poszewka, wzór w banany bladozielony, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Sleep textiles for children",
+            "productAreaNo": "0936",
+            "productRangeAreaName": "Children`s sleep",
+            "productRangeAreaNo": "093"
+        },
+        "categoryPath": [
+            { "name": "Dzieci i niemowlęta", "key": "bc001" },
+            { "name": "Dzieci", "key": "bc003" },
+            { "name": "Tekstylia dla dzieci", "key": "18730" },
+            { "name": "Pościel dla dzieci", "key": "18776" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00504717",
+    "name": "VÄNKRETS",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

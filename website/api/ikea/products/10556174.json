@@ -1,1 +1,91 @@
-{ "id": "10556174", "name": "SUNNERSTA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 }] }
+{
+    "id": {
+        "name": "SUNNERSTA",
+        "typeName": "Pojemnik",
+        "itemMeasureReferenceText": "12x11 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-pojemnik-jasnozolty__1172501_pe893322_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sunnersta-pojemnik-jasnozolty-10556174/",
+        "id": "10556174",
+        "itemNoGlobal": "10556174",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00556179",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sunnersta-pojemnik-bladozielony-00556179/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-pojemnik-bladozielony__1172510_pe893326_s5.jpg",
+                    "imageAlt": "SUNNERSTA Pojemnik, bladozielony, 12x11 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 352,
+                    "name": "SUNNERSTA",
+                    "typeName": "Pojemnik",
+                    "itemMeasureReferenceText": "12x11 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-pojemnik-bladozielony__1172510_pe893326_s5.jpg",
+                    "mainImageAlt": "SUNNERSTA Pojemnik, bladozielony, 12x11 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-pojemnik-bladozielony__1199273_pe904421_s5.jpg",
+                    "itemNoGlobal": "00556179",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "00556179",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3.99,
+                        "current": { "prefix": "", "wholeNumber": "3", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "żółty", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 352,
+        "itemNo": "10556174",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3.99,
+            "current": { "prefix": "", "wholeNumber": "3", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sunnersta-pojemnik-jasnozolty__1199267_pe904419_s5.jpg",
+        "mainImageAlt": "SUNNERSTA Pojemnik, jasnożółty, 12x11 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Półki do kuchni", "key": "20676" },
+            { "name": "Ścienne organizery kuchenne", "key": "20677" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10556174",
+    "name": "SUNNERSTA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 }]
+}

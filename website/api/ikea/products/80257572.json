@@ -1,1 +1,53 @@
-{ "id": "80257572", "name": "BRILJERA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "BRILJERA",
+        "typeName": "Nóż do chleba",
+        "itemMeasureReferenceText": "23 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/briljera-noz-do-chleba__0588825_pe673147_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/briljera-noz-do-chleba-80257572/",
+        "id": "80257572",
+        "itemNoGlobal": "80257572",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "brązowy", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "80257572",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/briljera-noz-do-chleba__0588824_pe673148_s5.jpg",
+        "mainImageAlt": "BRILJERA Nóż do chleba, 23 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Knives",
+            "productAreaNo": "1423",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Noże i deski do krojenia", "key": "15934" },
+            { "name": "Noże kuchenne", "key": "15946" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80257572",
+    "name": "BRILJERA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

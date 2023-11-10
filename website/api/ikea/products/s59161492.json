@@ -1,0 +1,147 @@
+{
+    "id": {
+        "name": "MÖCKELBY / NORRARYD",
+        "typeName": "Stół i 6 krzeseł",
+        "itemMeasureReferenceText": "235x100 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-norraryd-stol-i-6-krzesel-dab-czarny__0737500_pe741140_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/moeckelby-norraryd-stol-i-6-krzesel-dab-czarny-s59161492/",
+        "id": "s59161492",
+        "itemNoGlobal": "59161492",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s29408471",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/moeckelby-bergmund-stol-i-6-krzesel-imit-debu-kolboda-bezowy-ciemnoszary-s29408471/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-bergmund-stol-i-6-krzesel-imit-debu-kolboda-bezowy-ciemnoszary__0954363_pe803234_s5.jpg",
+                    "imageAlt": "MÖCKELBY / BERGMUND Stół i 6 krzeseł, imit. dębu/Kolboda beżowy/ciemnoszary, 235x100 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "MÖCKELBY / BERGMUND",
+                    "typeName": "Stół i 6 krzeseł",
+                    "itemMeasureReferenceText": "235x100 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-bergmund-stol-i-6-krzesel-imit-debu-kolboda-bezowy-ciemnoszary__0954363_pe803234_s5.jpg",
+                    "mainImageAlt": "MÖCKELBY / BERGMUND Stół i 6 krzeseł, imit. dębu/Kolboda beżowy/ciemnoszary, 235x100 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-bergmund-stol-i-6-krzesel-imit-debu-kolboda-bezowy-ciemnoszary__1027796_ph176762_s5.jpg",
+                    "itemNoGlobal": "29408471",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29408471",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 6573,
+                        "current": { "prefix": "", "wholeNumber": "6 573", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s79277019",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/moeckelby-odger-stol-i-6-krzesel-dab-bialy-bezowy-s79277019/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-odger-stol-i-6-krzesel-dab-bialy-bezowy__0737501_pe741146_s5.jpg",
+                    "imageAlt": "MÖCKELBY / ODGER Stół i 6 krzeseł, dąb/biały/beżowy, 235x100 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "MÖCKELBY / ODGER",
+                    "typeName": "Stół i 6 krzeseł",
+                    "itemMeasureReferenceText": "235x100 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-odger-stol-i-6-krzesel-dab-bialy-bezowy__0737501_pe741146_s5.jpg",
+                    "mainImageAlt": "MÖCKELBY / ODGER Stół i 6 krzeseł, dąb/biały/beżowy, 235x100 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-odger-stol-i-6-krzesel-dab-bialy-bezowy__0871445_pe707703_s5.jpg",
+                    "itemNoGlobal": "79277019",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79277019",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 5793,
+                        "current": { "prefix": "", "wholeNumber": "5 793", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99131790",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/moeckelby-ikea-ps-2012-stol-i-6-krzesel-dab-czarny-s99131790/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-ikea-ps-2012-stol-i-6-krzesel-dab-czarny__0737495_pe741137_s5.jpg",
+                    "imageAlt": "MÖCKELBY / IKEA PS 2012 Stół i 6 krzeseł, dąb/czarny, 235x100 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "MÖCKELBY / IKEA PS 2012",
+                    "typeName": "Stół i 6 krzeseł",
+                    "itemMeasureReferenceText": "235x100 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-ikea-ps-2012-stol-i-6-krzesel-dab-czarny__0737495_pe741137_s5.jpg",
+                    "mainImageAlt": "MÖCKELBY / IKEA PS 2012 Stół i 6 krzeseł, dąb/czarny, 235x100 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-ikea-ps-2012-stol-i-6-krzesel-dab-czarny__0871353_pe717732_s5.jpg",
+                    "itemNoGlobal": "99131790",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99131790",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 5793,
+                        "current": { "prefix": "", "wholeNumber": "5 793", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59161492",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 6273,
+            "current": { "prefix": "", "wholeNumber": "6 273", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/moeckelby-norraryd-stol-i-6-krzesel-dab-czarny__0871383_pe717733_s5.jpg",
+        "mainImageAlt": "MÖCKELBY / NORRARYD Stół i 6 krzeseł, dąb/czarny, 235x100 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Zestawy stołów z krzesłami", "key": "19145" },
+            { "name": "Zestawy stołów z 6 krzesłami", "key": "36213" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59161492",
+    "name": "MÖCKELBY / NORRARYD",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 6273 }]
+}

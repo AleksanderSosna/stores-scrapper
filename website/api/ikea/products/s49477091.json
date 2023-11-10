@@ -1,0 +1,58 @@
+{
+    "id": {
+        "name": "GODMORGON/TOLKEN / TÖRNVIKEN",
+        "typeName": "Umyv.sk. s deskou, um. 45 cm",
+        "itemMeasureReferenceText": "82x49x45 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-toernviken-umyv-sk-s-deskou-um-45-cm-gillburen-tmave-seda-mramorovy-efekt-baterie-brogrund__1067410_pe852731_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/godmorgon-tolken-toernviken-umyv-sk-s-deskou-um-45-cm-gillburen-tmave-seda-mramorovy-efekt-baterie-brogrund-s49477091/",
+        "id": "s49477091",
+        "itemNoGlobal": "49477091",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49477091",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 12379,
+            "current": { "prefix": "", "wholeNumber": "12 379", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "12 579", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-toernviken-umyv-sk-s-deskou-um-45-cm-gillburen-tmave-seda-mramorovy-efekt-baterie-brogrund__1067408_pe852730_s5.jpg",
+        "mainImageAlt": "GODMORGON/TOLKEN / TÖRNVIKEN Umyv.sk. s deskou, um. 45 cm, Gillburen tmavě šedá/mramorový efekt Baterie Brogrund, 82x49x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové a umyvadlové skříňky", "key": "20719" },
+            { "name": "Umyvadlové skříňky s umyvadlem", "key": "20720" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "49477091",
+    "name": "GODMORGON/TOLKEN / TÖRNVIKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 12379 }]
+}

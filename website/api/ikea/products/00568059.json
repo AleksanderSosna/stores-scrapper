@@ -1,1 +1,94 @@
-{ "id": "00568059", "name": "VINDÅS", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2399 }] }
+{
+    "id": {
+        "name": "VINDÅS",
+        "typeName": "Lodówka/zamrażarka",
+        "itemMeasureReferenceText": "223/120 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vindas-lodowka-zamrazarka-ikea-300-wolnostojace-bialy__1206907_pe907691_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vindas-lodowka-zamrazarka-ikea-300-wolnostojace-bialy-00568059/",
+        "id": "00568059",
+        "itemNoGlobal": "00568059",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10568068",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/vindas-lodowka-zamrazarka-ikea-300-wolnostojace-stalowy-10568068/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/vindas-lodowka-zamrazarka-ikea-300-wolnostojace-stalowy__1201509_pe905678_s5.jpg",
+                    "imageAlt": "VINDÅS Lodówka/zamrażarka, IKEA 300 wolnostojące/stalowy, 223/120 l",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VINDÅS",
+                    "typeName": "Lodówka/zamrażarka",
+                    "itemMeasureReferenceText": "223/120 l",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vindas-lodowka-zamrazarka-ikea-300-wolnostojace-stalowy__1201509_pe905678_s5.jpg",
+                    "mainImageAlt": "VINDÅS Lodówka/zamrażarka, IKEA 300 wolnostojące/stalowy, 223/120 l",
+                    "itemNoGlobal": "10568068",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10568068",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2499,
+                        "current": { "prefix": "", "wholeNumber": "2 499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "energyLabel": "E",
+                    "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1009953_o_lbl10.svg",
+                    "energySymbolImageAlt": "Klasa efektywności energetycznej E",
+                    "energySymbolProductSheetLabel": "Karta informacyjna produktu",
+                    "energySymbolProductSheetUrl": "https://eprel.ec.europa.eu/qr/1416355",
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00568059",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2399,
+            "current": { "prefix": "", "wholeNumber": "2 399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "energyLabel": "E",
+        "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1009953_o_lbl10.svg",
+        "energySymbolImageAlt": "Klasa efektywności energetycznej E",
+        "mainImageAlt": "VINDÅS Lodówka/zamrażarka, IKEA 300 wolnostojące/biały, 223/120 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Fridge/Freezers",
+            "productAreaNo": "7023",
+            "productRangeAreaName": "Cooling Appliances",
+            "productRangeAreaNo": "702"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "AGD", "key": "ka002" },
+            { "name": "Lodówki i zamrażarki", "key": "20822" },
+            { "name": "Lodówki wolnostojące", "key": "20824" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00568059",
+    "name": "VINDÅS",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2399 }]
+}

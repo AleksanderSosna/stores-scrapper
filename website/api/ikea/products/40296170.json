@@ -1,1 +1,53 @@
-{ "id": "40296170", "name": "ELVARLI", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }] }
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Stojna",
+        "itemMeasureReferenceText": "222-350 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-stojna-bila__0626242_pe692643_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-stojna-bila-40296170/",
+        "id": "40296170",
+        "itemNoGlobal": "40296170",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 10,
+        "itemNo": "40296170",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1200,
+            "current": { "prefix": "", "wholeNumber": "1 200", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "ELVARLI Stojna, bílá, 222-350 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Stojny, bočnice a vnitřní vybavení ELVARLI", "key": "35767" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40296170",
+    "name": "ELVARLI",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }]
+}

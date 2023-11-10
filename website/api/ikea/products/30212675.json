@@ -1,1 +1,53 @@
-{ "id": "30212675", "name": "TÅNUM", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }
+{
+    "id": {
+        "name": "TÅNUM",
+        "typeName": "Dywan tkany na płasko",
+        "itemMeasureReferenceText": "60x90 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tanum-dywan-tkany-na-plasko-rozne-kolory__0949362_pe799670_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tanum-dywan-tkany-na-plasko-rozne-kolory-30212675/",
+        "id": "30212675",
+        "itemNoGlobal": "30212675",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 212,
+        "itemNo": "30212675",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 24.99,
+            "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tanum-dywan-tkany-na-plasko-rozne-kolory__0951460_ph148137_s5.jpg",
+        "mainImageAlt": "TÅNUM Dywan tkany na płasko, różne kolory, 60x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Small rugs and runners",
+            "productAreaNo": "1314",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Chodniki i małe dywany", "key": "10689" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30212675",
+    "name": "TÅNUM",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }]
+}

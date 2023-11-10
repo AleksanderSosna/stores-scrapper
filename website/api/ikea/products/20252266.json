@@ -1,1 +1,59 @@
-{ "id": "20252266", "name": "SUMMERA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "SUMMERA",
+        "typeName": "Organizer na dokumenty do szuflady",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/summera-organizer-na-dokumenty-do-szuflady-wzor__0709879_pe727143_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/summera-organizer-na-dokumenty-do-szuflady-wzor-20252266/",
+        "id": "20252266",
+        "itemNoGlobal": "20252266",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 17,
+        "itemNo": "20252266",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "16 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/summera-organizer-na-dokumenty-do-szuflady-wzor__0855299_pe400733_s5.jpg",
+        "mainImageAlt": "SUMMERA Organizer na dokumenty do szuflady, wzór",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Komody i kontenerki", "key": "st004" },
+            { "name": "Kontenerki pod biurko", "key": "10711" },
+            { "name": "Kontenerki do domu", "key": "47081" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20252266",
+    "name": "SUMMERA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

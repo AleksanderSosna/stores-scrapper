@@ -1,1 +1,55 @@
-{ "id": "00456392", "name": "MATVRÅ", "categoryKey": "bc001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "MATVRÅ",
+        "typeName": "Kniha",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/matvra-kniha-halo-tady-chute__0751112_pe746918_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/matvra-kniha-halo-tady-chute-00456392/",
+        "id": "00456392",
+        "itemNoGlobal": "10456419",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "00456392",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/matvra-kniha-halo-tady-chute__0750978_pe746887_s5.jpg",
+        "mainImageAlt": "MATVRÅ Kniha, Haló, tady chutě!",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Creativity",
+            "productAreaNo": "0973",
+            "productRangeAreaName": "Children`s play",
+            "productRangeAreaNo": "097"
+        },
+        "categoryPath": [
+            { "name": "Pro děti a miminka", "key": "bc001" },
+            { "name": "Pro děti", "key": "bc003" },
+            { "name": "Hračky a hry", "key": "18734" },
+            { "name": "Knížky pro děti", "key": "42920" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00456392",
+    "name": "MATVRÅ",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

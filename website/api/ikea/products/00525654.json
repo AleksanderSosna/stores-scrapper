@@ -1,1 +1,57 @@
-{ "id": "00525654", "name": "ISTAD", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "ISTAD",
+        "typeName": "Torebka strunowa",
+        "itemMeasureReferenceText": "1/0.4 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/istad-torebka-strunowa-wzor-niebieski__1080640_pe858405_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/istad-torebka-strunowa-wzor-niebieski-00525654/",
+        "id": "00525654",
+        "itemNoGlobal": "00525654",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 71,
+        "itemNo": "00525654",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "60 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/istad-torebka-strunowa-wzor-niebieski__1080638_pe858407_s5.jpg",
+        "mainImageAlt": "ISTAD Torebka strunowa, wzór/niebieski, 1/0.4 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Pojemniki na żywność", "key": "20606" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00525654",
+    "name": "ISTAD",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

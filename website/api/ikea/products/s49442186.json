@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "VIHALS",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "245x57x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vihals-kombinacja-szafy-bialy__1177293_pe895284_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vihals-kombinacja-szafy-bialy-s49442186/",
+        "id": "s49442186",
+        "itemNoGlobal": "49442186",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "49442186",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2198,
+            "current": { "prefix": "", "wholeNumber": "2 198", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vihals-kombinacja-szafy-bialy__1146475_pe883021_s5.jpg",
+        "mainImageAlt": "VIHALS Kombinacja szafy, biały, 245x57x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Solitaire wardrobes",
+            "productAreaNo": "0423",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafy", "key": "19053" },
+            { "name": "Szafy z drzwiami uchylnymi", "key": "48005" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49442186",
+    "name": "VIHALS",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2198 }]
+}

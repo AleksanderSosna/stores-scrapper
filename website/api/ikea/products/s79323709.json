@@ -1,0 +1,10 @@
+{
+    "id": "s79323709",
+    "itemNo": "79323709",
+    "name": "RINNIG",
+    "categoryKey": "kt001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.97 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 297 }
+    ]
+}

@@ -1,1 +1,119 @@
-{ "id": "90372798", "name": "NORDLI", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 500 }] }
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Szczyt łóżka",
+        "itemMeasureReferenceText": "90 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-antracyt__0595949_pe677838_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nordli-szczyt-lozka-antracyt-90372798/",
+        "id": "90372798",
+        "itemNoGlobal": "90372798",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "90372977",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordli-szczyt-lozka-antracyt-90372977/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-antracyt__0595951_pe677837_s5.jpg",
+                    "imageAlt": "NORDLI Szczyt łóżka, antracyt, 140/160 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 8,
+                    "name": "NORDLI",
+                    "typeName": "Szczyt łóżka",
+                    "itemMeasureReferenceText": "140/160 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-antracyt__0595951_pe677837_s5.jpg",
+                    "mainImageAlt": "NORDLI Szczyt łóżka, antracyt, 140/160 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-antracyt__0861717_pe677865_s5.jpg",
+                    "itemNoGlobal": "90372977",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90372977",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 600,
+                        "current": { "prefix": "", "wholeNumber": "600", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "10372976",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordli-szczyt-lozka-bialy-10372976/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-bialy__0595945_pe677836_s5.jpg",
+                    "imageAlt": "NORDLI Szczyt łóżka, biały, 140/160 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 8,
+                    "name": "NORDLI",
+                    "typeName": "Szczyt łóżka",
+                    "itemMeasureReferenceText": "140/160 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-bialy__0595945_pe677836_s5.jpg",
+                    "mainImageAlt": "NORDLI Szczyt łóżka, biały, 140/160 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-bialy__0861746_pe677867_s5.jpg",
+                    "itemNoGlobal": "10372976",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10372976",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 600,
+                        "current": { "prefix": "", "wholeNumber": "600", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 8,
+        "itemNo": "90372798",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 500,
+            "current": { "prefix": "", "wholeNumber": "500", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordli-szczyt-lozka-antracyt__0861717_pe677865_s5.jpg",
+        "mainImageAlt": "NORDLI Szczyt łóżka, antracyt, 90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Zagłówki do łóżek", "key": "19064" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90372798",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 500 }]
+}

@@ -1,1 +1,55 @@
-{ "id": "00333589", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Umělé květiny",
+        "itemMeasureReferenceText": "125 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-ginkgo-zelena__0636956_pe698118_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/smycka-umele-kvetiny-ginkgo-zelena-00333589/",
+        "id": "00333589",
+        "itemNoGlobal": "00333589",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 6,
+        "itemNo": "00333589",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-ginkgo-zelena__0716964_pe731088_s5.jpg",
+        "mainImageAlt": "SMYCKA Umělé květiny, Ginkgo/zelená, 125 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Rostliny a květiny", "key": "pp003" },
+            { "name": "Umělé rostliny a květiny", "key": "20492" },
+            { "name": "Umělé řezané květiny", "key": "700516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00333589",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }]
+}

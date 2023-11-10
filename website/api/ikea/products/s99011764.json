@@ -1,0 +1,10 @@
+{
+    "id": "s99011764",
+    "itemNo": "99011764",
+    "name": "MELLTORP / MARIUS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 257 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1588 }
+    ]
+}

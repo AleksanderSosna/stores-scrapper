@@ -1,0 +1,56 @@
+{
+    "id": {
+        "name": "HIMMELSÖ",
+        "typeName": "Altanka z zasłonami i siatką",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/himmelsoe-altanka-z-zaslonami-i-siatka-ciemnoszary-szarobezowy__0972591_pe811698_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/himmelsoe-altanka-z-zaslonami-i-siatka-ciemnoszary-szarobezowy-s19414123/",
+        "id": "s19414123",
+        "itemNoGlobal": "19414123",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "19414123",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1847,
+            "current": { "prefix": "", "wholeNumber": "1 847", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/himmelsoe-altanka-z-zaslonami-i-siatka-ciemnoszary-szarobezowy__0972592_pe811701_s5.jpg",
+        "mainImageAlt": "HIMMELSÖ Altanka z zasłonami i siatką, ciemnoszary/szarobeżowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Altany ogrodowe i moskitiery", "key": "24331" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19414123",
+    "name": "HIMMELSÖ",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1847 }]
+}

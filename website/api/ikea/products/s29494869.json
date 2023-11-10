@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "TORPARÖ",
+        "typeName": "Stół+4 rozkł. krzeseł, na zewnątrz",
+        "itemMeasureReferenceText": "130 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-stol-4-rozkl-krzesel-na-zewnatrz-bialy-bialy-szary__1146137_pe882910_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/torparoe-stol-4-rozkl-krzesel-na-zewnatrz-bialy-bialy-szary-s29494869/",
+        "id": "s29494869",
+        "itemNoGlobal": "29494869",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29494869",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1495,
+            "current": { "prefix": "", "wholeNumber": "1 495", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/torparoe-stol-4-rozkl-krzesel-na-zewnatrz-bialy-bialy-szary__1185521_pe898422_s5.jpg",
+        "mainImageAlt": "TORPARÖ Stół+4 rozkł. krzeseł, na zewnątrz, biały/biały/szary, 130 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29494869",
+    "name": "TORPARÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1495 }]
+}

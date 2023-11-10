@@ -1,1 +1,55 @@
-{ "id": "10499517", "name": "PEPPRIG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7 }] }
+{
+    "id": {
+        "name": "PEPPRIG",
+        "typeName": "Szmatka z mikrofibry",
+        "itemMeasureReferenceText": "28x28 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pepprig-szmatka-z-mikrofibry__0820382_pe775019_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pepprig-szmatka-z-mikrofibry-10499517/",
+        "id": "10499517",
+        "itemNoGlobal": "10499517",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 49,
+        "itemNo": "10499517",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 7,
+            "current": { "prefix": "", "wholeNumber": "7", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "priceUnit": "3 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pepprig-szmatka-z-mikrofibry__0888516_pe782071_s5.jpg",
+        "mainImageAlt": "PEPPRIG Szmatka z mikrofibry, 28x28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Cleaning & cleaning accessories",
+            "productAreaNo": "1882",
+            "productRangeAreaName": "Clean, care & repair",
+            "productRangeAreaNo": "188"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Akcesoria do sprzątania", "key": "20609" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "10499517",
+    "name": "PEPPRIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7 }]
+}

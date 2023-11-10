@@ -1,0 +1,10 @@
+{
+    "id": "s19505929",
+    "itemNo": "19505929",
+    "name": "EKEDALEN / MÅNHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11750 }
+    ]
+}

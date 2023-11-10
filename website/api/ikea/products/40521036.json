@@ -1,1 +1,55 @@
-{ "id": "40521036", "name": "MARTORP", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "MARTORP",
+        "typeName": "Łyżka",
+        "itemMeasureReferenceText": "19 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/martorp-lyzka-stal-nierdz__1089276_pe861539_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/martorp-lyzka-stal-nierdz-40521036/",
+        "id": "40521036",
+        "itemNoGlobal": "40521036",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "40521036",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/martorp-lyzka-stal-nierdz__1089274_pe861538_s5.jpg",
+        "mainImageAlt": "MARTORP Łyżka, stal nierdz, 19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Cutlery",
+            "productAreaNo": "1531",
+            "productRangeAreaName": "Cutlery",
+            "productRangeAreaNo": "153"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Sztućce stołowe", "key": "18865" },
+            { "name": "Komplety sztućców", "key": "18866" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40521036",
+    "name": "MARTORP",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

@@ -1,1 +1,54 @@
-{ "id": "50572860", "name": "AFTONSPARV", "categoryKey": "bc001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "AFTONSPARV",
+        "typeName": "Gra karciana, 27 par",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/aftonsparv-gra-karciana-27-par__1198341_pe904030_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/aftonsparv-gra-karciana-27-par-50572860/",
+        "id": "50572860",
+        "itemNoGlobal": "50572860",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50572860",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/aftonsparv-gra-karciana-27-par__1250426_pe923741_s5.jpg",
+        "mainImageAlt": "AFTONSPARV Gra karciana, 27 par",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Physical play & imagination",
+            "productAreaNo": "0972",
+            "productRangeAreaName": "Children`s play",
+            "productRangeAreaNo": "097"
+        },
+        "categoryPath": [
+            { "name": "Dzieci i niemowlęta", "key": "bc001" },
+            { "name": "Dzieci", "key": "bc003" },
+            { "name": "Zabawki dla dzieci", "key": "18734" },
+            { "name": "Gry planszowe i karciane", "key": "42921" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50572860",
+    "name": "AFTONSPARV",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

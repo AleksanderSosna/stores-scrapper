@@ -1,1 +1,57 @@
-{ "id": "30560405", "name": "VINTERFINT", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "VINTERFINT",
+        "typeName": "Bibułka",
+        "itemMeasureReferenceText": "70x50 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vinterfint-bibulka-rozne-kolory__0986441_pe817118_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vinterfint-bibulka-rozne-kolory-30560405/",
+        "id": "30560405",
+        "itemNoGlobal": "30560405",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30560405",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4.2 m²",
+            "unitText": "m²",
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "VINTERFINT Bibułka, różne kolory, 70x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Stationery",
+            "productAreaNo": "1812",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Artykuły papiernicze", "key": "25227" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30560405",
+    "name": "VINTERFINT",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

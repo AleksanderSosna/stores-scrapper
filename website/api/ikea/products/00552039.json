@@ -1,1 +1,54 @@
-{ "id": "00552039", "name": "MÄVINN", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Běhoun, hladce tkaný",
+        "itemMeasureReferenceText": "70x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-behoun-hladce-tkany-juta__1171493_pe893074_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-behoun-hladce-tkany-juta-00552039/",
+        "id": "00552039",
+        "itemNoGlobal": "00552039",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "00552039",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2490,
+            "current": { "prefix": "", "wholeNumber": "2 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-behoun-hladce-tkany-juta__1200408_ph192815_s5.jpg",
+        "mainImageAlt": "MÄVINN Běhoun, hladce tkaný, juta, 70x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Small rugs and runners",
+            "productAreaNo": "1314",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Běhouny a malé koberce", "key": "10689" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00552039",
+    "name": "MÄVINN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }]
+}

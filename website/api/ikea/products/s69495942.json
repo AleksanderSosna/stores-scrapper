@@ -1,0 +1,162 @@
+{
+    "id": {
+        "name": "FLEKKE",
+        "typeName": "Leżanka z 2 szufladami, 2 materace",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-vannareid-twardy__1162477_pe889836_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-vannareid-twardy-s69495942/",
+        "id": "s69495942",
+        "itemNoGlobal": "69495942",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s79521455",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy-s79521455/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy__1162511_pe889845_s5.jpg",
+                    "imageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Åfjäll średnio twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 6,
+                    "name": "FLEKKE",
+                    "typeName": "Leżanka z 2 szufladami, 2 materace",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy__1162511_pe889845_s5.jpg",
+                    "mainImageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Åfjäll średnio twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy__1101303_pe866572_s5.jpg",
+                    "itemNoGlobal": "79521455",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79521455",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2197,
+                        "current": { "prefix": "", "wholeNumber": "2 197", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s89495936",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-agotnes-twardy-s89495936/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-agotnes-twardy__1171954_pe893217_s5.jpg",
+                    "imageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Ågotnes twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 6,
+                    "name": "FLEKKE",
+                    "typeName": "Leżanka z 2 szufladami, 2 materace",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-agotnes-twardy__1171954_pe893217_s5.jpg",
+                    "mainImageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Ågotnes twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-agotnes-twardy__1101303_pe866572_s5.jpg",
+                    "itemNoGlobal": "89495936",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89495936",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1957,
+                        "current": { "prefix": "", "wholeNumber": "1 957", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s89521450",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-twardy-s89521450/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-twardy__1162511_pe889845_s5.jpg",
+                    "imageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Åfjäll twardy, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 6,
+                    "name": "FLEKKE",
+                    "typeName": "Leżanka z 2 szufladami, 2 materace",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-twardy__1162511_pe889845_s5.jpg",
+                    "mainImageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Åfjäll twardy, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-twardy__1101303_pe866572_s5.jpg",
+                    "itemNoGlobal": "89521450",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89521450",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2197,
+                        "current": { "prefix": "", "wholeNumber": "2 197", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 6,
+        "itemNo": "69495942",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2497,
+            "current": { "prefix": "", "wholeNumber": "2 497", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-vannareid-twardy__1101303_pe866572_s5.jpg",
+        "mainImageAlt": "FLEKKE Leżanka z 2 szufladami, 2 materace, biały/Vannareid twardy, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Flexible sleep solutions",
+            "productAreaNo": "0522",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka pojedyncze", "key": "16285" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69495942",
+    "name": "FLEKKE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2497 }]
+}

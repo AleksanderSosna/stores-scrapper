@@ -1,1 +1,52 @@
-{ "id": "10341942", "name": "SAMLA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }
+{
+    "id": {
+        "name": "SAMLA",
+        "typeName": "Wkład do pojemnika 45/65 l",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/samla-wklad-do-pojemnika-45-65-l-przezroczysty__0458042_pe605394_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/samla-wklad-do-pojemnika-45-65-l-przezroczysty-10341942/",
+        "id": "10341942",
+        "itemNoGlobal": "10341942",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 19,
+        "itemNo": "10341942",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 24.99,
+            "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "SAMLA Wkład do pojemnika 45/65 l, przezroczysty",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boxes and baskets",
+            "productAreaNo": "1811",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Pudełka i kosze do przechowywania", "key": "10550" },
+            { "name": "Dodatkowe przechowywanie", "key": "10797" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10341942",
+    "name": "SAMLA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }]
+}

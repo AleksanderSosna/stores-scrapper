@@ -1,0 +1,10 @@
+{
+    "id": "s79457874",
+    "itemNo": "79457874",
+    "name": "METOD",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 485 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3250 }
+    ]
+}

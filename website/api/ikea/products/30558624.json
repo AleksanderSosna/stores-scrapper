@@ -1,1 +1,54 @@
-{ "id": "30558624", "name": "GUNRIK", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 799 }] }
+{
+    "id": {
+        "name": "GUNRIK",
+        "typeName": "Dziecięce krzesło biurowe",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gunrik-dzieciece-krzeslo-biurowe-turkusowy__1185358_pe898362_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gunrik-dzieciece-krzeslo-biurowe-turkusowy-30558624/",
+        "id": "30558624",
+        "itemNoGlobal": "30558624",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "turkusowy", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30558624",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 799,
+            "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/gunrik-dzieciece-krzeslo-biurowe-turkusowy__1185357_pe898361_s5.jpg",
+        "mainImageAlt": "GUNRIK Dziecięce krzesło biurowe, turkusowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home swivel chairs",
+            "productAreaNo": "0342",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła dla dzieci", "key": "bc004" },
+            { "name": "Krzesła do biurek dla dzieci", "key": "24715" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30558624",
+    "name": "GUNRIK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 799 }]
+}

@@ -1,1 +1,54 @@
-{ "id": "00551389", "name": "HÄCKBERBERIS", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }] }
+{
+    "id": {
+        "name": "HÄCKBERBERIS",
+        "typeName": "Zasłony zacieniające, 1 para",
+        "itemMeasureReferenceText": "145x300 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/haeckberberis-zaslony-zacieniajace-1-para-bezowy__1138207_pe879887_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/haeckberberis-zaslony-zacieniajace-1-para-bezowy-00551389/",
+        "id": "00551389",
+        "itemNoGlobal": "00551389",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52515", "name": "Zacieniające", "typeName": "Właściwości filtrujące światło" }],
+        "features": [],
+        "availability": [],
+        "itemNo": "00551389",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 179,
+            "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/haeckberberis-zaslony-zacieniajace-1-para-bezowy__1138203_pe879885_s5.jpg",
+        "mainImageAlt": "HÄCKBERBERIS Zasłony zacieniające, 1 para, beżowy, 145x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Firanki i zasłony", "key": "10700" },
+            { "name": "Zasłony zacieniające", "key": "700219" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00551389",
+    "name": "HÄCKBERBERIS",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 179 }]
+}

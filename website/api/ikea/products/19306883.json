@@ -1,9 +1,0 @@
-{
-    "id": "19306883",
-    "name": "VEDBO / VEDBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5095 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 28950 }
-    ]
-}

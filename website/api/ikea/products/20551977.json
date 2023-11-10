@@ -1,1 +1,59 @@
-{ "id": "20551977", "name": "TABBERAS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "TABBERAS",
+        "typeName": "Miska z pokrywką, kpl 5 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tabberas-miska-z-pokrywka-kpl-5-szt-rozne-kolory__1182160_pe897039_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tabberas-miska-z-pokrywka-kpl-5-szt-rozne-kolory-20551977/",
+        "id": "20551977",
+        "itemNoGlobal": "20551977",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "liliowy", "id": "10064", "hex": "a96ecc" },
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" },
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" }
+        ],
+        "badge": { "type": "LIMITED_EDITION", "text": "Kolekcja limitowana" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 3,
+        "itemNo": "20551977",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tabberas-miska-z-pokrywka-kpl-5-szt-rozne-kolory__1210234_pe909584_s5.jpg",
+        "mainImageAlt": "TABBERAS Miska z pokrywką, kpl 5 szt., różne kolory",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Pojemniki na żywność", "key": "20606" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20551977",
+    "name": "TABBERAS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

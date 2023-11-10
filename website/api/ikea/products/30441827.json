@@ -1,1 +1,55 @@
-{ "id": "30441827", "name": "BILD", "categoryKey": "bc001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 269 }] }
+{
+    "id": {
+        "name": "BILD",
+        "typeName": "Plakát",
+        "itemMeasureReferenceText": "50x70 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-prominte-pane-robote__0387475_pe558595_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bild-plakat-prominte-pane-robote-30441827/",
+        "id": "30441827",
+        "itemNoGlobal": "30441827",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30441827",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 269,
+            "current": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bild-plakat-prominte-pane-robote__0948598_pe799134_s5.jpg",
+        "mainImageAlt": "BILD Plakát, Promiňte pane Robote, 50x70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Plakáty", "key": "10787" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30441827",
+    "name": "BILD",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 269 }]
+}

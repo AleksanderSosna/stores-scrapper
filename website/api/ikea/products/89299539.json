@@ -1,9 +1,0 @@
-{
-    "id": "89299539",
-    "name": "HEMNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15570 }
-    ]
-}

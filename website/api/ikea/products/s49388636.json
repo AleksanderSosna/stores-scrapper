@@ -1,0 +1,10 @@
+{
+    "id": "s49388636",
+    "itemNo": "49388636",
+    "name": "HAUGA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1428 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7980 }
+    ]
+}

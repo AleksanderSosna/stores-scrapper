@@ -1,1 +1,54 @@
-{ "id": "80225166", "name": "IDOLF", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 269 }] }
+{
+    "id": {
+        "name": "IDOLF",
+        "typeName": "Krzesło",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/idolf-krzeslo-czarny__0728147_pe736109_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/idolf-krzeslo-czarny-80225166/",
+        "id": "80225166",
+        "itemNoGlobal": "80225166",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 6,
+        "itemNo": "80225166",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 269,
+            "current": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/idolf-krzeslo-czarny__1053291_pe846881_s5.jpg",
+        "mainImageAlt": "IDOLF Krzesło, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Non upholstered chairs",
+            "productAreaNo": "0821",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła do jadalni i krzesła składane", "key": "25219" },
+            { "name": "Krzesła do jadalni", "key": "25220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80225166",
+    "name": "IDOLF",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 269 }]
+}

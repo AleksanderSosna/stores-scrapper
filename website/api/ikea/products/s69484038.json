@@ -1,0 +1,10 @@
+{
+    "id": "s69484038",
+    "itemNo": "69484038",
+    "name": "GRÅSALA / GRÅSALA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 597 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3088 }
+    ]
+}

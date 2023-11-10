@@ -1,1 +1,125 @@
-{ "id": "00469021", "name": "TÄRNÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 279 }] }
+{
+    "id": {
+        "name": "TÄRNÖ",
+        "typeName": "Stół, ogrodowy",
+        "itemMeasureReferenceText": "100x54 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0928443_pe789868_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa-00469021/",
+        "id": "00469021",
+        "itemNoGlobal": "00469021",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "70095429",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa-70095429/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0735751_pe740159_s5.jpg",
+                    "imageAlt": "TÄRNÖ Stół, ogrodowy, czarny/bejca jasnobrązowa, 55x54 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 66,
+                    "name": "TÄRNÖ",
+                    "typeName": "Stół, ogrodowy",
+                    "itemMeasureReferenceText": "55x54 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0735751_pe740159_s5.jpg",
+                    "mainImageAlt": "TÄRNÖ Stół, ogrodowy, czarny/bejca jasnobrązowa, 55x54 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0667583_pe713986_s5.jpg",
+                    "itemNoGlobal": "70095429",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "70095429",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 129,
+                        "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "70530954",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/taernoe-stol-ogrodowy-bialy-zielony-70530954/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-bialy-zielony__1153876_pe885877_s5.jpg",
+                    "imageAlt": "TÄRNÖ Stół, ogrodowy, biały/zielony, 55x54 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 66,
+                    "name": "TÄRNÖ",
+                    "typeName": "Stół, ogrodowy",
+                    "itemMeasureReferenceText": "55x54 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-bialy-zielony__1153876_pe885877_s5.jpg",
+                    "mainImageAlt": "TÄRNÖ Stół, ogrodowy, biały/zielony, 55x54 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-bialy-zielony__1154045_pe885925_s5.jpg",
+                    "itemNoGlobal": "70530954",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70530954",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 129,
+                        "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 66,
+        "itemNo": "00469021",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 279,
+            "current": { "prefix": "", "wholeNumber": "279", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0928445_pe789873_s5.jpg",
+        "mainImageAlt": "TÄRNÖ Stół, ogrodowy, czarny/bejca jasnobrązowa, 100x54 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble balkonowe i na taras", "key": "700351" },
+            { "name": "Stoliki i stoły na balkon i do ogrodu", "key": "700191" },
+            { "name": "Stoły do ogrodu i na balkon", "key": "21965" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00469021",
+    "name": "TÄRNÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 279 }]
+}

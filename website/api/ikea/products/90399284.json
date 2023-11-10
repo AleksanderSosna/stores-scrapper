@@ -1,1 +1,56 @@
-{ "id": "90399284", "name": "RIMFORSA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1599 }] }
+{
+    "id": {
+        "name": "RIMFORSA",
+        "typeName": "Ława do pracy",
+        "itemMeasureReferenceText": "120x63.5x92 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/rimforsa-lawa-do-pracy-stal-nierdz-bambus__0660541_pe711112_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/rimforsa-lawa-do-pracy-stal-nierdz-bambus-90399284/",
+        "id": "90399284",
+        "itemNoGlobal": "90399284",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 5,
+        "itemNo": "90399284",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1599,
+            "current": { "prefix": "", "wholeNumber": "1 599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/rimforsa-lawa-do-pracy-stal-nierdz-bambus__0871081_pe711153_s5.jpg",
+        "mainImageAlt": "RIMFORSA Ława do pracy, stal nierdz/bambus, 120x63.5x92 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Wózki kuchenne i łazienkowe", "key": "fu005" },
+            { "name": "Wyspy kuchenne, wózki i barki", "key": "10471" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90399284",
+    "name": "RIMFORSA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1599 }]
+}

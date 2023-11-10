@@ -1,0 +1,10 @@
+{
+    "id": "s39387128",
+    "itemNo": "39387128",
+    "name": "LYCKSELE LÖVÅS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7490 }
+    ]
+}

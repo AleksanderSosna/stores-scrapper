@@ -1,1 +1,57 @@
-{ "id": "60327156", "name": "RINGHULT", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 100 }] }
+{
+    "id": {
+        "name": "RINGHULT",
+        "typeName": "Cokół",
+        "itemMeasureReferenceText": "220x8 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ringhult-cokol-polysk-jasnoszary__0633056_pe695709_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ringhult-cokol-polysk-jasnoszary-60327156/",
+        "id": "60327156",
+        "itemNoGlobal": "60327156",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "60327156",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 100,
+            "current": { "prefix": "", "wholeNumber": "100", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2.2 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ringhult-cokol-polysk-jasnoszary__0862469_pe622923_s5.jpg",
+        "mainImageAlt": "RINGHULT Cokół, połysk jasnoszary, 220x8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60327156",
+    "name": "RINGHULT",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 100 }]
+}

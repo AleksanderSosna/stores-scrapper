@@ -1,9 +1,0 @@
-{
-    "id": "29488571",
-    "name": "LOBERGET / MALSKÄR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 990 }
-    ]
-}

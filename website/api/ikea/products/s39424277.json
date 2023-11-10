@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "Potah na rohovou pohovku, 5místnou",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-potah-na-rohovou-pohovku-5mistnou-se-sirokymi-podruckami-hallarp-bezova__0826813_pe776411_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-potah-na-rohovou-pohovku-5mistnou-se-sirokymi-podruckami-hallarp-bezova-s39424277/",
+        "id": "s39424277",
+        "itemNoGlobal": "39424277",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39424277",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 11990,
+            "current": { "prefix": "", "wholeNumber": "11 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-potah-na-rohovou-pohovku-5mistnou-se-sirokymi-podruckami-hallarp-bezova__0952246_pe801680_s5.jpg",
+        "mainImageAlt": "VIMLE Potah na rohovou pohovku, 5místnou, se širokými područkami/Hallarp béžová",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Potahy na pohovky a křesla", "key": "10664" },
+            { "name": "VIMLE", "key": "38190" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39424277",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }]
+}

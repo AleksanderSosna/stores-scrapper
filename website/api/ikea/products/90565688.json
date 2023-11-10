@@ -1,1 +1,53 @@
-{ "id": "90565688", "name": "SILVERSIDA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "SILVERSIDA",
+        "typeName": "Półmisek",
+        "itemMeasureReferenceText": "34 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/silversida-polmisek-wzor-niebieski__1183672_pe897536_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/silversida-polmisek-wzor-niebieski-90565688/",
+        "id": "90565688",
+        "itemNoGlobal": "90565688",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90565688",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/silversida-polmisek-wzor-niebieski__1183668_pe897535_s5.jpg",
+        "mainImageAlt": "SILVERSIDA Półmisek, wzór/niebieski, 34 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Serving",
+            "productAreaNo": "1512",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do serwowania potraw", "key": "16043" },
+            { "name": "Patery, półmiski i maselniczki", "key": "16047" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90565688",
+    "name": "SILVERSIDA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

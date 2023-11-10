@@ -1,0 +1,94 @@
+{
+    "id": {
+        "name": "POÄNG",
+        "typeName": "Fotel",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-brazowy-glose-zlamana-biel__0093856_pe231460_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-brazowy-glose-zlamana-biel-s89860770/",
+        "id": "s89860770",
+        "itemNoGlobal": "89860770",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s89860765",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-brazowy-glose-ciemnobrazowy-s89860765/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-brazowy-glose-ciemnobrazowy__0093855_pe231459_s5.jpg",
+                    "imageAlt": "POÄNG Fotel, brązowy/Glose ciemnobrązowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "POÄNG",
+                    "typeName": "Fotel",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-brazowy-glose-ciemnobrazowy__0093855_pe231459_s5.jpg",
+                    "mainImageAlt": "POÄNG Fotel, brązowy/Glose ciemnobrązowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-brazowy-glose-ciemnobrazowy__0840639_pe601101_s5.jpg",
+                    "itemNoGlobal": "89860765",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89860765",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 749,
+                        "current": { "prefix": "", "wholeNumber": "749", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "89860770",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 749,
+            "current": { "prefix": "", "wholeNumber": "749", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-brazowy-glose-zlamana-biel__0841287_pe601124_s5.jpg",
+        "mainImageAlt": "POÄNG Fotel, brązowy/Glose złamana biel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Armchairs",
+            "productAreaNo": "0125",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Fotele i szezlongi", "key": "fu006" },
+            { "name": "Fotele", "key": "16239" },
+            { "name": "Fotele skórzane/ze sztucznej skóry", "key": "10696" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89860770",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 749 }]
+}

@@ -1,1 +1,53 @@
-{ "id": "30352915", "name": "VÄXBO", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "VÄXBO",
+        "typeName": "Rama na 8 zdjęć",
+        "itemMeasureReferenceText": "13x18 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaexbo-rama-na-8-zdjec-czarny__0638569_pe699012_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaexbo-rama-na-8-zdjec-czarny-30352915/",
+        "id": "30352915",
+        "itemNoGlobal": "30352915",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 75,
+        "itemNo": "30352915",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaexbo-rama-na-8-zdjec-czarny__0573499_pe667811_s5.jpg",
+        "mainImageAlt": "VÄXBO Rama na 8 zdjęć, czarny, 13x18 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Frames",
+            "productAreaNo": "1641",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Ramki i obrazki", "key": "10757" },
+            { "name": "Multiramki na zdjęcia", "key": "10789" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30352915",
+    "name": "VÄXBO",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

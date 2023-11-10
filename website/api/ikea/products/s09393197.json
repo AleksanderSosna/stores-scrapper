@@ -1,0 +1,10 @@
+{
+    "id": "s09393197",
+    "itemNo": "09393197",
+    "name": "BACKSÄLEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
+    ]
+}

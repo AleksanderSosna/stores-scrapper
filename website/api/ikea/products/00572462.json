@@ -1,1 +1,92 @@
-{ "id": "00572462", "name": "DÅNHULT", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1899 }] }
+{
+    "id": {
+        "name": "DÅNHULT",
+        "typeName": "Rozkładana sofa 3-osobowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/danhult-rozkladana-sofa-3-osobowa-szary__1233741_pe916954_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/danhult-rozkladana-sofa-3-osobowa-szary-00572462/",
+        "id": "00572462",
+        "itemNoGlobal": "00572462",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20572461",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/danhult-rozkladana-sofa-3-osobowa-kelinge-szaroturkusowy-20572461/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/danhult-rozkladana-sofa-3-osobowa-kelinge-szaroturkusowy__1233737_pe916950_s5.jpg",
+                    "imageAlt": "DÅNHULT Rozkładana sofa 3-osobowa, Kelinge szaroturkusowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 5,
+                    "name": "DÅNHULT",
+                    "typeName": "Rozkładana sofa 3-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/danhult-rozkladana-sofa-3-osobowa-kelinge-szaroturkusowy__1233737_pe916950_s5.jpg",
+                    "mainImageAlt": "DÅNHULT Rozkładana sofa 3-osobowa, Kelinge szaroturkusowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/danhult-rozkladana-sofa-3-osobowa-kelinge-szaroturkusowy__1237167_pe917837_s5.jpg",
+                    "itemNoGlobal": "20572461",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20572461",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1999,
+                        "current": { "prefix": "", "wholeNumber": "1 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "00572462",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1899,
+            "current": { "prefix": "", "wholeNumber": "1 899", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/danhult-rozkladana-sofa-3-osobowa-szary__1233740_pe916953_s5.jpg",
+        "mainImageAlt": "DÅNHULT Rozkładana sofa 3-osobowa, szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy tapicerowane", "key": "10661" },
+            { "name": "Sofy tapicerowane, 3-osobowe", "key": "10670" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00572462",
+    "name": "DÅNHULT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1899 }]
+}

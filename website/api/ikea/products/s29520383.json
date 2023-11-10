@@ -1,0 +1,58 @@
+{
+    "id": {
+        "name": "YTBERG / TRÅDFRI",
+        "typeName": "Osvětlovací sada",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ytberg-tradfri-osvetlovaci-sada-cerna__1171220_pe893005_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ytberg-tradfri-osvetlovaci-sada-cerna-s29520383/",
+        "id": "s29520383",
+        "itemNoGlobal": "39523022",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29520383",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1923,
+            "current": { "prefix": "", "wholeNumber": "1 923", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 093", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ytberg-tradfri-osvetlovaci-sada-cerna__1075946_pe856638_s5.jpg",
+        "mainImageAlt": "YTBERG / TRÅDFRI Osvětlovací sada, černá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Integrated lighting",
+            "productAreaNo": "1043",
+            "productRangeAreaName": "Integrated Lighting",
+            "productRangeAreaNo": "104"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Chytré osvětlení", "key": "36812" },
+            { "name": "Systémy a sady chytrého osvětlení", "key": "36815" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29520383",
+    "name": "YTBERG / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1923 }]
+}

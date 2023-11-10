@@ -1,1 +1,53 @@
-{ "id": "20514027", "name": "BLANDSALLAD", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "BLANDSALLAD",
+        "typeName": "Prkénko",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/blandsallad-prkenko-bambus__0992064_pe819785_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/blandsallad-prkenko-bambus-20514027/",
+        "id": "20514027",
+        "itemNoGlobal": "20514027",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 7,
+        "itemNo": "20514027",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/blandsallad-prkenko-bambus__0992065_pe819788_s5.jpg",
+        "mainImageAlt": "BLANDSALLAD Prkénko, bambus",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Chopping boards",
+            "productAreaNo": "1424",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nože a kuchyňská prkénka", "key": "15934" },
+            { "name": "Kuchyňská prkénka", "key": "15947" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20514027",
+    "name": "BLANDSALLAD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

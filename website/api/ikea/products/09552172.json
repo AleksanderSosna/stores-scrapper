@@ -1,9 +1,0 @@
-{
-    "id": "09552172",
-    "name": "KALLAX / LACK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1087.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5839 }
-    ]
-}

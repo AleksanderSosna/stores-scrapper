@@ -1,0 +1,60 @@
+{
+    "id": {
+        "name": "METOD",
+        "typeName": "Kuchnia",
+        "itemMeasureReferenceText": "240x60x228 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/metod-kuchnia-bialy-maximera-bodbyn-kremowy__0543490_pe654587_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/metod-kuchnia-bialy-maximera-bodbyn-kremowy-s79469594/",
+        "id": "s79469594",
+        "itemNoGlobal": "79469594",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79469594",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4930,
+            "current": { "prefix": "", "wholeNumber": "4 930", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "5 075", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "5 075", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-03",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/metod-kuchnia-bialy-maximera-bodbyn-kremowy__0260116_pe403633_s5.jpg",
+        "mainImageAlt": "METOD Kuchnia, biały Maximera/Bodbyn kremowy, 240x60x228 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Complete kitchen cabinets",
+            "productAreaNo": "0783",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "Kombinacje kuchni METOD", "key": "50005" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79469594",
+    "name": "METOD",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4930 }]
+}

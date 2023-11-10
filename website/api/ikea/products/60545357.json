@@ -1,1 +1,52 @@
-{ "id": "60545357", "name": "RÖNNSUMAK", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 175 }] }
+{
+    "id": {
+        "name": "RÖNNSUMAK",
+        "typeName": "Podwójny karnisz, komplet",
+        "itemMeasureReferenceText": "120-210 cm 19 mm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/roennsumak-podwojny-karnisz-komplet-srebrny__1159103_pe888336_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/roennsumak-podwojny-karnisz-komplet-srebrny-60545357/",
+        "id": "60545357",
+        "itemNoGlobal": "60545357",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60545357",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 175,
+            "current": { "prefix": "", "wholeNumber": "175", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/roennsumak-podwojny-karnisz-komplet-srebrny__1159108_pe888341_s5.jpg",
+        "mainImageAlt": "RÖNNSUMAK Podwójny karnisz, komplet, srebrny, 120-210 cm 19 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Karnisze i akcesoria do zasłon", "key": "18891" },
+            { "name": "Karnisze i żabki", "key": "18892" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60545357",
+    "name": "RÖNNSUMAK",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 175 }]
+}

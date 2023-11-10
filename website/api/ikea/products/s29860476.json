@@ -1,0 +1,93 @@
+{
+    "id": {
+        "name": "POÄNG",
+        "typeName": "Podnóżek",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-podnozek-brazowy-glose-zlamana-biel__0093839_pe231443_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-podnozek-brazowy-glose-zlamana-biel-s29860476/",
+        "id": "s29860476",
+        "itemNoGlobal": "29860476",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99860473",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-podnozek-brazowy-glose-ciemnobrazowy-s99860473/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-podnozek-brazowy-glose-ciemnobrazowy__0093838_pe231442_s5.jpg",
+                    "imageAlt": "POÄNG Podnóżek, brązowy/Glose ciemnobrązowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "POÄNG",
+                    "typeName": "Podnóżek",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-podnozek-brazowy-glose-ciemnobrazowy__0093838_pe231442_s5.jpg",
+                    "mainImageAlt": "POÄNG Podnóżek, brązowy/Glose ciemnobrązowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-podnozek-brazowy-glose-ciemnobrazowy__0840639_pe601101_s5.jpg",
+                    "itemNoGlobal": "99860473",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99860473",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 370,
+                        "current": { "prefix": "", "wholeNumber": "370", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "29860476",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 370,
+            "current": { "prefix": "", "wholeNumber": "370", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-podnozek-brazowy-glose-zlamana-biel__0841287_pe601124_s5.jpg",
+        "mainImageAlt": "POÄNG Podnóżek, brązowy/Glose złamana biel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Footstools",
+            "productAreaNo": "0126",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Podnóżki i pufy", "key": "20926" },
+            { "name": "Podnóżki i pufy skórzane/ ze sztucznej skóry", "key": "20928" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29860476",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 370 }]
+}

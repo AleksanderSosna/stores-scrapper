@@ -1,0 +1,10 @@
+{
+    "id": "s29481659",
+    "itemNo": "29481659",
+    "name": "KALLAX / LAGKAPTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 488 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2789 }
+    ]
+}

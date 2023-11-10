@@ -1,9 +1,0 @@
-{
-    "id": "69436900",
-    "name": "AULI / MEHAMN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1350 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7300 }
-    ]
-}

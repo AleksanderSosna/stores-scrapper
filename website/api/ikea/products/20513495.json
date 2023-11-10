@@ -1,1 +1,57 @@
-{ "id": "20513495", "name": "MOLNART", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "MOLNART",
+        "typeName": "Żarówka LED E27 100 lumenów",
+        "itemMeasureReferenceText": "150 mm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/molnart-zarowka-led-e27-100-lumenow-kula-czarny-szklo-bezbarwne__0989750_pe818589_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/molnart-zarowka-led-e27-100-lumenow-kula-czarny-szklo-bezbarwne-20513495/",
+        "id": "20513495",
+        "itemNoGlobal": "20513495",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.2,
+        "ratingCount": 5,
+        "itemNo": "20513495",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/molnart-zarowka-led-e27-100-lumenow-kula-czarny-szklo-bezbarwne__1011616_pe828510_s5.jpg",
+        "mainImageAlt": "MOLNART Żarówka LED E27 100 lumenów, kula/czarny szkło bezbarwne, 150 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Light sources",
+            "productAreaNo": "1031",
+            "productRangeAreaName": "Light sources and Smart Lighting",
+            "productRangeAreaNo": "103"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Żarówki LED", "key": "20514" },
+            { "name": "Ozdobne żarówki LED", "key": "700413" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "20513495",
+    "name": "MOLNART",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

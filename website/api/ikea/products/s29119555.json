@@ -1,0 +1,101 @@
+{
+    "id": {
+        "name": "VIKEDAL",
+        "typeName": "Dveře s panty",
+        "itemMeasureReferenceText": "25x195 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vikedal-dvere-s-panty-zrcadlove-sklo__0637287_pe698209_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vikedal-dvere-s-panty-zrcadlove-sklo-s29119555/",
+        "id": "s29119555",
+        "itemNoGlobal": "29119555",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s89119557",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vikedal-dvere-s-panty-zrcadlove-sklo-s89119557/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vikedal-dvere-s-panty-zrcadlove-sklo__0640095_pe699657_s5.jpg",
+                    "imageAlt": "VIKEDAL Dveře s panty, zrcadlové sklo, 25x229 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 6,
+                    "name": "VIKEDAL",
+                    "typeName": "Dveře s panty",
+                    "itemMeasureReferenceText": "25x229 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vikedal-dvere-s-panty-zrcadlove-sklo__0640095_pe699657_s5.jpg",
+                    "mainImageAlt": "VIKEDAL Dveře s panty, zrcadlové sklo, 25x229 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vikedal-dvere-s-panty-zrcadlove-sklo__0930834_pe790907_s5.jpg",
+                    "itemNoGlobal": "89119557",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "89119557",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1600,
+                        "current": { "prefix": "", "wholeNumber": "1 600", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "1 650", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 6,
+        "itemNo": "29119555",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1500,
+            "current": { "prefix": "", "wholeNumber": "1 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "1 900", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-20",
+            "validTo": "2024-04-16",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vikedal-dvere-s-panty-zrcadlove-sklo__0930834_pe790907_s5.jpg",
+        "mainImageAlt": "VIKEDAL Dveře s panty, zrcadlové sklo, 25x195 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém PAX", "key": "19086" },
+            { "name": "Dveře s panty pro PAX", "key": "19112" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29119555",
+    "name": "VIKEDAL",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1500 }]
+}

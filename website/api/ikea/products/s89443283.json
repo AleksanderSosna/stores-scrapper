@@ -1,0 +1,10 @@
+{
+    "id": "s89443283",
+    "itemNo": "89443283",
+    "name": "VISKAFORS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
+    ]
+}

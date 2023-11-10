@@ -1,1 +1,54 @@
-{ "id": "10522768", "name": "STRANDÖN", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "STRANDÖN",
+        "typeName": "Pled piknikowy",
+        "itemMeasureReferenceText": "112x168 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strandoen-pled-piknikowy-bialy-zielony-wzor-w-liscie__1170596_pe892871_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/strandoen-pled-piknikowy-bialy-zielony-wzor-w-liscie-10522768/",
+        "id": "10522768",
+        "itemNoGlobal": "10522768",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "badge": { "type": "LIMITED_EDITION", "text": "Kolekcja limitowana" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10522768",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/strandoen-pled-piknikowy-bialy-zielony-wzor-w-liscie__1170594_pe892873_s5.jpg",
+        "mainImageAlt": "STRANDÖN Pled piknikowy, biały zielony/wzór w liście, 112x168 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor accessories & covers",
+            "productAreaNo": "1721",
+            "productRangeAreaName": "Outdoor accessories & covers",
+            "productRangeAreaNo": "172"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Pledy i koce", "key": "20528" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10522768",
+    "name": "STRANDÖN",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

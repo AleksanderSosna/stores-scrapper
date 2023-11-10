@@ -1,0 +1,10 @@
+{
+    "id": "s29406368",
+    "itemNo": "29406368",
+    "name": "SKÅDIS",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 118.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 809 }
+    ]
+}

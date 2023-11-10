@@ -1,1 +1,54 @@
-{ "id": "00468432", "name": "TRÅDFRI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "TRÅDFRI",
+        "typeName": "Bezdrátový stmívač",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-bezdratovy-stmivac-chytre-bila__0710157_pe727359_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tradfri-bezdratovy-stmivac-chytre-bila-00468432/",
+        "id": "00468432",
+        "itemNoGlobal": "70408595",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 42,
+        "itemNo": "00468432",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-bezdratovy-stmivac-chytre-bila__0716547_pe730910_s5.jpg",
+        "mainImageAlt": "TRÅDFRI Bezdrátový stmívač, chytré bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Smart Lighting",
+            "productAreaNo": "1032",
+            "productRangeAreaName": "Light sources and Smart Lighting",
+            "productRangeAreaNo": "103"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Vestavné osvětlení", "key": "16280" },
+            { "name": "Osvětlení knihoven a skříněk", "key": "16281" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00468432",
+    "name": "TRÅDFRI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

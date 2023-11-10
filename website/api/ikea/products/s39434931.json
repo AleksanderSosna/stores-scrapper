@@ -1,0 +1,112 @@
+{
+    "id": {
+        "name": "SUNDSÖ",
+        "typeName": "Stół+2 krzesła, na zewnątrz",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-zielony-zielony__1035557_pe838180_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sundsoe-stol-2-krzesla-na-zewnatrz-zielony-zielony-s39434931/",
+        "id": "s39434931",
+        "itemNoGlobal": "39434931",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s29434922",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sundsoe-stol-2-krzesla-na-zewnatrz-szary-szary-s29434922/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-szary-szary__1035563_pe838184_s5.jpg",
+                    "imageAlt": "SUNDSÖ Stół+2 krzesła, na zewnątrz, szary/szary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SUNDSÖ",
+                    "typeName": "Stół+2 krzesła, na zewnątrz",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-szary-szary__1035563_pe838184_s5.jpg",
+                    "mainImageAlt": "SUNDSÖ Stół+2 krzesła, na zewnątrz, szary/szary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-szary-szary__1035564_pe838185_s5.jpg",
+                    "itemNoGlobal": "29434922",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29434922",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 537,
+                        "current": { "prefix": "", "wholeNumber": "537", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19487789",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sundsoe-stol-2-krzesla-na-zewnatrz-pomaranczowy-pomaranczowy-s19487789/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-pomaranczowy-pomaranczowy__1122221_pe874554_s5.jpg",
+                    "imageAlt": "SUNDSÖ Stół+2 krzesła, na zewnątrz, pomarańczowy/pomarańczowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SUNDSÖ",
+                    "typeName": "Stół+2 krzesła, na zewnątrz",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-pomaranczowy-pomaranczowy__1122221_pe874554_s5.jpg",
+                    "mainImageAlt": "SUNDSÖ Stół+2 krzesła, na zewnątrz, pomarańczowy/pomarańczowy",
+                    "itemNoGlobal": "19487789",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19487789",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 537,
+                        "current": { "prefix": "", "wholeNumber": "537", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39434931",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 537,
+            "current": { "prefix": "", "wholeNumber": "537", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-2-krzesla-na-zewnatrz-zielony-zielony__1035558_pe838181_s5.jpg",
+        "mainImageAlt": "SUNDSÖ Stół+2 krzesła, na zewnątrz, zielony/zielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39434931",
+    "name": "SUNDSÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 537 }]
+}

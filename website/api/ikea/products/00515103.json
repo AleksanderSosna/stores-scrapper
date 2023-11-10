@@ -1,1 +1,54 @@
-{ "id": "00515103", "name": "EGERNSUND", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "EGERNSUND",
+        "typeName": "Wycieraczka",
+        "itemMeasureReferenceText": "40x70 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/egernsund-wycieraczka-naturalny-czarny__0803454_pe768890_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/egernsund-wycieraczka-naturalny-czarny-00515103/",
+        "id": "00515103",
+        "itemNoGlobal": "00515103",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00515103",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/egernsund-wycieraczka-naturalny-czarny__0803453_pe768891_s5.jpg",
+        "mainImageAlt": "EGERNSUND Wycieraczka, naturalny/czarny, 40x70 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Wycieraczki pod drzwi", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00515103",
+    "name": "EGERNSUND",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

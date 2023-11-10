@@ -1,1 +1,53 @@
-{ "id": "70491716", "name": "UPPSKATTNING", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "UPPSKATTNING",
+        "typeName": "Chlebak",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uppskattning-chlebak-okleina-bambusowa__0944447_pe797264_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/uppskattning-chlebak-okleina-bambusowa-70491716/",
+        "id": "70491716",
+        "itemNoGlobal": "70491716",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 34,
+        "itemNo": "70491716",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uppskattning-chlebak-okleina-bambusowa__0961936_pe807892_s5.jpg",
+        "mainImageAlt": "UPPSKATTNING Chlebak, okleina bambusowa",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Kitchen utensils",
+            "productAreaNo": "1422",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Słoiki, puszki i chlebaki", "key": "15950" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70491716",
+    "name": "UPPSKATTNING",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

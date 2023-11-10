@@ -1,1 +1,154 @@
-{ "id": "20506956", "name": "PLOMMONROS", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "PLOMMONROS",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-cervena-bila__0980659_pe815070_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/plommonros-povlak-na-polstar-cervena-bila-20506956/",
+        "id": "20506956",
+        "itemNoGlobal": "20506956",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "40506955",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/plommonros-povlak-na-polstar-tm-modra-bila-40506955/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tm-modra-bila__0980656_pe815079_s5.jpg",
+                    "imageAlt": "PLOMMONROS Povlak na polštář, tm.modrá/bílá, 50x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.9,
+                    "ratingCount": 7,
+                    "name": "PLOMMONROS",
+                    "typeName": "Povlak na polštář",
+                    "itemMeasureReferenceText": "50x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tm-modra-bila__0980656_pe815079_s5.jpg",
+                    "mainImageAlt": "PLOMMONROS Povlak na polštář, tm.modrá/bílá, 50x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tm-modra-bila__0980657_pe815080_s5.jpg",
+                    "itemNoGlobal": "40506955",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40506955",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "60506959",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/plommonros-povlak-na-polstar-bezova-bila-60506959/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-bezova-bila__0980662_pe815073_s5.jpg",
+                    "imageAlt": "PLOMMONROS Povlak na polštář, béžová/bílá, 50x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.9,
+                    "ratingCount": 7,
+                    "name": "PLOMMONROS",
+                    "typeName": "Povlak na polštář",
+                    "itemMeasureReferenceText": "50x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-bezova-bila__0980662_pe815073_s5.jpg",
+                    "mainImageAlt": "PLOMMONROS Povlak na polštář, béžová/bílá, 50x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-bezova-bila__0980663_pe815074_s5.jpg",
+                    "itemNoGlobal": "60506959",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "60506959",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "10506952",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/plommonros-povlak-na-polstar-tmave-seda-seda-10506952/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tmave-seda-seda__0980653_pe815076_s5.jpg",
+                    "imageAlt": "PLOMMONROS Povlak na polštář, tmavě šedá/šedá, 50x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.9,
+                    "ratingCount": 7,
+                    "name": "PLOMMONROS",
+                    "typeName": "Povlak na polštář",
+                    "itemMeasureReferenceText": "50x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tmave-seda-seda__0980653_pe815076_s5.jpg",
+                    "mainImageAlt": "PLOMMONROS Povlak na polštář, tmavě šedá/šedá, 50x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-tmave-seda-seda__0980654_pe815077_s5.jpg",
+                    "itemNoGlobal": "10506952",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10506952",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "červená", "id": "10124", "hex": "f00f00" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.9,
+        "ratingCount": 7,
+        "itemNo": "20506956",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/plommonros-povlak-na-polstar-cervena-bila__0980660_pe815071_s5.jpg",
+        "mainImageAlt": "PLOMMONROS Povlak na polštář, červená/bílá, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20506956",
+    "name": "PLOMMONROS",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

@@ -1,1 +1,59 @@
-{ "id": "40343911", "name": "PUDDA", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "PUDDA",
+        "typeName": "Košík",
+        "itemMeasureReferenceText": "15x28x10 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pudda-kosik__0713105_pe729254_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/pudda-kosik-40343911/",
+        "id": "40343911",
+        "itemNoGlobal": "40343911",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 17,
+        "itemNo": "40343911",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pudda-kosik__0909091_pe638397_s5.jpg",
+        "mainImageAlt": "PUDDA Košík, 15x28x10 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boxes and baskets",
+            "productAreaNo": "1811",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Úložné krabice a koše", "key": "10550" },
+            { "name": "Koše", "key": "16201" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40343911",
+    "name": "PUDDA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

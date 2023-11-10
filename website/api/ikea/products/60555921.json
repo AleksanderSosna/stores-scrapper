@@ -1,1 +1,55 @@
-{ "id": "60555921", "name": "IKEA 365+", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "IKEA 365+",
+        "typeName": "Zestaw noży, 5 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-zestaw-nozy-5-szt-stal-nierdz__1173121_pe893807_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ikea-365-zestaw-nozy-5-szt-stal-nierdz-60555921/",
+        "id": "60555921",
+        "itemNoGlobal": "60555921",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 8,
+        "itemNo": "60555921",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ikea-365-zestaw-nozy-5-szt-stal-nierdz__1173118_pe893810_s5.jpg",
+        "mainImageAlt": "IKEA 365+ Zestaw noży, 5 szt., stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Knives",
+            "productAreaNo": "1423",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Noże i deski do krojenia", "key": "15934" },
+            { "name": "Noże kuchenne", "key": "15946" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60555921",
+    "name": "IKEA 365+",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

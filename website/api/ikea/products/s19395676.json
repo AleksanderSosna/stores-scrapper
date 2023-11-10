@@ -1,0 +1,10 @@
+{
+    "id": "s19395676",
+    "itemNo": "19395676",
+    "name": "PAX / FARDAL/ÅHEIM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2870 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 16900 }
+    ]
+}

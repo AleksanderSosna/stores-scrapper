@@ -1,0 +1,143 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "40x17x150 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-antracyt-bialy__0816723_pe773638_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-antracyt-bialy-s09331492/",
+        "id": "s09331492",
+        "itemNoGlobal": "09331492",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s89331493",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-imit-debu-s89331493/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__0816728_pe773639_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały/imit. dębu, 40x17x150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "40x17x150 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__0816728_pe773639_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały/imit. dębu, 40x17x150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__0914536_pe784090_s5.jpg",
+                    "itemNoGlobal": "89331493",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89331493",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 430,
+                        "current": { "prefix": "", "wholeNumber": "430", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09480137",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-antracyt-szary-rama-s09480137/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-antracyt-szary-rama__1084779_pe859863_s5.jpg",
+                    "imageAlt": "ENHET Regał, antracyt/szary rama, 40x17x150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "40x17x150 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-antracyt-szary-rama__1084779_pe859863_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, antracyt/szary rama, 40x17x150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-antracyt-szary-rama__1084777_pe859862_s5.jpg",
+                    "itemNoGlobal": "09480137",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09480137",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 435,
+                        "current": { "prefix": "", "wholeNumber": "435", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s79331498",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-s79331498/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__0816725_pe773650_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały, 40x17x150 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "40x17x150 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__0816725_pe773650_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały, 40x17x150 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__0914533_pe784087_s5.jpg",
+                    "itemNoGlobal": "79331498",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79331498",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 407,
+                        "current": { "prefix": "", "wholeNumber": "407", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09331492",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 407,
+            "current": { "prefix": "", "wholeNumber": "407", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-antracyt-bialy__0914531_pe784085_s5.jpg",
+        "mainImageAlt": "ENHET Regał, antracyt/biały, 40x17x150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe ENHET", "key": "ka004" },
+            { "name": "Kombinacje do przechowywania ENHET", "key": "55006" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09331492",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 407 }]
+}

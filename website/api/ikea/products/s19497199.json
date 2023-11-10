@@ -1,0 +1,147 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Pralnia",
+        "itemMeasureReferenceText": "180x43x204 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy-blady-szaro-zielony__1158392_pe888115_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-pralnia-bialy-blady-szaro-zielony-s19497199/",
+        "id": "s19497199",
+        "itemNoGlobal": "19497199",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s79479828",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-pralnia-bialy-imit-debu-s79479828/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy-imit-debu__1100887_pe866321_s5.jpg",
+                    "imageAlt": "ENHET Pralnia, biały/imit. dębu, 180x43x204 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Pralnia",
+                    "itemMeasureReferenceText": "180x43x204 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy-imit-debu__1100887_pe866321_s5.jpg",
+                    "mainImageAlt": "ENHET Pralnia, biały/imit. dębu, 180x43x204 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy-imit-debu__1100886_pe866316_s5.jpg",
+                    "itemNoGlobal": "79479828",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79479828",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2636.99,
+                        "current": { "prefix": "", "wholeNumber": "2 636", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99477951",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-pralnia-antracyt-bialy-s99477951/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-antracyt-bialy__1100891_pe866323_s5.jpg",
+                    "imageAlt": "ENHET Pralnia, antracyt/biały, 180x43x204 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Pralnia",
+                    "itemMeasureReferenceText": "180x43x204 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-antracyt-bialy__1100891_pe866323_s5.jpg",
+                    "mainImageAlt": "ENHET Pralnia, antracyt/biały, 180x43x204 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-antracyt-bialy__1100890_pe866322_s5.jpg",
+                    "itemNoGlobal": "99477951",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99477951",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2571.99,
+                        "current": { "prefix": "", "wholeNumber": "2 571", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s79477952",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-pralnia-bialy-s79477952/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy__1100885_pe866314_s5.jpg",
+                    "imageAlt": "ENHET Pralnia, biały, 180x43x204 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Pralnia",
+                    "itemMeasureReferenceText": "180x43x204 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy__1100885_pe866314_s5.jpg",
+                    "mainImageAlt": "ENHET Pralnia, biały, 180x43x204 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy__1100884_pe866315_s5.jpg",
+                    "itemNoGlobal": "79477952",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79477952",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2546.99,
+                        "current": { "prefix": "", "wholeNumber": "2 546", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "19497199",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2795.99,
+            "current": { "prefix": "", "wholeNumber": "2 795", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-pralnia-bialy-blady-szaro-zielony__1158391_pe888116_s5.jpg",
+        "mainImageAlt": "ENHET Pralnia, biały/blady szaro-zielony, 180x43x204 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Zestawy do pralni ENHET", "key": "700490" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19497199",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2795.99 }]
+}

@@ -1,1 +1,56 @@
-{ "id": "70570445", "name": "GJÄTTA", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "GJÄTTA",
+        "typeName": "Segregator",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gjaetta-segregator-aksamit-granatowy__1191953_pe900772_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gjaetta-segregator-aksamit-granatowy-70570445/",
+        "id": "70570445",
+        "itemNoGlobal": "70570445",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70570445",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/gjaetta-segregator-aksamit-granatowy__1243145_pe920504_s5.jpg",
+        "mainImageAlt": "GJÄTTA Segregator, aksamit granatowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Organisers",
+            "productAreaNo": "1813",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Organizery na dokumenty i prasę", "key": "10551" },
+            { "name": "Segregatory", "key": "10567" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70570445",
+    "name": "GJÄTTA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

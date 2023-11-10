@@ -1,0 +1,10 @@
+{
+    "id": "s19526012",
+    "itemNo": "19526012",
+    "name": "BROBOCK / BJÖRKTRAST",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4389 }
+    ]
+}

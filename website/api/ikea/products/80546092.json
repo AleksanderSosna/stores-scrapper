@@ -1,1 +1,54 @@
-{ "id": "80546092", "name": "ÖMSESIDIG", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Servírovací kleště",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-servirovaci-kleste-nerezavejici-ocel__1127240_pe876121_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-servirovaci-kleste-nerezavejici-ocel-80546092/",
+        "id": "80546092",
+        "itemNoGlobal": "80546092",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "80546092",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-servirovaci-kleste-nerezavejici-ocel__1194269_ph192460_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Servírovací kleště, nerezavějící ocel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Serving",
+            "productAreaNo": "1512",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Příbory", "key": "18865" },
+            { "name": "Servírovací náčiní", "key": "18867" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80546092",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

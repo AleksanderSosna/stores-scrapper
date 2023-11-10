@@ -1,0 +1,10 @@
+{
+    "id": "s59408969",
+    "itemNo": "59408969",
+    "name": "GRÖNLID",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1899 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
+    ]
+}

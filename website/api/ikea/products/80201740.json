@@ -1,1 +1,60 @@
-{ "id": "80201740", "name": "SUNDVIK", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }] }
+{
+    "id": {
+        "name": "SUNDVIK",
+        "typeName": "Houpací křesílko",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sundvik-houpaci-kresilko-bila__0729755_pe737121_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sundvik-houpaci-kresilko-bila-80201740/",
+        "id": "80201740",
+        "itemNoGlobal": "80201740",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 5,
+        "itemNo": "80201740",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1290,
+            "current": { "prefix": "", "wholeNumber": "1 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "1 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sundvik-houpaci-kresilko-bila__0917894_ph168401_s5.jpg",
+        "mainImageAlt": "SUNDVIK Houpací křesílko, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s small furniture",
+            "productAreaNo": "0923",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Dětské židle", "key": "bc004" },
+            { "name": "Dětské židličky", "key": "18769" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80201740",
+    "name": "SUNDVIK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }]
+}

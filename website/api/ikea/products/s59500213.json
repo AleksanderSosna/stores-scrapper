@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "VÄRMANSÖ",
+        "typeName": "Stół+6 krzeseł, zewn.",
+        "itemMeasureReferenceText": "224 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaermansoe-stol-6-krzesel-zewn-ciemnoszary-brazowy__1148512_pe883773_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaermansoe-stol-6-krzesel-zewn-ciemnoszary-brazowy-s59500213/",
+        "id": "s59500213",
+        "itemNoGlobal": "59500213",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59500213",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4393,
+            "current": { "prefix": "", "wholeNumber": "4 393", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaermansoe-stol-6-krzesel-zewn-ciemnoszary-brazowy__1185540_pe898434_s5.jpg",
+        "mainImageAlt": "VÄRMANSÖ Stół+6 krzeseł, zewn., ciemnoszary/brązowy, 224 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59500213",
+    "name": "VÄRMANSÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4393 }]
+}

@@ -1,1 +1,52 @@
-{ "id": "40552075", "name": "MÄVINN", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 469 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Závěsný úložný díl",
+        "itemMeasureReferenceText": "26x107 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-zavesny-ulozny-dil__1171477_pe893090_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-zavesny-ulozny-dil-40552075/",
+        "id": "40552075",
+        "itemNoGlobal": "40552075",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40552075",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 469,
+            "current": { "prefix": "", "wholeNumber": "469", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-zavesny-ulozny-dil__1200384_ph192784_s5.jpg",
+        "mainImageAlt": "MÄVINN Závěsný úložný díl, 26x107 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boxes and baskets",
+            "productAreaNo": "1811",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské nástěnné úložné prostory", "key": "20676" },
+            { "name": "Nástěnné organizéry", "key": "20677" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40552075",
+    "name": "MÄVINN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 469 }]
+}

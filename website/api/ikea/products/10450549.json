@@ -1,1 +1,127 @@
-{ "id": "10450549", "name": "STENSUND", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 120 }] }
+{
+    "id": {
+        "name": "STENSUND",
+        "typeName": "Listwa dekoracyjna profilowana",
+        "itemMeasureReferenceText": "221x3 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-bialy__0944136_pe797179_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-listwa-dekoracyjna-profilowana-bialy-10450549/",
+        "id": "10450549",
+        "itemNoGlobal": "10450549",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "30453170",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-listwa-dekoracyjna-profilowana-bezowy-30453170/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-bezowy__0944897_pe797505_s5.jpg",
+                    "imageAlt": "STENSUND Listwa dekoracyjna profilowana, beżowy, 221x3 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "STENSUND",
+                    "typeName": "Listwa dekoracyjna profilowana",
+                    "itemMeasureReferenceText": "221x3 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-bezowy__0944897_pe797505_s5.jpg",
+                    "mainImageAlt": "STENSUND Listwa dekoracyjna profilowana, beżowy, 221x3 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-bezowy__0944779_pe797454_s5.jpg",
+                    "itemNoGlobal": "30453170",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30453170",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 120,
+                        "current": { "prefix": "", "wholeNumber": "120", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2.21 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "30523903",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-listwa-dekoracyjna-profilowana-jasnozielony-30523903/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-jasnozielony__1087342_pe860724_s5.jpg",
+                    "imageAlt": "STENSUND Listwa dekoracyjna profilowana, jasnozielony, 221x3 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "STENSUND",
+                    "typeName": "Listwa dekoracyjna profilowana",
+                    "itemMeasureReferenceText": "221x3 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-jasnozielony__1087342_pe860724_s5.jpg",
+                    "mainImageAlt": "STENSUND Listwa dekoracyjna profilowana, jasnozielony, 221x3 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-jasnozielony__1105154_pe868059_s5.jpg",
+                    "itemNoGlobal": "30523903",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30523903",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 120,
+                        "current": { "prefix": "", "wholeNumber": "120", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2.21 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10450549",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 120,
+            "current": { "prefix": "", "wholeNumber": "120", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2.21 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-listwa-dekoracyjna-profilowana-bialy__0944137_pe797181_s5.jpg",
+        "mainImageAlt": "STENSUND Listwa dekoracyjna profilowana, biały, 221x3 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Panele maskujące i listwy dekoracyjne METOD", "key": "23614" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10450549",
+    "name": "STENSUND",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 120 }]
+}

@@ -1,1 +1,53 @@
-{ "id": "60559815", "name": "STUBBERGET", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }
+{
+    "id": {
+        "name": "STUBBERGET",
+        "typeName": "Uchwyt na laptop/ramię",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stubberget-uchwyt-na-laptop-ramie-czarny__1225093_pe915138_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stubberget-uchwyt-na-laptop-ramie-czarny-60559815/",
+        "id": "60559815",
+        "itemNoGlobal": "60559815",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60559815",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99.99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stubberget-uchwyt-na-laptop-ramie-czarny__1207951_pe908256_s5.jpg",
+        "mainImageAlt": "STUBBERGET Uchwyt na laptop/ramię, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Akcesoria biurowe", "key": "10573" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60559815",
+    "name": "STUBBERGET",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }]
+}

@@ -1,0 +1,117 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Szafka pod umywalkę z 2 drzwiami",
+        "itemMeasureReferenceText": "64x43x65 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-blady-szaro-zielony-bateria-glypen__1153712_pe885784_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-blady-szaro-zielony-bateria-glypen-s89497247/",
+        "id": "s89497247",
+        "itemNoGlobal": "89497247",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s29336525",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-imit-debu-bialy-bateria-pilkan-s29336525/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-imit-debu-bialy-bateria-pilkan__0831395_pe777118_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 drzwiami, imit. dębu/biały bateria Pilkån, 64x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Szafka pod umywalkę z 2 drzwiami",
+                    "itemMeasureReferenceText": "64x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-imit-debu-bialy-bateria-pilkan__0831395_pe777118_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 drzwiami, imit. dębu/biały bateria Pilkån, 64x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-imit-debu-bialy-bateria-pilkan__0917605_pe785832_s5.jpg",
+                    "itemNoGlobal": "29336525",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29336525",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1079,
+                        "current": { "prefix": "", "wholeNumber": "1 079", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99336522",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-bateria-pilkan-s99336522/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-bateria-pilkan__0831397_pe777103_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 drzwiami, biały/bateria Pilkån, 64x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Szafka pod umywalkę z 2 drzwiami",
+                    "itemMeasureReferenceText": "64x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-bateria-pilkan__0831397_pe777103_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 drzwiami, biały/bateria Pilkån, 64x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-bateria-pilkan__0917607_pe785870_s5.jpg",
+                    "itemNoGlobal": "99336522",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99336522",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1051,
+                        "current": { "prefix": "", "wholeNumber": "1 051", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89497247",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1128,
+            "current": { "prefix": "", "wholeNumber": "1 128", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-drzwiami-bialy-blady-szaro-zielony-bateria-glypen__1157760_pe887840_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 drzwiami, biały/blady szaro-zielony bateria Glypen, 64x43x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Zestawy umywalkowe ENHET z umywalką", "key": "700493" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89497247",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1128 }]
+}

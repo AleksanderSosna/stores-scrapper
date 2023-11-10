@@ -1,0 +1,10 @@
+{
+    "id": "s69399587",
+    "itemNo": "69399587",
+    "name": "RÄCKA / HUGAD",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
+    ]
+}

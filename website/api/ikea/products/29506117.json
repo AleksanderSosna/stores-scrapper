@@ -1,9 +1,0 @@
-{
-    "id": "29506117",
-    "name": "SMÅGÖRA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1027 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5579 }
-    ]
-}

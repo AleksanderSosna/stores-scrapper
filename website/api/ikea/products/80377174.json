@@ -1,1 +1,99 @@
-{ "id": "80377174", "name": "HAVSTA", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8500 }] }
+{
+    "id": {
+        "name": "HAVSTA",
+        "typeName": "Vitrína",
+        "itemMeasureReferenceText": "121x35x123 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-bila__0703720_pe724818_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-vitrina-bila-80377174/",
+        "id": "80377174",
+        "itemNoGlobal": "80377174",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00415194",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/havsta-vitrina-seda-00415194/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-seda__0632469_pe695395_s5.jpg",
+                    "imageAlt": "HAVSTA Vitrína, šedá, 121x35x123 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 6,
+                    "name": "HAVSTA",
+                    "typeName": "Vitrína",
+                    "itemMeasureReferenceText": "121x35x123 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-seda__0632469_pe695395_s5.jpg",
+                    "mainImageAlt": "HAVSTA Vitrína, šedá, 121x35x123 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-seda__0843329_pe693028_s5.jpg",
+                    "itemNoGlobal": "00415194",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00415194",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 8500,
+                        "current": { "prefix": "", "wholeNumber": "8 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "9 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 6,
+        "itemNo": "80377174",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8500,
+            "current": { "prefix": "", "wholeNumber": "8 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "9 500", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/havsta-vitrina-bila__0675347_pe718276_s5.jpg",
+        "mainImageAlt": "HAVSTA Vitrína, bílá, 121x35x123 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Display cabinets",
+            "productAreaNo": "0221",
+            "productRangeAreaName": "Display furniture",
+            "productRangeAreaNo": "022"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Vitríny", "key": "10410" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80377174",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8500 }]
+}

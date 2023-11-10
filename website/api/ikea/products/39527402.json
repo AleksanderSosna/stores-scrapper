@@ -1,9 +1,0 @@
-{
-    "id": "39527402",
-    "name": "REGNSKUR / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}

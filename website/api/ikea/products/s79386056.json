@@ -1,0 +1,50 @@
+{
+    "id": {
+        "name": "SIDORNA",
+        "typeName": "Ścianka działowa",
+        "itemMeasureReferenceText": "480x195 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sidorna-scianka-dzialowa-szary__1174289_pe894420_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sidorna-scianka-dzialowa-szary-s79386056/",
+        "id": "s79386056",
+        "itemNoGlobal": "79386056",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79386056",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2100,
+            "current": { "prefix": "", "wholeNumber": "2 100", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sidorna-scianka-dzialowa-szary__0905109_pe783004_s5.jpg",
+        "mainImageAlt": "SIDORNA Ścianka działowa, szary, 480x195 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Parawany i ścianki działowe", "key": "46080" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79386056",
+    "name": "SIDORNA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2100 }]
+}

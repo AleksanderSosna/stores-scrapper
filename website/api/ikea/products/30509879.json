@@ -1,1 +1,84 @@
-{ "id": "30509879", "name": "FRÖSÖN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 130 }] }
+{
+    "id": {
+        "name": "FRÖSÖN",
+        "typeName": "Pokrowiec na poduszkę leżaka",
+        "itemMeasureReferenceText": "190x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-bezowy__1018209_pe831097_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-bezowy-30509879/",
+        "id": "30509879",
+        "itemNoGlobal": "30509879",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80509886",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-zielony-80509886/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-zielony__1018211_pe831098_s5.jpg",
+                    "imageAlt": "FRÖSÖN Pokrowiec na poduszkę leżaka, zewnętrzne zielony, 190x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "FRÖSÖN",
+                    "typeName": "Pokrowiec na poduszkę leżaka",
+                    "itemMeasureReferenceText": "190x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-zielony__1018211_pe831098_s5.jpg",
+                    "mainImageAlt": "FRÖSÖN Pokrowiec na poduszkę leżaka, zewnętrzne zielony, 190x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-zielony__1035298_pe838025_s5.jpg",
+                    "itemNoGlobal": "80509886",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80509886",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 130,
+                        "current": { "prefix": "", "wholeNumber": "130", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30509879",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 130,
+            "current": { "prefix": "", "wholeNumber": "130", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froesoen-pokrowiec-na-poduszke-lezaka-zewnetrzne-bezowy__1185546_pe898460_s5.jpg",
+        "mainImageAlt": "FRÖSÖN Pokrowiec na poduszkę leżaka, zewnętrzne beżowy, 190x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30509879",
+    "name": "FRÖSÖN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 130 }]
+}

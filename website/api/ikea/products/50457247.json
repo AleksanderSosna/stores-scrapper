@@ -1,1 +1,100 @@
-{ "id": "50457247", "name": "STJÄRNSTARR", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 749 }] }
+{
+    "id": {
+        "name": "STJÄRNSTARR",
+        "typeName": "Přikrývka, chladivá",
+        "itemMeasureReferenceText": "200x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernstarr-prikryvka-chladiva__0777295_pe758503_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/stjaernstarr-prikryvka-chladiva-50457247/",
+        "id": "50457247",
+        "itemNoGlobal": "30457253",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60457242",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/stjaernstarr-prikryvka-chladiva-60457242/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernstarr-prikryvka-chladiva__0777294_pe758504_s5.jpg",
+                    "imageAlt": "STJÄRNSTARR Přikrývka, chladivá, 150x200 cm",
+                    "quickFacts": [{ "type": "TEMPERATURE", "id": "47455", "name": "Chladivé", "typeName": "Teplota" }],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 69,
+                    "name": "STJÄRNSTARR",
+                    "typeName": "Přikrývka, chladivá",
+                    "itemMeasureReferenceText": "150x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernstarr-prikryvka-chladiva__0777294_pe758504_s5.jpg",
+                    "mainImageAlt": "STJÄRNSTARR Přikrývka, chladivá, 150x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernstarr-prikryvka-chladiva__1238296_pe918412_s5.jpg",
+                    "itemNoGlobal": "60457242",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60457242",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "649", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [{ "type": "TEMPERATURE", "id": "47455", "name": "Chladivé", "typeName": "Teplota" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 69,
+        "itemNo": "50457247",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 749,
+            "current": { "prefix": "", "wholeNumber": "749", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/stjaernstarr-prikryvka-chladiva__1238296_pe918412_s5.jpg",
+        "mainImageAlt": "STJÄRNSTARR Přikrývka, chladivá, 200x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvets",
+            "productAreaNo": "1121",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Přikrývky", "key": "20529" },
+            { "name": "Polyesterové přikrývky", "key": "20530" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50457247",
+    "name": "STJÄRNSTARR",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 749 }]
+}

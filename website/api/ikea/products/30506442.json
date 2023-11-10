@@ -1,1 +1,90 @@
-{ "id": "30506442", "name": "BÄSTDAL", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }] }
+{
+    "id": {
+        "name": "BÄSTDAL",
+        "typeName": "Fotel",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/baestdal-fotel-djuparp-ciemnozielononiebieski__1062012_pe850607_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/baestdal-fotel-djuparp-ciemnozielononiebieski-30506442/",
+        "id": "30506442",
+        "itemNoGlobal": "30506442",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70506440",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/baestdal-fotel-gunnared-srednioszary-70506440/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/baestdal-fotel-gunnared-srednioszary__1062023_pe850612_s5.jpg",
+                    "imageAlt": "BÄSTDAL Fotel, Gunnared średnioszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 18,
+                    "name": "BÄSTDAL",
+                    "typeName": "Fotel",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/baestdal-fotel-gunnared-srednioszary__1062023_pe850612_s5.jpg",
+                    "mainImageAlt": "BÄSTDAL Fotel, Gunnared średnioszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/baestdal-fotel-gunnared-srednioszary__1062022_pe850613_s5.jpg",
+                    "itemNoGlobal": "70506440",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70506440",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 18,
+        "itemNo": "30506442",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/baestdal-fotel-djuparp-ciemnozielononiebieski__1062015_pe850609_s5.jpg",
+        "mainImageAlt": "BÄSTDAL Fotel, Djuparp ciemnozielononiebieski",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Armchairs",
+            "productAreaNo": "0125",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Fotele i szezlongi", "key": "fu006" },
+            { "name": "Fotele", "key": "16239" },
+            { "name": "Fotele tapicerowane", "key": "10687" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30506442",
+    "name": "BÄSTDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }]
+}

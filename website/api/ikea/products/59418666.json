@@ -1,9 +1,0 @@
-{
-    "id": "59418666",
-    "name": "SKATVAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 85 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 360 }
-    ]
-}

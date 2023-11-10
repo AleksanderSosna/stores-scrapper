@@ -1,0 +1,10 @@
+{
+    "id": "s59420400",
+    "itemNo": "59420400",
+    "name": "SANDSBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
+    ]
+}

@@ -1,1 +1,90 @@
-{ "id": "13763509", "name": "IVAR", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 340 }] }
+{
+    "id": {
+        "name": "IVAR",
+        "typeName": "Rohová stojna",
+        "itemMeasureReferenceText": "179 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-rohova-stojna-borovice__0653649_pe708069_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-rohova-stojna-borovice-13763509/",
+        "id": "13763509",
+        "itemNoGlobal": "13763509",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "37489609",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-rohova-stojna-borovice-37489609/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-rohova-stojna-borovice__0623511_pe691196_s5.jpg",
+                    "imageAlt": "IVAR Rohová stojna, borovice, 226 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3.5,
+                    "ratingCount": 11,
+                    "name": "IVAR",
+                    "typeName": "Rohová stojna",
+                    "itemMeasureReferenceText": "226 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-rohova-stojna-borovice__0623511_pe691196_s5.jpg",
+                    "mainImageAlt": "IVAR Rohová stojna, borovice, 226 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-rohova-stojna-borovice__0911827_pe621522_s5.jpg",
+                    "itemNoGlobal": "37489609",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "37489609",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 420,
+                        "current": { "prefix": "", "wholeNumber": "420", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.5,
+        "ratingCount": 11,
+        "itemNo": "13763509",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 340,
+            "current": { "prefix": "", "wholeNumber": "340", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-rohova-stojna-borovice__0911113_pe621532_s5.jpg",
+        "mainImageAlt": "IVAR Rohová stojna, borovice, 179 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Úložné systémy do obývacího pokoje", "key": "29882" },
+            { "name": "Systém IVAR", "key": "11703" },
+            { "name": "Všechny části a díly IVAR", "key": "11705" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "13763509",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 340 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s29539641",
+    "itemNo": "29539641",
+    "name": "NORDLI",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4498 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 22980 }
+    ]
+}

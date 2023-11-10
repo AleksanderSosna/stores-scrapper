@@ -1,9 +1,0 @@
-{
-    "id": "29470217",
-    "name": "SANDSBERG / STIG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 358 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2388 }
-    ]
-}

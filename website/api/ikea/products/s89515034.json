@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "TVETÖ",
+        "typeName": "Parasol",
+        "itemMeasureReferenceText": "180 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tvetoe-parasol-szarobezowy-bialy-grytoe-szary__1186048_pe898653_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tvetoe-parasol-szarobezowy-bialy-grytoe-szary-s89515034/",
+        "id": "s89515034",
+        "itemNoGlobal": "89515034",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89515034",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 339,
+            "current": { "prefix": "", "wholeNumber": "339", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tvetoe-parasol-szarobezowy-bialy-grytoe-szary__1186049_pe898654_s5.jpg",
+        "mainImageAlt": "TVETÖ Parasol, szarobeżowy biały/Grytö szary, 180 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89515034",
+    "name": "TVETÖ",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 339 }]
+}

@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "JÄRPÖN/DUVHOLMEN",
+        "typeName": "Poducha siedziska/oparcia, ogrodowa",
+        "itemMeasureReferenceText": "116x45 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/jaerpoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-antracyt__0927081_pe789673_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/jaerpoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-antracyt-s49412820/",
+        "id": "s49412820",
+        "itemNoGlobal": "49412820",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "49412820",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 200,
+            "current": { "prefix": "", "wholeNumber": "200", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/jaerpoen-duvholmen-poducha-siedziska-oparcia-ogrodowa-antracyt__0961186_pe807440_s5.jpg",
+        "mainImageAlt": "JÄRPÖN/DUVHOLMEN Poducha siedziska/oparcia, ogrodowa, antracyt, 116x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49412820",
+    "name": "JÄRPÖN/DUVHOLMEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 200 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s79337589",
+    "itemNo": "79337589",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1686 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6843 }
+    ]
+}

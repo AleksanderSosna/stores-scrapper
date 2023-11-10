@@ -1,1 +1,54 @@
-{ "id": "90531896", "name": "JOGGESÖ", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }
+{
+    "id": {
+        "name": "JOGGESÖ",
+        "typeName": "Parasol",
+        "itemMeasureReferenceText": "300 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/joggesoe-parasol-jasny-szaro-bezowy__1118688_pe873224_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/joggesoe-parasol-jasny-szaro-bezowy-90531896/",
+        "id": "90531896",
+        "itemNoGlobal": "90531896",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90531896",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/joggesoe-parasol-jasny-szaro-bezowy__1173278_ph190467_s5.jpg",
+        "mainImageAlt": "JOGGESÖ Parasol, jasny szaro-beżowy, 300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90531896",
+    "name": "JOGGESÖ",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }]
+}

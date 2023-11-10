@@ -1,1 +1,59 @@
-{ "id": "50102973", "name": "SAMLA", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }] }
+{
+    "id": {
+        "name": "SAMLA",
+        "typeName": "Vložka do krabice 11/22 l",
+        "itemMeasureReferenceText": "37x25x12 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/samla-vlozka-do-krabice-11-22-l-transparentni__0710849_pe727799_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/samla-vlozka-do-krabice-11-22-l-transparentni-50102973/",
+        "id": "50102973",
+        "itemNoGlobal": "50102973",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 51,
+        "itemNo": "50102973",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 69,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "89", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/samla-vlozka-do-krabice-11-22-l-transparentni__0910363_pe625949_s5.jpg",
+        "mainImageAlt": "SAMLA Vložka do krabice 11/22 l, transparentní, 37x25x12 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boxes and baskets",
+            "productAreaNo": "1811",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Úložné krabice a koše", "key": "10550" },
+            { "name": "Úložné krabice a plastové boxy", "key": "10797" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50102973",
+    "name": "SAMLA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }]
+}

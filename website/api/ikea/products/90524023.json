@@ -1,1 +1,94 @@
-{ "id": "90524023", "name": "STENSUND", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 120 }] }
+{
+    "id": {
+        "name": "STENSUND",
+        "typeName": "Cokół",
+        "itemMeasureReferenceText": "220x8 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-cokol-jasnozielony__1087274_pe860657_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-cokol-jasnozielony-90524023/",
+        "id": "90524023",
+        "itemNoGlobal": "90524023",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10453208",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-cokol-bezowy-10453208/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-cokol-bezowy__0974896_pe812573_s5.jpg",
+                    "imageAlt": "STENSUND Cokół, beżowy, 220x8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "STENSUND",
+                    "typeName": "Cokół",
+                    "itemMeasureReferenceText": "220x8 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-cokol-bezowy__0974896_pe812573_s5.jpg",
+                    "mainImageAlt": "STENSUND Cokół, beżowy, 220x8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-cokol-bezowy__0944799_pe797462_s5.jpg",
+                    "itemNoGlobal": "10453208",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10453208",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 120,
+                        "current": { "prefix": "", "wholeNumber": "120", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2.2 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "90524023",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 120,
+            "current": { "prefix": "", "wholeNumber": "120", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2.2 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-cokol-jasnozielony__1105154_pe868059_s5.jpg",
+        "mainImageAlt": "STENSUND Cokół, jasnozielony, 220x8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90524023",
+    "name": "STENSUND",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 120 }]
+}

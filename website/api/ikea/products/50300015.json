@@ -1,1 +1,54 @@
-{ "id": "50300015", "name": "BROR", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }] }
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Skříňka/ 2 dveře",
+        "itemMeasureReferenceText": "76x40x66 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-skrinka-2-dvere-cerna__0605748_pe682232_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bror-skrinka-2-dvere-cerna-50300015/",
+        "id": "50300015",
+        "itemNoGlobal": "50300015",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "50300015",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3290,
+            "current": { "prefix": "", "wholeNumber": "3 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bror-skrinka-2-dvere-cerna__0911974_pe688422_s5.jpg",
+        "mainImageAlt": "BROR Skříňka/ 2 dveře, černá, 76x40x66 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém regálů do garáže BROR", "key": "42245" },
+            { "name": "Všechny díly BROR", "key": "42246" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50300015",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }]
+}

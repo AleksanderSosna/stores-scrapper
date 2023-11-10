@@ -1,1 +1,59 @@
-{ "id": "00515792", "name": "KRÖSAMOS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "KRÖSAMOS",
+        "typeName": "Słoik z pokrywką",
+        "itemMeasureReferenceText": "13 cl",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kroesamos-sloik-z-pokrywka-wielobarwny__1080783_pe858181_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kroesamos-sloik-z-pokrywka-wielobarwny-00515792/",
+        "id": "00515792",
+        "itemNoGlobal": "00515792",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "czerwony", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "00515792",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "3 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kroesamos-sloik-z-pokrywka-wielobarwny__1133466_ph186004_s5.jpg",
+        "mainImageAlt": "KRÖSAMOS Słoik z pokrywką, wielobarwny, 13 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Słoiki, puszki i chlebaki", "key": "15950" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00515792",
+    "name": "KRÖSAMOS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

@@ -1,1 +1,91 @@
-{ "id": "00565503", "name": "RODULF", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "RODULF",
+        "typeName": "Blat",
+        "itemMeasureReferenceText": "140x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/rodulf-blat-bialy__1169889_pe892586_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/rodulf-blat-bialy-00565503/",
+        "id": "00565503",
+        "itemNoGlobal": "00565503",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50464304",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/rodulf-blat-szary-50464304/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/rodulf-blat-szary__0936241_pe793186_s5.jpg",
+                    "imageAlt": "RODULF Blat, szary, 140x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 2,
+                    "name": "RODULF",
+                    "typeName": "Blat",
+                    "itemMeasureReferenceText": "140x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/rodulf-blat-szary__0936241_pe793186_s5.jpg",
+                    "mainImageAlt": "RODULF Blat, szary, 140x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/rodulf-blat-szary__0799316_pe767518_s5.jpg",
+                    "itemNoGlobal": "50464304",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50464304",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "backoff" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemNo": "00565503",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/rodulf-blat-bialy__1169888_pe892587_s5.jpg",
+        "mainImageAlt": "RODULF Blat, biały, 140x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office desks and tables",
+            "productAreaNo": "0351",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Systemy stołów i biurek", "key": "47423" },
+            { "name": "System biurek i stołów", "key": "11811" },
+            { "name": "Blaty do stołów/biurek", "key": "11844" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00565503",
+    "name": "RODULF",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

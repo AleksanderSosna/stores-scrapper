@@ -1,0 +1,10 @@
+{
+    "id": "s29496236",
+    "itemNo": "29496236",
+    "name": "LINDBÅDEN",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 300 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
+    ]
+}

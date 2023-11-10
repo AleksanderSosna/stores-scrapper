@@ -1,0 +1,10 @@
+{
+    "id": "s69476825",
+    "itemNo": "69476825",
+    "name": "BESTÅ / EKET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1330 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8850 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s89305168",
+    "itemNo": "89305168",
+    "name": "NORDVIKEN / RÖNNINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3295 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 21150 }
+    ]
+}

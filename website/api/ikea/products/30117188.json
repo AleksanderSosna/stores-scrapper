@@ -1,1 +1,88 @@
-{ "id": "30117188", "name": "IKEA PS FEJÖ", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }] }
+{
+    "id": {
+        "name": "IKEA PS FEJÖ",
+        "typeName": "Samozavlažovací květináč",
+        "itemMeasureReferenceText": "32 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ikea-ps-fejoe-samozavlazovaci-kvetinac-cerna__69500_pe184553_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ikea-ps-fejoe-samozavlazovaci-kvetinac-cerna-30117188/",
+        "id": "30117188",
+        "itemNoGlobal": "30117188",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20039394",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/ikea-ps-fejoe-samozavlazovaci-kvetinac-bila-20039394/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/ikea-ps-fejoe-samozavlazovaci-kvetinac-bila__0635616_pe697297_s5.jpg",
+                    "imageAlt": "IKEA PS FEJÖ Samozavlažovací květináč, bílá, 32 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 56,
+                    "name": "IKEA PS FEJÖ",
+                    "typeName": "Samozavlažovací květináč",
+                    "itemMeasureReferenceText": "32 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ikea-ps-fejoe-samozavlazovaci-kvetinac-bila__0635616_pe697297_s5.jpg",
+                    "mainImageAlt": "IKEA PS FEJÖ Samozavlažovací květináč, bílá, 32 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ikea-ps-fejoe-samozavlazovaci-kvetinac-bila__0900202_pe588608_s5.jpg",
+                    "itemNoGlobal": "20039394",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20039394",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 499,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 56,
+        "itemNo": "30117188",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ikea-ps-fejoe-samozavlazovaci-kvetinac-cerna__0900580_pe588607_s5.jpg",
+        "mainImageAlt": "IKEA PS FEJÖ Samozavlažovací květináč, černá, 32 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Květináče a truhlíky", "key": "pp004" },
+            { "name": "Samozavlažovací květináče", "key": "20495" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30117188",
+    "name": "IKEA PS FEJÖ",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 499 }]
+}

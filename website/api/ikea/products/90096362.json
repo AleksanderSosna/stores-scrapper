@@ -1,1 +1,54 @@
-{ "id": "90096362", "name": "MUSA ORIENTAL", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "MUSA ORIENTAL",
+        "typeName": "Roślina doniczkowa",
+        "itemMeasureReferenceText": "21 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/musa-oriental-roslina-doniczkowa-bananowiec__67468_pe181309_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/musa-oriental-roslina-doniczkowa-bananowiec-90096362/",
+        "id": "90096362",
+        "itemNoGlobal": "90096362",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 12,
+        "itemNo": "90096362",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/musa-oriental-roslina-doniczkowa-bananowiec__0946034_pe797863_s5.jpg",
+        "mainImageAlt": "MUSA ORIENTAL Roślina doniczkowa, bananowiec, 21 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Donice, rośliny i akcesoria ogrodowe", "key": "31787" },
+            { "name": "Rośliny doniczkowe i sukulenty", "key": "10779" },
+            { "name": "Duże rośliny doniczkowe", "key": "700524" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90096362",
+    "name": "MUSA ORIENTAL",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

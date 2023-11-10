@@ -1,0 +1,142 @@
+{
+    "id": {
+        "name": "HÖGÖN",
+        "typeName": "Parasol z podstawą",
+        "itemMeasureReferenceText": "270 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-jasnoszary-grytoe-ciemnoszary__1066379_pe852405_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-z-podstawa-jasnoszary-grytoe-ciemnoszary-s09476809/",
+        "id": "s09476809",
+        "itemNoGlobal": "09476809",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s39285813",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-z-podstawa-bialy-grytoe-ciemnoszary-s39285813/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-grytoe-ciemnoszary__0664527_pe712760_s5.jpg",
+                    "imageAlt": "HÖGÖN Parasol z podstawą, biały/Grytö ciemnoszary, 270 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "HÖGÖN",
+                    "typeName": "Parasol z podstawą",
+                    "itemMeasureReferenceText": "270 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-grytoe-ciemnoszary__0664527_pe712760_s5.jpg",
+                    "mainImageAlt": "HÖGÖN Parasol z podstawą, biały/Grytö ciemnoszary, 270 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-grytoe-ciemnoszary__1191263_pe900583_s5.jpg",
+                    "itemNoGlobal": "39285813",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39285813",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 488,
+                        "current": { "prefix": "", "wholeNumber": "488", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39324616",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-z-podstawa-bialy-huvoen-ciemnoszary-s39324616/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-huvoen-ciemnoszary__0784738_pe761844_s5.jpg",
+                    "imageAlt": "HÖGÖN Parasol z podstawą, biały/Huvön ciemnoszary, 270 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "HÖGÖN",
+                    "typeName": "Parasol z podstawą",
+                    "itemMeasureReferenceText": "270 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-huvoen-ciemnoszary__0784738_pe761844_s5.jpg",
+                    "mainImageAlt": "HÖGÖN Parasol z podstawą, biały/Huvön ciemnoszary, 270 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-bialy-huvoen-ciemnoszary__1191263_pe900583_s5.jpg",
+                    "itemNoGlobal": "39324616",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39324616",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 468,
+                        "current": { "prefix": "", "wholeNumber": "468", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69476806",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-z-podstawa-jasnoszary-huvoen-szary-s69476806/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-jasnoszary-huvoen-szary__1066376_pe852408_s5.jpg",
+                    "imageAlt": "HÖGÖN Parasol z podstawą, jasnoszary/Huvön szary, 270 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "HÖGÖN",
+                    "typeName": "Parasol z podstawą",
+                    "itemMeasureReferenceText": "270 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-jasnoszary-huvoen-szary__1066376_pe852408_s5.jpg",
+                    "mainImageAlt": "HÖGÖN Parasol z podstawą, jasnoszary/Huvön szary, 270 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-jasnoszary-huvoen-szary__1128050_pe876393_s5.jpg",
+                    "itemNoGlobal": "69476806",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69476806",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 468,
+                        "current": { "prefix": "", "wholeNumber": "468", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09476809",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 488,
+            "current": { "prefix": "", "wholeNumber": "488", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-z-podstawa-jasnoszary-grytoe-ciemnoszary__1211897_pe910411_s5.jpg",
+        "mainImageAlt": "HÖGÖN Parasol z podstawą, jasnoszary/Grytö ciemnoszary, 270 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09476809",
+    "name": "HÖGÖN",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 488 }]
+}

@@ -1,0 +1,57 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Ragał z szafkami",
+        "itemMeasureReferenceText": "170x40x190 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-ragal-z-szafkami-szarozielony-sklejka-sosnowa__1197335_pe903483_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bror-ragal-z-szafkami-szarozielony-sklejka-sosnowa-s09516141/",
+        "id": "s09516141",
+        "itemNoGlobal": "09516141",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09516141",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2230,
+            "current": { "prefix": "", "wholeNumber": "2 230", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-ragal-z-szafkami-szarozielony-sklejka-sosnowa__1197363_pe903492_s5.jpg",
+        "mainImageAlt": "BROR Ragał z szafkami, szarozielony/sklejka sosnowa, 170x40x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System BROR", "key": "42245" },
+            { "name": "Kombinacje BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09516141",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2230 }]
+}

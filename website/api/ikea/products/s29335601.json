@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "40x30x150 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-szary-rama__0816704_pe773588_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-szary-rama-s29335601/",
+        "id": "s29335601",
+        "itemNoGlobal": "29335601",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29335601",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 445,
+            "current": { "prefix": "", "wholeNumber": "445", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-szary-rama__0915011_pe784485_s5.jpg",
+        "mainImageAlt": "ENHET Regał, biały/szary rama, 40x30x150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Kombinacje pamięci masowych ENHET", "key": "700489" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29335601",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 445 }]
+}

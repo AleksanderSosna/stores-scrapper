@@ -1,0 +1,146 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "60x62x210 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-blady-szaro-zielony__1153729_pe885797_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-blady-szaro-zielony-s99497317/",
+        "id": "s99497317",
+        "itemNoGlobal": "99497317",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s19435578",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-szary-rama-s19435578/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-szary-rama__1032411_pe836901_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały/szary rama, 60x62x210 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "60x62x210 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-szary-rama__1032411_pe836901_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały/szary rama, 60x62x210 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-szary-rama__1035271_pe838013_s5.jpg",
+                    "itemNoGlobal": "19435578",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19435578",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1010,
+                        "current": { "prefix": "", "wholeNumber": "1 010", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s59435576",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-imit-debu-s59435576/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__1032413_pe836903_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały/imit. dębu, 60x62x210 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "60x62x210 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__1032413_pe836903_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały/imit. dębu, 60x62x210 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-imit-debu__1035273_pe838009_s5.jpg",
+                    "itemNoGlobal": "59435576",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59435576",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1025,
+                        "current": { "prefix": "", "wholeNumber": "1 025", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s89435570",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-s89435570/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1032415_pe836902_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały, 60x62x210 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "60x62x210 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1032415_pe836902_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały, 60x62x210 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1035275_pe838011_s5.jpg",
+                    "itemNoGlobal": "89435570",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89435570",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 950,
+                        "current": { "prefix": "", "wholeNumber": "950", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99497317",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1045,
+            "current": { "prefix": "", "wholeNumber": "1 045", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-blady-szaro-zielony__1157812_pe887867_s5.jpg",
+        "mainImageAlt": "ENHET Regał, biały/blady szaro-zielony, 60x62x210 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Kombinacje pamięci masowych ENHET", "key": "700489" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99497317",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1045 }]
+}

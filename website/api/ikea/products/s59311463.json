@@ -1,0 +1,10 @@
+{
+    "id": "s59311463",
+    "itemNo": "59311463",
+    "name": "JONAXEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1425 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7914 }
+    ]
+}

@@ -1,1 +1,53 @@
-{ "id": "30341173", "name": "VÖRDA", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "VÖRDA",
+        "typeName": "Komplet noży, 3 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/voerda-komplet-nozy-3-szt__0448546_pe598209_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/voerda-komplet-nozy-3-szt-30341173/",
+        "id": "30341173",
+        "itemNoGlobal": "30341173",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 67,
+        "itemNo": "30341173",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/voerda-komplet-nozy-3-szt__0895956_pe615954_s5.jpg",
+        "mainImageAlt": "VÖRDA Komplet noży, 3 szt.",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Knives",
+            "productAreaNo": "1423",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Noże i deski do krojenia", "key": "15934" },
+            { "name": "Noże kuchenne", "key": "15946" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30341173",
+    "name": "VÖRDA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

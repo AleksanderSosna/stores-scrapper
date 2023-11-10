@@ -1,0 +1,10 @@
+{
+    "id": "s89441057",
+    "itemNo": "89441057",
+    "name": "STRANDTORP / BERGMUND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4273 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23330 }
+    ]
+}

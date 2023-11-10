@@ -1,1 +1,53 @@
-{ "id": "80508306", "name": "FLUGBO", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }
+{
+    "id": {
+        "name": "FLUGBO",
+        "typeName": "Lampa podłogowa/do czytania",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/flugbo-lampa-podlogowa-do-czytania-niklowano__0971823_pe811491_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/flugbo-lampa-podlogowa-do-czytania-niklowano-80508306/",
+        "id": "80508306",
+        "itemNoGlobal": "80508306",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 14,
+        "itemNo": "80508306",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/flugbo-lampa-podlogowa-do-czytania-niklowano__0971826_pe811493_s5.jpg",
+        "mainImageAlt": "FLUGBO Lampa podłogowa/do czytania, niklowano",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80508306",
+    "name": "FLUGBO",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

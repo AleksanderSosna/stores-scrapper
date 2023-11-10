@@ -1,0 +1,10 @@
+{
+    "id": "s39276818",
+    "itemNo": "39276818",
+    "name": "IKEA 365+",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 32.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 139 }
+    ]
+}

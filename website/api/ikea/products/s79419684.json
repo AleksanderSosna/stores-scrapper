@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "NYSJÖN / BJÖRKÅN",
+        "typeName": "Koupelnový nábytek, sada 5 ks",
+        "itemMeasureReferenceText": "54x40x80 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-bjoerkan-koupelnovy-nabytek-sada-5-ks-bila-baterie-pilkan__0993223_pe820451_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nysjoen-bjoerkan-koupelnovy-nabytek-sada-5-ks-bila-baterie-pilkan-s79419684/",
+        "id": "s79419684",
+        "itemNoGlobal": "79419684",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79419684",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 4088,
+            "current": { "prefix": "", "wholeNumber": "4 088", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "4 778", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-bjoerkan-koupelnovy-nabytek-sada-5-ks-bila-baterie-pilkan__0993224_pe820453_s5.jpg",
+        "mainImageAlt": "NYSJÖN / BJÖRKÅN Koupelnový nábytek, sada 5 ks, bílá/Baterie Pilkån, 54x40x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny NYSJÖN", "key": "700459" },
+            { "name": "Úložné prostory a zrcadla NYSJÖN", "key": "700494" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "79419684",
+    "name": "NYSJÖN / BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4088 }]
+}

@@ -1,0 +1,90 @@
+{
+    "id": {
+        "name": "HEMNES / RÄTTVIKEN",
+        "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+        "itemMeasureReferenceText": "82x49x89 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer__0486807_pe622231_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer-s69386556/",
+        "id": "s69386556",
+        "itemNoGlobal": "69386556",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s49293695",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer-s49293695/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0382321_pe557149_s5.jpg",
+                    "imageAlt": "HEMNES / RÄTTVIKEN Umyvadlová skříňka se 2 zásuvkami, bílá/Baterie Runskär, 82x49x93 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 3,
+                    "name": "HEMNES / RÄTTVIKEN",
+                    "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+                    "itemMeasureReferenceText": "82x49x93 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0382321_pe557149_s5.jpg",
+                    "mainImageAlt": "HEMNES / RÄTTVIKEN Umyvadlová skříňka se 2 zásuvkami, bílá/Baterie Runskär, 82x49x93 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-runskaer__0412779_pe570524_s5.jpg",
+                    "itemNoGlobal": "49293695",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "49293695",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 11280,
+                        "current": { "prefix": "", "wholeNumber": "11 280", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "69386556",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 11280,
+            "current": { "prefix": "", "wholeNumber": "11 280", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-raettviken-umyvadlova-skrinka-se-2-zasuvkami-seda-baterie-runskaer__0492371_pe625635_s5.jpg",
+        "mainImageAlt": "HEMNES / RÄTTVIKEN Umyvadlová skříňka se 2 zásuvkami, šedá/Baterie Runskär, 82x49x89 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Umyvadlové skříňky HEMNES s umyvadlem", "key": "700481" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "69386556",
+    "name": "HEMNES / RÄTTVIKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 11280 }]
+}

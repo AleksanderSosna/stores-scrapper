@@ -1,0 +1,10 @@
+{
+    "id": "s79495885",
+    "itemNo": "79495885",
+    "name": "PRAKTLYSING",
+    "categoryKey": "tl001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 948 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4980 }
+    ]
+}

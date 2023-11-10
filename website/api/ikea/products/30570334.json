@@ -1,1 +1,55 @@
-{ "id": "30570334", "name": "KORVTRÄD", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 169 }] }
+{
+    "id": {
+        "name": "KORVTRÄD",
+        "typeName": "Nástěnné hodiny",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/korvtraed-nastenne-hodiny-nizke-napeti-barevna__1212460_pe910659_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/korvtraed-nastenne-hodiny-nizke-napeti-barevna-30570334/",
+        "id": "30570334",
+        "itemNoGlobal": "30570334",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "30570334",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 169,
+            "current": { "prefix": "", "wholeNumber": "169", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/korvtraed-nastenne-hodiny-nizke-napeti-barevna__1212459_pe910660_s5.jpg",
+        "mainImageAlt": "KORVTRÄD Nástěnné hodiny, nízké napětí/barevná, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Clocks",
+            "productAreaNo": "1643",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Hodiny", "key": "10759" },
+            { "name": "Nástěnné a stolní hodiny", "key": "10785" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30570334",
+    "name": "KORVTRÄD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 169 }]
+}

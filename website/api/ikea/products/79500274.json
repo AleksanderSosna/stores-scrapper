@@ -1,9 +1,0 @@
-{
-    "id": "79500274",
-    "name": "SKYTTA / MEHAMN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4975 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 24800 }
-    ]
-}

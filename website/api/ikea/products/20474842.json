@@ -1,1 +1,94 @@
-{ "id": "20474842", "name": "TROTTEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }] }
+{
+    "id": {
+        "name": "TROTTEN",
+        "typeName": "Szafka na kółkach",
+        "itemMeasureReferenceText": "35x47 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-na-kolkach-antracyt__1009429_pe827593_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-na-kolkach-antracyt-20474842/",
+        "id": "20474842",
+        "itemNoGlobal": "20474842",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00474763",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-na-kolkach-bialy-00474763/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-na-kolkach-bialy__1009431_pe827594_s5.jpg",
+                    "imageAlt": "TROTTEN Szafka na kółkach, biały, 35x47 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 5,
+                    "name": "TROTTEN",
+                    "typeName": "Szafka na kółkach",
+                    "itemMeasureReferenceText": "35x47 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-na-kolkach-bialy__1009431_pe827594_s5.jpg",
+                    "mainImageAlt": "TROTTEN Szafka na kółkach, biały, 35x47 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-na-kolkach-bialy__1192605_pe901181_s5.jpg",
+                    "itemNoGlobal": "00474763",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00474763",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 229,
+                        "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 5,
+        "itemNo": "20474842",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-na-kolkach-antracyt__1192525_pe901127_s5.jpg",
+        "mainImageAlt": "TROTTEN Szafka na kółkach, antracyt, 35x47 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Systemy stołów i biurek", "key": "47423" },
+            { "name": "System TROTTEN", "key": "55989" },
+            { "name": "Kontenerki i przechowywanie TROTTEN", "key": "55992" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20474842",
+    "name": "TROTTEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }]
+}

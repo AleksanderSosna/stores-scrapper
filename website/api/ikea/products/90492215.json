@@ -1,1 +1,97 @@
-{ "id": "90492215", "name": "ALMTJÄRN", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "ALMTJÄRN",
+        "typeName": "Předložka na WC",
+        "itemMeasureReferenceText": "55x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/almtjaern-predlozka-na-wc-bezova__0925046_pe788689_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/almtjaern-predlozka-na-wc-bezova-90492215/",
+        "id": "90492215",
+        "itemNoGlobal": "90492215",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50557162",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/almtjaern-predlozka-na-wc-modra-50557162/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/almtjaern-predlozka-na-wc-modra__1157260_pe887568_s5.jpg",
+                    "imageAlt": "ALMTJÄRN Předložka na WC, modrá, 55x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 67,
+                    "name": "ALMTJÄRN",
+                    "typeName": "Předložka na WC",
+                    "itemMeasureReferenceText": "55x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/almtjaern-predlozka-na-wc-modra__1157260_pe887568_s5.jpg",
+                    "mainImageAlt": "ALMTJÄRN Předložka na WC, modrá, 55x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/almtjaern-predlozka-na-wc-modra__1157259_pe887569_s5.jpg",
+                    "itemNoGlobal": "50557162",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50557162",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 349,
+                        "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 67,
+        "itemNo": "90492215",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "ALMTJÄRN Předložka na WC, béžová, 55x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Bathmats",
+            "productAreaNo": "1132",
+            "productRangeAreaName": "Bath textiles",
+            "productRangeAreaNo": "113"
+        },
+        "categoryPath": [
+            { "name": "Koberce, předložky a podlahy", "key": "rm001" },
+            { "name": "Koupelnové předložky", "key": "20519" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90492215",
+    "name": "ALMTJÄRN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

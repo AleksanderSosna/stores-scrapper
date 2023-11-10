@@ -1,1 +1,55 @@
-{ "id": "40559816", "name": "STUBBERGET", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }] }
+{
+    "id": {
+        "name": "STUBBERGET",
+        "typeName": "Wspornik na 2 monitory",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stubberget-wspornik-na-2-monitory-czarny__1225092_pe915137_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stubberget-wspornik-na-2-monitory-czarny-40559816/",
+        "id": "40559816",
+        "itemNoGlobal": "40559816",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 4,
+        "itemNo": "40559816",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stubberget-wspornik-na-2-monitory-czarny__1207950_pe908254_s5.jpg",
+        "mainImageAlt": "STUBBERGET Wspornik na 2 monitory, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Akcesoria biurowe", "key": "10573" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40559816",
+    "name": "STUBBERGET",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 149 }]
+}

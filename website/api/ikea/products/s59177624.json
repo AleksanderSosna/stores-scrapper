@@ -1,0 +1,10 @@
+{
+    "id": "s59177624",
+    "itemNo": "59177624",
+    "name": "BILLY / OXBERG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1770 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11380 }
+    ]
+}

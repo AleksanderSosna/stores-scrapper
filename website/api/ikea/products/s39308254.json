@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "KUNGSFORS",
+        "typeName": "Tyč s háčky, stoj. tablet a 1 nád.",
+        "itemMeasureReferenceText": "112 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kungsfors-tyc-s-hacky-stoj-tablet-a-1-nad-nerezavejici-ocel__0766244_pe753741_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kungsfors-tyc-s-hacky-stoj-tablet-a-1-nad-nerezavejici-ocel-s39308254/",
+        "id": "s39308254",
+        "itemNoGlobal": "39308254",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemNo": "39308254",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 805,
+            "current": { "prefix": "", "wholeNumber": "805", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "KUNGSFORS Tyč s háčky, stoj. tablet a 1 nád., nerezavějící ocel, 112 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Boards and wall organisers",
+            "productAreaNo": "1821",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské nástěnné úložné prostory", "key": "20676" },
+            { "name": "Nástěnné organizéry", "key": "20677" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39308254",
+    "name": "KUNGSFORS",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 805 }]
+}

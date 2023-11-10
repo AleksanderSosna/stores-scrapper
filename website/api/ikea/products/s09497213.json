@@ -1,0 +1,10 @@
+{
+    "id": "s09497213",
+    "itemNo": "09497213",
+    "name": "JÄTTESTA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10580 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s29439793",
+    "itemNo": "29439793",
+    "name": "SVARTISDAL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1325 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6900 }
+    ]
+}

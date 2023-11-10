@@ -1,0 +1,10 @@
+{
+    "id": "s79527773",
+    "itemNo": "79527773",
+    "name": "REGNSKUR / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 379 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1789 }
+    ]
+}

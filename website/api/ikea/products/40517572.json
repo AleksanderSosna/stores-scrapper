@@ -1,1 +1,92 @@
-{ "id": "40517572", "name": "FINMAT", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 349 }] }
+{
+    "id": {
+        "name": "FINMAT",
+        "typeName": "Garnek z pokrywką",
+        "itemMeasureReferenceText": "3 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/finmat-garnek-z-pokrywka-miedz-stal-nierdz__1084541_pe867982_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/finmat-garnek-z-pokrywka-miedz-stal-nierdz-40517572/",
+        "id": "40517572",
+        "itemNoGlobal": "40517572",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20517573",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/finmat-garnek-z-pokrywka-miedz-stal-nierdz-20517573/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/finmat-garnek-z-pokrywka-miedz-stal-nierdz__1104947_pe867985_s5.jpg",
+                    "imageAlt": "FINMAT Garnek z pokrywką, miedź/stal nierdz, 5 l",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 6,
+                    "name": "FINMAT",
+                    "typeName": "Garnek z pokrywką",
+                    "itemMeasureReferenceText": "5 l",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/finmat-garnek-z-pokrywka-miedz-stal-nierdz__1104947_pe867985_s5.jpg",
+                    "mainImageAlt": "FINMAT Garnek z pokrywką, miedź/stal nierdz, 5 l",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/finmat-garnek-z-pokrywka-miedz-stal-nierdz__1104946_pe867986_s5.jpg",
+                    "itemNoGlobal": "20517573",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20517573",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 6,
+        "itemNo": "40517572",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/finmat-garnek-z-pokrywka-miedz-stal-nierdz__1084539_pe867981_s5.jpg",
+        "mainImageAlt": "FINMAT Garnek z pokrywką, miedź/stal nierdz, 3 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pots and cooking accessories",
+            "productAreaNo": "1411",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Garnki i rondle", "key": "20633" },
+            { "name": "Garnki", "key": "20634" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40517572",
+    "name": "FINMAT",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 349 }]
+}

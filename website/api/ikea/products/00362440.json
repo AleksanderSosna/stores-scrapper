@@ -1,1 +1,54 @@
-{ "id": "00362440", "name": "KLOTULLÖRT", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "KLOTULLÖRT",
+        "typeName": "Poduszka",
+        "itemMeasureReferenceText": "40x140 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/klotulloert-poduszka-bialy__0491319_pe624988_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/klotulloert-poduszka-bialy-00362440/",
+        "id": "00362440",
+        "itemNoGlobal": "00362440",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 30,
+        "itemNo": "00362440",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/klotulloert-poduszka-bialy__0458717_pe605657_s5.jpg",
+        "mainImageAlt": "KLOTULLÖRT Poduszka, biały, 40x140 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Poduszki", "key": "20533" },
+            { "name": "Poduszki poliestrowe", "key": "20534" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00362440",
+    "name": "KLOTULLÖRT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s29528237",
+    "itemNo": "29528237",
+    "name": "NACKANÄS / SKOGSBO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3395 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17450 }
+    ]
+}

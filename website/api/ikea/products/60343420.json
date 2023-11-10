@@ -1,1 +1,88 @@
-{ "id": "60343420", "name": "RIAN", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }] }
+{
+    "id": {
+        "name": "RIAN",
+        "typeName": "Odkládací stolek",
+        "itemMeasureReferenceText": "50x30 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/rian-odkladaci-stolek-cerna__0472744_pe614249_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/rian-odkladaci-stolek-cerna-60343420/",
+        "id": "60343420",
+        "itemNoGlobal": "60343420",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80343419",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/rian-odkladaci-stolek-bila-80343419/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/rian-odkladaci-stolek-bila__0472747_pe614250_s5.jpg",
+                    "imageAlt": "RIAN Odkládací stolek, bílá, 50x30 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "RIAN",
+                    "typeName": "Odkládací stolek",
+                    "itemMeasureReferenceText": "50x30 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/rian-odkladaci-stolek-bila__0472747_pe614250_s5.jpg",
+                    "mainImageAlt": "RIAN Odkládací stolek, bílá, 50x30 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/rian-odkladaci-stolek-bila__0836415_pe668858_s5.jpg",
+                    "itemNoGlobal": "80343419",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80343419",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 799,
+                        "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Novinka",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60343420",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 799,
+            "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/rian-odkladaci-stolek-cerna__0836374_pe668859_s5.jpg",
+        "mainImageAlt": "RIAN Odkládací stolek, černá, 50x30 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa tables",
+            "productAreaNo": "0121",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Stolky do obývacího pokoje", "key": "10705" },
+            { "name": "Odkládací a příruční stolky", "key": "10717" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60343420",
+    "name": "RIAN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 799 }]
+}

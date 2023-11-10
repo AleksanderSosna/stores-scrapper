@@ -1,1 +1,54 @@
-{ "id": "10552897", "name": "MÄVINN", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "40x58 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-povlak-na-polstar-barevne__1171465_pe893078_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-povlak-na-polstar-barevne-10552897/",
+        "id": "10552897",
+        "itemNoGlobal": "10552897",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10552897",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-povlak-na-polstar-barevne__1200373_ph192797_s5.jpg",
+        "mainImageAlt": "MÄVINN Povlak na polštář, barevné, 40x58 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10552897",
+    "name": "MÄVINN",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

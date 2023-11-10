@@ -1,9 +1,0 @@
-{
-    "id": "69437909",
-    "name": "AULI",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1300 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6900 }
-    ]
-}

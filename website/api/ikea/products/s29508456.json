@@ -1,0 +1,60 @@
+{
+    "id": {
+        "name": "TRÅDFRI",
+        "typeName": "Startovací sada",
+        "itemMeasureReferenceText": "E27",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-startovaci-sada-chytre-bezdratove-stmivatelne-teple-bile-kulata__1170281_pe892756_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/tradfri-startovaci-sada-chytre-bezdratove-stmivatelne-teple-bile-kulata-s29508456/",
+        "id": "s29508456",
+        "itemNoGlobal": "99505954",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 2,
+        "itemNo": "29508456",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 428,
+            "current": { "prefix": "", "wholeNumber": "428", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "478", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/tradfri-startovaci-sada-chytre-bezdratove-stmivatelne-teple-bile-kulata__0842258_pe781834_s5.jpg",
+        "mainImageAlt": "TRÅDFRI Startovací sada, chytré bezdrátové, stmívatelné/teplé bílé kulatá, E27",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Smart Lighting",
+            "productAreaNo": "1032",
+            "productRangeAreaName": "Light sources and Smart Lighting",
+            "productRangeAreaNo": "103"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Chytré osvětlení", "key": "36812" },
+            { "name": "Chytré LED žárovky", "key": "36813" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29508456",
+    "name": "TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 428 }]
+}

@@ -1,1 +1,88 @@
-{ "id": "70490383", "name": "SAGESUND", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }] }
+{
+    "id": {
+        "name": "SAGESUND",
+        "typeName": "Čalouněný rám postele",
+        "itemMeasureReferenceText": "180x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sagesund-calouneny-ram-postele-diseroed-hneda__1124332_pe888920_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sagesund-calouneny-ram-postele-diseroed-hneda-70490383/",
+        "id": "70490383",
+        "itemNoGlobal": "70490383",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30490380",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/sagesund-calouneny-ram-postele-diseroed-hneda-30490380/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/sagesund-calouneny-ram-postele-diseroed-hneda__1124332_pe888920_s5.jpg",
+                    "imageAlt": "SAGESUND Čalouněný rám postele, Diseröd hnědá, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SAGESUND",
+                    "typeName": "Čalouněný rám postele",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sagesund-calouneny-ram-postele-diseroed-hneda__1124332_pe888920_s5.jpg",
+                    "mainImageAlt": "SAGESUND Čalouněný rám postele, Diseröd hnědá, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sagesund-calouneny-ram-postele-diseroed-hneda__1124333_pe888921_s5.jpg",
+                    "itemNoGlobal": "30490380",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30490380",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 9990,
+                        "current": { "prefix": "", "wholeNumber": "9 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Novinka",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozměr", "count": 2, "label": "2 rozměry" }]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70490383",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 10990,
+            "current": { "prefix": "", "wholeNumber": "10 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sagesund-calouneny-ram-postele-diseroed-hneda__1124333_pe888921_s5.jpg",
+        "mainImageAlt": "SAGESUND Čalouněný rám postele, Diseröd hnědá, 180x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Postele", "key": "bm003" },
+            { "name": "Manželské postele", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70490383",
+    "name": "SAGESUND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }]
+}

@@ -1,1 +1,54 @@
-{ "id": "60470347", "name": "KÖLDKNÄPP", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "KÖLDKNÄPP",
+        "typeName": "Oświetlenie dekoracyjne LED",
+        "itemMeasureReferenceText": "11 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/koeldknaepp-oswietlenie-dekoracyjne-led-na-baterie__0540524_pe653011_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/koeldknaepp-oswietlenie-dekoracyjne-led-na-baterie-60470347/",
+        "id": "60470347",
+        "itemNoGlobal": "60470347",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "60470347",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/koeldknaepp-oswietlenie-dekoracyjne-led-na-baterie__0903996_pe653012_s5.jpg",
+        "mainImageAlt": "KÖLDKNÄPP Oświetlenie dekoracyjne LED, na baterie, 11 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candles and atmosphere light",
+            "productAreaNo": "1632",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Kolekcja świąteczna", "key": "wt001" },
+            { "name": "Oświetlenie świąteczne", "key": "49150" },
+            { "name": "Dekoracyjne oświetlenie stołu", "key": "700179" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "60470347",
+    "name": "KÖLDKNÄPP",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

@@ -1,1 +1,55 @@
-{ "id": "10561019", "name": "KUSTFYR", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "KUSTFYR",
+        "typeName": "Sztuczny liść",
+        "itemMeasureReferenceText": "65 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kustfyr-sztuczny-lisc-eukaliptus-czarny__1184642_pe898001_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kustfyr-sztuczny-lisc-eukaliptus-czarny-10561019/",
+        "id": "10561019",
+        "itemNoGlobal": "10561019",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10561019",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kustfyr-sztuczny-lisc-eukaliptus-czarny__1187249_pe899130_s5.jpg",
+        "mainImageAlt": "KUSTFYR Sztuczny liść, eukaliptus/czarny, 65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Rośliny i kwiaty", "key": "pp003" },
+            { "name": "Sztuczne rośliny i kwiaty", "key": "20492" },
+            { "name": "Sztuczne kwiaty cięte", "key": "700516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "10561019",
+    "name": "KUSTFYR",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

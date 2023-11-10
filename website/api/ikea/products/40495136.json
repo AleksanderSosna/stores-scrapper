@@ -1,1 +1,51 @@
-{ "id": "40495136", "name": "YTTERSKÄR", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "YTTERSKÄR",
+        "typeName": "Parawan, na zewnątrz",
+        "itemMeasureReferenceText": "185x150 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ytterskaer-parawan-na-zewnatrz-szary__1035314_pe838021_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ytterskaer-parawan-na-zewnatrz-szary-40495136/",
+        "id": "40495136",
+        "itemNoGlobal": "40495136",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40495136",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ytterskaer-parawan-na-zewnatrz-szary__1082534_pe858690_s5.jpg",
+        "mainImageAlt": "YTTERSKÄR Parawan, na zewnątrz, szary, 185x150 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor accessories & covers",
+            "productAreaNo": "1721",
+            "productRangeAreaName": "Outdoor accessories & covers",
+            "productRangeAreaNo": "172"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parawany i osłony balkonowe", "key": "17895" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40495136",
+    "name": "YTTERSKÄR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

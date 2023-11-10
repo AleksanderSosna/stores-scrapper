@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / TYSSEDAL",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "200x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-kombinacja-szafy-bialy-lustro__0935352_pe792752_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-tyssedal-kombinacja-szafy-bialy-lustro-s89395814/",
+        "id": "s89395814",
+        "itemNoGlobal": "89395814",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s39395816",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-tyssedal-kombinacja-szafy-bialy-lustro-s39395816/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-kombinacja-szafy-bialy-lustro__0935353_pe792731_s5.jpg",
+                    "imageAlt": "PAX / TYSSEDAL Kombinacja szafy, biały/lustro, 200x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / TYSSEDAL",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "200x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-kombinacja-szafy-bialy-lustro__0935353_pe792731_s5.jpg",
+                    "mainImageAlt": "PAX / TYSSEDAL Kombinacja szafy, biały/lustro, 200x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-kombinacja-szafy-bialy-lustro__0935385_pe792781_s5.jpg",
+                    "itemNoGlobal": "39395816",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39395816",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3650,
+                        "current": { "prefix": "", "wholeNumber": "3 650", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89395814",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3265,
+            "current": { "prefix": "", "wholeNumber": "3 265", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-kombinacja-szafy-bialy-lustro__0935384_pe792780_s5.jpg",
+        "mainImageAlt": "PAX / TYSSEDAL Kombinacja szafy, biały/lustro, 200x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89395814",
+    "name": "PAX / TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3265 }]
+}

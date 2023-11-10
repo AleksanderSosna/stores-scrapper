@@ -1,1 +1,58 @@
-{ "id": "30562739", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Umělé květiny",
+        "itemMeasureReferenceText": "55 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-trapatka-srstnata-kmen-oranzova__1188156_pe899383_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/smycka-umele-kvetiny-trapatka-srstnata-kmen-oranzova-30562739/",
+        "id": "30562739",
+        "itemNoGlobal": "30562739",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "oranžová", "id": "10112", "hex": "ff9a02" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30562739",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 69,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-trapatka-srstnata-kmen-oranzova__1213377_pe911122_s5.jpg",
+        "mainImageAlt": "SMYCKA Umělé květiny, Třapatka srstnatá/kmen oranžová, 55 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Rostliny a květiny", "key": "pp003" },
+            { "name": "Umělé rostliny a květiny", "key": "20492" },
+            { "name": "Umělé řezané květiny", "key": "700516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30562739",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }]
+}

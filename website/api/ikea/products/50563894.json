@@ -1,1 +1,58 @@
-{ "id": "50563894", "name": "KUSTFYR", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }] }
+{
+    "id": {
+        "name": "KUSTFYR",
+        "typeName": "Svícen na čaj. svíčky",
+        "itemMeasureReferenceText": "130 mm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kustfyr-svicen-na-caj-svicky-dyne__1193275_pe901402_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kustfyr-svicen-na-caj-svicky-dyne-50563894/",
+        "id": "50563894",
+        "itemNoGlobal": "50563894",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "oranžová", "id": "10112", "hex": "ff9a02" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "50563894",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 349,
+            "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kustfyr-svicen-na-caj-svicky-dyne__1193273_pe901404_s5.jpg",
+        "mainImageAlt": "KUSTFYR Svícen na čaj. svíčky, dýně, 130 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Svícny", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50563894",
+    "name": "KUSTFYR",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 349 }]
+}

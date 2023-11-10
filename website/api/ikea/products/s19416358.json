@@ -1,0 +1,10 @@
+{
+    "id": "s19416358",
+    "itemNo": "19416358",
+    "name": "LINNMON / OLOV",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1199 }
+    ]
+}

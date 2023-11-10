@@ -1,1 +1,92 @@
-{ "id": "10550978", "name": "EKRAR", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99 }] }
+{
+    "id": {
+        "name": "EKRAR",
+        "typeName": "Wieszak stojący",
+        "itemMeasureReferenceText": "169 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ekrar-wieszak-stojacy-szarozielony__1154302_pe885976_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ekrar-wieszak-stojacy-szarozielony-10550978/",
+        "id": "10550978",
+        "itemNoGlobal": "10550978",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10415594",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ekrar-wieszak-stojacy-bialy-10415594/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ekrar-wieszak-stojacy-bialy__0710637_pe727670_s5.jpg",
+                    "imageAlt": "EKRAR Wieszak stojący, biały, 169 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 58,
+                    "name": "EKRAR",
+                    "typeName": "Wieszak stojący",
+                    "itemMeasureReferenceText": "169 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ekrar-wieszak-stojacy-bialy__0710637_pe727670_s5.jpg",
+                    "mainImageAlt": "EKRAR Wieszak stojący, biały, 169 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ekrar-wieszak-stojacy-bialy__0598722_pe677789_s5.jpg",
+                    "itemNoGlobal": "10415594",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10415594",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 99,
+                        "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 58,
+        "itemNo": "10550978",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ekrar-wieszak-stojacy-szarozielony__1164516_pe890590_s5.jpg",
+        "mainImageAlt": "EKRAR Wieszak stojący, szarozielony, 169 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Hallway furniture",
+            "productAreaNo": "0435",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Szafki i stojaki na ubrania i buty", "key": "st005" },
+            { "name": "Wieszaki i stojaki na ubrania", "key": "49770" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "10550978",
+    "name": "EKRAR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99 }]
+}

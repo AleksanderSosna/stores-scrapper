@@ -1,0 +1,10 @@
+{
+    "id": "s29279474",
+    "itemNo": "29279474",
+    "name": "FORSAND",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 225 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }
+    ]
+}

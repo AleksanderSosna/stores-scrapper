@@ -1,0 +1,10 @@
+{
+    "id": "s39419902",
+    "itemNo": "39419902",
+    "name": "OMAR",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 796 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4869 }
+    ]
+}

@@ -1,1 +1,89 @@
-{ "id": "80513930", "name": "JÄTTEPOPPEL", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "JÄTTEPOPPEL",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/jaettepoppel-povlak-na-polstar-tmave-seda-bila__1015344_pe829996_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/jaettepoppel-povlak-na-polstar-tmave-seda-bila-80513930/",
+        "id": "80513930",
+        "itemNoGlobal": "80513930",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00513627",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/jaettepoppel-povlak-na-polstar-zelena-seda-00513627/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/jaettepoppel-povlak-na-polstar-zelena-seda__1015345_pe829997_s5.jpg",
+                    "imageAlt": "JÄTTEPOPPEL Povlak na polštář, zelená/šedá, 50x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 10,
+                    "name": "JÄTTEPOPPEL",
+                    "typeName": "Povlak na polštář",
+                    "itemMeasureReferenceText": "50x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/jaettepoppel-povlak-na-polstar-zelena-seda__1015345_pe829997_s5.jpg",
+                    "mainImageAlt": "JÄTTEPOPPEL Povlak na polštář, zelená/šedá, 50x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/jaettepoppel-povlak-na-polstar-zelena-seda__1015348_pe830000_s5.jpg",
+                    "itemNoGlobal": "00513627",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00513627",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 129,
+                        "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "80513930",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/jaettepoppel-povlak-na-polstar-tmave-seda-bila__1015346_pe830001_s5.jpg",
+        "mainImageAlt": "JÄTTEPOPPEL Povlak na polštář, tmavě šedá/bílá, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80513930",
+    "name": "JÄTTEPOPPEL",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

@@ -1,1 +1,89 @@
-{ "id": "20291574", "name": "VEDDINGE", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }] }
+{
+    "id": {
+        "name": "VEDDINGE",
+        "typeName": "Front do zmywarki",
+        "itemMeasureReferenceText": "45x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/veddinge-front-do-zmywarki-szary__0638386_pe698904_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/veddinge-front-do-zmywarki-szary-20291574/",
+        "id": "20291574",
+        "itemNoGlobal": "20291574",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90291575",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/veddinge-front-do-zmywarki-bialy-90291575/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/veddinge-front-do-zmywarki-bialy__0638389_pe698905_s5.jpg",
+                    "imageAlt": "VEDDINGE Front do zmywarki, biały, 45x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 4,
+                    "name": "VEDDINGE",
+                    "typeName": "Front do zmywarki",
+                    "itemMeasureReferenceText": "45x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/veddinge-front-do-zmywarki-bialy__0638389_pe698905_s5.jpg",
+                    "mainImageAlt": "VEDDINGE Front do zmywarki, biały, 45x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/veddinge-front-do-zmywarki-bialy__0863320_pe659573_s5.jpg",
+                    "itemNoGlobal": "90291575",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90291575",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 110,
+                        "current": { "prefix": "", "wholeNumber": "110", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "20291574",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 110,
+            "current": { "prefix": "", "wholeNumber": "110", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/veddinge-front-do-zmywarki-szary__0863450_pe682484_s5.jpg",
+        "mainImageAlt": "VEDDINGE Front do zmywarki, szary, 45x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Szare fronty VEDDINGE", "key": "700364" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20291574",
+    "name": "VEDDINGE",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }]
+}

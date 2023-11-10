@@ -1,1 +1,91 @@
-{ "id": "00474838", "name": "TROTTEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }] }
+{
+    "id": {
+        "name": "TROTTEN",
+        "typeName": "Szafka z przesuwanymi drzwiami",
+        "itemMeasureReferenceText": "80x55x75 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-przesuwanymi-drzwiami-antracyt__1009413_pe827585_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-z-przesuwanymi-drzwiami-antracyt-00474838/",
+        "id": "00474838",
+        "itemNoGlobal": "00474838",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40474761",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/trotten-szafka-z-przesuwanymi-drzwiami-bialy-40474761/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-przesuwanymi-drzwiami-bialy__1009414_pe827586_s5.jpg",
+                    "imageAlt": "TROTTEN Szafka z przesuwanymi drzwiami, biały, 80x55x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "TROTTEN",
+                    "typeName": "Szafka z przesuwanymi drzwiami",
+                    "itemMeasureReferenceText": "80x55x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-przesuwanymi-drzwiami-bialy__1009414_pe827586_s5.jpg",
+                    "mainImageAlt": "TROTTEN Szafka z przesuwanymi drzwiami, biały, 80x55x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-przesuwanymi-drzwiami-bialy__1192571_pe901156_s5.jpg",
+                    "itemNoGlobal": "40474761",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40474761",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "00474838",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-przesuwanymi-drzwiami-antracyt__1190782_pe900316_s5.jpg",
+        "mainImageAlt": "TROTTEN Szafka z przesuwanymi drzwiami, antracyt, 80x55x75 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office storage",
+            "productAreaNo": "0353",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Systemy stołów i biurek", "key": "47423" },
+            { "name": "System TROTTEN", "key": "55989" },
+            { "name": "Kontenerki i przechowywanie TROTTEN", "key": "55992" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00474838",
+    "name": "TROTTEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }]
+}

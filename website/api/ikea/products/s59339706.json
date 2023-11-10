@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "GODMORGON/TOLKEN / TÖRNVIKEN",
+        "typeName": "Szafka pod umywalkę z 3 szufladami",
+        "itemMeasureReferenceText": "122x49x74 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-toernviken-szafka-pod-umywalke-z-3-szufladami-gillburen-ciemnoszary-imitacja-marmuru-bateria-dalskaer__0831839_pe777418_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/godmorgon-tolken-toernviken-szafka-pod-umywalke-z-3-szufladami-gillburen-ciemnoszary-imitacja-marmuru-bateria-dalskaer-s59339706/",
+        "id": "s59339706",
+        "itemNoGlobal": "59339706",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59339706",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2398,
+            "current": { "prefix": "", "wholeNumber": "2 398", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-toernviken-szafka-pod-umywalke-z-3-szufladami-gillburen-ciemnoszary-imitacja-marmuru-bateria-dalskaer__0831840_pe777417_s5.jpg",
+        "mainImageAlt": "GODMORGON/TOLKEN / TÖRNVIKEN Szafka pod umywalkę z 3 szufladami, Gillburen ciemnoszary/imitacja marmuru bateria Dalskär, 122x49x74 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Meble łazienkowe", "key": "20719" },
+            { "name": "Szafki z umywalką", "key": "20720" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59339706",
+    "name": "GODMORGON/TOLKEN / TÖRNVIKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2398 }]
+}

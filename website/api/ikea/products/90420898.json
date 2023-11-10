@@ -1,1 +1,54 @@
-{ "id": "90420898", "name": "ALTAPPEN", "categoryKey": "rm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }] }
+{
+    "id": {
+        "name": "ALTAPPEN",
+        "typeName": "Płyta podłogowa, ogrodowa",
+        "itemMeasureReferenceText": "0.81 m²",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/altappen-plyta-podlogowa-ogrodowa-jasnoszary__0723465_pe733986_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/altappen-plyta-podlogowa-ogrodowa-jasnoszary-90420898/",
+        "id": "90420898",
+        "itemNoGlobal": "90420898",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 27,
+        "itemNo": "90420898",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 50,
+            "current": { "prefix": "", "wholeNumber": "50", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "priceUnit": "opakowanie",
+            "unitText": "opakowanie",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/altappen-plyta-podlogowa-ogrodowa-jasnoszary__0723466_pe733987_s5.jpg",
+        "mainImageAlt": "ALTAPPEN Płyta podłogowa, ogrodowa, jasnoszary, 0.81 m²",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor flooring",
+            "productAreaNo": "1718",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Podłogi na balkon i taras", "key": "21957" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90420898",
+    "name": "ALTAPPEN",
+    "categoryKey": "rm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }]
+}

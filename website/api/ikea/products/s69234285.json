@@ -1,0 +1,99 @@
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Úlož.sestava s dvířky/zásuvkami",
+        "itemMeasureReferenceText": "188x197 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-uloz-sestava-s-dvirky-zasuvkami-svetle-hneda-cire-sklo__0805269_pe769494_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-uloz-sestava-s-dvirky-zasuvkami-svetle-hneda-cire-sklo-s69234285/",
+        "id": "s69234285",
+        "itemNoGlobal": "69234285",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99234255",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-uloz-sestava-s-dvirky-zasuvkami-bile-moridlo-cire-sklo-s99234255/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-uloz-sestava-s-dvirky-zasuvkami-bile-moridlo-cire-sklo__0704178_pe725023_s5.jpg",
+                    "imageAlt": "HEMNES Úlož.sestava s dvířky/zásuvkami, bílé mořidlo/čiré sklo, 188x197 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "HEMNES",
+                    "typeName": "Úlož.sestava s dvířky/zásuvkami",
+                    "itemMeasureReferenceText": "188x197 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-uloz-sestava-s-dvirky-zasuvkami-bile-moridlo-cire-sklo__0704178_pe725023_s5.jpg",
+                    "mainImageAlt": "HEMNES Úlož.sestava s dvířky/zásuvkami, bílé mořidlo/čiré sklo, 188x197 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-uloz-sestava-s-dvirky-zasuvkami-bile-moridlo-cire-sklo__0704177_pe725025_s5.jpg",
+                    "itemNoGlobal": "99234255",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99234255",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 15570,
+                        "current": { "prefix": "", "wholeNumber": "15 570", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "16 570", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "69234285",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15570,
+            "current": { "prefix": "", "wholeNumber": "15 570", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "16 570", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-uloz-sestava-s-dvirky-zasuvkami-svetle-hneda-cire-sklo__0805268_pe769493_s5.jpg",
+        "mainImageAlt": "HEMNES Úlož.sestava s dvířky/zásuvkami, světle hnědá/čiré sklo, 188x197 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Display cabinets",
+            "productAreaNo": "0221",
+            "productRangeAreaName": "Display furniture",
+            "productRangeAreaNo": "022"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Vitríny", "key": "10410" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69234285",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15570 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "19496500",
-    "name": "SAGESUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12590 }
-    ]
-}

@@ -1,0 +1,86 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "5m.rohová rozkl. pohovka s lenoškou",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-zlatohneda__0817695_pe776079_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-zlatohneda-s69477373/",
+        "id": "s69477373",
+        "itemNoGlobal": "69477373",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79477377",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-cerna-s79477377/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-cerna__0817697_pe776081_s5.jpg",
+                    "imageAlt": "VIMLE 5m.rohová rozkl. pohovka s lenoškou, Grann/Bomstad černá",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "name": "VIMLE",
+                    "typeName": "5m.rohová rozkl. pohovka s lenoškou",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-cerna__0817697_pe776081_s5.jpg",
+                    "mainImageAlt": "VIMLE 5m.rohová rozkl. pohovka s lenoškou, Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-cerna__0816918_pe773753_s5.jpg",
+                    "itemNoGlobal": "79477377",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "79477377",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 76980,
+                        "current": { "prefix": "", "wholeNumber": "76 980", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "itemNo": "69477373",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 76980,
+            "current": { "prefix": "", "wholeNumber": "76 980", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-5m-rohova-rozkl-pohovka-s-lenoskou-grann-bomstad-zlatohneda__0817363_pe773989_s5.jpg",
+        "mainImageAlt": "VIMLE 5m.rohová rozkl. pohovka s lenoškou, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Rozkládací pohovky a křesla", "key": "10663" },
+            { "name": "Rozkládací pohovky a sedací soupravy", "key": "20874" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "69477373",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 76980 }]
+}

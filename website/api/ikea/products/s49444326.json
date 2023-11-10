@@ -1,0 +1,10 @@
+{
+    "id": "s49444326",
+    "itemNo": "49444326",
+    "name": "FRIHETEN / KLAGSHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15280 }
+    ]
+}

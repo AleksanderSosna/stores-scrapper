@@ -1,9 +1,0 @@
-{
-    "id": "79433128",
-    "name": "PAX / AULI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2510 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12800 }
-    ]
-}

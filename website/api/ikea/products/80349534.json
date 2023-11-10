@@ -1,1 +1,53 @@
-{ "id": "80349534", "name": "RICKARUM", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "RICKARUM",
+        "typeName": "Lampa stołowa",
+        "itemMeasureReferenceText": "47 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/rickarum-lampa-stolowa-srebrny__0683820_pe720872_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/rickarum-lampa-stolowa-srebrny-80349534/",
+        "id": "80349534",
+        "itemNoGlobal": "80349534",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 49,
+        "itemNo": "80349534",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/rickarum-lampa-stolowa-srebrny__0880952_pe636135_s5.jpg",
+        "mainImageAlt": "RICKARUM Lampa stołowa, srebrny, 47 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Table lamps",
+            "productAreaNo": "1012",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80349534",
+    "name": "RICKARUM",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

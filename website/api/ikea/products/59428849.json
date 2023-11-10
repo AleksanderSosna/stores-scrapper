@@ -1,9 +1,0 @@
-{
-    "id": "59428849",
-    "name": "VANGSTA / KÄTTIL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1295 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8950 }
-    ]
-}

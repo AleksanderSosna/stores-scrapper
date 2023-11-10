@@ -1,0 +1,117 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "140x32x204 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-blady-szaro-zielony__1153739_pe885807_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-blady-szaro-zielony-s09497326/",
+        "id": "s09497326",
+        "itemNoGlobal": "09497326",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s89477466",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-dab-s89477466/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-dab__1082971_pe858901_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały/dąb, 140x32x204 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "140x32x204 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-dab__1082971_pe858901_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały/dąb, 140x32x204 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-dab__1096344_pe864317_s5.jpg",
+                    "itemNoGlobal": "89477466",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89477466",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 934,
+                        "current": { "prefix": "", "wholeNumber": "934", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s49477468",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-s49477468/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1082968_pe858897_s5.jpg",
+                    "imageAlt": "ENHET Regał, biały, 140x32x204 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Regał",
+                    "itemMeasureReferenceText": "140x32x204 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1082968_pe858897_s5.jpg",
+                    "mainImageAlt": "ENHET Regał, biały, 140x32x204 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy__1096341_pe864314_s5.jpg",
+                    "itemNoGlobal": "49477468",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49477468",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 863,
+                        "current": { "prefix": "", "wholeNumber": "863", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09497326",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 969,
+            "current": { "prefix": "", "wholeNumber": "969", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-blady-szaro-zielony__1157838_pe887878_s5.jpg",
+        "mainImageAlt": "ENHET Regał, biały/blady szaro-zielony, 140x32x204 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Kombinacje pamięci masowych ENHET", "key": "700489" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09497326",
+    "name": "ENHET",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 969 }]
+}

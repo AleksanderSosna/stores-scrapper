@@ -1,1 +1,55 @@
-{ "id": "50524355", "name": "HÄSTHAGE", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2.99 }] }
+{
+    "id": {
+        "name": "HÄSTHAGE",
+        "typeName": "Gąbka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/haesthage-gabka-czarny-bialy__1062275_pe850730_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/haesthage-gabka-czarny-bialy-50524355/",
+        "id": "50524355",
+        "itemNoGlobal": "50524355",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 13,
+        "itemNo": "50524355",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2.99,
+            "current": { "prefix": "", "wholeNumber": "2", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/haesthage-gabka-czarny-bialy__1062273_pe850729_s5.jpg",
+        "mainImageAlt": "HÄSTHAGE Gąbka, czarny/biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Organisers and washing-up",
+            "productAreaNo": "1433",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Akcesoria do sprzątania", "key": "20609" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50524355",
+    "name": "HÄSTHAGE",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2.99 }]
+}

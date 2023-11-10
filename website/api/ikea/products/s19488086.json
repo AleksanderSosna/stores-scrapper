@@ -1,0 +1,99 @@
+{
+    "id": {
+        "name": "SONGESAND",
+        "typeName": "Zestaw mebli do sypialni 4 szt",
+        "itemMeasureReferenceText": "140x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-zestaw-mebli-do-sypialni-4-szt-bialy__1101625_pe866466_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/songesand-zestaw-mebli-do-sypialni-4-szt-bialy-s19488086/",
+        "id": "s19488086",
+        "itemNoGlobal": "19488086",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19483395",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/songesand-zestaw-mebli-do-sypialni-4-szt-bialy-s19483395/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-zestaw-mebli-do-sypialni-4-szt-bialy__1101625_pe866466_s5.jpg",
+                    "imageAlt": "SONGESAND Zestaw mebli do sypialni 4 szt, biały, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SONGESAND",
+                    "typeName": "Zestaw mebli do sypialni 4 szt",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-zestaw-mebli-do-sypialni-4-szt-bialy__1101625_pe866466_s5.jpg",
+                    "mainImageAlt": "SONGESAND Zestaw mebli do sypialni 4 szt, biały, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-zestaw-mebli-do-sypialni-4-szt-bialy__1102126_pe866516_s5.jpg",
+                    "itemNoGlobal": "19483395",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19483395",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2796,
+                        "current": { "prefix": "", "wholeNumber": "2 796", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "previous": { "prefix": "", "wholeNumber": "2 896", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "2 896", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "validFrom": "2023-10-03",
+                        "validTo": "2024-08-31",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nowa\nniższa\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "19488086",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2696,
+            "current": { "prefix": "", "wholeNumber": "2 696", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "2 796", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "2 796", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-03",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/songesand-zestaw-mebli-do-sypialni-4-szt-bialy__1102126_pe866516_s5.jpg",
+        "mainImageAlt": "SONGESAND Zestaw mebli do sypialni 4 szt, biały, 140x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Zestawy mebli do sypialni", "key": "54992" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19488086",
+    "name": "SONGESAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2696 }]
+}

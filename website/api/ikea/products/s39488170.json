@@ -1,0 +1,10 @@
+{
+    "id": "s39488170",
+    "itemNo": "39488170",
+    "name": "DUNVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 7027 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 37970 }
+    ]
+}

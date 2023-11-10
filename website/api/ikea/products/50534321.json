@@ -1,1 +1,103 @@
-{ "id": "50534321", "name": "FRÖSVI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }] }
+{
+    "id": {
+        "name": "FRÖSVI",
+        "typeName": "Skládací židle",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/froesvi-skladaci-zidle-cerna-knisa-tmave-seda__0978930_pe814356_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/froesvi-skladaci-zidle-cerna-knisa-tmave-seda-50534321/",
+        "id": "50534321",
+        "itemNoGlobal": "50534321",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20534332",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/froesvi-skladaci-zidle-bila-knisa-svetle-seda-20534332/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/froesvi-skladaci-zidle-bila-knisa-svetle-seda__1284077_pe932748_s5.jpg",
+                    "imageAlt": "FRÖSVI Skládací židle, bílá/Knisa světle šedá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4,
+                    "ratingCount": 1,
+                    "name": "FRÖSVI",
+                    "typeName": "Skládací židle",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/froesvi-skladaci-zidle-bila-knisa-svetle-seda__1284077_pe932748_s5.jpg",
+                    "mainImageAlt": "FRÖSVI Skládací židle, bílá/Knisa světle šedá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/froesvi-skladaci-zidle-bila-knisa-svetle-seda__1190175_pe900119_s5.jpg",
+                    "itemNoGlobal": "20534332",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20534332",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 699,
+                        "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-17",
+                        "validTo": "2024-04-13",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 1,
+        "itemNo": "50534321",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/froesvi-skladaci-zidle-cerna-knisa-tmave-seda__0979522_pe814583_s5.jpg",
+        "mainImageAlt": "FRÖSVI Skládací židle, černá/Knisa tmavě šedá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Upholstered chairs",
+            "productAreaNo": "0824",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Jídelní židle", "key": "25219" },
+            { "name": "Skládací židle", "key": "25222" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50534321",
+    "name": "FRÖSVI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }]
+}

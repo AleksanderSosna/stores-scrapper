@@ -1,1 +1,96 @@
-{ "id": "20299315", "name": "VATTENAX", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }] }
+{
+    "id": {
+        "name": "VATTENAX",
+        "typeName": "Závěs",
+        "itemMeasureReferenceText": "60x300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vattenax-zaves-seda-bila__0369113_pe551096_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vattenax-zaves-seda-bila-20299315/",
+        "id": "20299315",
+        "itemNoGlobal": "20299315",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50299314",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vattenax-zaves-bila-bila-50299314/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vattenax-zaves-bila-bila__0369115_pe551098_s5.jpg",
+                    "imageAlt": "VATTENAX Závěs, bílá/bílá, 60x300 cm",
+                    "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52517", "name": "Vytváří soukromí", "typeName": "Filtrace světla" }],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 13,
+                    "name": "VATTENAX",
+                    "typeName": "Závěs",
+                    "itemMeasureReferenceText": "60x300 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vattenax-zaves-bila-bila__0369115_pe551098_s5.jpg",
+                    "mainImageAlt": "VATTENAX Závěs, bílá/bílá, 60x300 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vattenax-zaves-bila-bila__0369116_pe551099_s5.jpg",
+                    "itemNoGlobal": "50299314",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50299314",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "priceUnit": "3 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52517", "name": "Vytváří soukromí", "typeName": "Filtrace světla" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 13,
+        "itemNo": "20299315",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "3 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vattenax-zaves-seda-bila__0369114_pe551097_s5.jpg",
+        "mainImageAlt": "VATTENAX Závěs, šedá/bílá, 60x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Závěsy", "key": "10700" },
+            { "name": "Panelové závěsy", "key": "10702" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20299315",
+    "name": "VATTENAX",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }]
+}

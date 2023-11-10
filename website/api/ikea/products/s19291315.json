@@ -1,0 +1,10 @@
+{
+    "id": "s19291315",
+    "itemNo": "19291315",
+    "name": "HÄLLAN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

@@ -1,1 +1,163 @@
-{ "id": "10480848", "name": "ÅGOTNES", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 329 }] }
+{
+    "id": {
+        "name": "ÅGOTNES",
+        "typeName": "Materac piankowy",
+        "itemMeasureReferenceText": "160x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986608_pe818097_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-10480848/",
+        "id": "10480848",
+        "itemNoGlobal": "10480848",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "00480858",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-00480858/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986609_pe818096_s5.jpg",
+                    "imageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 90x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 107,
+                    "name": "ÅGOTNES",
+                    "typeName": "Materac piankowy",
+                    "itemMeasureReferenceText": "90x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986609_pe818096_s5.jpg",
+                    "mainImageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 90x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__1150599_pe884637_s5.jpg",
+                    "itemNoGlobal": "00480858",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00480858",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "10480853",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-10480853/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986609_pe818096_s5.jpg",
+                    "imageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 80x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 107,
+                    "name": "ÅGOTNES",
+                    "typeName": "Materac piankowy",
+                    "itemMeasureReferenceText": "80x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986609_pe818096_s5.jpg",
+                    "mainImageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 80x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__1150599_pe884637_s5.jpg",
+                    "itemNoGlobal": "10480853",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10480853",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 179,
+                        "current": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "20480843",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-20480843/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986608_pe818097_s5.jpg",
+                    "imageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 140x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 107,
+                    "name": "ÅGOTNES",
+                    "typeName": "Materac piankowy",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__0986608_pe818097_s5.jpg",
+                    "mainImageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__1150590_pe884639_s5.jpg",
+                    "itemNoGlobal": "20480843",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20480843",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 279,
+                        "current": { "prefix": "", "wholeNumber": "279", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozmiar", "count": 4, "label": "4 rozmiary/rozmiarów" }]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 107,
+        "itemNo": "10480848",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 329,
+            "current": { "prefix": "", "wholeNumber": "329", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__1150598_pe884638_s5.jpg",
+        "mainImageAlt": "ÅGOTNES Materac piankowy, twardy/jasnoniebieski, 160x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Mattresses",
+            "productAreaNo": "0511",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Materace", "key": "bm002" },
+            { "name": "Materace piankowe i lateksowe", "key": "24823" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10480848",
+    "name": "ÅGOTNES",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 329 }]
+}

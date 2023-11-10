@@ -1,1 +1,55 @@
-{ "id": "60556708", "name": "ÖRINGABBORRE", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }] }
+{
+    "id": {
+        "name": "ÖRINGABBORRE",
+        "typeName": "Těsnící spona, sada 9 ks",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oeringabborre-tesnici-spona-sada-9-ks-barevna__1191212_pe900566_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oeringabborre-tesnici-spona-sada-9-ks-barevna-60556708/",
+        "id": "60556708",
+        "itemNoGlobal": "60556708",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.8,
+        "ratingCount": 6,
+        "itemNo": "60556708",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 79,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oeringabborre-tesnici-spona-sada-9-ks-barevna__1192552_pe901145_s5.jpg",
+        "mainImageAlt": "ÖRINGABBORRE Těsnící spona, sada 9 ks, barevná",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Food containers",
+            "productAreaNo": "1431",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Skladování potravin", "key": "15937" },
+            { "name": "Dózy a krabičky", "key": "20606" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60556708",
+    "name": "ÖRINGABBORRE",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }]
+}

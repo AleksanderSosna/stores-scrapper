@@ -1,1 +1,53 @@
-{ "id": "90446619", "name": "HÖGSMA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "HÖGSMA",
+        "typeName": "Prkénko",
+        "itemMeasureReferenceText": "42x31 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hoegsma-prkenko-bambus__0669991_pe715278_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hoegsma-prkenko-bambus-90446619/",
+        "id": "90446619",
+        "itemNoGlobal": "90446619",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 49,
+        "itemNo": "90446619",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hoegsma-prkenko-bambus__0871243_pe717587_s5.jpg",
+        "mainImageAlt": "HÖGSMA Prkénko, bambus, 42x31 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nože a kuchyňská prkénka", "key": "15934" },
+            { "name": "Kuchyňská prkénka", "key": "15947" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90446619",
+    "name": "HÖGSMA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

@@ -1,1 +1,89 @@
-{ "id": "30489536", "name": "BEKRÄFTA", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }] }
+{
+    "id": {
+        "name": "BEKRÄFTA",
+        "typeName": "Komplet karniszy",
+        "itemMeasureReferenceText": "120-210 cm 19 mm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bekraefta-komplet-karniszy-bialy__0924296_pe788521_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bekraefta-komplet-karniszy-bialy-30489536/",
+        "id": "30489536",
+        "itemNoGlobal": "30489536",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10489537",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/bekraefta-komplet-karniszy-czarny-10489537/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/bekraefta-komplet-karniszy-czarny__0924292_pe788517_s5.jpg",
+                    "imageAlt": "BEKRÄFTA Komplet karniszy, czarny, 120-210 cm 19 mm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 42,
+                    "name": "BEKRÄFTA",
+                    "typeName": "Komplet karniszy",
+                    "itemMeasureReferenceText": "120-210 cm 19 mm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bekraefta-komplet-karniszy-czarny__0924292_pe788517_s5.jpg",
+                    "mainImageAlt": "BEKRÄFTA Komplet karniszy, czarny, 120-210 cm 19 mm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bekraefta-komplet-karniszy-czarny__0924293_pe788538_s5.jpg",
+                    "itemNoGlobal": "10489537",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10489537",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 50,
+                        "current": { "prefix": "", "wholeNumber": "50", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 42,
+        "itemNo": "30489536",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 50,
+            "current": { "prefix": "", "wholeNumber": "50", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bekraefta-komplet-karniszy-bialy__0924297_pe788522_s5.jpg",
+        "mainImageAlt": "BEKRÄFTA Komplet karniszy, biały, 120-210 cm 19 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Karnisze i akcesoria do zasłon", "key": "18891" },
+            { "name": "Karnisze i żabki", "key": "18892" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30489536",
+    "name": "BEKRÄFTA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 50 }]
+}

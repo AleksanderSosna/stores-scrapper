@@ -1,1 +1,129 @@
-{ "id": "50403589", "name": "MALM", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 749 }] }
+{
+    "id": {
+        "name": "MALM",
+        "typeName": "Komoda, 6 szuflad",
+        "itemMeasureReferenceText": "40x123 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-czarnobraz-lustro__0484885_pe621349_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/malm-komoda-6-szuflad-czarnobraz-lustro-50403589/",
+        "id": "50403589",
+        "itemNoGlobal": "50403589",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "20403595",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/malm-komoda-6-szuflad-okleina-debowa-bejcowana-na-bialo-lustro-20403595/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-okleina-debowa-bejcowana-na-bialo-lustro__0484886_pe621350_s5.jpg",
+                    "imageAlt": "MALM Komoda, 6 szuflad, okleina dębowa bejcowana na biało/lustro, 40x123 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 123,
+                    "name": "MALM",
+                    "typeName": "Komoda, 6 szuflad",
+                    "itemMeasureReferenceText": "40x123 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-okleina-debowa-bejcowana-na-bialo-lustro__0484886_pe621350_s5.jpg",
+                    "mainImageAlt": "MALM Komoda, 6 szuflad, okleina dębowa bejcowana na biało/lustro, 40x123 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-okleina-debowa-bejcowana-na-bialo-lustro__1154533_pe886113_s5.jpg",
+                    "itemNoGlobal": "20403595",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20403595",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 749,
+                        "current": { "prefix": "", "wholeNumber": "749", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "70403593",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/malm-komoda-6-szuflad-bialy-lustro-70403593/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-bialy-lustro__0484887_pe621351_s5.jpg",
+                    "imageAlt": "MALM Komoda, 6 szuflad, biały/lustro, 40x123 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 123,
+                    "name": "MALM",
+                    "typeName": "Komoda, 6 szuflad",
+                    "itemMeasureReferenceText": "40x123 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-bialy-lustro__0484887_pe621351_s5.jpg",
+                    "mainImageAlt": "MALM Komoda, 6 szuflad, biały/lustro, 40x123 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-bialy-lustro__1154541_pe886123_s5.jpg",
+                    "itemNoGlobal": "70403593",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70403593",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 599,
+                        "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "previous": { "prefix": "", "wholeNumber": "649", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "649", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+                        "validFrom": "2023-10-03",
+                        "validTo": "2024-08-31",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nowa\nniższa\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 123,
+        "itemNo": "50403589",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 749,
+            "current": { "prefix": "", "wholeNumber": "749", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/malm-komoda-6-szuflad-czarnobraz-lustro__1154423_pe886023_s5.jpg",
+        "mainImageAlt": "MALM Komoda, 6 szuflad, czarnobrąz/lustro, 40x123 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Chest of drawers",
+            "productAreaNo": "0431",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Komody i kontenerki", "key": "st004" },
+            { "name": "Komody do sypialni", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50403589",
+    "name": "MALM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 749 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s99499571",
+    "itemNo": "99499571",
+    "name": "SKYTTA / MEHAMN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1550 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7800 }
+    ]
+}

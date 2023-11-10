@@ -1,1 +1,88 @@
-{ "id": "70483580", "name": "MYLLRA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }] }
+{
+    "id": {
+        "name": "MYLLRA",
+        "typeName": "Komoda z przewijakiem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-komoda-z-przewijakiem-bialy__0812339_pe776804_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/myllra-komoda-z-przewijakiem-bialy-70483580/",
+        "id": "70483580",
+        "itemNoGlobal": "70483580",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70399261",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/myllra-komoda-z-przewijakiem-jasnoturkusowy-70399261/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-komoda-z-przewijakiem-jasnoturkusowy__0812333_pe771994_s5.jpg",
+                    "imageAlt": "MYLLRA Komoda z przewijakiem, jasnoturkusowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 5,
+                    "name": "MYLLRA",
+                    "typeName": "Komoda z przewijakiem",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-komoda-z-przewijakiem-jasnoturkusowy__0812333_pe771994_s5.jpg",
+                    "mainImageAlt": "MYLLRA Komoda z przewijakiem, jasnoturkusowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-komoda-z-przewijakiem-jasnoturkusowy__0934458_pe792416_s5.jpg",
+                    "itemNoGlobal": "70399261",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70399261",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1199,
+                        "current": { "prefix": "", "wholeNumber": "1 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "70483580",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1199,
+            "current": { "prefix": "", "wholeNumber": "1 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/myllra-komoda-z-przewijakiem-bialy__0830074_pe780733_s5.jpg",
+        "mainImageAlt": "MYLLRA Komoda z przewijakiem, biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Baby furniture",
+            "productAreaNo": "0961",
+            "productRangeAreaName": "Baby",
+            "productRangeAreaNo": "096"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Stoły i komody do przewijania", "key": "45783" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70483580",
+    "name": "MYLLRA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1199 }]
+}

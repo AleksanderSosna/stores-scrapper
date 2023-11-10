@@ -1,1 +1,59 @@
-{ "id": "90457189", "name": "BRYNDUM", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "BRYNDUM",
+        "typeName": "Kuchyňská podložka",
+        "itemMeasureReferenceText": "45x120 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bryndum-kuchynska-podlozka-seda__0448508_pe598172_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bryndum-kuchynska-podlozka-seda-90457189/",
+        "id": "90457189",
+        "itemNoGlobal": "90457189",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 63,
+        "itemNo": "90457189",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bryndum-kuchynska-podlozka-seda__0891828_pe731773_s5.jpg",
+        "mainImageAlt": "BRYNDUM Kuchyňská podložka, šedá, 45x120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Small rugs and runners",
+            "productAreaNo": "1314",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Běhouny a malé koberce", "key": "10689" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90457189",
+    "name": "BRYNDUM",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

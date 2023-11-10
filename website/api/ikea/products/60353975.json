@@ -1,1 +1,52 @@
-{ "id": "60353975", "name": "GAVIKEN", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "GAVIKEN",
+        "typeName": "Komplet łazienkowy, 3 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gaviken-komplet-lazienkowy-3-szt-bialy__0513349_pe638913_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gaviken-komplet-lazienkowy-3-szt-bialy-60353975/",
+        "id": "60353975",
+        "itemNoGlobal": "60353975",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 12,
+        "itemNo": "60353975",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "GAVIKEN Komplet łazienkowy, 3 szt., biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom around the sink",
+            "productAreaNo": "0621",
+            "productRangeAreaName": "Bathroom accessories",
+            "productRangeAreaNo": "062"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Akcesoria łazienkowe", "key": "10555" },
+            { "name": "Dozowniki mydła i mydelniczki", "key": "10656" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60353975",
+    "name": "GAVIKEN",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

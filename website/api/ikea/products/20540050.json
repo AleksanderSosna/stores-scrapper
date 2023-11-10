@@ -1,1 +1,93 @@
-{ "id": "20540050", "name": "EMMIE SÖT", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 159 }] }
+{
+    "id": {
+        "name": "EMMIE SÖT",
+        "typeName": "Poszwa na kołdrę i poszewka",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/emmie-soet-poszwa-na-koldre-i-poszewka-wielobarwny__0139260_pe299116_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/emmie-soet-poszwa-na-koldre-i-poszewka-wielobarwny-20540050/",
+        "id": "20540050",
+        "itemNoGlobal": "20540050",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80540071",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/emmie-soet-poszwa-na-koldre-i-2-poszewki-wielobarwny-80540071/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/emmie-soet-poszwa-na-koldre-i-2-poszewki-wielobarwny__0139258_pe299114_s5.jpg",
+                    "imageAlt": "EMMIE SÖT Poszwa na kołdrę i 2 poszewki, wielobarwny, 200x200/50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 13,
+                    "name": "EMMIE SÖT",
+                    "typeName": "Poszwa na kołdrę i 2 poszewki",
+                    "itemMeasureReferenceText": "200x200/50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/emmie-soet-poszwa-na-koldre-i-2-poszewki-wielobarwny__0139258_pe299114_s5.jpg",
+                    "mainImageAlt": "EMMIE SÖT Poszwa na kołdrę i 2 poszewki, wielobarwny, 200x200/50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/emmie-soet-poszwa-na-koldre-i-2-poszewki-wielobarwny__1112869_pe871322_s5.jpg",
+                    "itemNoGlobal": "80540071",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80540071",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "różowy", "id": "10119", "hex": "ffb8c3" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" },
+            { "name": "wielobarwny", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 13,
+        "itemNo": "20540050",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 159,
+            "current": { "prefix": "", "wholeNumber": "159", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/emmie-soet-poszwa-na-koldre-i-poszewka-wielobarwny__1112862_pe871315_s5.jpg",
+        "mainImageAlt": "EMMIE SÖT Poszwa na kołdrę i poszewka, wielobarwny, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Pościel", "key": "10651" },
+            { "name": "Komplety pościeli", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20540050",
+    "name": "EMMIE SÖT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 159 }]
+}

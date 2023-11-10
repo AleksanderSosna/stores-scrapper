@@ -1,1 +1,53 @@
-{ "id": "90360234", "name": "ÖVERST", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "ÖVERST",
+        "typeName": "Filtr metalowy do kawy, 3 szt",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/oeverst-filtr-metalowy-do-kawy-3-szt-stal-nierdz__0713452_pe729528_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/oeverst-filtr-metalowy-do-kawy-3-szt-stal-nierdz-90360234/",
+        "id": "90360234",
+        "itemNoGlobal": "90360234",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 57,
+        "itemNo": "90360234",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/oeverst-filtr-metalowy-do-kawy-3-szt-stal-nierdz__0900374_pe659449_s5.jpg",
+        "mainImageAlt": "ÖVERST Filtr metalowy do kawy, 3 szt, stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Coffee and tea accessories",
+            "productAreaNo": "1552",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Akcesoria do kawy", "key": "20622" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90360234",
+    "name": "ÖVERST",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

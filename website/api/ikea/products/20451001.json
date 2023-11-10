@@ -1,1 +1,55 @@
-{ "id": "20451001", "name": "PARADISISK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "PARADISISK",
+        "typeName": "Talerz",
+        "itemMeasureReferenceText": "26 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-talerz-kremowy__1062784_pe851008_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/paradisisk-talerz-kremowy-20451001/",
+        "id": "20451001",
+        "itemNoGlobal": "20451001",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 5,
+        "itemNo": "20451001",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-talerz-kremowy__1062781_pe851007_s5.jpg",
+        "mainImageAlt": "PARADISISK Talerz, kremowy, 26 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Zastawa stołowa", "key": "18860" },
+            { "name": "Talerze", "key": "18861" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20451001",
+    "name": "PARADISISK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

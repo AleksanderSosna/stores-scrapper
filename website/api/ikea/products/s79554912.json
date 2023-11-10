@@ -1,0 +1,10 @@
+{
+    "id": "s79554912",
+    "itemNo": "79554912",
+    "name": "LISABO / LISABO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1935 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10150 }
+    ]
+}

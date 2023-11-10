@@ -1,1 +1,53 @@
-{ "id": "40327303", "name": "HÄRLIGA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "HÄRLIGA",
+        "typeName": "Kopuła szklana z bazą",
+        "itemMeasureReferenceText": "27 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/haerliga-kopula-szklana-z-baza-szklo-bezbarwne__0639833_pe699598_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/haerliga-kopula-szklana-z-baza-szklo-bezbarwne-40327303/",
+        "id": "40327303",
+        "itemNoGlobal": "40327303",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 23,
+        "itemNo": "40327303",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/haerliga-kopula-szklana-z-baza-szklo-bezbarwne__0903993_pe595244_s5.jpg",
+        "mainImageAlt": "HÄRLIGA Kopuła szklana z bazą, szkło bezbarwne, 27 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Vases, bowls and accessories",
+            "productAreaNo": "1633",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Figurki, gablotki i akcesoria dekoracyjne", "key": "24924" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "40327303",
+    "name": "HÄRLIGA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

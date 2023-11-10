@@ -1,1 +1,56 @@
-{ "id": "10559988", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Sztuczny bukiet",
+        "itemMeasureReferenceText": "50 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-protea-pomaranczowy-brazowy__1188129_pe899363_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smycka-sztuczny-bukiet-protea-pomaranczowy-brazowy-10559988/",
+        "id": "10559988",
+        "itemNoGlobal": "10559988",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10559988",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-protea-pomaranczowy-brazowy__1213314_pe911068_s5.jpg",
+        "mainImageAlt": "SMYCKA Sztuczny bukiet, protea pomarańczowy-brązowy, 50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Rośliny i kwiaty", "key": "pp003" },
+            { "name": "Sztuczne rośliny i kwiaty", "key": "20492" },
+            { "name": "Sztuczne bukiety", "key": "700518" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "10559988",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

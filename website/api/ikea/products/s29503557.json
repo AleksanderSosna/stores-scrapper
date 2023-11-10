@@ -1,0 +1,58 @@
+{
+    "id": {
+        "name": "SKYDRAG / TRÅDFRI",
+        "typeName": "Osvětlovací sada",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skydrag-tradfri-osvetlovaci-sada-antracit__1166839_pe891291_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skydrag-tradfri-osvetlovaci-sada-antracit-s29503557/",
+        "id": "s29503557",
+        "itemNoGlobal": "29503557",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29503557",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2024,
+            "current": { "prefix": "", "wholeNumber": "2 024", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 694", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skydrag-tradfri-osvetlovaci-sada-antracit__0905472_pe783133_s5.jpg",
+        "mainImageAlt": "SKYDRAG / TRÅDFRI Osvětlovací sada, antracit",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Integrated lighting",
+            "productAreaNo": "1043",
+            "productRangeAreaName": "Integrated Lighting",
+            "productRangeAreaNo": "104"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Chytré osvětlení", "key": "36812" },
+            { "name": "Systémy a sady chytrého osvětlení", "key": "36815" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29503557",
+    "name": "SKYDRAG / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2024 }]
+}

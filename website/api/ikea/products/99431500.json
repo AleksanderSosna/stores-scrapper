@@ -1,9 +1,0 @@
-{
-    "id": "99431500",
-    "name": "LILLTJÄRN / SKATSJÖN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 369 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1977 }
-    ]
-}

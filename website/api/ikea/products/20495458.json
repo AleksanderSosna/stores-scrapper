@@ -1,1 +1,91 @@
-{ "id": "20495458", "name": "TÅRTBAK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "TÅRTBAK",
+        "typeName": "Forma do pieczenia",
+        "itemMeasureReferenceText": "180 ml",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu__1015864_pe842366_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu-20495458/",
+        "id": "20495458",
+        "itemNoGlobal": "20495458",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00485672",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu-00485672/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu__1015858_pe842362_s5.jpg",
+                    "imageAlt": "TÅRTBAK Forma do pieczenia, w kształcie kwiatu/powłoka zapobiegająca przywieraniu, 1.4 l",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 6,
+                    "name": "TÅRTBAK",
+                    "typeName": "Forma do pieczenia",
+                    "itemMeasureReferenceText": "1.4 l",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu__1015858_pe842362_s5.jpg",
+                    "mainImageAlt": "TÅRTBAK Forma do pieczenia, w kształcie kwiatu/powłoka zapobiegająca przywieraniu, 1.4 l",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu__1015861_pe842364_s5.jpg",
+                    "itemNoGlobal": "00485672",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00485672",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 89.99,
+                        "current": { "prefix": "", "wholeNumber": "89", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 6,
+        "itemNo": "20495458",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tartbak-forma-do-pieczenia-w-ksztalcie-kwiatu-powloka-zapobiegajaca-przywieraniu__1015867_pe842368_s5.jpg",
+        "mainImageAlt": "TÅRTBAK Forma do pieczenia, w kształcie kwiatu/powłoka zapobiegająca przywieraniu, 180 ml",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Bakeware",
+            "productAreaNo": "1414",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do pieczenia", "key": "20636" },
+            { "name": "Formy i blachy do pieczenia", "key": "20643" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20495458",
+    "name": "TÅRTBAK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

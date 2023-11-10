@@ -1,1 +1,54 @@
-{ "id": "30509916", "name": "PHILODENDRON WHITE WAVE", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 279 }] }
+{
+    "id": {
+        "name": "PHILODENDRON WHITE WAVE",
+        "typeName": "Rostlina",
+        "itemMeasureReferenceText": "14 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/philodendron-white-wave-rostlina__1073380_pe855697_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/philodendron-white-wave-rostlina-30509916/",
+        "id": "30509916",
+        "itemNoGlobal": "30509916",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 8,
+        "itemNo": "30509916",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 279,
+            "current": { "prefix": "", "wholeNumber": "279", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "PHILODENDRON WHITE WAVE Rostlina, 14 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní květináče a rostliny", "key": "31787" },
+            { "name": "Rostliny", "key": "10779" },
+            { "name": "Stolní rostliny", "key": "700523" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30509916",
+    "name": "PHILODENDRON WHITE WAVE",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 279 }]
+}

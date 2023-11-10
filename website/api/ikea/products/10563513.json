@@ -1,1 +1,51 @@
-{ "id": "10563513", "name": "VINDSTILLA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "VINDSTILLA",
+        "typeName": "Świecznik",
+        "itemMeasureReferenceText": "15 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vindstilla-swiecznik-bialy__1188177_pe899393_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vindstilla-swiecznik-bialy-10563513/",
+        "id": "10563513",
+        "itemNoGlobal": "10563513",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10563513",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vindstilla-swiecznik-bialy__1188176_pe899394_s5.jpg",
+        "mainImageAlt": "VINDSTILLA Świecznik, biały, 15 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Świeczniki i podstawki pod świece", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10563513",
+    "name": "VINDSTILLA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

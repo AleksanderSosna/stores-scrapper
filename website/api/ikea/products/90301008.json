@@ -1,1 +1,51 @@
-{ "id": "90301008", "name": "VEMUND", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 20 }] }
+{
+    "id": {
+        "name": "VEMUND",
+        "typeName": "Uchwyt na pisaki/gąbkę",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vemund-uchwyt-na-pisaki-gabke-bialy__0341920_pe530509_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vemund-uchwyt-na-pisaki-gabke-bialy-90301008/",
+        "id": "90301008",
+        "itemNoGlobal": "90301008",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 12,
+        "itemNo": "90301008",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 20,
+            "current": { "prefix": "", "wholeNumber": "20", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "VEMUND Uchwyt na pisaki/gąbkę, biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Tablice magnetyczne, korkowe i inne", "key": "10574" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90301008",
+    "name": "VEMUND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 20 }]
+}

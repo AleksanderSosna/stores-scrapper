@@ -1,0 +1,10 @@
+{
+    "id": "s09207572",
+    "itemNo": "09207572",
+    "name": "SOCKERBIT",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 84.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 519 }
+    ]
+}

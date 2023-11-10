@@ -1,1 +1,53 @@
-{ "id": "30178884", "name": "BEKVÄM", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }] }
+{
+    "id": {
+        "name": "BEKVÄM",
+        "typeName": "Schůdky",
+        "itemMeasureReferenceText": "50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bekvaem-schudky-cerna__0122139_pe278504_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bekvaem-schudky-cerna-30178884/",
+        "id": "30178884",
+        "itemNoGlobal": "30178884",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 31,
+        "itemNo": "30178884",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bekvaem-schudky-cerna__1213997_pe911452_s5.jpg",
+        "mainImageAlt": "BEKVÄM Schůdky, černá, 50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen small furniture",
+            "productAreaNo": "0782",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Stoličky a schůdky", "key": "20611" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30178884",
+    "name": "BEKVÄM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }]
+}

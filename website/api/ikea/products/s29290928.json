@@ -1,0 +1,93 @@
+{
+    "id": {
+        "name": "BERGSHULT / GRANHULT",
+        "typeName": "Półka ścienna",
+        "itemMeasureReferenceText": "160x20 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bergshult-granhult-polka-scienna-brazowoczarny-niklowano__0671551_pe716280_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bergshult-granhult-polka-scienna-brazowoczarny-niklowano-s29290928/",
+        "id": "s29290928",
+        "itemNoGlobal": "29290928",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s29290933",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/bergshult-granhult-polka-scienna-bialy-niklowano-s29290933/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/bergshult-granhult-polka-scienna-bialy-niklowano__0671552_pe716290_s5.jpg",
+                    "imageAlt": "BERGSHULT / GRANHULT Półka ścienna, biały/niklowano, 160x20 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "BERGSHULT / GRANHULT",
+                    "typeName": "Półka ścienna",
+                    "itemMeasureReferenceText": "160x20 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bergshult-granhult-polka-scienna-bialy-niklowano__0671552_pe716290_s5.jpg",
+                    "mainImageAlt": "BERGSHULT / GRANHULT Półka ścienna, biały/niklowano, 160x20 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bergshult-granhult-polka-scienna-bialy-niklowano__1092364_pe862829_s5.jpg",
+                    "itemNoGlobal": "29290933",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "29290933",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 154.98,
+                        "current": { "prefix": "", "wholeNumber": "154", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "29290928",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 154.98,
+            "current": { "prefix": "", "wholeNumber": "154", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bergshult-granhult-polka-scienna-brazowoczarny-niklowano__1092362_pe862827_s5.jpg",
+        "mainImageAlt": "BERGSHULT / GRANHULT Półka ścienna, brązowoczarny/niklowano, 160x20 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Wall shelves & storage",
+            "productAreaNo": "0216",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Półki ścienne", "key": "10398" },
+            { "name": "Kompletne półki ścienne", "key": "20660" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29290928",
+    "name": "BERGSHULT / GRANHULT",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 154.98 }]
+}

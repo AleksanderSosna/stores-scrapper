@@ -1,0 +1,143 @@
+{
+    "id": {
+        "name": "KIVIK",
+        "typeName": "Sofa w kształcie lit U, 7-osobowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-jasnobezowy__1125147_pe875386_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-jasnobezowy-s89494404/",
+        "id": "s89494404",
+        "itemNoGlobal": "89494404",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s89440576",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tibbleby-bezowy-szary-s89440576/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tibbleby-bezowy-szary__1056156_pe848288_s5.jpg",
+                    "imageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Tibbleby beżowy/szary",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }],
+                    "availability": [],
+                    "name": "KIVIK",
+                    "typeName": "Sofa w kształcie lit U, 7-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tibbleby-bezowy-szary__1056156_pe848288_s5.jpg",
+                    "mainImageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Tibbleby beżowy/szary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tibbleby-bezowy-szary__1132833_pe878318_s5.jpg",
+                    "itemNoGlobal": "89440576",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "89440576",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 5999,
+                        "current": { "prefix": "", "wholeNumber": "5 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39443068",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-kelinge-szaroturkusowy-s39443068/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-kelinge-szaroturkusowy__1055853_pe848131_s5.jpg",
+                    "imageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Kelinge szaroturkusowy",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }],
+                    "availability": [],
+                    "name": "KIVIK",
+                    "typeName": "Sofa w kształcie lit U, 7-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-kelinge-szaroturkusowy__1055853_pe848131_s5.jpg",
+                    "mainImageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Kelinge szaroturkusowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-kelinge-szaroturkusowy__1055852_pe848132_s5.jpg",
+                    "itemNoGlobal": "39443068",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39443068",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 7199,
+                        "current": { "prefix": "", "wholeNumber": "7 199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69494400",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-antracyt-s69494400/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-antracyt__1125146_pe875387_s5.jpg",
+                    "imageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Tresund antracyt",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }],
+                    "availability": [],
+                    "name": "KIVIK",
+                    "typeName": "Sofa w kształcie lit U, 7-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-antracyt__1125146_pe875387_s5.jpg",
+                    "mainImageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Tresund antracyt",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-antracyt__1125150_pe875391_s5.jpg",
+                    "itemNoGlobal": "69494400",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69494400",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 7499,
+                        "current": { "prefix": "", "wholeNumber": "7 499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }],
+        "features": [],
+        "availability": [],
+        "itemNo": "89494404",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 7499,
+            "current": { "prefix": "", "wholeNumber": "7 499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-w-ksztalcie-lit-u-7-osobowa-tresund-jasnobezowy__1125151_pe875390_s5.jpg",
+        "mainImageAlt": "KIVIK Sofa w kształcie lit U, 7-osobowa, Tresund jasnobeżowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy tapicerowane", "key": "10661" },
+            { "name": "Sofy modułowe tapicerowane", "key": "15358" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89494404",
+    "name": "KIVIK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7499 }]
+}

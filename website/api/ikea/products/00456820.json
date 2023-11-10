@@ -1,1 +1,52 @@
-{ "id": "00456820", "name": "LURVIG", "categoryKey": "pt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }] }
+{
+    "id": {
+        "name": "LURVIG",
+        "typeName": "Łopatka do kuwety",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-lopatka-do-kuwety__0779776_pe759674_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lurvig-lopatka-do-kuwety-00456820/",
+        "id": "00456820",
+        "itemNoGlobal": "00456820",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 37,
+        "itemNo": "00456820",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4.99,
+            "current": { "prefix": "", "wholeNumber": "4", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-lopatka-do-kuwety__0779775_pe759671_s5.jpg",
+        "mainImageAlt": "LURVIG Łopatka do kuwety",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Pet accessories",
+            "productAreaNo": "1871",
+            "productRangeAreaName": "Living with pets",
+            "productRangeAreaNo": "187"
+        },
+        "categoryPath": [
+            { "name": "Produkty dla zwierząt", "key": "pt001" },
+            { "name": "Produkty dla kotów", "key": "39569" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00456820",
+    "name": "LURVIG",
+    "categoryKey": "pt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }]
+}

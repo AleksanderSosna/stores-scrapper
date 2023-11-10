@@ -1,1 +1,89 @@
-{ "id": "80294720", "name": "VARDAGEN", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 369 }] }
+{
+    "id": {
+        "name": "VARDAGEN",
+        "typeName": "Kuchyňský nůž",
+        "itemMeasureReferenceText": "16 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-kuchynsky-nuz-tmave-seda__0710394_pe727522_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vardagen-kuchynsky-nuz-tmave-seda-80294720/",
+        "id": "80294720",
+        "itemNoGlobal": "80294720",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40294722",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vardagen-kuchynsky-nuz-tmave-seda-40294722/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-kuchynsky-nuz-tmave-seda__0710384_pe727512_s5.jpg",
+                    "imageAlt": "VARDAGEN Kuchyňský nůž, tmavě šedá, 20 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 15,
+                    "name": "VARDAGEN",
+                    "typeName": "Kuchyňský nůž",
+                    "itemMeasureReferenceText": "20 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-kuchynsky-nuz-tmave-seda__0710384_pe727512_s5.jpg",
+                    "mainImageAlt": "VARDAGEN Kuchyňský nůž, tmavě šedá, 20 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-kuchynsky-nuz-tmave-seda__0396869_pe574974_s5.jpg",
+                    "itemNoGlobal": "40294722",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40294722",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 449,
+                        "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 15,
+        "itemNo": "80294720",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 369,
+            "current": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vardagen-kuchynsky-nuz-tmave-seda__0396859_pe574975_s5.jpg",
+        "mainImageAlt": "VARDAGEN Kuchyňský nůž, tmavě šedá, 16 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Knives",
+            "productAreaNo": "1423",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nože a kuchyňská prkénka", "key": "15934" },
+            { "name": "Nože", "key": "15946" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80294720",
+    "name": "VARDAGEN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 369 }]
+}

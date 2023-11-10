@@ -1,1 +1,55 @@
-{ "id": "90388916", "name": "SMÖRKLICK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "SMÖRKLICK",
+        "typeName": "Nóż do masła",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smoerklick-noz-do-masla-sosna__0721964_pe733437_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smoerklick-noz-do-masla-sosna-90388916/",
+        "id": "90388916",
+        "itemNoGlobal": "90388916",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "90388916",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smoerklick-noz-do-masla-sosna__0725550_pe734930_s5.jpg",
+        "mainImageAlt": "SMÖRKLICK Nóż do masła, sosna",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Cutlery",
+            "productAreaNo": "1531",
+            "productRangeAreaName": "Cutlery",
+            "productRangeAreaNo": "153"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Sztućce stołowe", "key": "18865" },
+            { "name": "Sztućce do serwowania potraw", "key": "18867" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90388916",
+    "name": "SMÖRKLICK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

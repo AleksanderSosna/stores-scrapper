@@ -1,1 +1,52 @@
-{ "id": "60526405", "name": "BJÖRKÅSEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }
+{
+    "id": {
+        "name": "BJÖRKÅSEN",
+        "typeName": "Stół składany",
+        "itemMeasureReferenceText": "59x35 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bjoerkasen-stol-skladany-bialy__1087671_pe860843_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bjoerkasen-stol-skladany-bialy-60526405/",
+        "id": "60526405",
+        "itemNoGlobal": "60526405",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60526405",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bjoerkasen-stol-skladany-bialy__1087667_pe860841_s5.jpg",
+        "mainImageAlt": "BJÖRKÅSEN Stół składany, biały, 59x35 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Podstawki i stoliki pod laptopa", "key": "24830" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60526405",
+    "name": "BJÖRKÅSEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

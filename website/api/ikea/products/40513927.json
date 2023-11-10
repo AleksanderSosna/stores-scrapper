@@ -1,1 +1,89 @@
-{ "id": "40513927", "name": "SOLMOTT", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "SOLMOTT",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/solmott-povlak-na-polstar-seda-pruhovany__1015376_pe830024_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/solmott-povlak-na-polstar-seda-pruhovany-40513927/",
+        "id": "40513927",
+        "itemNoGlobal": "40513927",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50512791",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/solmott-povlak-na-polstar-ruzova-barevne-pruhovany-50512791/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/solmott-povlak-na-polstar-ruzova-barevne-pruhovany__1015379_pe830027_s5.jpg",
+                    "imageAlt": "SOLMOTT Povlak na polštář, růžová barevné/pruhovaný, 50x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 21,
+                    "name": "SOLMOTT",
+                    "typeName": "Povlak na polštář",
+                    "itemMeasureReferenceText": "50x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/solmott-povlak-na-polstar-ruzova-barevne-pruhovany__1015379_pe830027_s5.jpg",
+                    "mainImageAlt": "SOLMOTT Povlak na polštář, růžová barevné/pruhovaný, 50x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/solmott-povlak-na-polstar-ruzova-barevne-pruhovany__1015380_pe830028_s5.jpg",
+                    "itemNoGlobal": "50512791",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50512791",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 129,
+                        "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 21,
+        "itemNo": "40513927",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/solmott-povlak-na-polstar-seda-pruhovany__1015377_pe830025_s5.jpg",
+        "mainImageAlt": "SOLMOTT Povlak na polštář, šedá/pruhovaný, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "40513927",
+    "name": "SOLMOTT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

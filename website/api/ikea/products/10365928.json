@@ -1,1 +1,53 @@
-{ "id": "10365928", "name": "NORDLI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2400 }] }
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Modulární komoda se 3 zásuvkami",
+        "itemMeasureReferenceText": "40x68 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-modularni-komoda-se-3-zasuvkami-antracit__0555249_pe660217_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-modularni-komoda-se-3-zasuvkami-antracit-10365928/",
+        "id": "10365928",
+        "itemNoGlobal": "10365928",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10365928",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2400,
+            "current": { "prefix": "", "wholeNumber": "2 400", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "NORDLI Modulární komoda se 3 zásuvkami, antracit, 40x68 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Chest of drawers",
+            "productAreaNo": "0431",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Komody a zásuvkové díly", "key": "st004" },
+            { "name": "Komody", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10365928",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2400 }]
+}

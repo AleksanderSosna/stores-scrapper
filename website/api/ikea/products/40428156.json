@@ -1,1 +1,53 @@
-{ "id": "40428156", "name": "TOSTERÖ", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }
+{
+    "id": {
+        "name": "TOSTERÖ",
+        "typeName": "Pokrowiec na meble ogrodowe",
+        "itemMeasureReferenceText": "260x148 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-ogrodowe-komplet-jadalniany-czarny__0706192_pe725821_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tosteroe-pokrowiec-na-meble-ogrodowe-komplet-jadalniany-czarny-40428156/",
+        "id": "40428156",
+        "itemNoGlobal": "40428156",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "40428156",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tosteroe-pokrowiec-na-meble-ogrodowe-komplet-jadalniany-czarny__1155846_pe886743_s5.jpg",
+        "mainImageAlt": "TOSTERÖ Pokrowiec na meble ogrodowe, komplet jadalniany/czarny, 260x148 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor accessories & covers",
+            "productAreaNo": "1721",
+            "productRangeAreaName": "Outdoor accessories & covers",
+            "productRangeAreaNo": "172"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Poduszki, pokrowce i latarenki ogrodowe", "key": "34203" },
+            { "name": "Pokrowce na meble ogrodowe i parasole", "key": "34205" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40428156",
+    "name": "TOSTERÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

@@ -1,1 +1,103 @@
-{ "id": "10492686", "name": "KLEPPSTAD", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }] }
+{
+    "id": {
+        "name": "KLEPPSTAD",
+        "typeName": "Rám postele",
+        "itemMeasureReferenceText": "180x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kleppstad-ram-postele-bila-vissle-bezova__1035340_pe840527_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kleppstad-ram-postele-bila-vissle-bezova-10492686/",
+        "id": "10492686",
+        "itemNoGlobal": "10492686",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10492672",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/kleppstad-ram-postele-bila-vissle-bezova-10492672/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/kleppstad-ram-postele-bila-vissle-bezova__1035340_pe840527_s5.jpg",
+                    "imageAlt": "KLEPPSTAD Rám postele, bílá/Vissle béžová, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 5,
+                    "name": "KLEPPSTAD",
+                    "typeName": "Rám postele",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kleppstad-ram-postele-bila-vissle-bezova__1035340_pe840527_s5.jpg",
+                    "mainImageAlt": "KLEPPSTAD Rám postele, bílá/Vissle béžová, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kleppstad-ram-postele-bila-vissle-bezova__1035341_pe840528_s5.jpg",
+                    "itemNoGlobal": "10492672",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10492672",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 3490,
+                        "current": { "prefix": "", "wholeNumber": "3 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "3 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-17",
+                        "validTo": "2024-04-13",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozměr", "count": 2, "label": "2 rozměry" }]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 5,
+        "itemNo": "10492686",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3990,
+            "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "4 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kleppstad-ram-postele-bila-vissle-bezova__1035341_pe840528_s5.jpg",
+        "mainImageAlt": "KLEPPSTAD Rám postele, bílá/Vissle béžová, 180x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Postele", "key": "bm003" },
+            { "name": "Manželské postele", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10492686",
+    "name": "KLEPPSTAD",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }]
+}

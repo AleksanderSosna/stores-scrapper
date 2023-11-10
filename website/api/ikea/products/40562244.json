@@ -1,1 +1,89 @@
-{ "id": "40562244", "name": "LISTERBY", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }] }
+{
+    "id": {
+        "name": "LISTERBY",
+        "typeName": "Stolik kawowy",
+        "itemMeasureReferenceText": "90 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/listerby-stolik-kawowy-ciemnobrazowy-okleina-bukowa__1170197_pe892712_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/listerby-stolik-kawowy-ciemnobrazowy-okleina-bukowa-40562244/",
+        "id": "40562244",
+        "itemNoGlobal": "40562244",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50515313",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/listerby-stolik-kawowy-okl-deb-50515313/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/listerby-stolik-kawowy-okl-deb__1022538_pe832796_s5.jpg",
+                    "imageAlt": "LISTERBY Stolik kawowy, okl dęb, 90 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 7,
+                    "name": "LISTERBY",
+                    "typeName": "Stolik kawowy",
+                    "itemMeasureReferenceText": "90 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/listerby-stolik-kawowy-okl-deb__1022538_pe832796_s5.jpg",
+                    "mainImageAlt": "LISTERBY Stolik kawowy, okl dęb, 90 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/listerby-stolik-kawowy-okl-deb__1022539_pe832797_s5.jpg",
+                    "itemNoGlobal": "50515313",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50515313",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 799,
+                        "current": { "prefix": "", "wholeNumber": "799", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "brązowy", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 7,
+        "itemNo": "40562244",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/listerby-stolik-kawowy-ciemnobrazowy-okleina-bukowa__1170200_pe892714_s5.jpg",
+        "mainImageAlt": "LISTERBY Stolik kawowy, ciemnobrązowy okleina bukowa, 90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa tables",
+            "productAreaNo": "0121",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Stoliki do pokoju dziennego", "key": "10705" },
+            { "name": "Stoliki kawowe", "key": "10716" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40562244",
+    "name": "LISTERBY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }]
+}

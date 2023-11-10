@@ -1,1 +1,54 @@
-{ "id": "00486643", "name": "SIDORNA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }] }
+{
+    "id": {
+        "name": "SIDORNA",
+        "typeName": "2-częściowy zestaw trójników",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sidorna-2-czesciowy-zestaw-trojnikow-szary__1180999_pe896527_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sidorna-2-czesciowy-zestaw-trojnikow-szary-00486643/",
+        "id": "00486643",
+        "itemNoGlobal": "00486643",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00486643",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 30,
+            "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sidorna-2-czesciowy-zestaw-trojnikow-szary__1183875_pe897623_s5.jpg",
+        "mainImageAlt": "SIDORNA 2-częściowy zestaw trójników, szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Systemy stołów i biurek", "key": "47423" },
+            { "name": "System IDÅSEN", "key": "47424" },
+            { "name": "Przegrody na biurko", "key": "700336" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00486643",
+    "name": "SIDORNA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }]
+}

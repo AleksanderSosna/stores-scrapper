@@ -1,1 +1,89 @@
-{ "id": "10554085", "name": "FJÄLLTRIFT", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "FJÄLLTRIFT",
+        "typeName": "Pléd",
+        "itemMeasureReferenceText": "130x170 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaelltrift-pled-barevne__1157526_pe887728_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/fjaelltrift-pled-barevne-10554085/",
+        "id": "10554085",
+        "itemNoGlobal": "10554085",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10554207",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/fjaelltrift-pled-sede-zelene-10554207/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/fjaelltrift-pled-sede-zelene__1157530_pe887732_s5.jpg",
+                    "imageAlt": "FJÄLLTRIFT Pléd, šedé/zelené, 130x170 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 3,
+                    "name": "FJÄLLTRIFT",
+                    "typeName": "Pléd",
+                    "itemMeasureReferenceText": "130x170 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaelltrift-pled-sede-zelene__1157530_pe887732_s5.jpg",
+                    "mainImageAlt": "FJÄLLTRIFT Pléd, šedé/zelené, 130x170 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaelltrift-pled-sede-zelene__1157527_pe887729_s5.jpg",
+                    "itemNoGlobal": "10554207",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10554207",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 399,
+                        "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Novinka",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 3,
+        "itemNo": "10554085",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaelltrift-pled-barevne__1157523_pe887725_s5.jpg",
+        "mainImageAlt": "FJÄLLTRIFT Pléd, barevné, 130x170 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Throws",
+            "productAreaNo": "1232",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Deky a plédy", "key": "20528" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10554085",
+    "name": "FJÄLLTRIFT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

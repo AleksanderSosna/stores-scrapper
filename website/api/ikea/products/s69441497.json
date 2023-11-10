@@ -1,0 +1,10 @@
+{
+    "id": "s69441497",
+    "itemNo": "69441497",
+    "name": "UPPSPEL / GRUPPSPEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3798 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 17980 }
+    ]
+}

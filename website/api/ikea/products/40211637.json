@@ -1,1 +1,53 @@
-{ "id": "40211637", "name": "VÄSMAN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "VÄSMAN",
+        "typeName": "Krzesło z podłokietnikami, ogr.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaesman-krzeslo-z-podlokietnikami-ogr-czarny__0133901_pe289641_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaesman-krzeslo-z-podlokietnikami-ogr-czarny-40211637/",
+        "id": "40211637",
+        "itemNoGlobal": "40211637",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40211637",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaesman-krzeslo-z-podlokietnikami-ogr-czarny__0905527_pe616835_s5.jpg",
+        "mainImageAlt": "VÄSMAN Krzesło z podłokietnikami, ogr., czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble do ogrodu i na taras", "key": "700350" },
+            { "name": "Krzesła i fotele ogrodowe", "key": "21964" },
+            { "name": "Krzesła i stołki na balkon i taras", "key": "21966" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40211637",
+    "name": "VÄSMAN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

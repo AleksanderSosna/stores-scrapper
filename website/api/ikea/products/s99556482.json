@@ -1,0 +1,10 @@
+{
+    "id": "s99556482",
+    "itemNo": "99556482",
+    "name": "MELLTORP / JANINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 597 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4270 }
+    ]
+}

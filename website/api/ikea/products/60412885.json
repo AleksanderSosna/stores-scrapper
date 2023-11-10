@@ -1,1 +1,54 @@
-{ "id": "60412885", "name": "MÖRBYLÅNGA", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3299 }] }
+{
+    "id": {
+        "name": "MÖRBYLÅNGA",
+        "typeName": "Stół",
+        "itemMeasureReferenceText": "145 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/moerbylanga-stol-okl-deb-brazowa-bejca__0737109_pe740887_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/moerbylanga-stol-okl-deb-brazowa-bejca-60412885/",
+        "id": "60412885",
+        "itemNoGlobal": "60412885",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "brązowy", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "60412885",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3299,
+            "current": { "prefix": "", "wholeNumber": "3 299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/moerbylanga-stol-okl-deb-brazowa-bejca__0661888_pe711657_s5.jpg",
+        "mainImageAlt": "MÖRBYLÅNGA Stół, okl dęb brązowa bejca, 145 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Stoły do jadalni", "key": "21825" },
+            { "name": "Stoły do jadalni do 4 osób", "key": "21826" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60412885",
+    "name": "MÖRBYLÅNGA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3299 }]
+}

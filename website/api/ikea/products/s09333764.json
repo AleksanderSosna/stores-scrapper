@@ -1,0 +1,57 @@
+{
+    "id": {
+        "name": "METOD / MAXIMERA",
+        "typeName": "Spod.sk. 2čela/2 vysoké zás.",
+        "itemMeasureReferenceText": "40x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/metod-maximera-spod-sk-2cela-2-vysoke-zas-bila-askersund-tmave-hneda-vzor-jasan__0856132_pe780820_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/metod-maximera-spod-sk-2cela-2-vysoke-zas-bila-askersund-tmave-hneda-vzor-jasan-s09333764/",
+        "id": "s09333764",
+        "itemNoGlobal": "09333764",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09333764",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3150,
+            "current": { "prefix": "", "wholeNumber": "3 150", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "3 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/metod-maximera-spod-sk-2cela-2-vysoke-zas-bila-askersund-tmave-hneda-vzor-jasan__0260116_pe403633_s5.jpg",
+        "mainImageAlt": "METOD / MAXIMERA Spod.sk. 2čela/2 vysoké zás., bílá Askersund/tmavě hnědá vzor jasan, 40x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské skříňky", "key": "700292" },
+            { "name": "Spodní kuchyňské skříňky", "key": "23607" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09333764",
+    "name": "METOD / MAXIMERA",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3150 }]
+}

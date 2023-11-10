@@ -1,1 +1,53 @@
-{ "id": "00417452", "name": "DRÖMBILD", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 }] }
+{
+    "id": {
+        "name": "DRÖMBILD",
+        "typeName": "Kubek",
+        "itemMeasureReferenceText": "25 cl",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/droembild-kubek-szklo-bezbarwne__0622974_pe690858_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/droembild-kubek-szklo-bezbarwne-00417452/",
+        "id": "00417452",
+        "itemNoGlobal": "00417452",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 89,
+        "itemNo": "00417452",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 7.99,
+            "current": { "prefix": "", "wholeNumber": "7", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/droembild-kubek-szklo-bezbarwne__0899593_pe690860_s5.jpg",
+        "mainImageAlt": "DRÖMBILD Kubek, szkło bezbarwne, 25 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Mugs and cups",
+            "productAreaNo": "1551",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Kubki i filiżanki", "key": "16045" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00417452",
+    "name": "DRÖMBILD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 }]
+}

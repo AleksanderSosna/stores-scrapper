@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "BILLY / GNEDBY",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "200x28x202 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/billy-gnedby-regal-bialy__0644161_pe702457_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/billy-gnedby-regal-bialy-s99017836/",
+        "id": "s99017836",
+        "itemNoGlobal": "99017836",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "99017836",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 856,
+            "current": { "prefix": "", "wholeNumber": "856", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/billy-gnedby-regal-bialy__0503788_pe632912_s5.jpg",
+        "mainImageAlt": "BILLY / GNEDBY Regał, biały, 200x28x202 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99017836",
+    "name": "BILLY / GNEDBY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 856 }]
+}

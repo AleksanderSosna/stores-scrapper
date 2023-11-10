@@ -1,1 +1,85 @@
-{ "id": "50516591", "name": "ENKÖPING", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 125 }] }
+{
+    "id": {
+        "name": "ENKÖPING",
+        "typeName": "Drz sza nar 2 szt",
+        "itemMeasureReferenceText": "25x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enkoeping-drz-sza-nar-2-szt-brazowy-orzech__1044131_pe841936_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enkoeping-drz-sza-nar-2-szt-brazowy-orzech-50516591/",
+        "id": "50516591",
+        "itemNoGlobal": "50516591",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70505775",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enkoeping-drz-sza-nar-2-szt-bialy-imitacja-drewna-70505775/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enkoeping-drz-sza-nar-2-szt-bialy-imitacja-drewna__1044248_pe842050_s5.jpg",
+                    "imageAlt": "ENKÖPING Drz sza nar 2 szt, biały imitacja drewna, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENKÖPING",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enkoeping-drz-sza-nar-2-szt-bialy-imitacja-drewna__1044248_pe842050_s5.jpg",
+                    "mainImageAlt": "ENKÖPING Drz sza nar 2 szt, biały imitacja drewna, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enkoeping-drz-sza-nar-2-szt-bialy-imitacja-drewna__1099677_ph184188_s5.jpg",
+                    "itemNoGlobal": "70505775",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70505775",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 125,
+                        "current": { "prefix": "", "wholeNumber": "125", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "brązowy", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50516591",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 125,
+            "current": { "prefix": "", "wholeNumber": "125", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enkoeping-drz-sza-nar-2-szt-brazowy-orzech__1099672_ph184246_s5.jpg",
+        "mainImageAlt": "ENKÖPING Drz sza nar 2 szt, brązowy orzech, 25x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Brązowe fronty w kolorze orzecha ENKÖPING", "key": "700390" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50516591",
+    "name": "ENKÖPING",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 125 }]
+}

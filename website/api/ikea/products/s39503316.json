@@ -1,0 +1,10 @@
+{
+    "id": "s39503316",
+    "itemNo": "39503316",
+    "name": "SPIKSMED",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 458 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2980 }
+    ]
+}

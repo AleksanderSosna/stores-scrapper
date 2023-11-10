@@ -1,0 +1,61 @@
+{
+    "id": {
+        "name": "BESTÅ / KALLAX",
+        "typeName": "TV/kombinacja regałowa",
+        "itemMeasureReferenceText": "257x40x147 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/besta-kallax-tv-kombinacja-regalowa-czarnybraz__1110438_pe870461_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/besta-kallax-tv-kombinacja-regalowa-czarnybraz-s29488953/",
+        "id": "s29488953",
+        "itemNoGlobal": "29488953",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29488953",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1319,
+            "current": { "prefix": "", "wholeNumber": "1 319", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "1 348", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "1 348", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-02",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "BESTÅ / KALLAX TV/kombinacja regałowa, czarnybrąz, 257x40x147 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "System furniture",
+            "productAreaNo": "0211",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Meble RTV", "key": "10475" },
+            { "name": "Zestawy szafek RTV", "key": "14885" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29488953",
+    "name": "BESTÅ / KALLAX",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1319 }]
+}

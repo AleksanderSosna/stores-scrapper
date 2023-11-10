@@ -1,0 +1,10 @@
+{
+    "id": "s59430927",
+    "itemNo": "59430927",
+    "name": "SYMFONISK",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 749 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4590 }
+    ]
+}

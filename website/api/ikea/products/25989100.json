@@ -1,1 +1,55 @@
-{ "id": "25989100", "name": "FRAKTA", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "FRAKTA",
+        "typeName": "Popruh na zavazadla",
+        "itemMeasureReferenceText": "3.5 m 2 ks",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/frakta-popruh-na-zavazadla-cerna__0717974_pe731408_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/frakta-popruh-na-zavazadla-cerna-25989100/",
+        "id": "25989100",
+        "itemNoGlobal": "25989100",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 14,
+        "itemNo": "25989100",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "7 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/frakta-popruh-na-zavazadla-cerna__0911815_pe617690_s5.jpg",
+        "mainImageAlt": "FRAKTA Popruh na zavazadla, černá, 3.5 m 2 ks",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Bags and travel accessories",
+            "productAreaNo": "1836",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Tašky", "key": "16248" },
+            { "name": "Nákupní tašky", "key": "16295" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "25989100",
+    "name": "FRAKTA",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

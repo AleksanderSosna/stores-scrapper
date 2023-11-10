@@ -1,0 +1,58 @@
+{
+    "id": {
+        "name": "LÅNGFJÄLL",
+        "typeName": "Konferenční židle s područkami",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/langfjaell-konferencni-zidle-s-podruckami-gunnared-svetle-hnedo-ruzova-cerna__0726963_pe735462_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/langfjaell-konferencni-zidle-s-podruckami-gunnared-svetle-hnedo-ruzova-cerna-s99261866/",
+        "id": "s99261866",
+        "itemNoGlobal": "99261866",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "růžová", "id": "10119", "hex": "ffb8c3" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 9,
+        "itemNo": "99261866",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 4990,
+            "current": { "prefix": "", "wholeNumber": "4 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/langfjaell-konferencni-zidle-s-podruckami-gunnared-svetle-hnedo-ruzova-cerna__0855054_pe685896_s5.jpg",
+        "mainImageAlt": "LÅNGFJÄLL Konferenční židle s područkami, Gunnared světle hnědo-růžová/černá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Office chairs",
+            "productAreaNo": "0352",
+            "productRangeAreaName": "Office workspace",
+            "productRangeAreaNo": "035"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Židle k psacímu stolu", "key": "20652" },
+            { "name": "Kancelářská křesla do domácnosti", "key": "20653" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "99261866",
+    "name": "LÅNGFJÄLL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }]
+}

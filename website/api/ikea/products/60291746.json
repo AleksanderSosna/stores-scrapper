@@ -1,1 +1,53 @@
-{ "id": "60291746", "name": "SKRUTT", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 }] }
+{
+    "id": {
+        "name": "SKRUTT",
+        "typeName": "Podkładka na biurko",
+        "itemMeasureReferenceText": "65x45 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skrutt-podkladka-na-biurko-czarny__0313428_pe512955_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/skrutt-podkladka-na-biurko-czarny-60291746/",
+        "id": "60291746",
+        "itemNoGlobal": "60291746",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 244,
+        "itemNo": "60291746",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 17.99,
+            "current": { "prefix": "", "wholeNumber": "17", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skrutt-podkladka-na-biurko-czarny__0475980_pe615928_s5.jpg",
+        "mainImageAlt": "SKRUTT Podkładka na biurko, czarny, 65x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Organisers",
+            "productAreaNo": "1813",
+            "productRangeAreaName": "Boxes and baskets",
+            "productRangeAreaNo": "181"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Akcesoria biurowe", "key": "10573" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60291746",
+    "name": "SKRUTT",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 }]
+}

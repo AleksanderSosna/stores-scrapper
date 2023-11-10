@@ -1,1 +1,52 @@
-{ "id": "60546074", "name": "ÖMSESIDIG", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "ÖMSESIDIG",
+        "typeName": "Svícen",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-svicen-cerna__1127143_pe876058_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oemsesidig-svicen-cerna-60546074/",
+        "id": "60546074",
+        "itemNoGlobal": "60546074",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60546074",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oemsesidig-svicen-cerna__1194227_ph192455_s5.jpg",
+        "mainImageAlt": "ÖMSESIDIG Svícen, černá, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Svícny", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60546074",
+    "name": "ÖMSESIDIG",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

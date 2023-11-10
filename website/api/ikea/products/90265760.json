@@ -1,1 +1,53 @@
-{ "id": "90265760", "name": "BRAMSÖN", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }] }
+{
+    "id": {
+        "name": "BRAMSÖN",
+        "typeName": "Podstawa parasola",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bramsoen-podstawa-parasola-czarny__0709136_pe726825_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bramsoen-podstawa-parasola-czarny-90265760/",
+        "id": "90265760",
+        "itemNoGlobal": "90265760",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 9,
+        "itemNo": "90265760",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bramsoen-podstawa-parasola-czarny__1102640_ph183341_s5.jpg",
+        "mainImageAlt": "BRAMSÖN Podstawa parasola, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90265760",
+    "name": "BRAMSÖN",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }]
+}

@@ -1,1 +1,53 @@
-{ "id": "00522052", "name": "TEBSTRUP", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }] }
+{
+    "id": {
+        "name": "TEBSTRUP",
+        "typeName": "Dywan z krótkim włosiem",
+        "itemMeasureReferenceText": "160x240 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tebstrup-dywan-z-krotkim-wlosiem-wielobarwny__1039277_pe840119_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tebstrup-dywan-z-krotkim-wlosiem-wielobarwny-00522052/",
+        "id": "00522052",
+        "itemNoGlobal": "00522052",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "00522052",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tebstrup-dywan-z-krotkim-wlosiem-wielobarwny__1051140_pe845010_s5.jpg",
+        "mainImageAlt": "TEBSTRUP Dywan z krótkim włosiem, wielobarwny, 160x240 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Rugs",
+            "productAreaNo": "1311",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Duże i średnie dywany", "key": "10692" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00522052",
+    "name": "TEBSTRUP",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 399 }]
+}

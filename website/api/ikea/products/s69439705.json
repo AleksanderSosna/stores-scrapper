@@ -1,0 +1,10 @@
+{
+    "id": "s69439705",
+    "itemNo": "69439705",
+    "name": "HOKKSUND",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1650 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10000 }
+    ]
+}

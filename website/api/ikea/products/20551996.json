@@ -1,1 +1,56 @@
-{ "id": "20551996", "name": "TABBERAS", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }
+{
+    "id": {
+        "name": "TABBERAS",
+        "typeName": "Ścierka",
+        "itemMeasureReferenceText": "45x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tabberas-scierka-rozne-wzory__1182342_pe897184_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tabberas-scierka-rozne-wzory-20551996/",
+        "id": "20551996",
+        "itemNoGlobal": "20551996",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "badge": { "type": "LIMITED_EDITION", "text": "Kolekcja limitowana" },
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 2,
+        "ratingCount": 1,
+        "itemNo": "20551996",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 24.99,
+            "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tabberas-scierka-rozne-wzory__1210431_pe909743_s5.jpg",
+        "mainImageAlt": "TABBERAS Ścierka, różne wzory, 45x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking textiles",
+            "productAreaNo": "1415",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia do kuchni", "key": "18850" },
+            { "name": "Ścierki i ściereczki kuchenne", "key": "18851" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20551996",
+    "name": "TABBERAS",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }]
+}

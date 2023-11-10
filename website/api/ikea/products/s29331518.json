@@ -1,0 +1,10 @@
+{
+    "id": "s29331518",
+    "itemNo": "29331518",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1009 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6648 }
+    ]
+}

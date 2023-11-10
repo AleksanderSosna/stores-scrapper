@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "GODMORGON/TOLKEN / KATTEVIK",
+        "typeName": "Szafka z blatem i umywalką 40cm",
+        "itemMeasureReferenceText": "82x49x75 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-kattevik-szafka-z-blatem-i-umywalka-40cm-kasjoen-bialy-imitacja-marmuru-bateria-voxnan__0557988_pe661135_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/godmorgon-tolken-kattevik-szafka-z-blatem-i-umywalka-40cm-kasjoen-bialy-imitacja-marmuru-bateria-voxnan-s19308504/",
+        "id": "s19308504",
+        "itemNoGlobal": "19308504",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "19308504",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1999,
+            "current": { "prefix": "", "wholeNumber": "1 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/godmorgon-tolken-kattevik-szafka-z-blatem-i-umywalka-40cm-kasjoen-bialy-imitacja-marmuru-bateria-voxnan__0861958_pe661136_s5.jpg",
+        "mainImageAlt": "GODMORGON/TOLKEN / KATTEVIK Szafka z blatem i umywalką 40cm, Kasjön biały/imitacja marmuru bateria Voxnan, 82x49x75 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Meble łazienkowe", "key": "20719" },
+            { "name": "Szafki z umywalką", "key": "20720" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "19308504",
+    "name": "GODMORGON/TOLKEN / KATTEVIK",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1999 }]
+}

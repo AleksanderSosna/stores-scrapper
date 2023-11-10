@@ -1,1 +1,89 @@
-{ "id": "60406224", "name": "KUNGSHULT", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }] }
+{
+    "id": {
+        "name": "KUNGSHULT",
+        "typeName": "Klosz",
+        "itemMeasureReferenceText": "42 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-klosz-plisowane-bialy__0954770_pe803461_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kungshult-klosz-plisowane-bialy-60406224/",
+        "id": "60406224",
+        "itemNoGlobal": "60406224",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50501561",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/kungshult-klosz-plisowane-bialy-50501561/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-klosz-plisowane-bialy__0954755_pe803454_s5.jpg",
+                    "imageAlt": "KUNGSHULT Klosz, plisowane biały, 33 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 18,
+                    "name": "KUNGSHULT",
+                    "typeName": "Klosz",
+                    "itemMeasureReferenceText": "33 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-klosz-plisowane-bialy__0954755_pe803454_s5.jpg",
+                    "mainImageAlt": "KUNGSHULT Klosz, plisowane biały, 33 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-klosz-plisowane-bialy__0954757_pe803456_s5.jpg",
+                    "itemNoGlobal": "50501561",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50501561",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 99.99,
+                        "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 18,
+        "itemNo": "60406224",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-klosz-plisowane-bialy__0954772_pe803463_s5.jpg",
+        "mainImageAlt": "KUNGSHULT Klosz, plisowane biały, 42 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Shades, bases and cord set",
+            "productAreaNo": "1015",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Klosze, podstawy i oprawki", "key": "10803" },
+            { "name": "Klosze i abażury do lamp", "key": "10804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60406224",
+    "name": "KUNGSHULT",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }]
+}

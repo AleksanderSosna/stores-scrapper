@@ -1,0 +1,10 @@
+{
+    "id": "s59481375",
+    "itemNo": "59481375",
+    "name": "LEIRSUND",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 550 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3800 }
+    ]
+}

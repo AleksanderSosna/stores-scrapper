@@ -1,1 +1,60 @@
-{ "id": "50470814", "name": "NYSJÖN", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 990 }] }
+{
+    "id": {
+        "name": "NYSJÖN",
+        "typeName": "Umyv. skříňka se 2dvířky",
+        "itemMeasureReferenceText": "50x65 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-umyv-skrinka-se-2dvirky-bila__0971610_pe811409_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nysjoen-umyv-skrinka-se-2dvirky-bila-50470814/",
+        "id": "50470814",
+        "itemNoGlobal": "50470814",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 24,
+        "itemNo": "50470814",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 990,
+            "current": { "prefix": "", "wholeNumber": "990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "1 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-umyv-skrinka-se-2dvirky-bila__0971612_pe811410_s5.jpg",
+        "mainImageAlt": "NYSJÖN Umyv. skříňka se 2dvířky, bílá, 50x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny NYSJÖN", "key": "700459" },
+            { "name": "Úložné prostory a zrcadla NYSJÖN", "key": "700494" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "backoff" }
+    },
+    "itemNo": "50470814",
+    "name": "NYSJÖN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 990 }]
+}

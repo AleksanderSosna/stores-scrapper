@@ -1,0 +1,10 @@
+{
+    "id": "s89517014",
+    "itemNo": "89517014",
+    "name": "SUNNEBY / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 84.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
+    ]
+}

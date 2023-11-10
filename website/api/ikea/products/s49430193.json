@@ -1,0 +1,10 @@
+{
+    "id": "s49430193",
+    "itemNo": "49430193",
+    "name": "UPPSPEL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2699 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }
+    ]
+}

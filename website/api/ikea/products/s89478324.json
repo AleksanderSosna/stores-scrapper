@@ -1,0 +1,10 @@
+{
+    "id": "s89478324",
+    "itemNo": "89478324",
+    "name": "MÅLSKYTT / TILLSLAG",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 479 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2890 }
+    ]
+}

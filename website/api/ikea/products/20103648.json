@@ -1,1 +1,58 @@
-{ "id": "20103648", "name": "BRATTBY", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 12 }] }
+{
+    "id": {
+        "name": "BRATTBY",
+        "typeName": "Taška",
+        "itemMeasureReferenceText": "27x27 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/brattby-taska-modra__0385690_pe558391_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/brattby-taska-modra-20103648/",
+        "id": "20103648",
+        "itemNoGlobal": "20103648",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 156,
+        "itemNo": "20103648",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 12,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "15", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "BRATTBY Taška, modrá, 27x27 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Bags and travel accessories",
+            "productAreaNo": "1836",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Praní a čištění", "key": "lc001" },
+            { "name": "Odpadkové koše a pytle", "key": "16213" },
+            { "name": "Tašky", "key": "16214" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20103648",
+    "name": "BRATTBY",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 12 }]
+}

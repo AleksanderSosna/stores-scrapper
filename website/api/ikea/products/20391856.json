@@ -1,1 +1,52 @@
-{ "id": "20391856", "name": "DUVHOLMEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 70 }] }
+{
+    "id": {
+        "name": "DUVHOLMEN",
+        "typeName": "Wewnętrzna poducha siedziska/opar",
+        "itemMeasureReferenceText": "71x45/42x45 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/duvholmen-wewnetrzna-poducha-siedziska-opar-zewnetrzne-szary__0684480_pe721193_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/duvholmen-wewnetrzna-poducha-siedziska-opar-zewnetrzne-szary-20391856/",
+        "id": "20391856",
+        "itemNoGlobal": "20391856",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 16,
+        "itemNo": "20391856",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 70,
+            "current": { "prefix": "", "wholeNumber": "70", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "DUVHOLMEN Wewnętrzna poducha siedziska/opar, zewnętrzne szary, 71x45/42x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor cushions",
+            "productAreaNo": "1719",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Poduszki do siedzenia na zewnątrz", "key": "46400" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20391856",
+    "name": "DUVHOLMEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 70 }]
+}

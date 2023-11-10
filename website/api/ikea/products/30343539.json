@@ -1,1 +1,54 @@
-{ "id": "30343539", "name": "STOCKHOLM 2017", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 279 }] }
+{
+    "id": {
+        "name": "STOCKHOLM 2017",
+        "typeName": "Lampa stołowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stockholm-2017-lampa-stolowa-chrom__0610420_pe684947_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stockholm-2017-lampa-stolowa-chrom-30343539/",
+        "id": "30343539",
+        "itemNoGlobal": "30343539",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 23,
+        "itemNo": "30343539",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 279,
+            "current": { "prefix": "", "wholeNumber": "279", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stockholm-2017-lampa-stolowa-chrom__0880875_pe625255_s5.jpg",
+        "mainImageAlt": "STOCKHOLM 2017 Lampa stołowa, chrom",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Table lamps",
+            "productAreaNo": "1012",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "30343539",
+    "name": "STOCKHOLM 2017",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 279 }]
+}

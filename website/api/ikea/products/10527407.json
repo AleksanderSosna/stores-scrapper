@@ -1,1 +1,52 @@
-{ "id": "10527407", "name": "VINTERFINT", "categoryKey": "wt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }] }
+{
+    "id": {
+        "name": "VINTERFINT",
+        "typeName": "Vánoční punčocha",
+        "itemMeasureReferenceText": "49 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinterfint-vanocni-puncocha-cervena__1091029_pe862267_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vinterfint-vanocni-puncocha-cervena-10527407/",
+        "id": "10527407",
+        "itemNoGlobal": "10527407",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "červená", "id": "10124", "hex": "f00f00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 4,
+        "itemNo": "10527407",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinterfint-vanocni-puncocha-cervena__1153636_ph187744_s5.jpg",
+        "mainImageAlt": "VINTERFINT Vánoční punčocha, červená, 49 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Holiday decoration",
+            "productAreaNo": "1637",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Vánoce", "key": "wt001" },
+            { "name": "Vánoční textil", "key": "49152" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10527407",
+    "name": "VINTERFINT",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 199 }]
+}

@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "NYSJÖN / BJÖRKÅN",
+        "typeName": "Umyv. skříňka se 2dvířky",
+        "itemMeasureReferenceText": "54x80 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-bjoerkan-umyv-skrinka-se-2dvirky-bila-baterie-pilkan__0993226_pe820454_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nysjoen-bjoerkan-umyv-skrinka-se-2dvirky-bila-baterie-pilkan-s09419692/",
+        "id": "s09419692",
+        "itemNoGlobal": "09419692",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09419692",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3289,
+            "current": { "prefix": "", "wholeNumber": "3 289", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "3 779", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nysjoen-bjoerkan-umyv-skrinka-se-2dvirky-bila-baterie-pilkan__0993227_pe820456_s5.jpg",
+        "mainImageAlt": "NYSJÖN / BJÖRKÅN Umyv. skříňka se 2dvířky, bílá/Baterie Pilkån, 54x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny NYSJÖN", "key": "700459" },
+            { "name": "Umyvadlové skříňky s umyvadlem NYSJÖN", "key": "700495" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "09419692",
+    "name": "NYSJÖN / BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3289 }]
+}

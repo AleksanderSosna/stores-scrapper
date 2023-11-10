@@ -1,9 +1,0 @@
-{
-    "id": "09477979",
-    "name": "KNOXHULT",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2058 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12389 }
-    ]
-}

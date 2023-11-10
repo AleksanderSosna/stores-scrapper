@@ -1,0 +1,146 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Szafka stojąca z półką/drzwi",
+        "itemMeasureReferenceText": "80x62x75 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-blady-szaro-zielony__1150154_pe884388_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polka-drzwi-bialy-blady-szaro-zielony-s89496790/",
+        "id": "s89496790",
+        "itemNoGlobal": "89496790",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s59321004",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polka-drzwi-bialy-imit-debu-s59321004/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-imit-debu__0815984_pe773172_s5.jpg",
+                    "imageAlt": "ENHET Szafka stojąca z półką/drzwi, biały/imit. dębu, 80x62x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Szafka stojąca z półką/drzwi",
+                    "itemMeasureReferenceText": "80x62x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-imit-debu__0815984_pe773172_s5.jpg",
+                    "mainImageAlt": "ENHET Szafka stojąca z półką/drzwi, biały/imit. dębu, 80x62x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-imit-debu__0915697_pe784877_s5.jpg",
+                    "itemNoGlobal": "59321004",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59321004",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 420,
+                        "current": { "prefix": "", "wholeNumber": "420", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69321008",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polka-drzwi-bialy-szary-rama-s69321008/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-szary-rama__0815982_pe773171_s5.jpg",
+                    "imageAlt": "ENHET Szafka stojąca z półką/drzwi, biały/szary rama, 80x62x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Szafka stojąca z półką/drzwi",
+                    "itemMeasureReferenceText": "80x62x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-szary-rama__0815982_pe773171_s5.jpg",
+                    "mainImageAlt": "ENHET Szafka stojąca z półką/drzwi, biały/szary rama, 80x62x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-szary-rama__0915695_pe784871_s5.jpg",
+                    "itemNoGlobal": "69321008",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69321008",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 430,
+                        "current": { "prefix": "", "wholeNumber": "430", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09321006",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polka-drzwi-bialy-s09321006/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy__0815980_pe773170_s5.jpg",
+                    "imageAlt": "ENHET Szafka stojąca z półką/drzwi, biały, 80x62x75 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Szafka stojąca z półką/drzwi",
+                    "itemMeasureReferenceText": "80x62x75 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy__0815980_pe773170_s5.jpg",
+                    "mainImageAlt": "ENHET Szafka stojąca z półką/drzwi, biały, 80x62x75 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy__0915698_pe784874_s5.jpg",
+                    "itemNoGlobal": "09321006",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09321006",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 390,
+                        "current": { "prefix": "", "wholeNumber": "390", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89496790",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 440,
+            "current": { "prefix": "", "wholeNumber": "440", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polka-drzwi-bialy-blady-szaro-zielony__1149946_pe884296_s5.jpg",
+        "mainImageAlt": "ENHET Szafka stojąca z półką/drzwi, biały/blady szaro-zielony, 80x62x75 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen cabinets, kitchen legs, open frames",
+            "productAreaNo": "0711",
+            "productRangeAreaName": "Kitchen cabinets",
+            "productRangeAreaNo": "071"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Szafki kuchenne", "key": "700292" },
+            { "name": "Szafki kuchenne ENHET", "key": "48993" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89496790",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 440 }]
+}

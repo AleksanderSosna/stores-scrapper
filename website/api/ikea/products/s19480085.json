@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Szafka pod umywalkę z 2 szufladami",
+        "itemMeasureReferenceText": "44x43x87 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-szary-rama-szary-bateria-pilkan__1084750_pe859835_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-szary-rama-szary-bateria-pilkan-s19480085/",
+        "id": "s19480085",
+        "itemNoGlobal": "19480085",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "19480085",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1054,
+            "current": { "prefix": "", "wholeNumber": "1 054", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-szary-rama-szary-bateria-pilkan__1084749_pe859836_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, szary rama/szary bateria Pilkån, 44x43x87 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Zestawy umywalkowe ENHET z umywalką", "key": "700493" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19480085",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1054 }]
+}

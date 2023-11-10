@@ -1,0 +1,124 @@
+{
+    "id": {
+        "name": "NÄMMARÖ",
+        "typeName": "Fotel ogrodowy",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-froesoen-duvholmen-bezowy__1207768_pe908166_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-froesoen-duvholmen-bezowy-s39529161/",
+        "id": "s39529161",
+        "itemNoGlobal": "39529161",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s99491198",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-kuddarna-bezowy-s99491198/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-kuddarna-bezowy__1147801_pe883476_s5.jpg",
+                    "imageAlt": "NÄMMARÖ Fotel ogrodowy, bejca jasnobrązowa/Kuddarna beżowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 4,
+                    "name": "NÄMMARÖ",
+                    "typeName": "Fotel ogrodowy",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-kuddarna-bezowy__1147801_pe883476_s5.jpg",
+                    "mainImageAlt": "NÄMMARÖ Fotel ogrodowy, bejca jasnobrązowa/Kuddarna beżowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-kuddarna-bezowy__1185557_pe898444_s5.jpg",
+                    "itemNoGlobal": "99491198",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99491198",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 499.98,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39529156",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-s39529156/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa__1207766_pe908168_s5.jpg",
+                    "imageAlt": "NÄMMARÖ Fotel ogrodowy, bejca jasnobrązowa",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.3,
+                    "ratingCount": 4,
+                    "name": "NÄMMARÖ",
+                    "typeName": "Fotel ogrodowy",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa__1207766_pe908168_s5.jpg",
+                    "mainImageAlt": "NÄMMARÖ Fotel ogrodowy, bejca jasnobrązowa",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa__1207765_pe908165_s5.jpg",
+                    "itemNoGlobal": "39529156",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39529156",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 370,
+                        "current": { "prefix": "", "wholeNumber": "370", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 4,
+        "itemNo": "39529161",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 625,
+            "current": { "prefix": "", "wholeNumber": "625", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/naemmaroe-fotel-ogrodowy-bejca-jasnobrazowa-froesoen-duvholmen-bezowy__1207767_pe908167_s5.jpg",
+        "mainImageAlt": "NÄMMARÖ Fotel ogrodowy, bejca jasnobrązowa/Frösön/Duvholmen beżowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor sofas & relax",
+            "productAreaNo": "1712",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble do ogrodu i na taras", "key": "700350" },
+            { "name": "Krzesła i fotele ogrodowe", "key": "21964" },
+            { "name": "Krzesła i fotele do ogrodu i na balkon", "key": "21962" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39529161",
+    "name": "NÄMMARÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 625 }]
+}

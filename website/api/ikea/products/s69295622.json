@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "GODMORGON / TOLKEN",
+        "typeName": "Umyvadlová skříňka se 4 zásuvkami",
+        "itemMeasureReferenceText": "122x49x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-bila-bambus__0675257_pe718208_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-bila-bambus-s69295622/",
+        "id": "s69295622",
+        "itemNoGlobal": "69295622",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19295605",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-leskla-bila-bambus-s19295605/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-leskla-bila-bambus__0675230_pe718184_s5.jpg",
+                    "imageAlt": "GODMORGON / TOLKEN Umyvadlová skříňka se 4 zásuvkami, lesklá bílá/bambus, 122x49x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "GODMORGON / TOLKEN",
+                    "typeName": "Umyvadlová skříňka se 4 zásuvkami",
+                    "itemMeasureReferenceText": "122x49x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-leskla-bila-bambus__0675230_pe718184_s5.jpg",
+                    "mainImageAlt": "GODMORGON / TOLKEN Umyvadlová skříňka se 4 zásuvkami, lesklá bílá/bambus, 122x49x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-leskla-bila-bambus__0861730_pe718183_s5.jpg",
+                    "itemNoGlobal": "19295605",
+                    "onlineSellable": false,
+                    "lastChance": true,
+                    "itemNo": "19295605",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 13490,
+                        "current": { "prefix": "", "wholeNumber": "13 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "69295622",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 9990,
+            "current": { "prefix": "", "wholeNumber": "9 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-tolken-umyvadlova-skrinka-se-4-zasuvkami-bila-bambus__0862740_pe718207_s5.jpg",
+        "mainImageAlt": "GODMORGON / TOLKEN Umyvadlová skříňka se 4 zásuvkami, bílá/bambus, 122x49x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové a umyvadlové skříňky", "key": "20719" },
+            { "name": "Umyvadlové skříňky bez umyvadla", "key": "54989" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "69295622",
+    "name": "GODMORGON / TOLKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }]
+}

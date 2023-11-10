@@ -1,0 +1,124 @@
+{
+    "id": {
+        "name": "VINLIDEN",
+        "typeName": "3místná pohovka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hillared-antracit__0852750_pe780239_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-3mistna-pohovka-hillared-antracit-s99304663/",
+        "id": "s99304663",
+        "itemNoGlobal": "99304663",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s09304648",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-3mistna-pohovka-hakebo-bezova-s09304648/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-bezova__0852744_pe780233_s5.jpg",
+                    "imageAlt": "VINLIDEN 3místná pohovka, Hakebo béžová",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "59511", "name": "Extra měkké", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "VINLIDEN",
+                    "typeName": "3místná pohovka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-bezova__0852744_pe780233_s5.jpg",
+                    "mainImageAlt": "VINLIDEN 3místná pohovka, Hakebo béžová",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-bezova__0852745_pe780234_s5.jpg",
+                    "itemNoGlobal": "09304648",
+                    "onlineSellable": false,
+                    "lastChance": true,
+                    "itemNo": "09304648",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 14990,
+                        "current": { "prefix": "", "wholeNumber": "14 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19304657",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-3mistna-pohovka-hakebo-svetle-tyrkysovy-s19304657/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-svetle-tyrkysovy__0938990_pe794368_s5.jpg",
+                    "imageAlt": "VINLIDEN 3místná pohovka, Hakebo světle tyrkysový",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "59511", "name": "Extra měkké", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "VINLIDEN",
+                    "typeName": "3místná pohovka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-svetle-tyrkysovy__0938990_pe794368_s5.jpg",
+                    "mainImageAlt": "VINLIDEN 3místná pohovka, Hakebo světle tyrkysový",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hakebo-svetle-tyrkysovy__0938991_pe794367_s5.jpg",
+                    "itemNoGlobal": "19304657",
+                    "onlineSellable": false,
+                    "lastChance": true,
+                    "itemNo": "19304657",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 14990,
+                        "current": { "prefix": "", "wholeNumber": "14 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "59511", "name": "Extra měkké", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "99304663",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 16990,
+            "current": { "prefix": "", "wholeNumber": "16 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-3mistna-pohovka-hillared-antracit__0852751_pe780240_s5.jpg",
+        "mainImageAlt": "VINLIDEN 3místná pohovka, Hillared antracit",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Látkové pohovky", "key": "10661" },
+            { "name": "Trojmístné pohovky", "key": "10670" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "99304663",
+    "name": "VINLIDEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 16990 }]
+}

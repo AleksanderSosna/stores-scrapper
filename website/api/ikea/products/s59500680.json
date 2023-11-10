@@ -1,0 +1,10 @@
+{
+    "id": "s59500680",
+    "itemNo": "59500680",
+    "name": "PAX / FLISBERGET",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2010 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11910 }
+    ]
+}

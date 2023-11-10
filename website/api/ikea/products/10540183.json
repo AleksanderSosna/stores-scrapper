@@ -1,1 +1,57 @@
-{ "id": "10540183", "name": "DOFTDRACENA", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 }] }
+{
+    "id": {
+        "name": "DOFTDRACENA",
+        "typeName": "Opaska na wł z nylonowym zapięciem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/doftdracena-opaska-na-wl-z-nylonowym-zapieciem-bialy-szarozielony__1126480_pe875744_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/doftdracena-opaska-na-wl-z-nylonowym-zapieciem-bialy-szarozielony-10540183/",
+        "id": "10540183",
+        "itemNoGlobal": "10540183",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10540183",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 7.99,
+            "current": { "prefix": "", "wholeNumber": "7", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/doftdracena-opaska-na-wl-z-nylonowym-zapieciem-bialy-szarozielony__1126478_pe875743_s5.jpg",
+        "mainImageAlt": "DOFTDRACENA Opaska na wł z nylonowym zapięciem, biały/szarozielony",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Bath textile accessories",
+            "productAreaNo": "1135",
+            "productRangeAreaName": "Bath textiles",
+            "productRangeAreaNo": "113"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Tekstylia do łazienki", "key": "tl003" },
+            { "name": "Akcesoria do domowego spa", "key": "700339" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10540183",
+    "name": "DOFTDRACENA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 }]
+}

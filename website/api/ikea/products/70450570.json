@@ -1,1 +1,120 @@
-{ "id": "70450570", "name": "STENSUND", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 195 }] }
+{
+    "id": {
+        "name": "STENSUND",
+        "typeName": "Drz sza nar 2 szt",
+        "itemMeasureReferenceText": "25x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-bialy__0944227_pe797194_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-drz-sza-nar-2-szt-bialy-70450570/",
+        "id": "70450570",
+        "itemNoGlobal": "70450570",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "10453190",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-drz-sza-nar-2-szt-bezowy-10453190/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-bezowy__0944847_pe797480_s5.jpg",
+                    "imageAlt": "STENSUND Drz sza nar 2 szt, beżowy, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "STENSUND",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-bezowy__0944847_pe797480_s5.jpg",
+                    "mainImageAlt": "STENSUND Drz sza nar 2 szt, beżowy, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-bezowy__1029505_ph176854_s5.jpg",
+                    "itemNoGlobal": "10453190",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10453190",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 195,
+                        "current": { "prefix": "", "wholeNumber": "195", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "90524004",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-drz-sza-nar-2-szt-jasnozielony-90524004/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-jasnozielony__1087325_pe860708_s5.jpg",
+                    "imageAlt": "STENSUND Drz sza nar 2 szt, jasnozielony, 25x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "STENSUND",
+                    "typeName": "Drz sza nar 2 szt",
+                    "itemMeasureReferenceText": "25x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-jasnozielony__1087325_pe860708_s5.jpg",
+                    "mainImageAlt": "STENSUND Drz sza nar 2 szt, jasnozielony, 25x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-jasnozielony__1105154_pe868059_s5.jpg",
+                    "itemNoGlobal": "90524004",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90524004",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 195,
+                        "current": { "prefix": "", "wholeNumber": "195", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "70450570",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 195,
+            "current": { "prefix": "", "wholeNumber": "195", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-drz-sza-nar-2-szt-bialy__1031765_ph177068_s5.jpg",
+        "mainImageAlt": "STENSUND Drz sza nar 2 szt, biały, 25x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Białe fronty STENSUND", "key": "700366" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70450570",
+    "name": "STENSUND",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 195 }]
+}

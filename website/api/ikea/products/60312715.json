@@ -1,1 +1,53 @@
-{ "id": "60312715", "name": "NYPLOCKAD", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "NYPLOCKAD",
+        "typeName": "Stojan na talíře",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nyplockad-stojan-na-talire-buk__0378203_pe554493_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nyplockad-stojan-na-talire-buk-60312715/",
+        "id": "60312715",
+        "itemNoGlobal": "60312715",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 103,
+        "itemNo": "60312715",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nyplockad-stojan-na-talire-buk__0439430_pe592040_s5.jpg",
+        "mainImageAlt": "NYPLOCKAD Stojan na talíře, buk",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Organisers and washing-up",
+            "productAreaNo": "1433",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Praní a čištění", "key": "lc001" },
+            { "name": "Doplňky k mytí nádobí", "key": "15938" },
+            { "name": "Odkapávače na nádobí", "key": "700196" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60312715",
+    "name": "NYPLOCKAD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

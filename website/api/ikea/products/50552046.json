@@ -1,1 +1,53 @@
-{ "id": "50552046", "name": "MÄVINN", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 449 }] }
+{
+    "id": {
+        "name": "MÄVINN",
+        "typeName": "Závěsný úl. díl na doplňky",
+        "itemMeasureReferenceText": "45x110 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-zavesny-ul-dil-na-doplnky-modra__1171479_pe893092_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/maevinn-zavesny-ul-dil-na-doplnky-modra-50552046/",
+        "id": "50552046",
+        "itemNoGlobal": "50552046",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50552046",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 449,
+            "current": { "prefix": "", "wholeNumber": "449", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/maevinn-zavesny-ul-dil-na-doplnky-modra__1200381_ph192786_s5.jpg",
+        "mainImageAlt": "MÄVINN Závěsný úl. díl na doplňky, modrá, 45x110 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Clothes and shoe organisers",
+            "productAreaNo": "1831",
+            "productRangeAreaName": "Clothes & shoe organisers & accessories",
+            "productRangeAreaNo": "183"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Malé úložné prostory a organizéry", "key": "st007" },
+            { "name": "Ukládání oblečení", "key": "10452" },
+            { "name": "Závěsné organizéry na oblečení", "key": "10459" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50552046",
+    "name": "MÄVINN",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 449 }]
+}

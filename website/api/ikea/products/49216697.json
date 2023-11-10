@@ -1,9 +1,0 @@
-{
-    "id": "49216697",
-    "name": "SKÅDIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 739 }
-    ]
-}

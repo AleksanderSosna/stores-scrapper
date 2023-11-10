@@ -1,1 +1,59 @@
-{ "id": "80542555", "name": "ÄDELSYREN", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }] }
+{
+    "id": {
+        "name": "ÄDELSYREN",
+        "typeName": "Vonná svíčka ve skle s víkem",
+        "itemMeasureReferenceText": "40 hod.",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aedelsyren-vonna-svicka-ve-skle-s-vikem-grapefruit-a-ruze-svetle-ruzova__1147695_pe883415_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/aedelsyren-vonna-svicka-ve-skle-s-vikem-grapefruit-a-ruze-svetle-ruzova-80542555/",
+        "id": "80542555",
+        "itemNoGlobal": "80542555",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "růžová", "id": "10119", "hex": "ffb8c3" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "80542555",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 89,
+            "current": { "prefix": "", "wholeNumber": "89", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. října 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aedelsyren-vonna-svicka-ve-skle-s-vikem-grapefruit-a-ruze-svetle-ruzova__1124412_pe875161_s5.jpg",
+        "mainImageAlt": "ÄDELSYREN Vonná svíčka ve skle s víkem, grapefruit a růže/světle růžová, 40 hod.",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Home fragrance",
+            "productAreaNo": "1635",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Vonné svíčky", "key": "10783" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80542555",
+    "name": "ÄDELSYREN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }]
+}

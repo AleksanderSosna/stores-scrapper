@@ -1,0 +1,10 @@
+{
+    "id": "s49308362",
+    "itemNo": "49308362",
+    "name": "KUNGSFORS",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1369.94 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8188 }
+    ]
+}

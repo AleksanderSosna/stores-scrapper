@@ -1,0 +1,10 @@
+{
+    "id": "s49440601",
+    "itemNo": "49440601",
+    "name": "VIHALS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1098 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6280 }
+    ]
+}

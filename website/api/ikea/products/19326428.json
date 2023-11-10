@@ -1,9 +1,0 @@
-{
-    "id": "19326428",
-    "name": "SLÄKT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 749 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4040 }
-    ]
-}

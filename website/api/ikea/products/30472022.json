@@ -1,1 +1,58 @@
-{ "id": "30472022", "name": "SOLKLINT", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "SOLKLINT",
+        "typeName": "Lampa ścienna, stała instalacja",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste__0842280_pe778928_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste-30472022/",
+        "id": "30472022",
+        "itemNoGlobal": "20464065",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 11,
+        "itemNo": "30472022",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste__0842281_pe778930_s5.jpg",
+        "mainImageAlt": "SOLKLINT Lampa ścienna, stała instalacja, mosiądz/szare szkło przezroczyste",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie ścienne", "key": "20503" },
+            { "name": "Lampy ścienne i kinkiety", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30472022",
+    "name": "SOLKLINT",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

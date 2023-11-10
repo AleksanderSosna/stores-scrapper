@@ -1,0 +1,10 @@
+{
+    "id": "s09477917",
+    "itemNo": "09477917",
+    "name": "SKYTTA / FÄRVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3550 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20400 }
+    ]
+}

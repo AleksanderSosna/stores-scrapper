@@ -1,1 +1,55 @@
-{ "id": "20540031", "name": "MYRTÅG", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "MYRTÅG",
+        "typeName": "Poszwa na kołdrę i 2 poszewki",
+        "itemMeasureReferenceText": "200x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/myrtag-poszwa-na-koldre-i-2-poszewki-jasnozielony__0941637_pe795652_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/myrtag-poszwa-na-koldre-i-2-poszewki-jasnozielony-20540031/",
+        "id": "20540031",
+        "itemNoGlobal": "20540031",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 3,
+        "itemNo": "20540031",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/myrtag-poszwa-na-koldre-i-2-poszewki-jasnozielony__0941639_pe795654_s5.jpg",
+        "mainImageAlt": "MYRTÅG Poszwa na kołdrę i 2 poszewki, jasnozielony, 200x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Pościel", "key": "10651" },
+            { "name": "Komplety pościeli", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "20540031",
+    "name": "MYRTÅG",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

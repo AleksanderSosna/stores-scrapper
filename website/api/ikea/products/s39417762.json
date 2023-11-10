@@ -1,0 +1,10 @@
+{
+    "id": "s39417762",
+    "itemNo": "39417762",
+    "name": "MÅLSKYTT / KRILLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 479 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }
+    ]
+}

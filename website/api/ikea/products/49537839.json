@@ -1,9 +1,0 @@
-{
-    "id": "49537839",
-    "name": "VAPPEBY",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 598 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2980 }
-    ]
-}

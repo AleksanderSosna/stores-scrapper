@@ -1,0 +1,147 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Meble łazienkowe, zestaw 13 szt.",
+        "itemMeasureReferenceText": "64x43x65 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-blady-szaro-zielony-bateria-glypen__1159152_pe888356_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-blady-szaro-zielony-bateria-glypen-s29499268/",
+        "id": "s29499268",
+        "itemNoGlobal": "29499268",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s49419845",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-imit-debu-bialy-bateria-ensen-s49419845/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-imit-debu-bialy-bateria-ensen__0990689_pe819149_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., imit. dębu/biały bateria Ensen, 64x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Meble łazienkowe, zestaw 13 szt.",
+                    "itemMeasureReferenceText": "64x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-imit-debu-bialy-bateria-ensen__0990689_pe819149_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., imit. dębu/biały bateria Ensen, 64x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-imit-debu-bialy-bateria-ensen__0990690_pe819133_s5.jpg",
+                    "itemNoGlobal": "49419845",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49419845",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1614,
+                        "current": { "prefix": "", "wholeNumber": "1 614", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s59419369",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-antracyt-bateria-saljen-s59419369/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-antracyt-bateria-saljen__0990691_pe819150_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., biały/antracyt bateria Saljen, 64x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Meble łazienkowe, zestaw 13 szt.",
+                    "itemMeasureReferenceText": "64x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-antracyt-bateria-saljen__0990691_pe819150_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., biały/antracyt bateria Saljen, 64x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-antracyt-bateria-saljen__0990692_pe819135_s5.jpg",
+                    "itemNoGlobal": "59419369",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59419369",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1439,
+                        "current": { "prefix": "", "wholeNumber": "1 439", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99419843",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-bateria-pilkan-s99419843/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-bateria-pilkan__0990693_pe819151_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., biały/bateria Pilkån, 64x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Meble łazienkowe, zestaw 13 szt.",
+                    "itemMeasureReferenceText": "64x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-bateria-pilkan__0990693_pe819151_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., biały/bateria Pilkån, 64x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-bateria-pilkan__0990694_pe819153_s5.jpg",
+                    "itemNoGlobal": "99419843",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99419843",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1512,
+                        "current": { "prefix": "", "wholeNumber": "1 512", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29499268",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1613,
+            "current": { "prefix": "", "wholeNumber": "1 613", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-meble-lazienkowe-zestaw-13-szt-bialy-blady-szaro-zielony-bateria-glypen__1159151_pe888353_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Meble łazienkowe, zestaw 13 szt., biały/blady szaro-zielony bateria Glypen, 64x43x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Kombinacje łazienkowe ENHET", "key": "700491" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29499268",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1613 }]
+}

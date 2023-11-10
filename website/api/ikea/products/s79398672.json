@@ -1,0 +1,10 @@
+{
+    "id": "s79398672",
+    "itemNo": "79398672",
+    "name": "BRIMNES / BURHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8268 }
+    ]
+}

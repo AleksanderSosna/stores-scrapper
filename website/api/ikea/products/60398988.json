@@ -1,1 +1,53 @@
-{ "id": "60398988", "name": "SMYCKA", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Sztuczny stroik",
+        "itemMeasureReferenceText": "60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-stroik-zielony__0641805_pe700704_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smycka-sztuczny-stroik-zielony-60398988/",
+        "id": "60398988",
+        "itemNoGlobal": "60398988",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "60398988",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-stroik-zielony__0666503_pe713599_s5.jpg",
+        "mainImageAlt": "SMYCKA Sztuczny stroik, zielony, 60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Kolekcja świąteczna", "key": "wt001" },
+            { "name": "Doniczki i rośliny świąteczne", "key": "49151" },
+            { "name": "Wianki, kwiaty i girlandy świąteczne", "key": "49159" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60398988",
+    "name": "SMYCKA",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

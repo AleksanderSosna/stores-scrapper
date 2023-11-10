@@ -1,9 +1,0 @@
-{
-    "id": "99521510",
-    "name": "UTÅKER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1397 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7570 }
-    ]
-}

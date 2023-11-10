@@ -1,0 +1,10 @@
+{
+    "id": "s59561763",
+    "itemNo": "59561763",
+    "name": "YTBERG / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 349.95 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1893 }
+    ]
+}

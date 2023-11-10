@@ -1,1 +1,100 @@
-{ "id": "00559823", "name": "VILDKORN", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "VILDKORN",
+        "typeName": "Polštář, nízký",
+        "itemMeasureReferenceText": "70x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vildkorn-polstar-nizky__0789297_pe763924_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vildkorn-polstar-nizky-00559823/",
+        "id": "00559823",
+        "itemNoGlobal": "00559823",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90460587",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vildkorn-polstar-nizky-90460587/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vildkorn-polstar-nizky__0789325_pe763944_s5.jpg",
+                    "imageAlt": "VILDKORN Polštář, nízký, 50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 81,
+                    "name": "VILDKORN",
+                    "typeName": "Polštář, nízký",
+                    "itemMeasureReferenceText": "50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vildkorn-polstar-nizky__0789325_pe763944_s5.jpg",
+                    "mainImageAlt": "VILDKORN Polštář, nízký, 50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vildkorn-polstar-nizky__1071958_pe855053_s5.jpg",
+                    "itemNoGlobal": "90460587",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90460587",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 169,
+                        "current": { "prefix": "", "wholeNumber": "169", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "179", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 81,
+        "itemNo": "00559823",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vildkorn-polstar-nizky__1071957_pe855054_s5.jpg",
+        "mainImageAlt": "VILDKORN Polštář, nízký, 70x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Polštáře", "key": "20533" },
+            { "name": "Polyesterové polštáře", "key": "20534" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00559823",
+    "name": "VILDKORN",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

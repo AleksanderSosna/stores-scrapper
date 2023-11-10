@@ -1,1 +1,90 @@
-{ "id": "50519740", "name": "FRÖJDEFULL", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "FRÖJDEFULL",
+        "typeName": "Talerz",
+        "itemMeasureReferenceText": "34x26 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-talerz-bialy__1062439_pe850808_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/froejdefull-talerz-bialy-50519740/",
+        "id": "50519740",
+        "itemNoGlobal": "50519740",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00519728",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/froejdefull-talerz-bialy-00519728/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-talerz-bialy__1062431_pe850803_s5.jpg",
+                    "imageAlt": "FRÖJDEFULL Talerz, biały, 25 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 3,
+                    "ratingCount": 3,
+                    "name": "FRÖJDEFULL",
+                    "typeName": "Talerz",
+                    "itemMeasureReferenceText": "25 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-talerz-bialy__1062431_pe850803_s5.jpg",
+                    "mainImageAlt": "FRÖJDEFULL Talerz, biały, 25 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-talerz-bialy__1062428_pe850802_s5.jpg",
+                    "itemNoGlobal": "00519728",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00519728",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2 szt.",
+                        "unitText": "szt.",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3,
+        "ratingCount": 3,
+        "itemNo": "50519740",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-talerz-bialy__1062434_pe850806_s5.jpg",
+        "mainImageAlt": "FRÖJDEFULL Talerz, biały, 34x26 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Zastawa stołowa", "key": "18860" },
+            { "name": "Talerze", "key": "18861" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50519740",
+    "name": "FRÖJDEFULL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

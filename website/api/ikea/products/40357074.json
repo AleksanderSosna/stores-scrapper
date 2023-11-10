@@ -1,1 +1,54 @@
-{ "id": "40357074", "name": "MUSIK", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }] }
+{
+    "id": {
+        "name": "MUSIK",
+        "typeName": "Nástěnná lampa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/musik-nastenna-lampa-pochromovane__0715008_pe730310_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/musik-nastenna-lampa-pochromovane-40357074/",
+        "id": "40357074",
+        "itemNoGlobal": "40357074",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "40357074",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/musik-nastenna-lampa-pochromovane__0879254_pe645777_s5.jpg",
+        "mainImageAlt": "MUSIK Nástěnná lampa, pochromované",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Nástěnné osvětlení", "key": "20503" },
+            { "name": "Nástěnné lampy", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40357074",
+    "name": "MUSIK",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }]
+}

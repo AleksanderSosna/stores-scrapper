@@ -1,1 +1,89 @@
-{ "id": "80494494", "name": "BÄSTIS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }] }
+{
+    "id": {
+        "name": "BÄSTIS",
+        "typeName": "Hak",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/baestis-hak-turkusowy__0990629_pe819350_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/baestis-hak-turkusowy-80494494/",
+        "id": "80494494",
+        "itemNoGlobal": "80494494",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40448437",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/baestis-hak-czarny-40448437/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/baestis-hak-czarny__0740123_pe741948_s5.jpg",
+                    "imageAlt": "BÄSTIS Hak, czarny",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 79,
+                    "name": "BÄSTIS",
+                    "typeName": "Hak",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/baestis-hak-czarny__0740123_pe741948_s5.jpg",
+                    "mainImageAlt": "BÄSTIS Hak, czarny",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/baestis-hak-czarny__0918613_pe786401_s5.jpg",
+                    "itemNoGlobal": "40448437",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40448437",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4.99,
+                        "current": { "prefix": "", "wholeNumber": "4", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "turkusowy", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 79,
+        "itemNo": "80494494",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4.99,
+            "current": { "prefix": "", "wholeNumber": "4", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/baestis-hak-turkusowy__0990630_pe819351_s5.jpg",
+        "mainImageAlt": "BÄSTIS Hak, turkusowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Hooks",
+            "productAreaNo": "1822",
+            "productRangeAreaName": "Wall organisers",
+            "productRangeAreaNo": "182"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Haczyki i wieszaki", "key": "16274" },
+            { "name": "Haki", "key": "20617" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80494494",
+    "name": "BÄSTIS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 }]
+}

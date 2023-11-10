@@ -1,0 +1,10 @@
+{
+    "id": "s49508672",
+    "itemNo": "49508672",
+    "name": "MITTCIRKEL / ADILS",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
+    ]
+}

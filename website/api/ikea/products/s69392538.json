@@ -1,0 +1,10 @@
+{
+    "id": "s69392538",
+    "itemNo": "69392538",
+    "name": "DANDERYD / INGOLF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1795 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10150 }
+    ]
+}

@@ -1,1 +1,115 @@
-{ "id": "60443764", "name": "VINLIDEN", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }] }
+{
+    "id": {
+        "name": "VINLIDEN",
+        "typeName": "Potah 3místné pohovky",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hakebo-bezova__0852786_pe780251_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-potah-3mistne-pohovky-hakebo-bezova-60443764/",
+        "id": "60443764",
+        "itemNoGlobal": "60443764",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "00455383",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-potah-3mistne-pohovky-hillared-antracit-00455383/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hillared-antracit__0852788_pe780252_s5.jpg",
+                    "imageAlt": "VINLIDEN Potah 3místné pohovky, Hillared antracit",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VINLIDEN",
+                    "typeName": "Potah 3místné pohovky",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hillared-antracit__0852788_pe780252_s5.jpg",
+                    "mainImageAlt": "VINLIDEN Potah 3místné pohovky, Hillared antracit",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hillared-antracit__0852750_pe780239_s5.jpg",
+                    "itemNoGlobal": "00455383",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "00455383",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 4990,
+                        "current": { "prefix": "", "wholeNumber": "4 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80443744",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vinliden-potah-3mistne-pohovky-hakebo-svetle-tyrkysovy-80443744/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hakebo-svetle-tyrkysovy__0970904_pe811165_s5.jpg",
+                    "imageAlt": "VINLIDEN Potah 3místné pohovky, Hakebo světle tyrkysový",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VINLIDEN",
+                    "typeName": "Potah 3místné pohovky",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hakebo-svetle-tyrkysovy__0970904_pe811165_s5.jpg",
+                    "mainImageAlt": "VINLIDEN Potah 3místné pohovky, Hakebo světle tyrkysový",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hakebo-svetle-tyrkysovy__0938990_pe794368_s5.jpg",
+                    "itemNoGlobal": "80443744",
+                    "onlineSellable": false,
+                    "lastChance": true,
+                    "itemNo": "80443744",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 2990,
+                        "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60443764",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2990,
+            "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinliden-potah-3mistne-pohovky-hakebo-bezova__0852744_pe780233_s5.jpg",
+        "mainImageAlt": "VINLIDEN Potah 3místné pohovky, Hakebo béžová",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Potahy na pohovky a křesla", "key": "10664" },
+            { "name": "VINLIDEN", "key": "47443" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60443764",
+    "name": "VINLIDEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "39386647",
-    "name": "NORDVIKEN / NORDVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2795 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17950 }
-    ]
-}

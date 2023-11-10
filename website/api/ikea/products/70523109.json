@@ -1,1 +1,51 @@
-{ "id": "70523109", "name": "SKEJSEL", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 700 }] }
+{
+    "id": {
+        "name": "SKEJSEL",
+        "typeName": "Lustro z oświetleniem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skejsel-lustro-z-oswietleniem-okragly-mozna-przyciemniac__1090746_pe862172_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/skejsel-lustro-z-oswietleniem-okragly-mozna-przyciemniac-70523109/",
+        "id": "70523109",
+        "itemNoGlobal": "70523109",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70523109",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 700,
+            "current": { "prefix": "", "wholeNumber": "700", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skejsel-lustro-z-oswietleniem-okragly-mozna-przyciemniac__1098388_pe865372_s5.jpg",
+        "mainImageAlt": "SKEJSEL Lustro z oświetleniem, okrągły można przyciemniać",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom small furniture",
+            "productAreaNo": "0612",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Lustra", "key": "20489" },
+            { "name": "Lustra łazienkowe", "key": "20498" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70523109",
+    "name": "SKEJSEL",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 700 }]
+}

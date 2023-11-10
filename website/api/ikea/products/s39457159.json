@@ -1,0 +1,10 @@
+{
+    "id": "s39457159",
+    "itemNo": "39457159",
+    "name": "METOD / MAXIMERA",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2075 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 12150 }
+    ]
+}

@@ -1,1 +1,56 @@
-{ "id": "30540035", "name": "SILVERARV", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }] }
+{
+    "id": {
+        "name": "SILVERARV",
+        "typeName": "Podkładka",
+        "itemMeasureReferenceText": "35x45 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/silverarv-podkladka-bezowy-niebieski__1143115_pe882842_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/silverarv-podkladka-bezowy-niebieski-30540035/",
+        "id": "30540035",
+        "itemNoGlobal": "30540035",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemNo": "30540035",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 14.99,
+            "current": { "prefix": "", "wholeNumber": "14", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/silverarv-podkladka-bezowy-niebieski__1143111_pe882841_s5.jpg",
+        "mainImageAlt": "SILVERARV Podkładka, beżowy/niebieski, 35x45 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eating textiles",
+            "productAreaNo": "1543",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia stołowe", "key": "20538" },
+            { "name": "Podkładki i podstawki stołowe", "key": "20539" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30540035",
+    "name": "SILVERARV",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 }]
+}

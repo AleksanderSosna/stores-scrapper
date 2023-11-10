@@ -1,1 +1,52 @@
-{ "id": "00527158", "name": "VINTERFINT", "categoryKey": "wt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "VINTERFINT",
+        "typeName": "Dekorace",
+        "itemMeasureReferenceText": "30 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vinterfint-dekorace-rucne-vyrobene-vanocni-stromek-zelena__0986495_pe817159_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vinterfint-dekorace-rucne-vyrobene-vanocni-stromek-zelena-00527158/",
+        "id": "00527158",
+        "itemNoGlobal": "00527158",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 4,
+        "itemNo": "00527158",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vinterfint-dekorace-rucne-vyrobene-vanocni-stromek-zelena__0977947_pe813955_s5.jpg",
+        "mainImageAlt": "VINTERFINT Dekorace, ručně vyrobené/vánoční stromek zelená, 30 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Holiday decoration",
+            "productAreaNo": "1637",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Dekorativní doplňky", "key": "24924" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00527158",
+    "name": "VINTERFINT",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

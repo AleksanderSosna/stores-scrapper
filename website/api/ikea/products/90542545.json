@@ -1,1 +1,53 @@
-{ "id": "90542545", "name": "BASTUA", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }] }
+{
+    "id": {
+        "name": "BASTUA",
+        "typeName": "Kimonový župan",
+        "itemMeasureReferenceText": "L/XL",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-kimonovy-zupan-vzor-s-pruhy-zelena__1145929_pe882779_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bastua-kimonovy-zupan-vzor-s-pruhy-zelena-90542545/",
+        "id": "90542545",
+        "itemNoGlobal": "30542548",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "90542545",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-kimonovy-zupan-vzor-s-pruhy-zelena__1179011_ph190694_s5.jpg",
+        "mainImageAlt": "BASTUA Kimonový župan, vzor s pruhy zelená, L/XL",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Bath textile accessories",
+            "productAreaNo": "1135",
+            "productRangeAreaName": "Bath textiles",
+            "productRangeAreaNo": "113"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Oblečení a doplňky", "key": "42925" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "90542545",
+    "name": "BASTUA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 699 }]
+}

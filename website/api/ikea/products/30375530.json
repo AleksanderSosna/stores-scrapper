@@ -1,1 +1,58 @@
-{ "id": "30375530", "name": "BRUNKRISSLA", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }] }
+{
+    "id": {
+        "name": "BRUNKRISSLA",
+        "typeName": "Povlečení na dvoulůžko",
+        "itemMeasureReferenceText": "200x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/brunkrissla-povleceni-na-dvouluzko-cerna__0605716_pe681842_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/brunkrissla-povleceni-na-dvouluzko-cerna-30375530/",
+        "id": "30375530",
+        "itemNoGlobal": "00375536",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 68,
+        "itemNo": "30375530",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/brunkrissla-povleceni-na-dvouluzko-cerna__0882327_pe634456_s5.jpg",
+        "mainImageAlt": "BRUNKRISSLA Povlečení na dvoulůžko, černá, 200x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30375530",
+    "name": "BRUNKRISSLA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }]
+}

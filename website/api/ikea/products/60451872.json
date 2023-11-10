@@ -1,1 +1,57 @@
-{ "id": "60451872", "name": "SIMRISHAMN", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }] }
+{
+    "id": {
+        "name": "SIMRISHAMN",
+        "typeName": "Żyrandol, 7 ramion",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/simrishamn-zyrandol-7-ramion-chrom-opalowa-biel-szklo__0793467_pe765392_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/simrishamn-zyrandol-7-ramion-chrom-opalowa-biel-szklo-60451872/",
+        "id": "60451872",
+        "itemNoGlobal": "60451872",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 9,
+        "itemNo": "60451872",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 499,
+            "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/simrishamn-zyrandol-7-ramion-chrom-opalowa-biel-szklo__0793466_pe765393_s5.jpg",
+        "mainImageAlt": "SIMRISHAMN Żyrandol, 7 ramion, chrom/opalowa biel szkło",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Pendant lamps",
+            "productAreaNo": "1013",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie sufitowe", "key": "18750" },
+            { "name": "Lampy wiszące", "key": "18751" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60451872",
+    "name": "SIMRISHAMN",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 499 }]
+}

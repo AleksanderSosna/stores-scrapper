@@ -1,1 +1,56 @@
-{ "id": "00555354", "name": "REGNBROMS", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "REGNBROMS",
+        "typeName": "Pudełko",
+        "itemMeasureReferenceText": "33x38x33 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/regnbroms-pudelko-wzor-lesne-zwierzeta-wielobarwny__1103503_pe867298_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/regnbroms-pudelko-wzor-lesne-zwierzeta-wielobarwny-00555354/",
+        "id": "00555354",
+        "itemNoGlobal": "00555354",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "00555354",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/regnbroms-pudelko-wzor-lesne-zwierzeta-wielobarwny__1109747_pe870205_s5.jpg",
+        "mainImageAlt": "REGNBROMS Pudełko, wzór leśne zwięrzęta/wielobarwny, 33x38x33 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s small storage",
+            "productAreaNo": "0922",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Drobne przechowywanie i porządkowanie", "key": "st007" },
+            { "name": "Organizery na dokumenty i prasę", "key": "10551" },
+            { "name": "Pudełka kartonowe i ozdobne", "key": "16202" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00555354",
+    "name": "REGNBROMS",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

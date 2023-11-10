@@ -1,0 +1,99 @@
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Knihovna",
+        "itemMeasureReferenceText": "229x197 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-knihovna-svetle-hneda__0805249_pe769502_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-knihovna-svetle-hneda-s89231158/",
+        "id": "s89231158",
+        "itemNoGlobal": "89231158",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s79231154",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-knihovna-bile-moridlo-s79231154/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-knihovna-bile-moridlo__0644220_pe702496_s5.jpg",
+                    "imageAlt": "HEMNES Knihovna, bílé mořidlo, 229x197 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 3,
+                    "name": "HEMNES",
+                    "typeName": "Knihovna",
+                    "itemMeasureReferenceText": "229x197 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-knihovna-bile-moridlo__0644220_pe702496_s5.jpg",
+                    "mainImageAlt": "HEMNES Knihovna, bílé mořidlo, 229x197 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-knihovna-bile-moridlo__0703888_pe724910_s5.jpg",
+                    "itemNoGlobal": "79231154",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "79231154",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 14770,
+                        "current": { "prefix": "", "wholeNumber": "14 770", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "15 270", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 3,
+        "itemNo": "89231158",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 14770,
+            "current": { "prefix": "", "wholeNumber": "14 770", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "15 270", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-knihovna-svetle-hneda__0805248_pe769471_s5.jpg",
+        "mainImageAlt": "HEMNES Knihovna, světle hnědá, 229x197 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Knihovny a policové díly", "key": "st002" },
+            { "name": "Knihovny", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89231158",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 14770 }]
+}

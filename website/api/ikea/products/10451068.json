@@ -1,1 +1,89 @@
-{ "id": "10451068", "name": "FREDDE", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 999 }] }
+{
+    "id": {
+        "name": "FREDDE",
+        "typeName": "Biurko gamingowe",
+        "itemMeasureReferenceText": "140/185x74x146 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fredde-biurko-gamingowe-bialy__0732848_pe738757_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fredde-biurko-gamingowe-bialy-10451068/",
+        "id": "10451068",
+        "itemNoGlobal": "10451068",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50219044",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/fredde-biurko-gamingowe-czarny-50219044/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/fredde-biurko-gamingowe-czarny__0736008_pe740351_s5.jpg",
+                    "imageAlt": "FREDDE Biurko gamingowe, czarny, 140/185x74x146 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 92,
+                    "name": "FREDDE",
+                    "typeName": "Biurko gamingowe",
+                    "itemMeasureReferenceText": "140/185x74x146 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fredde-biurko-gamingowe-czarny__0736008_pe740351_s5.jpg",
+                    "mainImageAlt": "FREDDE Biurko gamingowe, czarny, 140/185x74x146 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fredde-biurko-gamingowe-czarny__0403524_pe565583_s5.jpg",
+                    "itemNoGlobal": "50219044",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50219044",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 999,
+                        "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 92,
+        "itemNo": "10451068",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fredde-biurko-gamingowe-bialy__0732844_pe738755_s5.jpg",
+        "mainImageAlt": "FREDDE Biurko gamingowe, biały, 140/185x74x146 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Gaming",
+            "productAreaNo": "0371",
+            "productRangeAreaName": "Gaming",
+            "productRangeAreaNo": "037"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Biurka do domu", "key": "20651" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10451068",
+    "name": "FREDDE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 999 }]
+}

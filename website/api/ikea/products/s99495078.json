@@ -1,0 +1,51 @@
+{
+    "id": {
+        "name": "HAVSTEN / LÅGASKÄR",
+        "typeName": "Komplet dla 4 osób, na zewnątrz",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havsten-lagaskaer-komplet-dla-4-osob-na-zewnatrz-bezowy-bezowy__1146794_pe883114_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/havsten-lagaskaer-komplet-dla-4-osob-na-zewnatrz-bezowy-bezowy-s99495078/",
+        "id": "s99495078",
+        "itemNoGlobal": "99495078",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99495078",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 5528,
+            "current": { "prefix": "", "wholeNumber": "5 528", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havsten-lagaskaer-komplet-dla-4-osob-na-zewnatrz-bezowy-bezowy__1185561_pe898446_s5.jpg",
+        "mainImageAlt": "HAVSTEN / LÅGASKÄR Komplet dla 4 osób, na zewnątrz, beżowy/beżowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor sofas & relax",
+            "productAreaNo": "1712",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Zestawy wypoczynkowe na taras i balkon", "key": "21960" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99495078",
+    "name": "HAVSTEN / LÅGASKÄR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5528 }]
+}

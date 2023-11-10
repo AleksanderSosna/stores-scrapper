@@ -1,0 +1,86 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "Křeslo",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-kreslo-grann-bomstad-zlatohneda__1068005_pe852865_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-kreslo-grann-bomstad-zlatohneda-s59476840/",
+        "id": "s59476840",
+        "itemNoGlobal": "59476840",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19476837",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-kreslo-grann-bomstad-cerna-s19476837/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-kreslo-grann-bomstad-cerna__1067981_pe852851_s5.jpg",
+                    "imageAlt": "VIMLE Křeslo, Grann/Bomstad černá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "VIMLE",
+                    "typeName": "Křeslo",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-kreslo-grann-bomstad-cerna__1067981_pe852851_s5.jpg",
+                    "mainImageAlt": "VIMLE Křeslo, Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-kreslo-grann-bomstad-cerna__1067979_pe852849_s5.jpg",
+                    "itemNoGlobal": "19476837",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19476837",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 15990,
+                        "current": { "prefix": "", "wholeNumber": "15 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59476840",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15990,
+            "current": { "prefix": "", "wholeNumber": "15 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-kreslo-grann-bomstad-zlatohneda__1068003_pe852891_s5.jpg",
+        "mainImageAlt": "VIMLE Křeslo, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Armchairs",
+            "productAreaNo": "0125",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Křesla a lenošky", "key": "fu006" },
+            { "name": "Křesla", "key": "16239" },
+            { "name": "Kožená křesla", "key": "10696" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59476840",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }]
+}

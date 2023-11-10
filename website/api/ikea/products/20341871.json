@@ -1,1 +1,61 @@
-{ "id": "20341871", "name": "INSJÖN", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }] }
+{
+    "id": {
+        "name": "INSJÖN",
+        "typeName": "Kuchyňská mísicí baterie+výs.hubice",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/insjoen-kuchynska-misici-baterie-vys-hubice-pochromovane__0756692_pe749042_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/insjoen-kuchynska-misici-baterie-vys-hubice-pochromovane-20341871/",
+        "id": "20341871",
+        "itemNoGlobal": "20341871",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 17,
+        "itemNo": "20341871",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2990,
+            "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "3 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1166750_o_lbl10.svg",
+        "energySymbolImageAlt": "8,0 l/min.",
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/insjoen-kuchynska-misici-baterie-vys-hubice-pochromovane__0866441_pe681158_s5.jpg",
+        "mainImageAlt": "INSJÖN Kuchyňská mísicí baterie+výs.hubice, pochromované",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Kitchen taps",
+            "productAreaNo": "0635",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské baterie a dřezy", "key": "24261" },
+            { "name": "Dřezové baterie", "key": "10482" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20341871",
+    "name": "INSJÖN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }]
+}

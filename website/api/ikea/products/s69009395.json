@@ -1,0 +1,10 @@
+{
+    "id": "s69009395",
+    "itemNo": "69009395",
+    "name": "FJÄLKINGE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1727 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13480 }
+    ]
+}

@@ -1,1 +1,112 @@
-{ "id": "00482796", "name": "EILIF", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "EILIF",
+        "typeName": "Ścianka do biurka",
+        "itemMeasureReferenceText": "80x48 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-niebieski__0929898_pe790514_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/eilif-scianka-do-biurka-niebieski-00482796/",
+        "id": "00482796",
+        "itemNoGlobal": "00482796",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "00466937",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/eilif-scianka-do-biurka-szary-00466937/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-szary__0929831_pe790484_s5.jpg",
+                    "imageAlt": "EILIF Ścianka do biurka, szary, 80x48 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "EILIF",
+                    "typeName": "Ścianka do biurka",
+                    "itemMeasureReferenceText": "80x48 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-szary__0929831_pe790484_s5.jpg",
+                    "mainImageAlt": "EILIF Ścianka do biurka, szary, 80x48 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-szary__0931994_pe791335_s5.jpg",
+                    "itemNoGlobal": "00466937",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00466937",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "20466936",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/eilif-scianka-do-biurka-ciemnoszary-20466936/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-ciemnoszary__0929834_pe790486_s5.jpg",
+                    "imageAlt": "EILIF Ścianka do biurka, ciemnoszary, 80x48 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "EILIF",
+                    "typeName": "Ścianka do biurka",
+                    "itemMeasureReferenceText": "80x48 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-ciemnoszary__0929834_pe790486_s5.jpg",
+                    "mainImageAlt": "EILIF Ścianka do biurka, ciemnoszary, 80x48 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-ciemnoszary__0931993_pe791336_s5.jpg",
+                    "itemNoGlobal": "20466936",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20466936",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "00482796",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/eilif-scianka-do-biurka-niebieski__0929892_pe790508_s5.jpg",
+        "mainImageAlt": "EILIF Ścianka do biurka, niebieski, 80x48 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Complementary workspaces items",
+            "productAreaNo": "0361",
+            "productRangeAreaName": "Complementary work items",
+            "productRangeAreaNo": "036"
+        },
+        "categoryPath": [
+            { "name": "Majsterkowanie w domu", "key": "hi001" },
+            { "name": "Panele akustyczne", "key": "46077" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00482796",
+    "name": "EILIF",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

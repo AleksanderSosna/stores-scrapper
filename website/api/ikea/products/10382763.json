@@ -1,1 +1,90 @@
-{ "id": "10382763", "name": "RIBBA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }] }
+{
+    "id": {
+        "name": "RIBBA",
+        "typeName": "Ramka",
+        "itemMeasureReferenceText": "30x40 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ribba-ramka-imit-debu__0542273_pe099644_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ribba-ramka-imit-debu-10382763/",
+        "id": "10382763",
+        "itemNoGlobal": "10382763",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60382765",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ribba-ramka-imit-debu-60382765/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ribba-ramka-imit-debu__0542275_pe099644_s5.jpg",
+                    "imageAlt": "RIBBA Ramka, imit. dębu, 40x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 11,
+                    "name": "RIBBA",
+                    "typeName": "Ramka",
+                    "itemMeasureReferenceText": "40x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ribba-ramka-imit-debu__0542275_pe099644_s5.jpg",
+                    "mainImageAlt": "RIBBA Ramka, imit. dębu, 40x50 cm",
+                    "itemNoGlobal": "60382765",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "60382765",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 39.99,
+                        "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 11,
+        "itemNo": "10382763",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 34.99,
+            "current": { "prefix": "", "wholeNumber": "34", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "RIBBA Ramka, imit. dębu, 30x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Frames",
+            "productAreaNo": "1641",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Ramki i obrazki", "key": "10757" },
+            { "name": "Ramki na zdjęcia i obrazy", "key": "18746" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "10382763",
+    "name": "RIBBA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 }]
+}

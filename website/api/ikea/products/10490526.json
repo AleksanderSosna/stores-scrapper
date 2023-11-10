@@ -1,1 +1,53 @@
-{ "id": "10490526", "name": "VÄLVÅRDAD", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }] }
+{
+    "id": {
+        "name": "VÄLVÅRDAD",
+        "typeName": "Wkład szczotki do zmywania",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaelvardad-wklad-szczotki-do-zmywania-wlokno-z-lisci-agawy__1015785_pe835929_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaelvardad-wklad-szczotki-do-zmywania-wlokno-z-lisci-agawy-10490526/",
+        "id": "10490526",
+        "itemNoGlobal": "10490526",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 12,
+        "itemNo": "10490526",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 9.99,
+            "current": { "prefix": "", "wholeNumber": "9", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaelvardad-wklad-szczotki-do-zmywania-wlokno-z-lisci-agawy__1015787_pe835937_s5.jpg",
+        "mainImageAlt": "VÄLVÅRDAD Wkład szczotki do zmywania, włókno z liści agawy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Organisers and washing-up",
+            "productAreaNo": "1433",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Akcesoria do zmywania", "key": "15938" },
+            { "name": "Ścierki i gąbki", "key": "700194" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10490526",
+    "name": "VÄLVÅRDAD",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 }]
+}

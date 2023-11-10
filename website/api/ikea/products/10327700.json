@@ -1,1 +1,88 @@
-{ "id": "10327700", "name": "KLIPSK", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "KLIPSK",
+        "typeName": "Stolik-tacka",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/klipsk-stolik-tacka-szary__0504717_pe633471_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/klipsk-stolik-tacka-szary-10327700/",
+        "id": "10327700",
+        "itemNoGlobal": "10327700",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00258882",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/klipsk-stolik-tacka-bialy-00258882/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/klipsk-stolik-tacka-bialy__0373657_pe553485_s5.jpg",
+                    "imageAlt": "KLIPSK Stolik-tacka, biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 503,
+                    "name": "KLIPSK",
+                    "typeName": "Stolik-tacka",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/klipsk-stolik-tacka-bialy__0373657_pe553485_s5.jpg",
+                    "mainImageAlt": "KLIPSK Stolik-tacka, biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/klipsk-stolik-tacka-bialy__0896305_pe553486_s5.jpg",
+                    "itemNoGlobal": "00258882",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00258882",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 49.99,
+                        "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 503,
+        "itemNo": "10327700",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/klipsk-stolik-tacka-szary__0896472_pe633472_s5.jpg",
+        "mainImageAlt": "KLIPSK Stolik-tacka, szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do serwowania potraw", "key": "16043" },
+            { "name": "Tace", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10327700",
+    "name": "KLIPSK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

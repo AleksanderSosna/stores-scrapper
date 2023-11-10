@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "PAX / FORSAND/VIKEDAL",
+        "typeName": "Šatní sestava",
+        "itemMeasureReferenceText": "75x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-vikedal-satni-sestava-bila-zrcadlove-sklo__0820620_pe775074_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/pax-forsand-vikedal-satni-sestava-bila-zrcadlove-sklo-s49330004/",
+        "id": "s49330004",
+        "itemNoGlobal": "49330004",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "49330004",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 9570,
+            "current": { "prefix": "", "wholeNumber": "9 570", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "10 440", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pax-forsand-vikedal-satni-sestava-bila-zrcadlove-sklo__0820619_pe775075_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND/VIKEDAL Šatní sestava, bílá/zrcadlové sklo, 75x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém PAX", "key": "19086" },
+            { "name": "Skříně PAX s dveřmi", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "49330004",
+    "name": "PAX / FORSAND/VIKEDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9570 }]
+}

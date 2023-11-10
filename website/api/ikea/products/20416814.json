@@ -1,1 +1,60 @@
-{ "id": "20416814", "name": "KULINARISK", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }] }
+{
+    "id": {
+        "name": "KULINARISK",
+        "typeName": "Kombinovaná mikr.a horkovz. trouba",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kulinarisk-kombinovana-mikr-a-horkovz-trouba-ikea-700__0754937_pe748183_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kulinarisk-kombinovana-mikr-a-horkovz-trouba-ikea-700-20416814/",
+        "id": "20416814",
+        "itemNoGlobal": "20416814",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "20416814",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15990,
+            "current": { "prefix": "", "wholeNumber": "15 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "17 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kulinarisk-kombinovana-mikr-a-horkovz-trouba-ikea-700__0868439_pe681139_s5.jpg",
+        "mainImageAlt": "KULINARISK Kombinovaná mikr.a horkovz. trouba, IKEA 700",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Combi ovens",
+            "productAreaNo": "7013",
+            "productRangeAreaName": "Cooking Appliances",
+            "productRangeAreaNo": "701"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské spotřebiče", "key": "ka002" },
+            { "name": "Mikrovlnné trouby", "key": "20815" },
+            { "name": "Kombinované mikrovlnné trouby", "key": "33516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20416814",
+    "name": "KULINARISK",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }]
+}

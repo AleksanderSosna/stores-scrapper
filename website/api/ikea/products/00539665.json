@@ -1,1 +1,89 @@
-{ "id": "00539665", "name": "NONNEA", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 }] }
+{
+    "id": {
+        "name": "NONNEA",
+        "typeName": "Poszewka na poduszkę anatomiczną",
+        "itemMeasureReferenceText": "40x140 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nonnea-poszewka-na-poduszke-anatomiczna-jasnoszary__1009031_pe827423_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nonnea-poszewka-na-poduszke-anatomiczna-jasnoszary-00539665/",
+        "id": "00539665",
+        "itemNoGlobal": "00539665",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40539630",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nonnea-poszewka-na-poduszke-anatomiczna-bialy-40539630/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nonnea-poszewka-na-poduszke-anatomiczna-bialy__0748338_pe744934_s5.jpg",
+                    "imageAlt": "NONNEA Poszewka na poduszkę anatomiczną, biały, 40x140 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 20,
+                    "name": "NONNEA",
+                    "typeName": "Poszewka na poduszkę anatomiczną",
+                    "itemMeasureReferenceText": "40x140 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nonnea-poszewka-na-poduszke-anatomiczna-bialy__0748338_pe744934_s5.jpg",
+                    "mainImageAlt": "NONNEA Poszewka na poduszkę anatomiczną, biały, 40x140 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nonnea-poszewka-na-poduszke-anatomiczna-bialy__0748330_pe744927_s5.jpg",
+                    "itemNoGlobal": "40539630",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40539630",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 15.99,
+                        "current": { "prefix": "", "wholeNumber": "15", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 20,
+        "itemNo": "00539665",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 15.99,
+            "current": { "prefix": "", "wholeNumber": "15", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nonnea-poszewka-na-poduszke-anatomiczna-jasnoszary__1009931_pe827788_s5.jpg",
+        "mainImageAlt": "NONNEA Poszewka na poduszkę anatomiczną, jasnoszary, 40x140 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Sheets and pillow cases",
+            "productAreaNo": "1111",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Pościel", "key": "10651" },
+            { "name": "Poszewki na poduszki", "key": "18890" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00539665",
+    "name": "NONNEA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 }]
+}

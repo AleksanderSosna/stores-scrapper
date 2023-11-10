@@ -1,0 +1,10 @@
+{
+    "id": "s69429056",
+    "itemNo": "69429056",
+    "name": "RÖNNINGE / LISABO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2235 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 13150 }
+    ]
+}

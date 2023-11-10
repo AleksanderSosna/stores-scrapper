@@ -1,1 +1,53 @@
-{ "id": "80492292", "name": "SÄLLSKAPLIG", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "SÄLLSKAPLIG",
+        "typeName": "Kubek",
+        "itemMeasureReferenceText": "22 cl",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/saellskaplig-kubek-szklo-bezbarwne-wzor__1010798_pe828247_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/saellskaplig-kubek-szklo-bezbarwne-wzor-80492292/",
+        "id": "80492292",
+        "itemNoGlobal": "80492292",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 15,
+        "itemNo": "80492292",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/saellskaplig-kubek-szklo-bezbarwne-wzor__1010799_pe828248_s5.jpg",
+        "mainImageAlt": "SÄLLSKAPLIG Kubek, szkło bezbarwne/wzór, 22 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Mugs and cups",
+            "productAreaNo": "1551",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Kawa i herbata", "key": "16044" },
+            { "name": "Kubki i filiżanki", "key": "16045" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80492292",
+    "name": "SÄLLSKAPLIG",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

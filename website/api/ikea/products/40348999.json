@@ -1,1 +1,94 @@
-{ "id": "40348999", "name": "HEMNES", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Vysoká skříň se zrc. dveřmi",
+        "itemMeasureReferenceText": "49x31x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-vysoka-skrin-se-zrc-dvermi-seda__0487557_pe622592_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-vysoka-skrin-se-zrc-dvermi-seda-40348999/",
+        "id": "40348999",
+        "itemNoGlobal": "40348999",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70217685",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-vysoka-skrin-se-zrc-dvermi-bila-70217685/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-vysoka-skrin-se-zrc-dvermi-bila__0628130_pe693620_s5.jpg",
+                    "imageAlt": "HEMNES Vysoká skříň se zrc. dveřmi, bílá, 49x31x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 19,
+                    "name": "HEMNES",
+                    "typeName": "Vysoká skříň se zrc. dveřmi",
+                    "itemMeasureReferenceText": "49x31x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-vysoka-skrin-se-zrc-dvermi-bila__0628130_pe693620_s5.jpg",
+                    "mainImageAlt": "HEMNES Vysoká skříň se zrc. dveřmi, bílá, 49x31x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-vysoka-skrin-se-zrc-dvermi-bila__0381299_pe556040_s5.jpg",
+                    "itemNoGlobal": "70217685",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70217685",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 5990,
+                        "current": { "prefix": "", "wholeNumber": "5 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "6 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 19,
+        "itemNo": "40348999",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 6990,
+            "current": { "prefix": "", "wholeNumber": "6 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-vysoka-skrin-se-zrc-dvermi-seda__0490387_pe624424_s5.jpg",
+        "mainImageAlt": "HEMNES Vysoká skříň se zrc. dveřmi, šedá, 49x31x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Zrcadlo a zrcadlové skříňky HEMNES", "key": "700478" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40348999",
+    "name": "HEMNES",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }]
+}

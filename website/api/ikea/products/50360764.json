@@ -1,1 +1,54 @@
-{ "id": "50360764", "name": "VÄXJÖ", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "VÄXJÖ",
+        "typeName": "Lampa wisząca",
+        "itemMeasureReferenceText": "38 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vaexjoe-lampa-wiszaca-bezowy__0613036_pe686128_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vaexjoe-lampa-wiszaca-bezowy-50360764/",
+        "id": "50360764",
+        "itemNoGlobal": "50360764",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 23,
+        "itemNo": "50360764",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vaexjoe-lampa-wiszaca-bezowy__0880482_pe653060_s5.jpg",
+        "mainImageAlt": "VÄXJÖ Lampa wisząca, beżowy, 38 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Pendant lamps",
+            "productAreaNo": "1013",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Oświetlenie sufitowe", "key": "18750" },
+            { "name": "Lampy wiszące", "key": "18751" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50360764",
+    "name": "VÄXJÖ",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

@@ -1,1 +1,91 @@
-{ "id": "10508220", "name": "LAGKAPTEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "LAGKAPTEN",
+        "typeName": "Blat",
+        "itemMeasureReferenceText": "160x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lagkapten-blat-bialy__0994370_pe821015_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lagkapten-blat-bialy-10508220/",
+        "id": "10508220",
+        "itemNoGlobal": "10508220",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60508232",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lagkapten-blat-biala-bejca-imit-debu-60508232/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lagkapten-blat-biala-bejca-imit-debu__0994372_pe821039_s5.jpg",
+                    "imageAlt": "LAGKAPTEN Blat, biała bejca imit. dębu, 160x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 14,
+                    "name": "LAGKAPTEN",
+                    "typeName": "Blat",
+                    "itemMeasureReferenceText": "160x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lagkapten-blat-biala-bejca-imit-debu__0994372_pe821039_s5.jpg",
+                    "mainImageAlt": "LAGKAPTEN Blat, biała bejca imit. dębu, 160x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lagkapten-blat-biala-bejca-imit-debu__1123387_pe874784_s5.jpg",
+                    "itemNoGlobal": "60508232",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60508232",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 199,
+                        "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 14,
+        "itemNo": "10508220",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lagkapten-blat-bialy__1160109_pe888761_s5.jpg",
+        "mainImageAlt": "LAGKAPTEN Blat, biały, 160x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Stoły i biurka", "key": "fu004" },
+            { "name": "Biurka", "key": "20649" },
+            { "name": "Systemy stołów i biurek", "key": "47423" },
+            { "name": "System biurek i stołów", "key": "11811" },
+            { "name": "Blaty do stołów/biurek", "key": "11844" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10508220",
+    "name": "LAGKAPTEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

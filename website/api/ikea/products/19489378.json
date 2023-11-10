@@ -1,9 +1,0 @@
-{
-    "id": "19489378",
-    "name": "PANSARTAX",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}

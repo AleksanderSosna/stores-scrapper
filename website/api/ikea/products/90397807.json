@@ -1,1 +1,86 @@
-{ "id": "90397807", "name": "LERHYTTAN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 155 }] }
+{
+    "id": {
+        "name": "LERHYTTAN",
+        "typeName": "Nóżka do cokołu ozdobnego",
+        "itemMeasureReferenceText": "8 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-nozka-do-cokolu-ozdobnego-jasnoszary__0638674_pe699081_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lerhyttan-nozka-do-cokolu-ozdobnego-jasnoszary-90397807/",
+        "id": "90397807",
+        "itemNoGlobal": "90397807",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "10397806",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lerhyttan-nozka-do-cokolu-ozdobnego-bejcowane-na-czarno-10397806/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-nozka-do-cokolu-ozdobnego-bejcowane-na-czarno__0638671_pe699080_s5.jpg",
+                    "imageAlt": "LERHYTTAN Nóżka do cokołu ozdobnego, bejcowane na czarno, 8 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "LERHYTTAN",
+                    "typeName": "Nóżka do cokołu ozdobnego",
+                    "itemMeasureReferenceText": "8 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-nozka-do-cokolu-ozdobnego-bejcowane-na-czarno__0638671_pe699080_s5.jpg",
+                    "mainImageAlt": "LERHYTTAN Nóżka do cokołu ozdobnego, bejcowane na czarno, 8 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-nozka-do-cokolu-ozdobnego-bejcowane-na-czarno__0864017_pe689138_s5.jpg",
+                    "itemNoGlobal": "10397806",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "10397806",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 155,
+                        "current": { "prefix": "", "wholeNumber": "155", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90397807",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 155,
+            "current": { "prefix": "", "wholeNumber": "155", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-nozka-do-cokolu-ozdobnego-jasnoszary__0864283_pe689179_s5.jpg",
+        "mainImageAlt": "LERHYTTAN Nóżka do cokołu ozdobnego, jasnoszary, 8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90397807",
+    "name": "LERHYTTAN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 155 }]
+}

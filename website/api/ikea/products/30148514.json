@@ -1,1 +1,54 @@
-{ "id": "30148514", "name": "KNÄCKEBRÖD RÅG", "categoryKey": "wt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 8.5 }] }
+{
+    "id": {
+        "name": "KNÄCKEBRÖD RÅG",
+        "typeName": "Chleb żytni",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/knaeckebroed-rag-chleb-zytni__0090069_pe223510_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/knaeckebroed-rag-chleb-zytni-30148514/",
+        "id": "30148514",
+        "itemNoGlobal": "30148514",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 24,
+        "itemNo": "30148514",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 8.5,
+            "current": { "prefix": "", "wholeNumber": "8", "separator": ",", "decimals": "50", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "0.25 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/knaeckebroed-rag-chleb-zytni__1111642_pe870843_s5.jpg",
+        "mainImageAlt": "KNÄCKEBRÖD RÅG Chleb żytni",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Bread & dairy",
+            "productAreaNo": "9614",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Jedzenie i napoje", "key": "fb001" },
+            { "name": "Pieczywo i produkty mleczne", "key": "25212" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30148514",
+    "name": "KNÄCKEBRÖD RÅG",
+    "categoryKey": "wt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 8.5 }]
+}

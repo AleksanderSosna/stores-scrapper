@@ -1,1 +1,91 @@
-{ "id": "10567200", "name": "NÅLGINST", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }] }
+{
+    "id": {
+        "name": "NÅLGINST",
+        "typeName": "Povlečení na jednolůžko",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nalginst-povleceni-na-jednoluzko-seda__1199021_pe904283_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nalginst-povleceni-na-jednoluzko-seda-10567200/",
+        "id": "10567200",
+        "itemNoGlobal": "10567200",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90567183",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nalginst-povleceni-na-dvouluzko-seda-90567183/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nalginst-povleceni-na-dvouluzko-seda__1199022_pe904282_s5.jpg",
+                    "imageAlt": "NÅLGINST Povlečení na dvoulůžko, šedá, 200x200/50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "NÅLGINST",
+                    "typeName": "Povlečení na dvoulůžko",
+                    "itemMeasureReferenceText": "200x200/50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nalginst-povleceni-na-dvouluzko-seda__1199022_pe904282_s5.jpg",
+                    "mainImageAlt": "NÅLGINST Povlečení na dvoulůžko, šedá, 200x200/50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nalginst-povleceni-na-dvouluzko-seda__1221011_pe913625_s5.jpg",
+                    "itemNoGlobal": "60567189",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90567183",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1190,
+                        "current": { "prefix": "", "wholeNumber": "1 190", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Novinka",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10567200",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 899,
+            "current": { "prefix": "", "wholeNumber": "899", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Novinka",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nalginst-povleceni-na-jednoluzko-seda__1199016_pe904280_s5.jpg",
+        "mainImageAlt": "NÅLGINST Povlečení na jednolůžko, šedá, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10567200",
+    "name": "NÅLGINST",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 899 }]
+}

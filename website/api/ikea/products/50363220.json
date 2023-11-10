@@ -1,1 +1,89 @@
-{ "id": "50363220", "name": "HEMNES", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Stůl se 2 zásuvkami",
+        "itemMeasureReferenceText": "120x47 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-stul-se-2-zasuvkami-svetle-hneda__0736011_pe740338_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-stul-se-2-zasuvkami-svetle-hneda-50363220/",
+        "id": "50363220",
+        "itemNoGlobal": "50363220",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "30534954",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-stul-se-2-zasuvkami-bile-moridlo-svetle-hneda-30534954/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-stul-se-2-zasuvkami-bile-moridlo-svetle-hneda__1162633_pe889908_s5.jpg",
+                    "imageAlt": "HEMNES Stůl se 2 zásuvkami, bílé mořidlo/světle hnědá, 120x47 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 16,
+                    "name": "HEMNES",
+                    "typeName": "Stůl se 2 zásuvkami",
+                    "itemMeasureReferenceText": "120x47 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-stul-se-2-zasuvkami-bile-moridlo-svetle-hneda__1162633_pe889908_s5.jpg",
+                    "mainImageAlt": "HEMNES Stůl se 2 zásuvkami, bílé mořidlo/světle hnědá, 120x47 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-stul-se-2-zasuvkami-bile-moridlo-svetle-hneda__1176750_pe895134_s5.jpg",
+                    "itemNoGlobal": "30534954",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30534954",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 4490,
+                        "current": { "prefix": "", "wholeNumber": "4 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 16,
+        "itemNo": "50363220",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 4490,
+            "current": { "prefix": "", "wholeNumber": "4 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-stul-se-2-zasuvkami-svetle-hneda__0657991_pe710083_s5.jpg",
+        "mainImageAlt": "HEMNES Stůl se 2 zásuvkami, světle hnědá, 120x47 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Psací a počítačové stoly", "key": "20649" },
+            { "name": "Psací stoly do domácnosti", "key": "20651" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50363220",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }]
+}

@@ -1,1 +1,100 @@
-{ "id": "60523421", "name": "SKÅLAN", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }] }
+{
+    "id": {
+        "name": "SKÅLAN",
+        "typeName": "Plynová varná deska",
+        "itemMeasureReferenceText": "59 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skalan-plynova-varna-deska-ikea-300-nerezavejici-ocel__1109099_pe869823_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skalan-plynova-varna-deska-ikea-300-nerezavejici-ocel-60523421/",
+        "id": "60523421",
+        "itemNoGlobal": "40523295",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70530275",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/skalan-plynova-varna-deska-ikea-300-cerna-70530275/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/skalan-plynova-varna-deska-ikea-300-cerna__1109094_pe869818_s5.jpg",
+                    "imageAlt": "SKÅLAN Plynová varná deska, IKEA 300 černá, 59 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 4,
+                    "name": "SKÅLAN",
+                    "typeName": "Plynová varná deska",
+                    "itemMeasureReferenceText": "59 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skalan-plynova-varna-deska-ikea-300-cerna__1109094_pe869818_s5.jpg",
+                    "mainImageAlt": "SKÅLAN Plynová varná deska, IKEA 300 černá, 59 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skalan-plynova-varna-deska-ikea-300-cerna__1109093_pe869819_s5.jpg",
+                    "itemNoGlobal": "60530271",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70530275",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 3990,
+                        "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "4 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "60523421",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3990,
+            "current": { "prefix": "", "wholeNumber": "3 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "4 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skalan-plynova-varna-deska-ikea-300-nerezavejici-ocel__1109098_pe869824_s5.jpg",
+        "mainImageAlt": "SKÅLAN Plynová varná deska, IKEA 300 nerezavějící ocel, 59 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Hobs",
+            "productAreaNo": "7014",
+            "productRangeAreaName": "Cooking Appliances",
+            "productRangeAreaNo": "701"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské spotřebiče", "key": "ka002" },
+            { "name": "Varné desky", "key": "20812" },
+            { "name": "Plynové varné desky", "key": "20814" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60523421",
+    "name": "SKÅLAN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }]
+}

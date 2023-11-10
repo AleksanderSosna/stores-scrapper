@@ -1,1 +1,54 @@
-{ "id": "90497996", "name": "KALLBLIXT", "categoryKey": "li001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "KALLBLIXT",
+        "typeName": "Nástěnná lampa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/kallblixt-nastenna-lampa-bila-sklo__0993062_pe820396_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/kallblixt-nastenna-lampa-bila-sklo-90497996/",
+        "id": "90497996",
+        "itemNoGlobal": "90497996",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3,
+        "ratingCount": 1,
+        "itemNo": "90497996",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/kallblixt-nastenna-lampa-bila-sklo__0993063_pe820398_s5.jpg",
+        "mainImageAlt": "KALLBLIXT Nástěnná lampa, bílá sklo",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Wall lamps",
+            "productAreaNo": "1016",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Osvětlení", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Nástěnné osvětlení", "key": "20503" },
+            { "name": "Nástěnné lampy", "key": "20504" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90497996",
+    "name": "KALLBLIXT",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

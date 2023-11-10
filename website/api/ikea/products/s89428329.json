@@ -1,0 +1,10 @@
+{
+    "id": "s89428329",
+    "itemNo": "89428329",
+    "name": "SMÅSTAD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 990 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7428 }
+    ]
+}

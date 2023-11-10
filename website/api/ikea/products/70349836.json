@@ -1,1 +1,54 @@
-{ "id": "70349836", "name": "GODMORGON", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 350 }] }
+{
+    "id": {
+        "name": "GODMORGON",
+        "typeName": "Noha",
+        "itemMeasureReferenceText": "15/25 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-noha-kulate-leskle__0624665_pe691973_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/godmorgon-noha-kulate-leskle-70349836/",
+        "id": "70349836",
+        "itemNoGlobal": "70349836",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 4,
+        "itemNo": "70349836",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 350,
+            "current": { "prefix": "", "wholeNumber": "350", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-noha-kulate-leskle__0527977_pe645629_s5.jpg",
+        "mainImageAlt": "GODMORGON Noha, kulaté/lesklé, 15/25 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové a umyvadlové skříňky", "key": "20719" },
+            { "name": "Nohy ke koupelnovým skříňkám", "key": "20722" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70349836",
+    "name": "GODMORGON",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 350 }]
+}

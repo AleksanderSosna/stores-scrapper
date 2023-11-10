@@ -1,1 +1,89 @@
-{ "id": "30493699", "name": "LINDBYN", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "LINDBYN",
+        "typeName": "Lustro",
+        "itemMeasureReferenceText": "40x130 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-bialy__0976410_pe813191_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-bialy-30493699/",
+        "id": "30493699",
+        "itemNoGlobal": "30493699",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20458615",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-czarny-20458615/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-czarny__0798818_pe767396_s5.jpg",
+                    "imageAlt": "LINDBYN Lustro, czarny, 40x130 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 49,
+                    "name": "LINDBYN",
+                    "typeName": "Lustro",
+                    "itemMeasureReferenceText": "40x130 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-czarny__0798818_pe767396_s5.jpg",
+                    "mainImageAlt": "LINDBYN Lustro, czarny, 40x130 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-czarny__1091238_pe862354_s5.jpg",
+                    "itemNoGlobal": "20458615",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "20458615",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 49,
+        "itemNo": "30493699",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-bialy__0986809_pe817331_s5.jpg",
+        "mainImageAlt": "LINDBYN Lustro, biały, 40x130 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Mirrors",
+            "productAreaNo": "1645",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Lustra", "key": "20489" },
+            { "name": "Lustra wiszące", "key": "24858" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30493699",
+    "name": "LINDBYN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

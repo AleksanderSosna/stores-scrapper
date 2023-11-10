@@ -1,0 +1,52 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Regał",
+        "itemMeasureReferenceText": "234x55x190 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-czarny__0618243_pe688419_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bror-regal-czarny-s99471751/",
+        "id": "s99471751",
+        "itemNoGlobal": "99471751",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99471751",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1420,
+            "current": { "prefix": "", "wholeNumber": "1 420", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-czarny__0665280_ph153180_s5.jpg",
+        "mainImageAlt": "BROR Regał, czarny, 234x55x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System BROR", "key": "42245" },
+            { "name": "Kombinacje BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99471751",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1420 }]
+}

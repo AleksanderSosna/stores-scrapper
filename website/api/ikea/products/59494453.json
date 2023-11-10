@@ -1,9 +1,0 @@
-{
-    "id": "59494453",
-    "name": "MARKFROST / LUNNOM",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 109.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 748 }
-    ]
-}

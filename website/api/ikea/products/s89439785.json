@@ -1,0 +1,10 @@
+{
+    "id": "s89439785",
+    "itemNo": "89439785",
+    "name": "MEHAMN",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1175 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 6800 }
+    ]
+}

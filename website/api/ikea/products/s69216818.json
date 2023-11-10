@@ -1,0 +1,10 @@
+{
+    "id": "s69216818",
+    "itemNo": "69216818",
+    "name": "FRIHETEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15990 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s09424981",
+    "itemNo": "09424981",
+    "name": "BJÖRKÅN",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1300 }
+    ]
+}

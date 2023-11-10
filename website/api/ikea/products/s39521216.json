@@ -1,0 +1,10 @@
+{
+    "id": "s39521216",
+    "itemNo": "39521216",
+    "name": "PAX / MISTUDDEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2095 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11650 }
+    ]
+}

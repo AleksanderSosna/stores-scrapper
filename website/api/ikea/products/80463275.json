@@ -1,1 +1,55 @@
-{ "id": "80463275", "name": "LURVIG", "categoryKey": "pt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }
+{
+    "id": {
+        "name": "LURVIG",
+        "typeName": "Posłanie/domek dla kota",
+        "itemMeasureReferenceText": "38x38x37 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-poslanie-domek-dla-kota-czarny-bialy__0758065_pe749516_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lurvig-poslanie-domek-dla-kota-czarny-bialy-80463275/",
+        "id": "80463275",
+        "itemNoGlobal": "80463275",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "80463275",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99.99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-poslanie-domek-dla-kota-czarny-bialy__0758064_pe749513_s5.jpg",
+        "mainImageAlt": "LURVIG Posłanie/domek dla kota, czarny/biały, 38x38x37 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Pet accessories",
+            "productAreaNo": "1871",
+            "productRangeAreaName": "Living with pets",
+            "productRangeAreaNo": "187"
+        },
+        "categoryPath": [
+            { "name": "Produkty dla zwierząt", "key": "pt001" },
+            { "name": "Produkty dla kotów", "key": "39569" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80463275",
+    "name": "LURVIG",
+    "categoryKey": "pt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }]
+}

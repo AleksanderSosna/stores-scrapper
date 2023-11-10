@@ -1,0 +1,117 @@
+{
+    "id": {
+        "name": "NORDVIKEN / SKOGSBO",
+        "typeName": "Stół i 2 krzesła",
+        "itemMeasureReferenceText": "74/104 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-skogsbo-stol-i-2-krzesla-bialy-ciemnobrazowy__1205481_pe907108_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-skogsbo-stol-i-2-krzesla-bialy-ciemnobrazowy-s69528202/",
+        "id": "s69528202",
+        "itemNoGlobal": "69528202",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s09428804",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-kaettil-stol-i-2-krzesla-bialy-knisa-jasnoszary-s09428804/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-kaettil-stol-i-2-krzesla-bialy-knisa-jasnoszary__1016374_pe830352_s5.jpg",
+                    "imageAlt": "NORDVIKEN / KÄTTIL Stół i 2 krzesła, biały/Knisa jasnoszary, 74/104 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "NORDVIKEN / KÄTTIL",
+                    "typeName": "Stół i 2 krzesła",
+                    "itemMeasureReferenceText": "74/104 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-kaettil-stol-i-2-krzesla-bialy-knisa-jasnoszary__1016374_pe830352_s5.jpg",
+                    "mainImageAlt": "NORDVIKEN / KÄTTIL Stół i 2 krzesła, biały/Knisa jasnoszary, 74/104 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-kaettil-stol-i-2-krzesla-bialy-knisa-jasnoszary__1028695_pe835488_s5.jpg",
+                    "itemNoGlobal": "09428804",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09428804",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 897,
+                        "current": { "prefix": "", "wholeNumber": "897", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s49528199",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/nordviken-skogsbo-stol-i-2-krzesla-czarny-ciemnobrazowy-s49528199/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-skogsbo-stol-i-2-krzesla-czarny-ciemnobrazowy__1205478_pe907106_s5.jpg",
+                    "imageAlt": "NORDVIKEN / SKOGSBO Stół i 2 krzesła, czarny/ciemnobrązowy, 74/104 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "NORDVIKEN / SKOGSBO",
+                    "typeName": "Stół i 2 krzesła",
+                    "itemMeasureReferenceText": "74/104 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-skogsbo-stol-i-2-krzesla-czarny-ciemnobrazowy__1205478_pe907106_s5.jpg",
+                    "mainImageAlt": "NORDVIKEN / SKOGSBO Stół i 2 krzesła, czarny/ciemnobrązowy, 74/104 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-skogsbo-stol-i-2-krzesla-czarny-ciemnobrazowy__1205477_pe907107_s5.jpg",
+                    "itemNoGlobal": "49528199",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49528199",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1797,
+                        "current": { "prefix": "", "wholeNumber": "1 797", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69528202",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1697,
+            "current": { "prefix": "", "wholeNumber": "1 697", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/nordviken-skogsbo-stol-i-2-krzesla-bialy-ciemnobrazowy__1205480_pe907109_s5.jpg",
+        "mainImageAlt": "NORDVIKEN / SKOGSBO Stół i 2 krzesła, biały/ciemnobrązowy, 74/104 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Tables",
+            "productAreaNo": "0811",
+            "productRangeAreaName": "Dining tables",
+            "productRangeAreaNo": "081"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Zestawy stołów z krzesłami", "key": "19145" },
+            { "name": "Zestawy stołów z 2 krzesłami", "key": "36209" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69528202",
+    "name": "NORDVIKEN / SKOGSBO",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1697 }]
+}

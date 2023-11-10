@@ -1,1 +1,53 @@
-{ "id": "60342604", "name": "VOXNAN", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }] }
+{
+    "id": {
+        "name": "VOXNAN",
+        "typeName": "Termost. sprchová mísicí baterie",
+        "itemMeasureReferenceText": "150 mm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/voxnan-termost-sprchova-misici-baterie-pochromovane__0771174_pe755680_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/voxnan-termost-sprchova-misici-baterie-pochromovane-60342604/",
+        "id": "60342604",
+        "itemNoGlobal": "60342604",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemNo": "60342604",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2790,
+            "current": { "prefix": "", "wholeNumber": "2 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/voxnan-termost-sprchova-misici-baterie-pochromovane__0864259_pe668927_s5.jpg",
+        "mainImageAlt": "VOXNAN Termost. sprchová mísicí baterie, pochromované, 150 mm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Shower mixers and accessories",
+            "productAreaNo": "0632",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Sprchy", "key": "40690" },
+            { "name": "Sprchové mísicí baterie", "key": "40691" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60342604",
+    "name": "VOXNAN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }]
+}

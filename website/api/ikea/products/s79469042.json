@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "METOD",
+        "typeName": "Kuchnia",
+        "itemMeasureReferenceText": "240x60x228 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/metod-kuchnia-bialy-maximera-voxtorp-wysoki-polysk-jasny-bez__0460630_pe606907_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/metod-kuchnia-bialy-maximera-voxtorp-wysoki-polysk-jasny-bez-s79469042/",
+        "id": "s79469042",
+        "itemNoGlobal": "79469042",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nowa\nniższa\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "79469042",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4817,
+            "current": { "prefix": "", "wholeNumber": "4 817", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "5 262", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "5 262", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-10-03",
+            "validTo": "2024-08-31",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nowa\nniższa\ncena",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "METOD Kuchnia, biały Maximera/Voxtorp wysoki połysk jasny beż, 240x60x228 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Complete kitchen cabinets",
+            "productAreaNo": "0783",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "Kombinacje kuchni METOD", "key": "50005" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79469042",
+    "name": "METOD",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4817 }]
+}

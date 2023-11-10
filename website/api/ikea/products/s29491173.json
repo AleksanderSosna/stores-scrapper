@@ -1,0 +1,61 @@
+{
+    "id": {
+        "name": "UTESPELARE / STYRSPEL",
+        "typeName": "Herní stůl a židle",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/utespelare-styrspel-herni-stul-a-zidle-svetle-seda-seda-cervena__1123703_pe874861_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/utespelare-styrspel-herni-stul-a-zidle-svetle-seda-seda-cervena-s29491173/",
+        "id": "s29491173",
+        "itemNoGlobal": "29491173",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29491173",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8980,
+            "current": { "prefix": "", "wholeNumber": "8 980", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "10 480", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/utespelare-styrspel-herni-stul-a-zidle-svetle-seda-seda-cervena__1128219_pe876485_s5.jpg",
+        "mainImageAlt": "UTESPELARE / STYRSPEL Herní stůl a židle, světle šedá šedá/červená",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Gaming",
+            "productAreaNo": "0371",
+            "productRangeAreaName": "Gaming",
+            "productRangeAreaNo": "037"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Herní nábytek", "key": "55002" },
+            { "name": "Sady stolů a židlí na hraní PC her", "key": "56516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29491173",
+    "name": "UTESPELARE / STYRSPEL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8980 }]
+}

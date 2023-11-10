@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "Rohová pohovka, 5místná",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-rohova-pohovka-5mistna-grann-bomstad-zlatohneda__0817669_pe774093_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-rohova-pohovka-5mistna-grann-bomstad-zlatohneda-s89306752/",
+        "id": "s89306752",
+        "itemNoGlobal": "89306752",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69306748",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-rohova-pohovka-5mistna-grann-bomstad-cerna-s69306748/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-rohova-pohovka-5mistna-grann-bomstad-cerna__0817667_pe774091_s5.jpg",
+                    "imageAlt": "VIMLE Rohová pohovka, 5místná, Grann/Bomstad černá",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+                    "availability": [],
+                    "name": "VIMLE",
+                    "typeName": "Rohová pohovka, 5místná",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-rohova-pohovka-5mistna-grann-bomstad-cerna__0817667_pe774091_s5.jpg",
+                    "mainImageAlt": "VIMLE Rohová pohovka, 5místná, Grann/Bomstad černá",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-rohova-pohovka-5mistna-grann-bomstad-cerna__0817666_pe774090_s5.jpg",
+                    "itemNoGlobal": "69306748",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69306748",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 57480,
+                        "current": { "prefix": "", "wholeNumber": "57 480", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47482", "name": "Měkká", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "itemNo": "89306752",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 57480,
+            "current": { "prefix": "", "wholeNumber": "57 480", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-rohova-pohovka-5mistna-grann-bomstad-zlatohneda__0817668_pe774092_s5.jpg",
+        "mainImageAlt": "VIMLE Rohová pohovka, 5místná, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Kožené a koženkové sedačky", "key": "10662" },
+            { "name": "Kožené a koženkové pohovky do U", "key": "10693" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89306752",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 57480 }]
+}

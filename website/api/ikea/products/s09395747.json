@@ -1,0 +1,101 @@
+{
+    "id": {
+        "name": "IVAR",
+        "typeName": "3casti/skř./police",
+        "itemMeasureReferenceText": "259x30x226 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-3casti-skr-police-borovice-bila-sit__0934460_pe792412_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-3casti-skr-police-borovice-bila-sit-s09395747/",
+        "id": "s09395747",
+        "itemNoGlobal": "09395747",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69248211",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/ivar-3casti-skr-police-borovice-bila-s69248211/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-3casti-skr-police-borovice-bila__0606370_pe682271_s5.jpg",
+                    "imageAlt": "IVAR 3casti/skř./police, borovice/bílá, 259x30x226 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "IVAR",
+                    "typeName": "3casti/skř./police",
+                    "itemMeasureReferenceText": "259x30x226 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-3casti-skr-police-borovice-bila__0606370_pe682271_s5.jpg",
+                    "mainImageAlt": "IVAR 3casti/skř./police, borovice/bílá, 259x30x226 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-3casti-skr-police-borovice-bila__0946603_pe798164_s5.jpg",
+                    "itemNoGlobal": "69248211",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "69248211",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 13410,
+                        "current": { "prefix": "", "wholeNumber": "13 410", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "14 310", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "09395747",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 13410,
+            "current": { "prefix": "", "wholeNumber": "13 410", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "14 310", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ivar-3casti-skr-police-borovice-bila-sit__0934461_pe792413_s5.jpg",
+        "mainImageAlt": "IVAR 3casti/skř./police, borovice/bílá síť, 259x30x226 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Skříňky a příborníky", "key": "st003" },
+            { "name": "Úložné systémy do obývacího pokoje", "key": "29882" },
+            { "name": "Systém IVAR", "key": "11703" },
+            { "name": "Sestavy a kombinace IVAR", "key": "11704" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "09395747",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 13410 }]
+}

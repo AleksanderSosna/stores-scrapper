@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / TYSSEDAL",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "200x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-bialy-szklo__0716090_pe730702_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-tyssedal-szafa-bialy-bialy-szklo-s89300104/",
+        "id": "s89300104",
+        "itemNoGlobal": "89300104",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09300103",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-tyssedal-szafa-bialy-bialy-szklo-s09300103/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-bialy-szklo__0716088_pe730704_s5.jpg",
+                    "imageAlt": "PAX / TYSSEDAL Szafa, biały/biały szkło, 200x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / TYSSEDAL",
+                    "typeName": "Szafa",
+                    "itemMeasureReferenceText": "200x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-bialy-szklo__0716088_pe730704_s5.jpg",
+                    "mainImageAlt": "PAX / TYSSEDAL Szafa, biały/biały szkło, 200x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-bialy-szklo__0716087_pe730701_s5.jpg",
+                    "itemNoGlobal": "09300103",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09300103",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4380,
+                        "current": { "prefix": "", "wholeNumber": "4 380", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89300104",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4015,
+            "current": { "prefix": "", "wholeNumber": "4 015", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-tyssedal-szafa-bialy-bialy-szklo__0716089_pe730703_s5.jpg",
+        "mainImageAlt": "PAX / TYSSEDAL Szafa, biały/biały szkło, 200x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89300104",
+    "name": "PAX / TYSSEDAL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4015 }]
+}

@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "GODMORGON / BRÅVIKEN",
+        "typeName": "Umyvadlová skříňka se 2 zásuvkami",
+        "itemMeasureReferenceText": "61x49x68 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-braviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-brogrund__0724748_pe734612_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/godmorgon-braviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-brogrund-s99292368/",
+        "id": "s99292368",
+        "itemNoGlobal": "99292368",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "99292368",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 9180,
+            "current": { "prefix": "", "wholeNumber": "9 180", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/godmorgon-braviken-umyvadlova-skrinka-se-2-zasuvkami-bila-baterie-brogrund__0724750_pe734610_s5.jpg",
+        "mainImageAlt": "GODMORGON / BRÅVIKEN Umyvadlová skříňka se 2 zásuvkami, bílá/Baterie Brogrund, 61x49x68 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnové a umyvadlové skříňky", "key": "20719" },
+            { "name": "Umyvadlové skříňky s umyvadlem", "key": "20720" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "99292368",
+    "name": "GODMORGON / BRÅVIKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 9180 }]
+}

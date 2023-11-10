@@ -1,0 +1,10 @@
+{
+    "id": "s49434389",
+    "itemNo": "49434389",
+    "name": "TROTTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s79399822",
+    "itemNo": "79399822",
+    "name": "INGOLF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 996 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5160 }
+    ]
+}

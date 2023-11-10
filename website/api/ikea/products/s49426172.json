@@ -1,0 +1,10 @@
+{
+    "id": "s49426172",
+    "itemNo": "49426172",
+    "name": "NORDVIKEN / NORRMANSÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4593 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23930 }
+    ]
+}

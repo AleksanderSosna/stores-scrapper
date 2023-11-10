@@ -1,1 +1,54 @@
-{ "id": "50326794", "name": "KNOXHULT", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 575 }] }
+{
+    "id": {
+        "name": "KNOXHULT",
+        "typeName": "Szafka stojąca, drzwi+szuflada",
+        "itemMeasureReferenceText": "120 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-stojaca-drzwi-szuflada-szary__0630742_pe694870_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-stojaca-drzwi-szuflada-szary-50326794/",
+        "id": "50326794",
+        "itemNoGlobal": "50326794",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 22,
+        "itemNo": "50326794",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 575,
+            "current": { "prefix": "", "wholeNumber": "575", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-stojaca-drzwi-szuflada-szary__0871390_pe615154_s5.jpg",
+        "mainImageAlt": "KNOXHULT Szafka stojąca, drzwi+szuflada, szary, 120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Complete kitchen cabinets",
+            "productAreaNo": "0783",
+            "productRangeAreaName": "Freestanding kitchens and kitchen furniture",
+            "productRangeAreaNo": "078"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe KNOXHULT", "key": "48977" },
+            { "name": "Wszystkie elementy kuchni KNOXHULT", "key": "49318" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50326794",
+    "name": "KNOXHULT",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 575 }]
+}

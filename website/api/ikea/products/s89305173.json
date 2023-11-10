@@ -1,0 +1,10 @@
+{
+    "id": "s89305173",
+    "itemNo": "89305173",
+    "name": "NORDVIKEN / NORRARYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 3015 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 19150 }
+    ]
+}

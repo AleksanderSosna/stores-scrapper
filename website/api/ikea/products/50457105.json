@@ -1,1 +1,53 @@
-{ "id": "50457105", "name": "HUVÖN", "categoryKey": "od001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }] }
+{
+    "id": {
+        "name": "HUVÖN",
+        "typeName": "Podstawa parasola",
+        "itemMeasureReferenceText": "56x56 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/huvoen-podstawa-parasola-szary__0770423_pe755508_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/huvoen-podstawa-parasola-szary-50457105/",
+        "id": "50457105",
+        "itemNoGlobal": "50457105",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "50457105",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/huvoen-podstawa-parasola-szary__0774690_pe756736_s5.jpg",
+        "mainImageAlt": "HUVÖN Podstawa parasola, szary, 56x56 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Parasols & gazebos",
+            "productAreaNo": "1717",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Parasole i altanki", "key": "17887" },
+            { "name": "Parasole ogrodowe i podstawy", "key": "17894" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50457105",
+    "name": "HUVÖN",
+    "categoryKey": "od001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 229 }]
+}

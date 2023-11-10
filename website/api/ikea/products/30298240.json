@@ -1,1 +1,121 @@
-{ "id": "30298240", "name": "TALGJE", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }] }
+{
+    "id": {
+        "name": "TALGJE",
+        "typeName": "Mata",
+        "itemMeasureReferenceText": "90x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__0636881_pe698070_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/talgje-mata-bialy-30298240/",
+        "id": "30298240",
+        "itemNoGlobal": "30298240",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "30298235",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/talgje-mata-bialy-30298235/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__0641073_pe700237_s5.jpg",
+                    "imageAlt": "TALGJE Mata, biały, 160x200 cm",
+                    "quickFacts": [{ "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" }],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 44,
+                    "name": "TALGJE",
+                    "typeName": "Mata",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__0641073_pe700237_s5.jpg",
+                    "mainImageAlt": "TALGJE Mata, biały, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__1052183_pe845990_s5.jpg",
+                    "itemNoGlobal": "30298235",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30298235",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 349,
+                        "current": { "prefix": "", "wholeNumber": "349", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80298233",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/talgje-mata-bialy-80298233/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__0641080_pe700240_s5.jpg",
+                    "imageAlt": "TALGJE Mata, biały, 140x200 cm",
+                    "quickFacts": [{ "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" }],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 44,
+                    "name": "TALGJE",
+                    "typeName": "Mata",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__0641080_pe700240_s5.jpg",
+                    "mainImageAlt": "TALGJE Mata, biały, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__1052183_pe845990_s5.jpg",
+                    "itemNoGlobal": "80298233",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "80298233",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 299,
+                        "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozmiar", "count": 3, "label": "3 rozmiary/rozmiarów" }]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pianka", "typeName": "Materiał materaca" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 44,
+        "itemNo": "30298240",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/talgje-mata-bialy__1052183_pe845990_s5.jpg",
+        "mainImageAlt": "TALGJE Mata, biały, 90x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Mattress pads",
+            "productAreaNo": "0513",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Materace", "key": "bm002" },
+            { "name": "Maty na materac", "key": "24826" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30298240",
+    "name": "TALGJE",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 249 }]
+}

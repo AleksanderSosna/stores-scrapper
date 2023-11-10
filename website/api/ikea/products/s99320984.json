@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Spodní skříňka se 3 zásuvkami",
+        "itemMeasureReferenceText": "60x62x75 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-spodni-skrinka-se-3-zasuvkami-bila-imitace-betonu__0815952_pe773152_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-spodni-skrinka-se-3-zasuvkami-bila-imitace-betonu-s99320984/",
+        "id": "s99320984",
+        "itemNoGlobal": "99320984",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 13,
+        "itemNo": "99320984",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3580,
+            "current": { "prefix": "", "wholeNumber": "3 580", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-spodni-skrinka-se-3-zasuvkami-bila-imitace-betonu__0913409_pe783546_s5.jpg",
+        "mainImageAlt": "ENHET Spodní skříňka se 3 zásuvkami, bílá/imitace betonu, 60x62x75 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen cabinets, kitchen legs, open frames",
+            "productAreaNo": "0711",
+            "productRangeAreaName": "Kitchen cabinets",
+            "productRangeAreaNo": "071"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské skříňky", "key": "700292" },
+            { "name": "ENHET, kuchyňské skříňky", "key": "48993" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "99320984",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3580 }]
+}

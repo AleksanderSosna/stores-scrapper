@@ -1,1 +1,53 @@
-{ "id": "50428071", "name": "JUTTERN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }] }
+{
+    "id": {
+        "name": "JUTTERN",
+        "typeName": "Bateria kuchenna składana",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/juttern-bateria-kuchenna-skladana-chrom__1042438_pe841387_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/juttern-bateria-kuchenna-skladana-chrom-50428071/",
+        "id": "50428071",
+        "itemNoGlobal": "50428071",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50428071",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 699,
+            "current": { "prefix": "", "wholeNumber": "699", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "energySymbolImageUrl": "https://www.ikea.com/pimg/symbols/1166750_o_lbl10.svg",
+        "energySymbolImageAlt": "8.0 l/min",
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/juttern-bateria-kuchenna-skladana-chrom__1095844_pe864058_s5.jpg",
+        "mainImageAlt": "JUTTERN Bateria kuchenna składana, chrom",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Kitchen taps",
+            "productAreaNo": "0635",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Baterie i zlewy do kuchni", "key": "24261" },
+            { "name": "Baterie kuchenne", "key": "10482" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50428071",
+    "name": "JUTTERN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 699 }]
+}

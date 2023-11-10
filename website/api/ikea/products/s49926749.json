@@ -1,0 +1,92 @@
+{
+    "id": {
+        "name": "MICKE",
+        "typeName": "Psací stůl",
+        "itemMeasureReferenceText": "105x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-psaci-stul-cernohneda__0736575_pe740629_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/micke-psaci-stul-cernohneda-s49926749/",
+        "id": "s49926749",
+        "itemNoGlobal": "49926749",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09903014",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/micke-psaci-stul-bila-s09903014/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/micke-psaci-stul-bila__0736576_pe740630_s5.jpg",
+                    "imageAlt": "MICKE Psací stůl, bílá, 105x50 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 144,
+                    "name": "MICKE",
+                    "typeName": "Psací stůl",
+                    "itemMeasureReferenceText": "105x50 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-psaci-stul-bila__0736576_pe740630_s5.jpg",
+                    "mainImageAlt": "MICKE Psací stůl, bílá, 105x50 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-psaci-stul-bila__0848887_pe779184_s5.jpg",
+                    "itemNoGlobal": "09903014",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09903014",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 3290,
+                        "current": { "prefix": "", "wholeNumber": "3 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 144,
+        "itemNo": "49926749",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3290,
+            "current": { "prefix": "", "wholeNumber": "3 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/micke-psaci-stul-cernohneda__0848886_pe779182_s5.jpg",
+        "mainImageAlt": "MICKE Psací stůl, černohnědá, 105x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Psací a počítačové stoly", "key": "20649" },
+            { "name": "Psací stoly do domácnosti", "key": "20651" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "49926749",
+    "name": "MICKE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }]
+}

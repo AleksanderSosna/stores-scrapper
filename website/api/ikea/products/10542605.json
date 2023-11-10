@@ -1,1 +1,54 @@
-{ "id": "10542605", "name": "BASTUA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }] }
+{
+    "id": {
+        "name": "BASTUA",
+        "typeName": "Vonná svíčka ve skle",
+        "itemMeasureReferenceText": "35 hod.",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-vonna-svicka-ve-skle-rebarbora-a-bezinka-bila__1145943_pe882794_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bastua-vonna-svicka-ve-skle-rebarbora-a-bezinka-bila-10542605/",
+        "id": "10542605",
+        "itemNoGlobal": "10542605",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 6,
+        "itemNo": "10542605",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-vonna-svicka-ve-skle-rebarbora-a-bezinka-bila__1179003_ph191323_s5.jpg",
+        "mainImageAlt": "BASTUA Vonná svíčka ve skle, Rebarbora a bezinka/bílá, 35 hod.",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Home fragrance",
+            "productAreaNo": "1635",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Vonné svíčky", "key": "10783" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10542605",
+    "name": "BASTUA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }]
+}

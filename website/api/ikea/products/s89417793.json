@@ -1,0 +1,94 @@
+{
+    "id": {
+        "name": "MÅLSKYTT / MITTBACK",
+        "typeName": "Psací stůl",
+        "itemMeasureReferenceText": "140x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/malskytt-mittback-psaci-stul-briza-bila__0976217_pe813113_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/malskytt-mittback-psaci-stul-briza-bila-s89417793/",
+        "id": "s89417793",
+        "itemNoGlobal": "89417793",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s49417790",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/malskytt-mittback-psaci-stul-briza-s49417790/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/malskytt-mittback-psaci-stul-briza__0976216_pe813109_s5.jpg",
+                    "imageAlt": "MÅLSKYTT / MITTBACK Psací stůl, bříza, 140x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "MÅLSKYTT / MITTBACK",
+                    "typeName": "Psací stůl",
+                    "itemMeasureReferenceText": "140x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/malskytt-mittback-psaci-stul-briza__0976216_pe813109_s5.jpg",
+                    "mainImageAlt": "MÅLSKYTT / MITTBACK Psací stůl, bříza, 140x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/malskytt-mittback-psaci-stul-briza__1123398_pe874787_s5.jpg",
+                    "itemNoGlobal": "49417790",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "49417790",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 3690,
+                        "current": { "prefix": "", "wholeNumber": "3 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "89417793",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3690,
+            "current": { "prefix": "", "wholeNumber": "3 690", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/malskytt-mittback-psaci-stul-briza-bila__1123439_pe874790_s5.jpg",
+        "mainImageAlt": "MÅLSKYTT / MITTBACK Psací stůl, bříza/bílá, 140x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Home desks",
+            "productAreaNo": "0341",
+            "productRangeAreaName": "Home workspace",
+            "productRangeAreaNo": "034"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Stoly", "key": "fu004" },
+            { "name": "Psací a počítačové stoly", "key": "20649" },
+            { "name": "Stoly a psací stoly", "key": "47423" },
+            { "name": "Systém stolů", "key": "11811" },
+            { "name": "Kombinace", "key": "18623" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89417793",
+    "name": "MÅLSKYTT / MITTBACK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }]
+}

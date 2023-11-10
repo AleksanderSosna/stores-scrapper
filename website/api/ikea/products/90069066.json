@@ -1,1 +1,51 @@
-{ "id": "90069066", "name": "LAGAN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 189 }] }
+{
+    "id": {
+        "name": "LAGAN",
+        "typeName": "Rurka dekorac do okapu",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lagan-rurka-dekorac-do-okapu-stal-nierdz__0755135_pe748271_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lagan-rurka-dekorac-do-okapu-stal-nierdz-90069066/",
+        "id": "90069066",
+        "itemNoGlobal": "90069066",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "90069066",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 189,
+            "current": { "prefix": "", "wholeNumber": "189", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "LAGAN Rurka dekorac do okapu, stal nierdz",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home Appliances",
+            "homeFurnishingBusinessNo": "70",
+            "productAreaName": "Extractor hoods accessories",
+            "productAreaNo": "7091",
+            "productRangeAreaName": "Appliances Accessories",
+            "productRangeAreaNo": "709"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "AGD", "key": "ka002" },
+            { "name": "Okapy kuchenne i wyciągi", "key": "20819" },
+            { "name": "Zabudowane wyciągi kominowe", "key": "20820" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90069066",
+    "name": "LAGAN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 189 }]
+}

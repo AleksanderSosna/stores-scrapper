@@ -1,0 +1,10 @@
+{
+    "id": "s29406797",
+    "itemNo": "29406797",
+    "name": "GLADSTAD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1549 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7790 }
+    ]
+}

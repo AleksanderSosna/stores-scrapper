@@ -1,9 +1,0 @@
-{
-    "id": "99392532",
-    "name": "REGNSKUR / SUNNEBY",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 134.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
-    ]
-}

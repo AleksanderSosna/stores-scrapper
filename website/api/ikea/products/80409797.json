@@ -1,1 +1,60 @@
-{ "id": "80409797", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 29 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Umělé květiny",
+        "itemMeasureReferenceText": "30 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-pivonka-tm-ruzova__0611404_pe685422_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/smycka-umele-kvetiny-pivonka-tm-ruzova-80409797/",
+        "id": "80409797",
+        "itemNoGlobal": "80409797",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "růžová", "id": "10119", "hex": "ffb8c3" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 18,
+        "itemNo": "80409797",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 29,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "35", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-02-27",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/smycka-umele-kvetiny-pivonka-tm-ruzova__0903943_pe685427_s5.jpg",
+        "mainImageAlt": "SMYCKA Umělé květiny, pivoňka/tm.růžová, 30 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Rostliny a květiny", "key": "pp003" },
+            { "name": "Umělé rostliny a květiny", "key": "20492" },
+            { "name": "Umělé řezané květiny", "key": "700516" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80409797",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 29 }]
+}

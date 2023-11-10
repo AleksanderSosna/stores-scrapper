@@ -1,1 +1,52 @@
-{ "id": "10532507", "name": "OXBERG", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99 }] }
+{
+    "id": {
+        "name": "OXBERG",
+        "typeName": "Drzwi szklane",
+        "itemMeasureReferenceText": "40x97 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/oxberg-drzwi-szklane-bialy__1103661_pe867355_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/oxberg-drzwi-szklane-bialy-10532507/",
+        "id": "10532507",
+        "itemNoGlobal": "10532507",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 5,
+        "itemNo": "10532507",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "OXBERG Drzwi szklane, biały, 40x97 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10532507",
+    "name": "OXBERG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99 }]
+}

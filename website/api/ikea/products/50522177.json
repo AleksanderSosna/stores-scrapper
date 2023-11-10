@@ -1,1 +1,59 @@
-{ "id": "50522177", "name": "REXBEGONIA", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "REXBEGONIA",
+        "typeName": "Chladicí podložka",
+        "itemMeasureReferenceText": "60x80 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/rexbegonia-chladici-podlozka__1044035_pe841858_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/rexbegonia-chladici-podlozka-50522177/",
+        "id": "50522177",
+        "itemNoGlobal": "50522177",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [{ "type": "FEATURES", "id": "47456", "name": "Chlazení", "typeName": "Vlastnosti" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.9,
+        "ratingCount": 21,
+        "itemNo": "50522177",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "269", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/rexbegonia-chladici-podlozka__1077856_pe856999_s5.jpg",
+        "mainImageAlt": "REXBEGONIA Chladicí podložka, 60x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Mattress and pillow protectors",
+            "productAreaNo": "1123",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Matrace", "key": "bm002" },
+            { "name": "Chrániče matrací", "key": "24824" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50522177",
+    "name": "REXBEGONIA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

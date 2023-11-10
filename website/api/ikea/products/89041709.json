@@ -1,9 +1,0 @@
-{
-    "id": "89041709",
-    "name": "ANTILOP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 469 }
-    ]
-}

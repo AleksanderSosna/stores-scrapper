@@ -1,9 +1,0 @@
-{
-    "id": "79444216",
-    "name": "STARKVIND",
-    "categoryKey": "hs001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 654 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3489 }
-    ]
-}

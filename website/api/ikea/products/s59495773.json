@@ -1,0 +1,55 @@
+{
+    "id": {
+        "name": "BOCKÖN / HAMNÖN",
+        "typeName": "Hamak ze stojakiem",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bockoen-hamnoen-hamak-ze-stojakiem-czarny-antracyt-bialy__1146335_pe882997_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bockoen-hamnoen-hamak-ze-stojakiem-czarny-antracyt-bialy-s59495773/",
+        "id": "s59495773",
+        "itemNoGlobal": "59495773",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59495773",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 588,
+            "current": { "prefix": "", "wholeNumber": "588", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bockoen-hamnoen-hamak-ze-stojakiem-czarny-antracyt-bialy__1148310_pe883750_s5.jpg",
+        "mainImageAlt": "BOCKÖN / HAMNÖN Hamak ze stojakiem, czarny/antracyt biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor sofas & relax",
+            "productAreaNo": "1712",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Leżaki i hamaki", "key": "21963" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59495773",
+    "name": "BOCKÖN / HAMNÖN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 588 }]
+}

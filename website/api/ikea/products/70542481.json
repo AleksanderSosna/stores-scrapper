@@ -1,1 +1,53 @@
-{ "id": "70542481", "name": "BASTUA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }] }
+{
+    "id": {
+        "name": "BASTUA",
+        "typeName": "Lahev na vodu",
+        "itemMeasureReferenceText": "0.7 l",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-lahev-na-vodu-nerezavejici-ocel-kvetinovy-vzor-modra__1145990_pe882824_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/bastua-lahev-na-vodu-nerezavejici-ocel-kvetinovy-vzor-modra-70542481/",
+        "id": "70542481",
+        "itemNoGlobal": "70542481",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "modrá", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 3,
+        "itemNo": "70542481",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 249,
+            "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/bastua-lahev-na-vodu-nerezavejici-ocel-kvetinovy-vzor-modra__1179009_ph191325_s5.jpg",
+        "mainImageAlt": "BASTUA Lahev na vodu, nerezavějící ocel květinový vzor/modrá, 0.7 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eat and drink on the go",
+            "productAreaNo": "1561",
+            "productRangeAreaName": "On the go",
+            "productRangeAreaNo": "156"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Skladování potravin", "key": "15937" },
+            { "name": "Lahve na vodu a cestovní hrnky", "key": "700352" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70542481",
+    "name": "BASTUA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 249 }]
+}

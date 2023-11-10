@@ -1,1 +1,54 @@
-{ "id": "40531101", "name": "SNESLAND", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "SNESLAND",
+        "typeName": "Klosz lampy wiszącej",
+        "itemMeasureReferenceText": "37 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/snesland-klosz-lampy-wiszacej-czarny__1061433_pe850445_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/snesland-klosz-lampy-wiszacej-czarny-40531101/",
+        "id": "40531101",
+        "itemNoGlobal": "40531101",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "40531101",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/snesland-klosz-lampy-wiszacej-czarny__1061434_pe850446_s5.jpg",
+        "mainImageAlt": "SNESLAND Klosz lampy wiszącej, czarny, 37 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Shades, bases and cord set",
+            "productAreaNo": "1015",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Klosze, podstawy i oprawki", "key": "10803" },
+            { "name": "Klosze i abażury do lamp", "key": "10804" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40531101",
+    "name": "SNESLAND",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

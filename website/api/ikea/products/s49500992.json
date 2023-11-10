@@ -1,0 +1,10 @@
+{
+    "id": "s49500992",
+    "itemNo": "49500992",
+    "name": "PLATSA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2165 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10100 }
+    ]
+}

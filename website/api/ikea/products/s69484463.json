@@ -1,0 +1,10 @@
+{
+    "id": "s69484463",
+    "itemNo": "69484463",
+    "name": "PINNTORP / PINNTORP",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1495 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8550 }
+    ]
+}

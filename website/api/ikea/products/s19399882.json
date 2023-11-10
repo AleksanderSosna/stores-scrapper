@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "KRITTER",
+        "typeName": "Rama łóżka z dnem z listew",
+        "itemMeasureReferenceText": "70x160 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kritter-rama-lozka-z-dnem-z-listew-szary__0913428_pe783578_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kritter-rama-lozka-z-dnem-z-listew-szary-s19399882/",
+        "id": "s19399882",
+        "itemNoGlobal": "19399882",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 3,
+        "itemNo": "19399882",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 479,
+            "current": { "prefix": "", "wholeNumber": "479", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "KRITTER Rama łóżka z dnem z listew, szary, 70x160 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Sleep furniture for small children",
+            "productAreaNo": "0931",
+            "productRangeAreaName": "Children`s sleep",
+            "productRangeAreaNo": "093"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka dla dzieci", "key": "18723" },
+            { "name": "Łóżka z regulacją długości", "key": "45847" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19399882",
+    "name": "KRITTER",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 479 }]
+}

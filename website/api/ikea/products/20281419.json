@@ -1,1 +1,54 @@
-{ "id": "20281419", "name": "RABALDER", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }] }
+{
+    "id": {
+        "name": "RABALDER",
+        "typeName": "Uspořádání kabelů",
+        "itemMeasureReferenceText": "5 m",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/rabalder-usporadani-kabelu-bila__0275902_pe414011_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/rabalder-usporadani-kabelu-bila-20281419/",
+        "id": "20281419",
+        "itemNoGlobal": "20281419",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 9,
+        "itemNo": "20281419",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "5 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/rabalder-usporadani-kabelu-bila__0882523_pe620490_s5.jpg",
+        "mainImageAlt": "RABALDER Uspořádání kabelů, bílá, 5 m",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Power supply, charging and accessories",
+            "productAreaNo": "1021",
+            "productRangeAreaName": "Electronics and accessories",
+            "productRangeAreaNo": "102"
+        },
+        "categoryPath": [
+            { "name": "Domácí elektronika", "key": "he001" },
+            { "name": "Kabely, uspořádání na kabely a doplňky", "key": "16195" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20281419",
+    "name": "RABALDER",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 129 }]
+}

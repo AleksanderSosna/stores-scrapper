@@ -1,1 +1,53 @@
-{ "id": "40287236", "name": "DJURA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }] }
+{
+    "id": {
+        "name": "DJURA",
+        "typeName": "Podnos do postele",
+        "itemMeasureReferenceText": "58x38x25 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/djura-podnos-do-postele-kaucukovnik__0368246_pe551166_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/djura-podnos-do-postele-kaucukovnik-40287236/",
+        "id": "40287236",
+        "itemNoGlobal": "40287236",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "hnědá", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 55,
+        "itemNo": "40287236",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 399,
+            "current": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/djura-podnos-do-postele-kaucukovnik__0368247_pe551167_s5.jpg",
+        "mainImageAlt": "DJURA Podnos do postele, kaučukovník, 58x38x25 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Trays",
+            "productAreaNo": "1542",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Podnosy a tácy", "key": "16048" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40287236",
+    "name": "DJURA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 399 }]
+}

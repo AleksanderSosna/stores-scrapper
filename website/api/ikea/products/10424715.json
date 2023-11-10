@@ -1,1 +1,53 @@
-{ "id": "10424715", "name": "UPPLAGA", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }] }
+{
+    "id": {
+        "name": "UPPLAGA",
+        "typeName": "Servírovací mísa",
+        "itemMeasureReferenceText": "26 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/upplaga-servirovaci-misa-bila__0714560_pe730125_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/upplaga-servirovaci-misa-bila-10424715/",
+        "id": "10424715",
+        "itemNoGlobal": "10424715",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 28,
+        "itemNo": "10424715",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/upplaga-servirovaci-misa-bila__0714558_pe730127_s5.jpg",
+        "mainImageAlt": "UPPLAGA Servírovací mísa, bílá, 26 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Serving",
+            "productAreaNo": "1512",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nádobí k servírování", "key": "16043" },
+            { "name": "Servírovací misky", "key": "20619" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10424715",
+    "name": "UPPLAGA",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }]
+}

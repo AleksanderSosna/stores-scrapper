@@ -1,1 +1,54 @@
-{ "id": "70511578", "name": "PRAKTSALVIA", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }] }
+{
+    "id": {
+        "name": "PRAKTSALVIA",
+        "typeName": "Povlak na polštář",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/praktsalvia-povlak-na-polstar-svetle-sedozelena__0980829_pe815115_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/praktsalvia-povlak-na-polstar-svetle-sedozelena-70511578/",
+        "id": "70511578",
+        "itemNoGlobal": "70511578",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.9,
+        "ratingCount": 14,
+        "itemNo": "70511578",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 89,
+            "current": { "prefix": "", "wholeNumber": "89", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/praktsalvia-povlak-na-polstar-svetle-sedozelena__0980830_pe815116_s5.jpg",
+        "mainImageAlt": "PRAKTSALVIA Povlak na polštář, světle šedozelená, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Polštáře a povlaky na polštáře", "key": "10659" },
+            { "name": "Povlaky na polštáře", "key": "18903" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70511578",
+    "name": "PRAKTSALVIA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 89 }]
+}

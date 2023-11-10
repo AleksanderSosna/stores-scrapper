@@ -1,0 +1,10 @@
+{
+    "id": "s69282808",
+    "itemNo": "69282808",
+    "name": "BEKANT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7490 }
+    ]
+}

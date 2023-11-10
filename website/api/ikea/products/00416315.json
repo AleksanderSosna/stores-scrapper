@@ -1,1 +1,60 @@
-{ "id": "00416315", "name": "FJÄDRANDE", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }] }
+{
+    "id": {
+        "name": "FJÄDRANDE",
+        "typeName": "Tyč na závěsy",
+        "itemMeasureReferenceText": "70-120 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaedrande-tyc-na-zavesy-cerna__0613376_pe686260_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/fjaedrande-tyc-na-zavesy-cerna-00416315/",
+        "id": "00416315",
+        "itemNoGlobal": "00416315",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "černá", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 3.7,
+        "ratingCount": 7,
+        "itemNo": "00416315",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "169", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fjaedrande-tyc-na-zavesy-cerna__0893189_pe688506_s5.jpg",
+        "mainImageAlt": "FJÄDRANDE Tyč na závěsy, černá, 70-120 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Tyče a kolejnice na závěsy", "key": "18891" },
+            { "name": "Tyče na závěsy", "key": "18892" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00416315",
+    "name": "FJÄDRANDE",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 99 }]
+}

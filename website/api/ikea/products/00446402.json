@@ -1,1 +1,89 @@
-{ "id": "00446402", "name": "TUFJORD", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2499 }] }
+{
+    "id": {
+        "name": "TUFJORD",
+        "typeName": "Tapicerowana rama łóżka",
+        "itemMeasureReferenceText": "140x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-gunnared-niebieski__0859775_pe781090_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tufjord-tapicerowana-rama-lozka-gunnared-niebieski-00446402/",
+        "id": "00446402",
+        "itemNoGlobal": "00446402",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70446408",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tufjord-tapicerowana-rama-lozka-gunnared-niebieski-70446408/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-gunnared-niebieski__0859775_pe781090_s5.jpg",
+                    "imageAlt": "TUFJORD Tapicerowana rama łóżka, Gunnared niebieski, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 7,
+                    "name": "TUFJORD",
+                    "typeName": "Tapicerowana rama łóżka",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-gunnared-niebieski__0859775_pe781090_s5.jpg",
+                    "mainImageAlt": "TUFJORD Tapicerowana rama łóżka, Gunnared niebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-gunnared-niebieski__1150685_pe884655_s5.jpg",
+                    "itemNoGlobal": "70446408",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70446408",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2999,
+                        "current": { "prefix": "", "wholeNumber": "2 999", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozmiar", "count": 2, "label": "2 rozmiary/rozmiarów" }]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "00446402",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2499,
+            "current": { "prefix": "", "wholeNumber": "2 499", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-gunnared-niebieski__1150685_pe884655_s5.jpg",
+        "mainImageAlt": "TUFJORD Tapicerowana rama łóżka, Gunnared niebieski, 140x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka podwójne", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00446402",
+    "name": "TUFJORD",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2499 }]
+}

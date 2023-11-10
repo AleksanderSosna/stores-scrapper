@@ -1,1 +1,55 @@
-{ "id": "70483467", "name": "PARADISISK", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "PARADISISK",
+        "typeName": "Miska",
+        "itemMeasureReferenceText": "16 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-miska-kremowy__1062772_pe850999_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/paradisisk-miska-kremowy-70483467/",
+        "id": "70483467",
+        "itemNoGlobal": "70483467",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 6,
+        "itemNo": "70483467",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/paradisisk-miska-kremowy__1062768_pe850998_s5.jpg",
+        "mainImageAlt": "PARADISISK Miska, kremowy, 16 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Zastawa stołowa", "key": "18860" },
+            { "name": "Miseczki i salaterki", "key": "18864" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70483467",
+    "name": "PARADISISK",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

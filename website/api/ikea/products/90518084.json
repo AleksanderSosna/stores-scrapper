@@ -1,1 +1,55 @@
-{ "id": "90518084", "name": "STYLTMAL", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "STYLTMAL",
+        "typeName": "Poduszka ergonomiczna multi",
+        "itemMeasureReferenceText": "60x40 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/styltmal-poduszka-ergonomiczna-multi-bialy__1026788_pe834522_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/styltmal-poduszka-ergonomiczna-multi-bialy-90518084/",
+        "id": "90518084",
+        "itemNoGlobal": "90518084",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FEATURES", "id": "47456", "name": "Właściwości chłodzące", "typeName": "Właściwości" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 43,
+        "itemNo": "90518084",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/styltmal-poduszka-ergonomiczna-multi-bialy__1076680_pe856823_s5.jpg",
+        "mainImageAlt": "STYLTMAL Poduszka ergonomiczna multi, biały, 60x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Poduszki", "key": "20533" },
+            { "name": "Poduszki ergonomiczne", "key": "46083" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "90518084",
+    "name": "STYLTMAL",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

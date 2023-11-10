@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "100x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary__1152499_pe885385_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary-s59431168/",
+        "id": "s59431168",
+        "itemNoGlobal": "59431168",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19431170",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary-s19431170/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary__1152498_pe885386_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/ciemnoszary, 100x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "100x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary__1152498_pe885386_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/ciemnoszary, 100x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary__1182661_pe897278_s5.jpg",
+                    "itemNoGlobal": "19431170",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19431170",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2060,
+                        "current": { "prefix": "", "wholeNumber": "2 060", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59431168",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1840,
+            "current": { "prefix": "", "wholeNumber": "1 840", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-ciemnoszary-ciemnoszary__1182662_pe897281_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Kombinacja szafy, ciemnoszary/ciemnoszary, 100x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59431168",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1840 }]
+}

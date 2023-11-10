@@ -1,0 +1,10 @@
+{
+    "id": "s19291650",
+    "itemNo": "19291650",
+    "name": "KOLBJÖRN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1597 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7470 }
+    ]
+}

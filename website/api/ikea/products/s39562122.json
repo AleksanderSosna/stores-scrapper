@@ -1,0 +1,91 @@
+{
+    "id": {
+        "name": "VIMLE",
+        "typeName": "2místný díl rozkládací pohovky",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-zlatohneda__0819147_pe774710_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-zlatohneda-s39562122/",
+        "id": "s39562122",
+        "itemNoGlobal": "39562122",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s59562121",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-cerna-s59562121/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-cerna__0819146_pe774712_s5.jpg",
+                    "imageAlt": "VIMLE 2místný díl rozkládací pohovky, Grann/Bomstad černá",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "VIMLE",
+                    "typeName": "2místný díl rozkládací pohovky",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-cerna__0819146_pe774712_s5.jpg",
+                    "mainImageAlt": "VIMLE 2místný díl rozkládací pohovky, Grann/Bomstad černá",
+                    "itemNoGlobal": "59562121",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59562121",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 24490,
+                        "current": { "prefix": "", "wholeNumber": "24 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "hnědá", "id": "10019", "hex": "814820" },
+            { "name": "žlutá", "id": "10042", "hex": "ffdb00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "39562122",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 24490,
+            "current": { "prefix": "", "wholeNumber": "24 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/vimle-2mistny-dil-rozkladaci-pohovky-grann-bomstad-zlatohneda__0929073_pe790124_s5.jpg",
+        "mainImageAlt": "VIMLE 2místný díl rozkládací pohovky, Grann/Bomstad zlatohnědá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Modulové sedací soupravy", "key": "16238" },
+            { "name": "Části sedací soupravy", "key": "31786" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39562122",
+    "name": "VIMLE",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 24490 }]
+}

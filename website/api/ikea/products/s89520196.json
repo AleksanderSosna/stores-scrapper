@@ -1,0 +1,10 @@
+{
+    "id": "s89520196",
+    "itemNo": "89520196",
+    "name": "GRINDFALLET / TRÅDFRI",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 129.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 948 }
+    ]
+}

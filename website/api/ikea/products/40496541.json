@@ -1,1 +1,57 @@
-{ "id": "40496541", "name": "SMYCKA", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }] }
+{
+    "id": {
+        "name": "SMYCKA",
+        "typeName": "Sztuczny bukiet",
+        "itemMeasureReferenceText": "40 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-do-wewnatrz-na-zewnatrz-gwiazda__1007315_pe826019_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smycka-sztuczny-bukiet-do-wewnatrz-na-zewnatrz-gwiazda-40496541/",
+        "id": "40496541",
+        "itemNoGlobal": "40496541",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "40496541",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 12.99,
+            "current": { "prefix": "", "wholeNumber": "12", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smycka-sztuczny-bukiet-do-wewnatrz-na-zewnatrz-gwiazda__1007979_pe826611_s5.jpg",
+        "mainImageAlt": "SMYCKA Sztuczny bukiet, do wewnątrz/na zewnątrz gwiazda, 40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Artificial flowers",
+            "productAreaNo": "1634",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Rośliny i kwiaty", "key": "pp003" },
+            { "name": "Sztuczne rośliny i kwiaty", "key": "20492" },
+            { "name": "Sztuczne bukiety", "key": "700518" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40496541",
+    "name": "SMYCKA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 }]
+}

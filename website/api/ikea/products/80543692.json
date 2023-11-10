@@ -1,1 +1,62 @@
-{ "id": "80543692", "name": "SKOGSVINBÄR", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }] }
+{
+    "id": {
+        "name": "SKOGSVINBÄR",
+        "typeName": "Květináč",
+        "itemMeasureReferenceText": "9 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsvinbaer-kvetinac-vn-venkovni-cerno-zelene__1156516_pe887131_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skogsvinbaer-kvetinac-vn-venkovni-cerno-zelene-80543692/",
+        "id": "80543692",
+        "itemNoGlobal": "80543692",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "černá", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 20,
+        "itemNo": "80543692",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 69,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "99", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. října 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogsvinbaer-kvetinac-vn-venkovni-cerno-zelene__1156513_pe887130_s5.jpg",
+        "mainImageAlt": "SKOGSVINBÄR Květináč, vn./venkovní černo-zelené, 9 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plant pots",
+            "productAreaNo": "1621",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Květináče a truhlíky", "key": "pp004" },
+            { "name": "Vnitřní květináče", "key": "10778" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80543692",
+    "name": "SKOGSVINBÄR",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 69 }]
+}

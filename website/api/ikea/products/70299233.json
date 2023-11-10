@@ -1,1 +1,54 @@
-{ "id": "70299233", "name": "PERSISK HAMADAN", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }] }
+{
+    "id": {
+        "name": "PERSISK HAMADAN",
+        "typeName": "Koberec, nízký vlas",
+        "itemMeasureReferenceText": "60x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/persisk-hamadan-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory__0130082_pe284294_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/persisk-hamadan-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory-70299233/",
+        "id": "70299233",
+        "itemNoGlobal": "70299233",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "70299233",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 4490,
+            "current": { "prefix": "", "wholeNumber": "4 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/persisk-hamadan-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory__0892173_pe560637_s5.jpg",
+        "mainImageAlt": "PERSISK HAMADAN Koberec, nízký vlas, ručně vyrobené různé vzory, 60x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Oriental rugs",
+            "productAreaNo": "1312",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Orientální koberce", "key": "10695" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70299233",
+    "name": "PERSISK HAMADAN",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }]
+}

@@ -61,7 +61,8 @@ test.describe("Ikea Scrapper", () => {
             const page = await browser.newPage();
             ikea = new Ikea(page);
 
-            const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> = [];
+            const products: Array<{ id: string; itemNo: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> =
+                [];
             ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
 
             await page.close();
@@ -72,8 +73,13 @@ test.describe("Ikea Scrapper", () => {
                 test.slow();
 
                 const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
-                const products: Array<{ id: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> =
-                    ikea.readJson("website/api/ikea", "products");
+                const products: Array<{
+                    id: string;
+                    itemNo: string;
+                    name: string;
+                    categoryKey: string;
+                    prices: Array<{ countryCode: string; currencyCode: string; price: number }>;
+                }> = ikea.readJson("website/api/ikea", "products");
 
                 for (const category of categories) {
                     const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 10000 });
@@ -82,12 +88,12 @@ test.describe("Ikea Scrapper", () => {
                         if (response.moreProducts) {
                             for (const productFromResponse of response.moreProducts.productWindow) {
                                 const productExists = products.some((product) => {
-                                    return product.id === productFromResponse.id.replace(/[^\d]/g, "");
+                                    return product.id === productFromResponse.id;
                                 });
 
                                 if (productExists) {
                                     const index = products.findIndex((product) => {
-                                        return product.id === productFromResponse.id.replace(/[^\d]/g, "");
+                                        return product.id === productFromResponse.id;
                                     });
                                     const priceForCountryCodeExists = products[index].prices.some((prices) => {
                                         return prices.countryCode === countryCode;
@@ -101,12 +107,13 @@ test.describe("Ikea Scrapper", () => {
 
                                         ikea.writeJsonToFile(JSON.stringify(products[index]), {
                                             directory: "website/api/ikea/products",
-                                            fileName: productFromResponse.id.replace(/[^\d]/g, ""),
+                                            fileName: productFromResponse.id,
                                         });
                                     }
                                 } else {
                                     products.push({
-                                        id: productFromResponse.id.replace(/[^\d]/g, ""),
+                                        id: productFromResponse.id,
+                                        itemNo: productFromResponse.itemNo,
                                         name: productFromResponse.name,
                                         categoryKey: category.key,
                                         prices: [
@@ -120,7 +127,8 @@ test.describe("Ikea Scrapper", () => {
 
                                     ikea.writeJsonToFile(
                                         JSON.stringify({
-                                            id: productFromResponse.id.replace(/[^\d]/g, ""),
+                                            id: productFromResponse,
+                                            itemNo: productFromResponse.itemNo,
                                             name: productFromResponse.name,
                                             categoryKey: category.key,
                                             prices: [
@@ -131,7 +139,7 @@ test.describe("Ikea Scrapper", () => {
                                                 },
                                             ],
                                         }),
-                                        { directory: "website/api/ikea/products", fileName: productFromResponse.id.replace(/[^\d]/g, "") }
+                                        { directory: "website/api/ikea/products", fileName: productFromResponse.id }
                                     );
                                 }
                             }

@@ -1,1 +1,90 @@
-{ "id": "50540020", "name": "VITKNAVEL", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "VITKNAVEL",
+        "typeName": "Poszwa na kołdrę i poszewka",
+        "itemMeasureReferenceText": "150x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vitknavel-poszwa-na-koldre-i-poszewka-kwiat-wielobarwny__0928412_pe789845_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vitknavel-poszwa-na-koldre-i-poszewka-kwiat-wielobarwny-50540020/",
+        "id": "50540020",
+        "itemNoGlobal": "50540020",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "90540023",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/vitknavel-poszwa-na-koldre-i-2-poszewki-kwiat-wielobarwny-90540023/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/vitknavel-poszwa-na-koldre-i-2-poszewki-kwiat-wielobarwny__0928410_pe789844_s5.jpg",
+                    "imageAlt": "VITKNAVEL Poszwa na kołdrę i 2 poszewki, kwiat/wielobarwny, 200x200/50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 55,
+                    "name": "VITKNAVEL",
+                    "typeName": "Poszwa na kołdrę i 2 poszewki",
+                    "itemMeasureReferenceText": "200x200/50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vitknavel-poszwa-na-koldre-i-2-poszewki-kwiat-wielobarwny__0928410_pe789844_s5.jpg",
+                    "mainImageAlt": "VITKNAVEL Poszwa na kołdrę i 2 poszewki, kwiat/wielobarwny, 200x200/50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vitknavel-poszwa-na-koldre-i-2-poszewki-kwiat-wielobarwny__1112984_pe871410_s5.jpg",
+                    "itemNoGlobal": "90540023",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "90540023",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 259,
+                        "current": { "prefix": "", "wholeNumber": "259", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "wielobarwny", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 55,
+        "itemNo": "50540020",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vitknavel-poszwa-na-koldre-i-poszewka-kwiat-wielobarwny__1112995_pe871415_s5.jpg",
+        "mainImageAlt": "VITKNAVEL Poszwa na kołdrę i poszewka, kwiat/wielobarwny, 150x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Tekstylia do sypialni", "key": "tl004" },
+            { "name": "Pościel", "key": "10651" },
+            { "name": "Komplety pościeli", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "50540020",
+    "name": "VITKNAVEL",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

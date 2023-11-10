@@ -1,0 +1,10 @@
+{
+    "id": "s69185435",
+    "itemNo": "69185435",
+    "name": "KRITTER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 479 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

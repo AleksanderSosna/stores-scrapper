@@ -1,0 +1,10 @@
+{
+    "id": "s39449616",
+    "itemNo": "39449616",
+    "name": "SÖDERHAMN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 20000 }
+    ]
+}

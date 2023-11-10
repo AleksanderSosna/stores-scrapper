@@ -1,0 +1,10 @@
+{
+    "id": "s69019224",
+    "itemNo": "69019224",
+    "name": "MALM",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1649 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10690 }
+    ]
+}

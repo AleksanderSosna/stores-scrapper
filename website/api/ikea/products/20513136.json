@@ -1,1 +1,120 @@
-{ "id": "20513136", "name": "HEMKOMST", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }] }
+{
+    "id": {
+        "name": "HEMKOMST",
+        "typeName": "Patelnia",
+        "itemMeasureReferenceText": "32 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083671_pe859053_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu-20513136/",
+        "id": "20513136",
+        "itemNoGlobal": "20513136",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "40513102",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu-40513102/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083707_pe859061_s5.jpg",
+                    "imageAlt": "HEMKOMST Patelnia, stal nierdz/powłoka zapobiegająca przywieraniu, 28 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 74,
+                    "name": "HEMKOMST",
+                    "typeName": "Patelnia",
+                    "itemMeasureReferenceText": "28 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083707_pe859061_s5.jpg",
+                    "mainImageAlt": "HEMKOMST Patelnia, stal nierdz/powłoka zapobiegająca przywieraniu, 28 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083706_pe859062_s5.jpg",
+                    "itemNoGlobal": "40513102",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40513102",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 99.99,
+                        "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80513096",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu-80513096/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083667_pe859057_s5.jpg",
+                    "imageAlt": "HEMKOMST Patelnia, stal nierdz/powłoka zapobiegająca przywieraniu, 24 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 74,
+                    "name": "HEMKOMST",
+                    "typeName": "Patelnia",
+                    "itemMeasureReferenceText": "24 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083667_pe859057_s5.jpg",
+                    "mainImageAlt": "HEMKOMST Patelnia, stal nierdz/powłoka zapobiegająca przywieraniu, 24 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083666_pe859052_s5.jpg",
+                    "itemNoGlobal": "80513096",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80513096",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 79.99,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 74,
+        "itemNo": "20513136",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 129,
+            "current": { "prefix": "", "wholeNumber": "129", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemkomst-patelnia-stal-nierdz-powloka-zapobiegajaca-przywieraniu__1083670_pe859056_s5.jpg",
+        "mainImageAlt": "HEMKOMST Patelnia, stal nierdz/powłoka zapobiegająca przywieraniu, 32 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Patelnie i woki", "key": "20624" },
+            { "name": "Patelnie", "key": "20630" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20513136",
+    "name": "HEMKOMST",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 129 }]
+}

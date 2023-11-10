@@ -1,1 +1,57 @@
-{ "id": "50547390", "name": "BROR", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }] }
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Szafka/2 drzwi",
+        "itemMeasureReferenceText": "76x40x66 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-szafka-2-drzwi-szarozielony__1197380_pe903501_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bror-szafka-2-drzwi-szarozielony-50547390/",
+        "id": "50547390",
+        "itemNoGlobal": "50547390",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "50547390",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-szafka-2-drzwi-szarozielony__1197374_pe903500_s5.jpg",
+        "mainImageAlt": "BROR Szafka/2 drzwi, szarozielony, 76x40x66 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System BROR", "key": "42245" },
+            { "name": "Wszystkie elementy BROR", "key": "42246" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50547390",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }]
+}

@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "250x60x201 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-ciemnoszary-ciemnoszary__1120769_pe873946_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-ciemnoszary-ciemnoszary-s29431320/",
+        "id": "s29431320",
+        "itemNoGlobal": "29431320",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99431312",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-ciemnoszary-ciemnoszary-s99431312/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-ciemnoszary-ciemnoszary__1120770_pe873945_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Szafa, ciemnoszary/ciemnoszary, 250x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Szafa",
+                    "itemMeasureReferenceText": "250x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-ciemnoszary-ciemnoszary__1120770_pe873945_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Szafa, ciemnoszary/ciemnoszary, 250x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-ciemnoszary-ciemnoszary__1182492_pe897241_s5.jpg",
+                    "itemNoGlobal": "99431312",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99431312",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2990,
+                        "current": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "29431320",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2570,
+            "current": { "prefix": "", "wholeNumber": "2 570", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-ciemnoszary-ciemnoszary__1182483_pe897229_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Szafa, ciemnoszary/ciemnoszary, 250x60x201 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "29431320",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2570 }]
+}

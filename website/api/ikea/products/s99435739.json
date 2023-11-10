@@ -1,0 +1,85 @@
+{
+    "id": {
+        "name": "PAX / BERGSBO",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "200x66x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-bialy-bialy__1212225_pe910526_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-kombinacja-szafy-bialy-bialy-s99435739/",
+        "id": "s99435739",
+        "itemNoGlobal": "99435739",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s99503304",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-kombinacja-szafy-dab-bejcowany-na-bialo-dab-bejcowany-na-bialo-s99503304/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-dab-bejcowany-na-bialo-dab-bejcowany-na-bialo__1006407_pe825794_s5.jpg",
+                    "imageAlt": "PAX / BERGSBO Kombinacja szafy, dąb bejcowany na biało/dąb bejcowany na biało, 200x66x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / BERGSBO",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "200x66x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-dab-bejcowany-na-bialo-dab-bejcowany-na-bialo__1006407_pe825794_s5.jpg",
+                    "mainImageAlt": "PAX / BERGSBO Kombinacja szafy, dąb bejcowany na biało/dąb bejcowany na biało, 200x66x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-dab-bejcowany-na-bialo-dab-bejcowany-na-bialo__0832125_pe777620_s5.jpg",
+                    "itemNoGlobal": "99503304",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99503304",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2335,
+                        "current": { "prefix": "", "wholeNumber": "2 335", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99435739",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2235,
+            "current": { "prefix": "", "wholeNumber": "2 235", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-kombinacja-szafy-bialy-bialy__1182222_pe897061_s5.jpg",
+        "mainImageAlt": "PAX / BERGSBO Kombinacja szafy, biały/biały, 200x66x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99435739",
+    "name": "PAX / BERGSBO",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2235 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "19497745",
-    "name": "METOD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1215 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5960 }
-    ]
-}

@@ -1,1 +1,53 @@
-{ "id": "10293074", "name": "BODBYN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 90 }] }
+{
+    "id": {
+        "name": "BODBYN",
+        "typeName": "Cokół ozdobny z otworem",
+        "itemMeasureReferenceText": "66x8 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bodbyn-cokol-ozdobny-z-otworem-szary__0632895_pe695646_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bodbyn-cokol-ozdobny-z-otworem-szary-10293074/",
+        "id": "10293074",
+        "itemNoGlobal": "10293074",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "10293074",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 90,
+            "current": { "prefix": "", "wholeNumber": "90", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bodbyn-cokol-ozdobny-z-otworem-szary__0863867_pe600379_s5.jpg",
+        "mainImageAlt": "BODBYN Cokół ozdobny z otworem, szary, 66x8 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10293074",
+    "name": "BODBYN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 90 }]
+}

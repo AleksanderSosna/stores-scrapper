@@ -1,1 +1,51 @@
-{ "id": "60541849", "name": "SPINNARHAJ", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }] }
+{
+    "id": {
+        "name": "SPINNARHAJ",
+        "typeName": "Pojemnik z pokrywką",
+        "itemMeasureReferenceText": "13 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/spinnarhaj-pojemnik-z-pokrywka-kremowy__1157190_pe887511_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/spinnarhaj-pojemnik-z-pokrywka-kremowy-60541849/",
+        "id": "60541849",
+        "itemNoGlobal": "60541849",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60541849",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39.99,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/spinnarhaj-pojemnik-z-pokrywka-kremowy__1157187_pe887510_s5.jpg",
+        "mainImageAlt": "SPINNARHAJ Pojemnik z pokrywką, kremowy, 13 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Coffee and tea accessories",
+            "productAreaNo": "1552",
+            "productRangeAreaName": "Coffee and tea",
+            "productRangeAreaNo": "155"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Przechowywanie żywności", "key": "15937" },
+            { "name": "Słoiki, puszki i chlebaki", "key": "15950" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60541849",
+    "name": "SPINNARHAJ",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 }]
+}

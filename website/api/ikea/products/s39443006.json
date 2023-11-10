@@ -1,0 +1,61 @@
+{
+    "id": {
+        "name": "UTESPELARE / MATCHSPEL",
+        "typeName": "Herní stůl, židle a zás. díl",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/utespelare-matchspel-herni-stul-zidle-a-zas-dil-svetle-seda-bila__1000540_pe824296_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/utespelare-matchspel-herni-stul-zidle-a-zas-dil-svetle-seda-bila-s39443006/",
+        "id": "s39443006",
+        "itemNoGlobal": "39443006",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "šedá", "id": "10028", "hex": "949494" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39443006",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8979,
+            "current": { "prefix": "", "wholeNumber": "8 979", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "10 470", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/utespelare-matchspel-herni-stul-zidle-a-zas-dil-svetle-seda-bila__1007012_pe825941_s5.jpg",
+        "mainImageAlt": "UTESPELARE / MATCHSPEL Herní stůl, židle a zás. díl, světle šedá/bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Workspaces",
+            "homeFurnishingBusinessNo": "03",
+            "productAreaName": "Gaming",
+            "productAreaNo": "0371",
+            "productRangeAreaName": "Gaming",
+            "productRangeAreaNo": "037"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Sady nábytku", "key": "55036" },
+            { "name": "Kancelářské sestavy", "key": "53249" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "39443006",
+    "name": "UTESPELARE / MATCHSPEL",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8979 }]
+}

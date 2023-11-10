@@ -1,9 +1,0 @@
-{
-    "id": "89495917",
-    "name": "KALBÅDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 310 }
-    ]
-}

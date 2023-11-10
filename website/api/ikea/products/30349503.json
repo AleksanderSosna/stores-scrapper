@@ -1,0 +1,61 @@
+{
+    "id": {
+        "name": "TOFTAN",
+        "typeName": "Dozownik mydła",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-dozownik-mydla-szary__0711725_pe728410_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/toftan-dozownik-mydla-szary-30349503/",
+        "id": "30349503",
+        "itemNoGlobal": "30349503",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 15,
+        "itemNo": "30349503",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "previous": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "lowestPreviousSalesPrice": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "lowestPreviousSalesPriceLabel": "Najniższa cena z 30 dni przed obniżką",
+            "validFrom": "2023-11-08",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena obowiązuje od 08 lis, 2023 do 31 gru, 2023 lub do wyczerpania zapasów",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-dozownik-mydla-szary__0739500_pe741769_s5.jpg",
+        "mainImageAlt": "TOFTAN Dozownik mydła, szary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom around the sink",
+            "productAreaNo": "0621",
+            "productRangeAreaName": "Bathroom accessories",
+            "productRangeAreaNo": "062"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Akcesoria łazienkowe", "key": "10555" },
+            { "name": "Dozowniki mydła i mydelniczki", "key": "10656" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "30349503",
+    "name": "TOFTAN",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

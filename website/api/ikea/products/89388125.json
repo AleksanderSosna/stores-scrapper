@@ -1,9 +1,0 @@
-{
-    "id": "89388125",
-    "name": "JAKOBSBYN / JÄLLBY",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}

@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Szafa",
+        "itemMeasureReferenceText": "150x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153784_pe885842_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s79501023/",
+        "id": "s79501023",
+        "itemNoGlobal": "79501023",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s39501020",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s39501020/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153783_pe885843_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Szafa, biały/biały, 150x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "PAX / FORSAND",
+                    "typeName": "Szafa",
+                    "itemMeasureReferenceText": "150x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153783_pe885843_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Szafa, biały/biały, 150x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1160816_pe889119_s5.jpg",
+                    "itemNoGlobal": "39501020",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39501020",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1340,
+                        "current": { "prefix": "", "wholeNumber": "1 340", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "79501023",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1630,
+            "current": { "prefix": "", "wholeNumber": "1 630", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1160818_pe889117_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Szafa, biały/biały, 150x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "79501023",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1630 }]
+}

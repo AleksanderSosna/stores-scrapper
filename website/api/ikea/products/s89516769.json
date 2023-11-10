@@ -1,0 +1,10 @@
+{
+    "id": "s89516769",
+    "itemNo": "89516769",
+    "name": "LISABO / KARLPETTER",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1855 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10550 }
+    ]
+}

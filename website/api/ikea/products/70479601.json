@@ -1,1 +1,58 @@
-{ "id": "70479601", "name": "MARIATHERES", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }] }
+{
+    "id": {
+        "name": "MARIATHERES",
+        "typeName": "Łapka do garnków",
+        "itemMeasureReferenceText": "19x19 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/mariatheres-lapka-do-garnkow-szary-bezowy__0918046_pe786108_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/mariatheres-lapka-do-garnkow-szary-bezowy-70479601/",
+        "id": "70479601",
+        "itemNoGlobal": "70479601",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 7,
+        "itemNo": "70479601",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 19.99,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/mariatheres-lapka-do-garnkow-szary-bezowy__0918047_pe786109_s5.jpg",
+        "mainImageAlt": "MARIATHERES Łapka do garnków, szary/beżowy, 19x19 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking textiles",
+            "productAreaNo": "1415",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia do kuchni", "key": "18850" },
+            { "name": "Rękawice kuchenne", "key": "20537" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70479601",
+    "name": "MARIATHERES",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 }]
+}

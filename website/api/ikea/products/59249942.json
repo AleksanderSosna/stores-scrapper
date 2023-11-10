@@ -1,9 +1,0 @@
-{
-    "id": "59249942",
-    "name": "BILLY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1194 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7320 }
-    ]
-}

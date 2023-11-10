@@ -1,1 +1,57 @@
-{ "id": "20394138", "name": "GLITTRIG", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "GLITTRIG",
+        "typeName": "Świeczniki, 3 szt.",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/glittrig-swieczniki-3-szt-kolor-kosci-sloniowej-zloty-kolor__0610955_pe685230_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/glittrig-swieczniki-3-szt-kolor-kosci-sloniowej-zloty-kolor-20394138/",
+        "id": "20394138",
+        "itemNoGlobal": "20394138",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "żółty", "id": "10042", "hex": "ffdb00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "20394138",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/glittrig-swieczniki-3-szt-kolor-kosci-sloniowej-zloty-kolor__0902886_pe685232_s5.jpg",
+        "mainImageAlt": "GLITTRIG Świeczniki, 3 szt., kolor kości słoniowej/złoty kolor",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Świeczniki i świece", "key": "10760" },
+            { "name": "Świeczniki i podstawki pod świece", "key": "10784" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "20394138",
+    "name": "GLITTRIG",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

@@ -1,1 +1,147 @@
-{ "id": "50391421", "name": "NORDLI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 890 }] }
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Vrchní část a sokl",
+        "itemMeasureReferenceText": "40x47 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555257_pe660221_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-vrchni-cast-a-sokl-antracit-50391421/",
+        "id": "50391421",
+        "itemNoGlobal": "50391421",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "20366003",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-vrchni-cast-a-sokl-antracit-20366003/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555255_pe660220_s5.jpg",
+                    "imageAlt": "NORDLI Vrchní část a sokl, antracit, 160x47 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "NORDLI",
+                    "typeName": "Vrchní část a sokl",
+                    "itemMeasureReferenceText": "160x47 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555255_pe660220_s5.jpg",
+                    "mainImageAlt": "NORDLI Vrchní část a sokl, antracit, 160x47 cm",
+                    "itemNoGlobal": "20366003",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "20366003",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1790,
+                        "current": { "prefix": "", "wholeNumber": "1 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "30366007",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-vrchni-cast-a-sokl-antracit-30366007/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555259_pe660222_s5.jpg",
+                    "imageAlt": "NORDLI Vrchní část a sokl, antracit, 80x47 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "NORDLI",
+                    "typeName": "Vrchní část a sokl",
+                    "itemMeasureReferenceText": "80x47 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555259_pe660222_s5.jpg",
+                    "mainImageAlt": "NORDLI Vrchní část a sokl, antracit, 80x47 cm",
+                    "itemNoGlobal": "30366007",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "30366007",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1190,
+                        "current": { "prefix": "", "wholeNumber": "1 190", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80365996",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-vrchni-cast-a-sokl-antracit-80365996/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555253_pe660219_s5.jpg",
+                    "imageAlt": "NORDLI Vrchní část a sokl, antracit, 120x47 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "NORDLI",
+                    "typeName": "Vrchní část a sokl",
+                    "itemMeasureReferenceText": "120x47 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-vrchni-cast-a-sokl-antracit__0555253_pe660219_s5.jpg",
+                    "mainImageAlt": "NORDLI Vrchní část a sokl, antracit, 120x47 cm",
+                    "itemNoGlobal": "80365996",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "80365996",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 1490,
+                        "current": { "prefix": "", "wholeNumber": "1 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50391421",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 890,
+            "current": { "prefix": "", "wholeNumber": "890", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "NORDLI Vrchní část a sokl, antracit, 40x47 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Chest of drawers",
+            "productAreaNo": "0431",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Komody a zásuvkové díly", "key": "st004" },
+            { "name": "Komody", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "50391421",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 890 }]
+}

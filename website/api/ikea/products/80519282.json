@@ -1,1 +1,59 @@
-{ "id": "80519282", "name": "GYMNOCALYCIUM", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }] }
+{
+    "id": {
+        "name": "GYMNOCALYCIUM",
+        "typeName": "Rostlina",
+        "itemMeasureReferenceText": "9 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/gymnocalycium-rostlina-kaktus__0634278_pe697493_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/gymnocalycium-rostlina-kaktus-80519282/",
+        "id": "80519282",
+        "itemNoGlobal": "80519282",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" },
+            { "name": "žlutá", "id": "10042", "hex": "ffdb00" },
+            { "name": "oranžová", "id": "10112", "hex": "ff9a02" },
+            { "name": "červená", "id": "10124", "hex": "f00f00" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "80519282",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 149,
+            "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/gymnocalycium-rostlina-kaktus__0899932_pe697490_s5.jpg",
+        "mainImageAlt": "GYMNOCALYCIUM Rostlina, kaktus, 9 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Plants",
+            "productAreaNo": "1622",
+            "productRangeAreaName": "Green decoration",
+            "productRangeAreaNo": "162"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní květináče a rostliny", "key": "31787" },
+            { "name": "Rostliny", "key": "10779" },
+            { "name": "Stolní rostliny", "key": "700523" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80519282",
+    "name": "GYMNOCALYCIUM",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 149 }]
+}

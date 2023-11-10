@@ -1,0 +1,10 @@
+{
+    "id": "s39385539",
+    "itemNo": "39385539",
+    "name": "NORDEN / LISABO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2035 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10150 }
+    ]
+}

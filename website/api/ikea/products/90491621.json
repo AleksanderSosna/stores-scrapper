@@ -1,1 +1,94 @@
-{ "id": "90491621", "name": "LUNDTRAV", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 849 }] }
+{
+    "id": {
+        "name": "LUNDTRAV",
+        "typeName": "Polštář, vysoký",
+        "itemMeasureReferenceText": "70x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/lundtrav-polstar-vysoky__0789280_pe763909_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/lundtrav-polstar-vysoky-90491621/",
+        "id": "90491621",
+        "itemNoGlobal": "90491621",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00460252",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/lundtrav-polstar-vysoky-00460252/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/lundtrav-polstar-vysoky__0789280_pe763909_s5.jpg",
+                    "imageAlt": "LUNDTRAV Polštář, vysoký, 50x60 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 112,
+                    "name": "LUNDTRAV",
+                    "typeName": "Polštář, vysoký",
+                    "itemMeasureReferenceText": "50x60 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/lundtrav-polstar-vysoky__0789280_pe763909_s5.jpg",
+                    "mainImageAlt": "LUNDTRAV Polštář, vysoký, 50x60 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/lundtrav-polstar-vysoky__1071942_pe855050_s5.jpg",
+                    "itemNoGlobal": "00460252",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00460252",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 499,
+                        "current": { "prefix": "", "wholeNumber": "499", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-09-01",
+                        "validTo": "2024-02-27",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 112,
+        "itemNo": "90491621",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 849,
+            "current": { "prefix": "", "wholeNumber": "849", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/lundtrav-polstar-vysoky__1071942_pe855050_s5.jpg",
+        "mainImageAlt": "LUNDTRAV Polštář, vysoký, 70x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Pillows",
+            "productAreaNo": "1122",
+            "productRangeAreaName": "Duvets, pillows and protectors",
+            "productRangeAreaNo": "112"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Polštáře", "key": "20533" },
+            { "name": "Polštáře z přírodních materiálů", "key": "20535" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90491621",
+    "name": "LUNDTRAV",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 849 }]
+}

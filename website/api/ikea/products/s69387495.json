@@ -1,0 +1,10 @@
+{
+    "id": "s69387495",
+    "itemNo": "69387495",
+    "name": "TOMMARYD",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
+    ]
+}

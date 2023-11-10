@@ -1,9 +1,0 @@
-{
-    "id": "89499251",
-    "name": "FYRTUR",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 898 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6180 }
-    ]
-}

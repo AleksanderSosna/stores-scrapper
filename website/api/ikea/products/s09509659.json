@@ -1,0 +1,53 @@
+{
+    "id": {
+        "name": "HÅRSLINGA / MOLNART",
+        "typeName": "Lampa podłogowa z żarówką",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/harslinga-molnart-lampa-podlogowa-z-zarowka-czarny-kula-szare-szklo-przezroczyste__1181007_pe896529_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/harslinga-molnart-lampa-podlogowa-z-zarowka-czarny-kula-szare-szklo-przezroczyste-s09509659/",
+        "id": "s09509659",
+        "itemNoGlobal": "09509659",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 3,
+        "itemNo": "09509659",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 134.98,
+            "current": { "prefix": "", "wholeNumber": "134", "separator": ",", "decimals": "98", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/harslinga-molnart-lampa-podlogowa-z-zarowka-czarny-kula-szare-szklo-przezroczyste__1181006_pe896530_s5.jpg",
+        "mainImageAlt": "HÅRSLINGA / MOLNART Lampa podłogowa z żarówką, czarny/kula szare szkło przezroczyste",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "09509659",
+    "name": "HÅRSLINGA / MOLNART",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 134.98 }]
+}

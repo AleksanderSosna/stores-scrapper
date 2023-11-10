@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "HEMNES / ODENSVIK",
+        "typeName": "Koupelnový nábytek, sada 4 ks",
+        "itemMeasureReferenceText": "83 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-koupelnovy-nabytek-sada-4-ks-seda-baterie-voxnan__0920285_pe786944_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-odensvik-koupelnovy-nabytek-sada-4-ks-seda-baterie-voxnan-s59389843/",
+        "id": "s59389843",
+        "itemNoGlobal": "59389843",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59389843",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 15970,
+            "current": { "prefix": "", "wholeNumber": "15 970", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "16 470", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-odensvik-koupelnovy-nabytek-sada-4-ks-seda-baterie-voxnan__0920286_pe786952_s5.jpg",
+        "mainImageAlt": "HEMNES / ODENSVIK Koupelnový nábytek, sada 4 ks, šedá/Baterie Voxnan, 83 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Systémy koupelen", "key": "700450" },
+            { "name": "Koupelny HEMNES", "key": "700457" },
+            { "name": "Úložné prostory HEMNES", "key": "700479" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "59389843",
+    "name": "HEMNES / ODENSVIK",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 15970 }]
+}

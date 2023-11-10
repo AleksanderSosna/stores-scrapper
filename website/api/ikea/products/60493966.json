@@ -1,1 +1,88 @@
-{ "id": "60493966", "name": "TOFTAN", "categoryKey": "ba001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "TOFTAN",
+        "typeName": "Kosz na odpady",
+        "itemMeasureReferenceText": "4 l",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-kosz-na-odpady-szary__0711078_pe727951_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/toftan-kosz-na-odpady-szary-60493966/",
+        "id": "60493966",
+        "itemNoGlobal": "60493966",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00494025",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/toftan-kosz-na-odpady-bialy-00494025/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-kosz-na-odpady-bialy__0711077_pe727948_s5.jpg",
+                    "imageAlt": "TOFTAN Kosz na odpady, biały, 4 l",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 44,
+                    "name": "TOFTAN",
+                    "typeName": "Kosz na odpady",
+                    "itemMeasureReferenceText": "4 l",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-kosz-na-odpady-bialy__0711077_pe727948_s5.jpg",
+                    "mainImageAlt": "TOFTAN Kosz na odpady, biały, 4 l",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-kosz-na-odpady-bialy__0863737_pe656210_s5.jpg",
+                    "itemNoGlobal": "00494025",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00494025",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 59.99,
+                        "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 44,
+        "itemNo": "60493966",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/toftan-kosz-na-odpady-szary__0863734_pe656208_s5.jpg",
+        "mainImageAlt": "TOFTAN Kosz na odpady, szary, 4 l",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom, shower and toilet solutions",
+            "productAreaNo": "0623",
+            "productRangeAreaName": "Bathroom accessories",
+            "productRangeAreaNo": "062"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Kosze i worki na śmieci", "key": "16213" },
+            { "name": "Kosze łazienkowe", "key": "48940" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60493966",
+    "name": "TOFTAN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

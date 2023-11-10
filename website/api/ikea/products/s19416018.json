@@ -1,0 +1,56 @@
+{
+    "id": {
+        "name": "KUNGSHULT / SKAFTET",
+        "typeName": "Lampa podłogowa, łuk",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-skaftet-lampa-podlogowa-luk-bialy-czarny__0966500_pe809818_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kungshult-skaftet-lampa-podlogowa-luk-bialy-czarny-s19416018/",
+        "id": "s19416018",
+        "itemNoGlobal": "19416018",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "czarny", "id": "10139", "hex": "000000" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "19416018",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 369,
+            "current": { "prefix": "", "wholeNumber": "369", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kungshult-skaftet-lampa-podlogowa-luk-bialy-czarny__0966501_pe809819_s5.jpg",
+        "mainImageAlt": "KUNGSHULT / SKAFTET Lampa podłogowa, łuk, biały/czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Floor lamps",
+            "productAreaNo": "1011",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy podłogowe", "key": "10731" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19416018",
+    "name": "KUNGSHULT / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 369 }]
+}

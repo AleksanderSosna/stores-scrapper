@@ -1,0 +1,10 @@
+{
+    "id": "s39268837",
+    "itemNo": "39268837",
+    "name": "SAGSTUA",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1449 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 7190 }
+    ]
+}

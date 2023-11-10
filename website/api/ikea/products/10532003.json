@@ -1,1 +1,89 @@
-{ "id": "10532003", "name": "FEJAN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 95 }] }
+{
+    "id": {
+        "name": "FEJAN",
+        "typeName": "Stół, ogrodowy",
+        "itemMeasureReferenceText": "50x44 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fejan-stol-ogrodowy-jasnozielony__1126374_pe875709_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/fejan-stol-ogrodowy-jasnozielony-10532003/",
+        "id": "10532003",
+        "itemNoGlobal": "10532003",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40469019",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/fejan-stol-ogrodowy-bialy-40469019/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/fejan-stol-ogrodowy-bialy__1035316_pe838042_s5.jpg",
+                    "imageAlt": "FEJAN Stół, ogrodowy, biały, 50x44 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "FEJAN",
+                    "typeName": "Stół, ogrodowy",
+                    "itemMeasureReferenceText": "50x44 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/fejan-stol-ogrodowy-bialy__1035316_pe838042_s5.jpg",
+                    "mainImageAlt": "FEJAN Stół, ogrodowy, biały, 50x44 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/fejan-stol-ogrodowy-bialy__1090056_ph182906_s5.jpg",
+                    "itemNoGlobal": "40469019",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40469019",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 95,
+                        "current": { "prefix": "", "wholeNumber": "95", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10532003",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 95,
+            "current": { "prefix": "", "wholeNumber": "95", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "FEJAN Stół, ogrodowy, jasnozielony, 50x44 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining tables",
+            "productAreaNo": "1711",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble balkonowe i na taras", "key": "700351" },
+            { "name": "Stoliki i stoły na balkon i do ogrodu", "key": "700191" },
+            { "name": "Stoły do ogrodu i na balkon", "key": "21965" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10532003",
+    "name": "FEJAN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 95 }]
+}

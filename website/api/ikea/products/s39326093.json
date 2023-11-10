@@ -1,0 +1,10 @@
+{
+    "id": "s39326093",
+    "itemNo": "39326093",
+    "name": "TRANHULT / SANDSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 135.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
+    ]
+}

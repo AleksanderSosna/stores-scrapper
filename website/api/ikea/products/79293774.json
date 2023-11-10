@@ -1,9 +1,0 @@
-{
-    "id": "79293774",
-    "name": "HEMNES / TÖRNVIKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10480 }
-    ]
-}

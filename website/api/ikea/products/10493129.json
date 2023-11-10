@@ -1,1 +1,56 @@
-{ "id": "10493129", "name": "KÅLFJÄRIL", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "KÅLFJÄRIL",
+        "typeName": "Fartuch kuchenny",
+        "itemMeasureReferenceText": "67x85 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-fartuch-kuchenny-wzor-niebieski-jasnobezowy__1152234_pe885205_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kalfjaeril-fartuch-kuchenny-wzor-niebieski-jasnobezowy-10493129/",
+        "id": "10493129",
+        "itemNoGlobal": "10493129",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "10493129",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kalfjaeril-fartuch-kuchenny-wzor-niebieski-jasnobezowy__1080619_pe858112_s5.jpg",
+        "mainImageAlt": "KÅLFJÄRIL Fartuch kuchenny, wzór niebieski/jasnobeżowy, 67x85 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Cooking textiles",
+            "productAreaNo": "1415",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia do kuchni", "key": "18850" },
+            { "name": "Fartuchy kuchenne", "key": "18852" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10493129",
+    "name": "KÅLFJÄRIL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

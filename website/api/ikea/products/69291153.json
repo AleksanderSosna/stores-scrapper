@@ -1,9 +1,0 @@
-{
-    "id": "69291153",
-    "name": "BERGSHULT / PERSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 410.97 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1857 }
-    ]
-}

@@ -1,1 +1,54 @@
-{ "id": "90389671", "name": "KAFFEREP", "categoryKey": "fb001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7 }] }
+{
+    "id": {
+        "name": "KAFFEREP",
+        "typeName": "Ciasto z kremem migdałowym",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/kafferep-ciasto-z-kremem-migdalowym__0566730_pe664758_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/kafferep-ciasto-z-kremem-migdalowym-90389671/",
+        "id": "90389671",
+        "itemNoGlobal": "90389671",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 121,
+        "itemNo": "90389671",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 7,
+            "current": { "prefix": "", "wholeNumber": "7", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "0.18 kg",
+            "unitText": "kg",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/kafferep-ciasto-z-kremem-migdalowym__0963277_pe808436_s5.jpg",
+        "mainImageAlt": "KAFFEREP Ciasto z kremem migdałowym",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "IKEA Food",
+            "homeFurnishingBusinessNo": "96",
+            "productAreaName": "Pastries, desserts and cookies",
+            "productAreaNo": "9615",
+            "productRangeAreaName": "Swedish Food Market",
+            "productRangeAreaNo": "961"
+        },
+        "categoryPath": [
+            { "name": "Jedzenie i napoje", "key": "fb001" },
+            { "name": "Desery, ciasta i ciasteczka", "key": "25215" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90389671",
+    "name": "KAFFEREP",
+    "categoryKey": "fb001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 7 }]
+}

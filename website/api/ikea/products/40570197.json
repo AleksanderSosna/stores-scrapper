@@ -1,1 +1,56 @@
-{ "id": "40570197", "name": "UDDBRÄKEN", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "UDDBRÄKEN",
+        "typeName": "Poduszka",
+        "itemMeasureReferenceText": "50x50 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/uddbraeken-poduszka-wzor-w-liscie-szarozielony__1210484_pe909754_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/uddbraeken-poduszka-wzor-w-liscie-szarozielony-40570197/",
+        "id": "40570197",
+        "itemNoGlobal": "40570197",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "zielony", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "40570197",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/uddbraeken-poduszka-wzor-w-liscie-szarozielony__1210480_pe909750_s5.jpg",
+        "mainImageAlt": "UDDBRÄKEN Poduszka, wzór w liście szarozielony, 50x50 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Cushions",
+            "productAreaNo": "1231",
+            "productRangeAreaName": "Cushions, throws and chairpads",
+            "productRangeAreaNo": "123"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Poduszki i poszewki dekoracyjne", "key": "10659" },
+            { "name": "Poduszki dekoracyjne", "key": "18902" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40570197",
+    "name": "UDDBRÄKEN",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

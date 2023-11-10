@@ -1,0 +1,10 @@
+{
+    "id": "s79400496",
+    "itemNo": "79400496",
+    "name": "INGATORP / INGOLF",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2495 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 15150 }
+    ]
+}

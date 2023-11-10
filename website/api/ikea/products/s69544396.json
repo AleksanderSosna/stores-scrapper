@@ -1,0 +1,10 @@
+{
+    "id": "s69544396",
+    "itemNo": "69544396",
+    "name": "NÄMMARÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2035 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8150 }
+    ]
+}

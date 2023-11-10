@@ -1,0 +1,10 @@
+{
+    "id": "s59437943",
+    "itemNo": "59437943",
+    "name": "AULI / FÄRVIK",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1500 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8900 }
+    ]
+}

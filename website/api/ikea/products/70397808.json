@@ -1,1 +1,90 @@
-{ "id": "70397808", "name": "LERHYTTAN", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 275 }] }
+{
+    "id": {
+        "name": "LERHYTTAN",
+        "typeName": "Cokół ozdobny",
+        "itemMeasureReferenceText": "220 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-cokol-ozdobny-jasnoszary__0633058_pe695711_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lerhyttan-cokol-ozdobny-jasnoszary-70397808/",
+        "id": "70397808",
+        "itemNoGlobal": "70397808",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80397803",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lerhyttan-cokol-ozdobny-bejcowane-na-czarno-80397803/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-cokol-ozdobny-bejcowane-na-czarno__0633059_pe695712_s5.jpg",
+                    "imageAlt": "LERHYTTAN Cokół ozdobny, bejcowane na czarno, 220 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "LERHYTTAN",
+                    "typeName": "Cokół ozdobny",
+                    "itemMeasureReferenceText": "220 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-cokol-ozdobny-bejcowane-na-czarno__0633059_pe695712_s5.jpg",
+                    "mainImageAlt": "LERHYTTAN Cokół ozdobny, bejcowane na czarno, 220 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-cokol-ozdobny-bejcowane-na-czarno__0864017_pe689138_s5.jpg",
+                    "itemNoGlobal": "80397803",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80397803",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 275,
+                        "current": { "prefix": "", "wholeNumber": "275", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "2.2 m",
+                        "unitText": "m",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "70397808",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 275,
+            "current": { "prefix": "", "wholeNumber": "275", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2.2 m",
+            "unitText": "m",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lerhyttan-cokol-ozdobny-jasnoszary__0864283_pe689179_s5.jpg",
+        "mainImageAlt": "LERHYTTAN Cokół ozdobny, jasnoszary, 220 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Systemy kuchenne", "key": "ka003" },
+            { "name": "Kuchnie modułowe METOD", "key": "ka005" },
+            { "name": "System METOD", "key": "23598" },
+            { "name": "Nogi i cokoły METOD", "key": "23615" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70397808",
+    "name": "LERHYTTAN",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 275 }]
+}

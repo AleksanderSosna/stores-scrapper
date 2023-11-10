@@ -1,0 +1,54 @@
+{
+    "id": {
+        "name": "BROR",
+        "typeName": "Regał z szufladami/półkami",
+        "itemMeasureReferenceText": "85x40x190 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-z-szufladami-polkami-czarny__1133074_pe878487_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bror-regal-z-szufladami-polkami-czarny-s99495097/",
+        "id": "s99495097",
+        "itemNoGlobal": "99495097",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "99495097",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 850,
+            "current": { "prefix": "", "wholeNumber": "850", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bror-regal-z-szufladami-polkami-czarny__1133073_pe878488_s5.jpg",
+        "mainImageAlt": "BROR Regał z szufladami/półkami, czarny, 85x40x190 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System BROR", "key": "42245" },
+            { "name": "Kombinacje BROR", "key": "42247" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99495097",
+    "name": "BROR",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 850 }]
+}

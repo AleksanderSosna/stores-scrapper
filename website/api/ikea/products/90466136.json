@@ -1,1 +1,92 @@
-{ "id": "90466136", "name": "STRANDMON", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39 }] }
+{
+    "id": {
+        "name": "STRANDMON",
+        "typeName": "Nogi do fotela",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strandmon-nogi-do-fotela-czarny__0765247_pe753522_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/strandmon-nogi-do-fotela-czarny-90466136/",
+        "id": "90466136",
+        "itemNoGlobal": "90466136",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40463871",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/strandmon-nogi-do-fotela-buk-40463871/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/strandmon-nogi-do-fotela-buk__0765245_pe753521_s5.jpg",
+                    "imageAlt": "STRANDMON Nogi do fotela, buk",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 10,
+                    "name": "STRANDMON",
+                    "typeName": "Nogi do fotela",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/strandmon-nogi-do-fotela-buk__0765245_pe753521_s5.jpg",
+                    "mainImageAlt": "STRANDMON Nogi do fotela, buk",
+                    "itemNoGlobal": "40463871",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40463871",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 39,
+                        "current": { "prefix": "", "wholeNumber": "39", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "4 szt.",
+                        "unitText": "szt.",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 10,
+        "itemNo": "90466136",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 39,
+            "current": { "prefix": "", "wholeNumber": "39", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "4 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "STRANDMON Nogi do fotela, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Armchairs",
+            "productAreaNo": "0125",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Fotele i szezlongi", "key": "fu006" },
+            { "name": "Części i akcesoria do foteli", "key": "57299" },
+            { "name": "Nogi do sof i foteli", "key": "31785" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90466136",
+    "name": "STRANDMON",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 39 }]
+}

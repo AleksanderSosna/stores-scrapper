@@ -1,0 +1,90 @@
+{
+    "id": {
+        "name": "SKYTTA / HOKKSUND",
+        "typeName": "Kombinacja drzwi przesuwnych",
+        "itemMeasureReferenceText": "226x205 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary__1004803_pe825204_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary-s69422743/",
+        "id": "s69422743",
+        "itemNoGlobal": "69422743",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19424042",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary-s19424042/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary__1004804_pe825191_s5.jpg",
+                    "imageAlt": "SKYTTA / HOKKSUND Kombinacja drzwi przesuwnych, czarny/wysoki połysk jasnoszary, 226x240 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SKYTTA / HOKKSUND",
+                    "typeName": "Kombinacja drzwi przesuwnych",
+                    "itemMeasureReferenceText": "226x240 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary__1004804_pe825191_s5.jpg",
+                    "mainImageAlt": "SKYTTA / HOKKSUND Kombinacja drzwi przesuwnych, czarny/wysoki połysk jasnoszary, 226x240 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary__1005277_pe825324_s5.jpg",
+                    "itemNoGlobal": "19424042",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19424042",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3400,
+                        "current": { "prefix": "", "wholeNumber": "3 400", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "szary", "id": "10028", "hex": "949494" },
+            { "name": "czarny", "id": "10139", "hex": "000000" }
+        ],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "69422743",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3250,
+            "current": { "prefix": "", "wholeNumber": "3 250", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/skytta-hokksund-kombinacja-drzwi-przesuwnych-czarny-wysoki-polysk-jasnoszary__1005276_pe825323_s5.jpg",
+        "mainImageAlt": "SKYTTA / HOKKSUND Kombinacja drzwi przesuwnych, czarny/wysoki połysk jasnoszary, 226x205 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Majsterkowanie w domu", "key": "hi001" },
+            { "name": "System drzwi przesuwnych SKYTTA", "key": "55984" },
+            { "name": "Drzwi przesuwne SKYTTA", "key": "55985" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "69422743",
+    "name": "SKYTTA / HOKKSUND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3250 }]
+}

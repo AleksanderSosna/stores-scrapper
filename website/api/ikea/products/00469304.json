@@ -1,1 +1,53 @@
-{ "id": "00469304", "name": "STORSINT", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }] }
+{
+    "id": {
+        "name": "STORSINT",
+        "typeName": "Sklenka na martini",
+        "itemMeasureReferenceText": "24 cl",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/storsint-sklenka-na-martini-cire-sklo__0800268_pe767839_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/storsint-sklenka-na-martini-cire-sklo-00469304/",
+        "id": "00469304",
+        "itemNoGlobal": "00469304",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 15,
+        "itemNo": "00469304",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 79,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/storsint-sklenka-na-martini-cire-sklo__0808922_pe770897_s5.jpg",
+        "mainImageAlt": "STORSINT Sklenka na martini, čiré sklo, 24 cl",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Drinking glasses",
+            "productAreaNo": "1521",
+            "productRangeAreaName": "Glassware",
+            "productRangeAreaNo": "152"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Skleněné nádobí a džbány", "key": "18868" },
+            { "name": "Sklenice na pivo, lihoviny a jiné", "key": "22663" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00469304",
+    "name": "STORSINT",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 79 }]
+}

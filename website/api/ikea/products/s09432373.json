@@ -1,0 +1,10 @@
+{
+    "id": "s09432373",
+    "itemNo": "09432373",
+    "name": "PAX / HASVIK",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1620 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8560 }
+    ]
+}

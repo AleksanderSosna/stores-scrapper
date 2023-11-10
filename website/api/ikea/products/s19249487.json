@@ -1,0 +1,10 @@
+{
+    "id": "s19249487",
+    "itemNo": "19249487",
+    "name": "KOMPLEMENT",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 310 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1650 }
+    ]
+}

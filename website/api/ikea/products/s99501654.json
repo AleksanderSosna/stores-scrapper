@@ -1,0 +1,83 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "150x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1208582_pe908646_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-bialy-s99501654/",
+        "id": "s99501654",
+        "itemNoGlobal": "99501654",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s39501652",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-bialy-s39501652/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1208581_pe908647_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "150x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1208581_pe908647_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x201 cm",
+                    "itemNoGlobal": "39501652",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39501652",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2545,
+                        "current": { "prefix": "", "wholeNumber": "2 545", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99501654",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2835,
+            "current": { "prefix": "", "wholeNumber": "2 835", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99501654",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2835 }]
+}

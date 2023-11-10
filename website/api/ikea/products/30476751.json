@@ -1,1 +1,50 @@
-{ "id": "30476751", "name": "LURVIG", "categoryKey": "pt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }] }
+{
+    "id": {
+        "name": "LURVIG",
+        "typeName": "Łóżko dla psa",
+        "itemMeasureReferenceText": "L",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-lozko-dla-psa-jasnoszary__0782457_pe761330_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lurvig-lozko-dla-psa-jasnoszary-30476751/",
+        "id": "30476751",
+        "itemNoGlobal": "30476751",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30476751",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lurvig-lozko-dla-psa-jasnoszary__0795293_pe765955_s5.jpg",
+        "mainImageAlt": "LURVIG Łóżko dla psa, jasnoszary, L",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home organisation",
+            "homeFurnishingBusinessNo": "18",
+            "productAreaName": "Pet accessories",
+            "productAreaNo": "1871",
+            "productRangeAreaName": "Living with pets",
+            "productRangeAreaNo": "187"
+        },
+        "categoryPath": [
+            { "name": "Produkty dla zwierząt", "key": "pt001" },
+            { "name": "Produkty dla psów", "key": "39570" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30476751",
+    "name": "LURVIG",
+    "categoryKey": "pt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 299 }]
+}

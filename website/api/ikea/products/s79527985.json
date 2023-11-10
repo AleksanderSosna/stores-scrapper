@@ -1,0 +1,10 @@
+{
+    "id": "s79527985",
+    "itemNo": "79527985",
+    "name": "SUNNEBY / MOLNART",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 134.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
+    ]
+}

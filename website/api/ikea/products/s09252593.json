@@ -1,0 +1,10 @@
+{
+    "id": "s09252593",
+    "itemNo": "09252593",
+    "name": "LANGUR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
+    ]
+}

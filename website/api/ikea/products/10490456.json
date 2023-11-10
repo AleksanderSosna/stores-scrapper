@@ -1,1 +1,100 @@
-{ "id": "10490456", "name": "GLADSTAD", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }] }
+{
+    "id": {
+        "name": "GLADSTAD",
+        "typeName": "Čalouněný rám postele",
+        "itemMeasureReferenceText": "180x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/gladstad-calouneny-ram-postele-kabusa-svetle-seda__0984348_pe816238_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/gladstad-calouneny-ram-postele-kabusa-svetle-seda-10490456/",
+        "id": "10490456",
+        "itemNoGlobal": "10490456",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80490453",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/gladstad-calouneny-ram-postele-kabusa-svetle-seda-80490453/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/gladstad-calouneny-ram-postele-kabusa-svetle-seda__0984348_pe816238_s5.jpg",
+                    "imageAlt": "GLADSTAD Čalouněný rám postele, Kabusa světle šedá, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.2,
+                    "ratingCount": 5,
+                    "name": "GLADSTAD",
+                    "typeName": "Čalouněný rám postele",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/gladstad-calouneny-ram-postele-kabusa-svetle-seda__0984348_pe816238_s5.jpg",
+                    "mainImageAlt": "GLADSTAD Čalouněný rám postele, Kabusa světle šedá, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/gladstad-calouneny-ram-postele-kabusa-svetle-seda__1101393_pe866653_s5.jpg",
+                    "itemNoGlobal": "80490453",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80490453",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 5490,
+                        "current": { "prefix": "", "wholeNumber": "5 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "5 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-17",
+                        "validTo": "2024-04-13",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozměr", "count": 2, "label": "2 rozměry" }]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.2,
+        "ratingCount": 5,
+        "itemNo": "10490456",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 5990,
+            "current": { "prefix": "", "wholeNumber": "5 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "6 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/gladstad-calouneny-ram-postele-kabusa-svetle-seda__1101393_pe866653_s5.jpg",
+        "mainImageAlt": "GLADSTAD Čalouněný rám postele, Kabusa světle šedá, 180x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Postele", "key": "bm003" },
+            { "name": "Čalouněné postele", "key": "49096" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10490456",
+    "name": "GLADSTAD",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }]
+}

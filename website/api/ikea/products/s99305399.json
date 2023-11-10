@@ -1,0 +1,10 @@
+{
+    "id": "s99305399",
+    "itemNo": "99305399",
+    "name": "HEMNES / KATTEVIK",
+    "categoryKey": "ba001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1949 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 11180 }
+    ]
+}

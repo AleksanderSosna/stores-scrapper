@@ -1,1 +1,99 @@
-{ "id": "70349011", "name": "HEMNES", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Lavice",
+        "itemMeasureReferenceText": "83 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-lavice-seda__0486799_pe622225_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-lavice-seda-70349011/",
+        "id": "70349011",
+        "itemNoGlobal": "70349011",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50223625",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/hemnes-lavice-bila-50223625/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-lavice-bila__0143661_pe303192_s5.jpg",
+                    "imageAlt": "HEMNES Lavice, bílá, 83 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 21,
+                    "name": "HEMNES",
+                    "typeName": "Lavice",
+                    "itemMeasureReferenceText": "83 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-lavice-bila__0143661_pe303192_s5.jpg",
+                    "mainImageAlt": "HEMNES Lavice, bílá, 83 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-lavice-bila__0380463_pe555362_s5.jpg",
+                    "itemNoGlobal": "50223625",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50223625",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 2290,
+                        "current": { "prefix": "", "wholeNumber": "2 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "previous": { "prefix": "", "wholeNumber": "2 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "prevPriceLabel": "Původní cena",
+                        "validFrom": "2023-10-24",
+                        "validTo": "2024-04-20",
+                        "tag": "NEW_LOWER_PRICE",
+                        "tagText": "Nová\nnižší\ncena",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 21,
+        "itemNo": "70349011",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2290,
+            "current": { "prefix": "", "wholeNumber": "2 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hemnes-lavice-seda__0490386_pe624426_s5.jpg",
+        "mainImageAlt": "HEMNES Lavice, šedá, 83 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom small furniture",
+            "productAreaNo": "0612",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Úložné prostory do koupelny", "key": "ba002" },
+            { "name": "Koupelnové stoličky a lavice", "key": "20859" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70349011",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }]
+}

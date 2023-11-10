@@ -1,1 +1,96 @@
-{ "id": "30531248", "name": "IVAR", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 8.99 }] }
+{
+    "id": {
+        "name": "IVAR",
+        "typeName": "Hak do elementu bocznego",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-hak-do-elementu-bocznego-czarny__1165776_pe890949_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ivar-hak-do-elementu-bocznego-czarny-30531248/",
+        "id": "30531248",
+        "itemNoGlobal": "30531248",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80381595",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ivar-hak-do-elementu-bocznego-bialy-80381595/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-hak-do-elementu-bocznego-bialy__0544426_pe655891_s5.jpg",
+                    "imageAlt": "IVAR Hak do elementu bocznego, biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 4,
+                    "name": "IVAR",
+                    "typeName": "Hak do elementu bocznego",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-hak-do-elementu-bocznego-bialy__0544426_pe655891_s5.jpg",
+                    "mainImageAlt": "IVAR Hak do elementu bocznego, biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-hak-do-elementu-bocznego-bialy__0911016_pe647250_s5.jpg",
+                    "itemNoGlobal": "80381595",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80381595",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 10,
+                        "current": { "prefix": "", "wholeNumber": "10", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "priceUnit": "3 szt.",
+                        "unitText": "szt.",
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "czarny", "id": "10139", "hex": "000000" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "30531248",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 8.99,
+            "current": { "prefix": "", "wholeNumber": "8", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "3 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ivar-hak-do-elementu-bocznego-czarny__0946615_pe798180_s5.jpg",
+        "mainImageAlt": "IVAR Hak do elementu bocznego, czarny",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Secondary storage",
+            "productAreaNo": "0241",
+            "productRangeAreaName": "Secondary  storage",
+            "productRangeAreaNo": "024"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Systemy przechowywania do pokoju dziennego", "key": "29882" },
+            { "name": "System IVAR", "key": "11703" },
+            { "name": "Wszystkie elementy IVAR", "key": "11705" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30531248",
+    "name": "IVAR",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 8.99 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s19253714",
+    "itemNo": "19253714",
+    "name": "HAVSEN",
+    "categoryKey": "ka001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 859 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
+    ]
+}

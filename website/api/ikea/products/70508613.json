@@ -1,1 +1,120 @@
-{ "id": "70508613", "name": "EKEDALEN", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }] }
+{
+    "id": {
+        "name": "EKEDALEN",
+        "typeName": "Pokrycie krzesła",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-hakebo-jasnoturkusowy__1016614_pe830519_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ekedalen-pokrycie-krzesla-hakebo-jasnoturkusowy-70508613/",
+        "id": "70508613",
+        "itemNoGlobal": "70508613",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "50508609",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ekedalen-pokrycie-krzesla-hakebo-bezowy-50508609/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-hakebo-bezowy__1016612_pe830517_s5.jpg",
+                    "imageAlt": "EKEDALEN Pokrycie krzesła, Hakebo beżowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 39,
+                    "name": "EKEDALEN",
+                    "typeName": "Pokrycie krzesła",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-hakebo-bezowy__1016612_pe830517_s5.jpg",
+                    "mainImageAlt": "EKEDALEN Pokrycie krzesła, Hakebo beżowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-hakebo-bezowy__1016580_pe830495_s5.jpg",
+                    "itemNoGlobal": "50508609",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "50508609",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 30,
+                        "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "40377048",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/ekedalen-pokrycie-krzesla-orrsta-jasnoszary-40377048/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-orrsta-jasnoszary__0516708_pe640506_s5.jpg",
+                    "imageAlt": "EKEDALEN Pokrycie krzesła, Orrsta jasnoszary",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.9,
+                    "ratingCount": 39,
+                    "name": "EKEDALEN",
+                    "typeName": "Pokrycie krzesła",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-orrsta-jasnoszary__0516708_pe640506_s5.jpg",
+                    "mainImageAlt": "EKEDALEN Pokrycie krzesła, Orrsta jasnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-orrsta-jasnoszary__0870387_pe640509_s5.jpg",
+                    "itemNoGlobal": "40377048",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40377048",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 20,
+                        "current": { "prefix": "", "wholeNumber": "20", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "turkusowy", "id": "10152", "hex": "77ddd0" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 39,
+        "itemNo": "70508613",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 30,
+            "current": { "prefix": "", "wholeNumber": "30", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ekedalen-pokrycie-krzesla-hakebo-jasnoturkusowy__1016582_pe830496_s5.jpg",
+        "mainImageAlt": "EKEDALEN Pokrycie krzesła, Hakebo jasnoturkusowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Upholstered chairs",
+            "productAreaNo": "0824",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Krzesła do jadalni i krzesła składane", "key": "25219" },
+            { "name": "Pokrycia i pokrowce na krzesła", "key": "25223" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70508613",
+    "name": "EKEDALEN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 30 }]
+}

@@ -1,9 +1,0 @@
-{
-    "id": "29385605",
-    "name": "PAX / REINSVOLL/ÅHEIM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5465 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29050 }
-    ]
-}

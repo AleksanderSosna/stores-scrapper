@@ -1,0 +1,143 @@
+{
+    "id": {
+        "name": "KOMPLEMENT",
+        "typeName": "Wysuwana półka z wkładem",
+        "itemMeasureReferenceText": "75x58 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-bezowy-jasnoszary__1195519_pe902487_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/komplement-wysuwana-polka-z-wkladem-bezowy-jasnoszary-s19437087/",
+        "id": "s19437087",
+        "itemNoGlobal": "19437087",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s79249494",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/komplement-wysuwana-polka-z-wkladem-imitacja-debu-bejcowanego-na-bialo-s79249494/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-imitacja-debu-bejcowanego-na-bialo__0583321_pe671137_s5.jpg",
+                    "imageAlt": "KOMPLEMENT Wysuwana półka z wkładem, imitacja dębu bejcowanego na biało, 75x58 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "KOMPLEMENT",
+                    "typeName": "Wysuwana półka z wkładem",
+                    "itemMeasureReferenceText": "75x58 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-imitacja-debu-bejcowanego-na-bialo__0583321_pe671137_s5.jpg",
+                    "mainImageAlt": "KOMPLEMENT Wysuwana półka z wkładem, imitacja dębu bejcowanego na biało, 75x58 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-imitacja-debu-bejcowanego-na-bialo__0857410_pe671136_s5.jpg",
+                    "itemNoGlobal": "79249494",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "79249494",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 350,
+                        "current": { "prefix": "", "wholeNumber": "350", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19555448",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/komplement-wysuwana-polka-z-wkladem-ciemnoszary-jasnoszary-s19555448/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-ciemnoszary-jasnoszary__1265929_pe927850_s5.jpg",
+                    "imageAlt": "KOMPLEMENT Wysuwana półka z wkładem, ciemnoszary/jasnoszary, 75x58 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "KOMPLEMENT",
+                    "typeName": "Wysuwana półka z wkładem",
+                    "itemMeasureReferenceText": "75x58 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-ciemnoszary-jasnoszary__1265929_pe927850_s5.jpg",
+                    "mainImageAlt": "KOMPLEMENT Wysuwana półka z wkładem, ciemnoszary/jasnoszary, 75x58 cm",
+                    "itemNoGlobal": "19555448",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19555448",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 350,
+                        "current": { "prefix": "", "wholeNumber": "350", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99249501",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/komplement-wysuwana-polka-z-wkladem-bialy-s99249501/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-bialy__0583311_pe671131_s5.jpg",
+                    "imageAlt": "KOMPLEMENT Wysuwana półka z wkładem, biały, 75x58 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "KOMPLEMENT",
+                    "typeName": "Wysuwana półka z wkładem",
+                    "itemMeasureReferenceText": "75x58 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-bialy__0583311_pe671131_s5.jpg",
+                    "mainImageAlt": "KOMPLEMENT Wysuwana półka z wkładem, biały, 75x58 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/komplement-wysuwana-polka-z-wkladem-bialy__0857445_pe671130_s5.jpg",
+                    "itemNoGlobal": "99249501",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99249501",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 350,
+                        "current": { "prefix": "", "wholeNumber": "350", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "19437087",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 350,
+            "current": { "prefix": "", "wholeNumber": "350", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "KOMPLEMENT Wysuwana półka z wkładem, beżowy/jasnoszary, 75x58 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Interior organisers",
+            "productAreaNo": "0422",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Wyposażenie wewnętrzne szaf PAX", "key": "19113" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "19437087",
+    "name": "KOMPLEMENT",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 350 }]
+}

@@ -1,0 +1,115 @@
+{
+    "id": {
+        "name": "SOLLERÖN",
+        "typeName": "Sekcja do siedzenia sofy modułowej",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-brazowy-froesoen-duvholmen-ciemnoszary__1275859_pe930720_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-brazowy-froesoen-duvholmen-ciemnoszary-s99558103/",
+        "id": "s99558103",
+        "itemNoGlobal": "99558103",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s19558102",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-brazowy-froesoen-duvholmen-bezowy-s19558102/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-brazowy-froesoen-duvholmen-bezowy__1275845_pe930709_s5.jpg",
+                    "imageAlt": "SOLLERÖN Sekcja do siedzenia sofy modułowej, zewnętrzne brązowy/Frösön/Duvholmen beżowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SOLLERÖN",
+                    "typeName": "Sekcja do siedzenia sofy modułowej",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-brazowy-froesoen-duvholmen-bezowy__1275845_pe930709_s5.jpg",
+                    "mainImageAlt": "SOLLERÖN Sekcja do siedzenia sofy modułowej, zewnętrzne brązowy/Frösön/Duvholmen beżowy",
+                    "itemNoGlobal": "19558102",
+                    "onlineSellable": false,
+                    "lastChance": false,
+                    "itemNo": "19558102",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 745,
+                        "current": { "prefix": "", "wholeNumber": "745", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s09559913",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-ciemnoszary-jaerpoen-duvholmen-antracyt-s09559913/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-ciemnoszary-jaerpoen-duvholmen-antracyt__0991458_pe819463_s5.jpg",
+                    "imageAlt": "SOLLERÖN Sekcja do siedzenia sofy modułowej, zewnętrzne ciemnoszary/Järpön/Duvholmen antracyt",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "SOLLERÖN",
+                    "typeName": "Sekcja do siedzenia sofy modułowej",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/solleroen-sekcja-do-siedzenia-sofy-modulowej-zewnetrzne-ciemnoszary-jaerpoen-duvholmen-antracyt__0991458_pe819463_s5.jpg",
+                    "mainImageAlt": "SOLLERÖN Sekcja do siedzenia sofy modułowej, zewnętrzne ciemnoszary/Järpön/Duvholmen antracyt",
+                    "itemNoGlobal": "09559913",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09559913",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 855,
+                        "current": { "prefix": "", "wholeNumber": "855", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "szary", "id": "10028", "hex": "949494" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99558103",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 745,
+            "current": { "prefix": "", "wholeNumber": "745", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "SOLLERÖN Sekcja do siedzenia sofy modułowej, zewnętrzne brązowy/Frösön/Duvholmen ciemnoszary",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor sofas & relax",
+            "productAreaNo": "1712",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Produkty do ogrodu i na balkon", "key": "od001" },
+            { "name": "Meble ogrodowe i na balkon", "key": "od003" },
+            { "name": "Meble do ogrodu i na taras", "key": "700350" },
+            { "name": "Krzesła i fotele ogrodowe", "key": "21964" },
+            { "name": "Krzesła i fotele do ogrodu i na balkon", "key": "21962" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99558103",
+    "name": "SOLLERÖN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 745 }]
+}

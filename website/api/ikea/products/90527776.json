@@ -1,1 +1,53 @@
-{ "id": "90527776", "name": "GALLSOPP", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }] }
+{
+    "id": {
+        "name": "GALLSOPP",
+        "typeName": "Podkładka",
+        "itemMeasureReferenceText": "37 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/gallsopp-podkladka-naturalny-turzyca-wykonano-recznie__1115643_pe872181_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/gallsopp-podkladka-naturalny-turzyca-wykonano-recznie-90527776/",
+        "id": "90527776",
+        "itemNoGlobal": "90527776",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "beżowy", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 4,
+        "itemNo": "90527776",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 24.99,
+            "current": { "prefix": "", "wholeNumber": "24", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/gallsopp-podkladka-naturalny-turzyca-wykonano-recznie__1115641_pe872180_s5.jpg",
+        "mainImageAlt": "GALLSOPP Podkładka, naturalny/turzyca wykonano ręcznie, 37 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Eating textiles",
+            "productAreaNo": "1543",
+            "productRangeAreaName": "Set the table",
+            "productRangeAreaNo": "154"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Tekstylia stołowe", "key": "20538" },
+            { "name": "Podkładki i podstawki stołowe", "key": "20539" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "90527776",
+    "name": "GALLSOPP",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 }]
+}

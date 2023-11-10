@@ -1,1 +1,119 @@
-{ "id": "00534229", "name": "ANTAGEN", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3 }] }
+{
+    "id": {
+        "name": "ANTAGEN",
+        "typeName": "Szczotka do zmywania",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-jaskrawopomaranczowy__1119412_pe873485_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/antagen-szczotka-do-zmywania-jaskrawopomaranczowy-00534229/",
+        "id": "00534229",
+        "itemNoGlobal": "00534229",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "60534226",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/antagen-szczotka-do-zmywania-jaskrawozielony-60534226/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-jaskrawozielony__1119398_pe873478_s5.jpg",
+                    "imageAlt": "ANTAGEN Szczotka do zmywania, jaskrawozielony",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 86,
+                    "name": "ANTAGEN",
+                    "typeName": "Szczotka do zmywania",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-jaskrawozielony__1119398_pe873478_s5.jpg",
+                    "mainImageAlt": "ANTAGEN Szczotka do zmywania, jaskrawozielony",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-jaskrawozielony__1119396_pe873476_s5.jpg",
+                    "itemNoGlobal": "60534226",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60534226",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3,
+                        "current": { "prefix": "", "wholeNumber": "3", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "30534223",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/antagen-szczotka-do-zmywania-bialy-30534223/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-bialy__1119403_pe873496_s5.jpg",
+                    "imageAlt": "ANTAGEN Szczotka do zmywania, biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 86,
+                    "name": "ANTAGEN",
+                    "typeName": "Szczotka do zmywania",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-bialy__1119403_pe873496_s5.jpg",
+                    "mainImageAlt": "ANTAGEN Szczotka do zmywania, biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-bialy__1119401_pe873494_s5.jpg",
+                    "itemNoGlobal": "30534223",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "30534223",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 3,
+                        "current": { "prefix": "", "wholeNumber": "3", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": true,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "pomarańczowy", "id": "10112", "hex": "ff9a02" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 86,
+        "itemNo": "00534229",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 3,
+            "current": { "prefix": "", "wholeNumber": "3", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/antagen-szczotka-do-zmywania-jaskrawopomaranczowy__1119410_pe873483_s5.jpg",
+        "mainImageAlt": "ANTAGEN Szczotka do zmywania, jaskrawopomarańczowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Organisers and washing-up",
+            "productAreaNo": "1433",
+            "productRangeAreaName": "Storing and washing",
+            "productRangeAreaNo": "143"
+        },
+        "categoryPath": [
+            { "name": "Pranie i sprzątanie", "key": "lc001" },
+            { "name": "Akcesoria do zmywania", "key": "15938" },
+            { "name": "Ścierki i gąbki", "key": "700194" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00534229",
+    "name": "ANTAGEN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 3 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s29335941",
+    "itemNo": "29335941",
+    "name": "TROFAST",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1940 }
+    ]
+}

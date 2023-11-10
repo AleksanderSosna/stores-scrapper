@@ -1,9 +1,0 @@
-{
-    "id": "59499573",
-    "name": "SKYTTA / AULI",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1650 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8000 }
-    ]
-}

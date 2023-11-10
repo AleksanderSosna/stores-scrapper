@@ -1,1 +1,53 @@
-{ "id": "70109817", "name": "POMP", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }] }
+{
+    "id": {
+        "name": "POMP",
+        "typeName": "Wazon/latarenka",
+        "itemMeasureReferenceText": "28 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pomp-wazon-latarenka-szklo-bezbarwne__0640067_pe699630_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pomp-wazon-latarenka-szklo-bezbarwne-70109817/",
+        "id": "70109817",
+        "itemNoGlobal": "70109817",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 12,
+        "itemNo": "70109817",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 59.99,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pomp-wazon-latarenka-szklo-bezbarwne__0165552_pe226290_s5.jpg",
+        "mainImageAlt": "POMP Wazon/latarenka, szkło bezbarwne, 28 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candleholders",
+            "productAreaNo": "1631",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Wazony i misy dekoracyjne", "key": "10769" },
+            { "name": "Wazony", "key": "10776" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70109817",
+    "name": "POMP",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 }]
+}

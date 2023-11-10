@@ -1,1 +1,56 @@
-{ "id": "60545116", "name": "PJÄTTERYD", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "PJÄTTERYD",
+        "typeName": "Obraz",
+        "itemMeasureReferenceText": "50x40 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/pjaetteryd-obraz-jen-surfovat__1118540_pe873176_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/pjaetteryd-obraz-jen-surfovat-60545116/",
+        "id": "60545116",
+        "itemNoGlobal": "60545116",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "tyrkysová", "id": "10152", "hex": "77ddd0" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "60545116",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/pjaetteryd-obraz-jen-surfovat__1159657_pe888568_s5.jpg",
+        "mainImageAlt": "PJÄTTERYD Obraz, jen surfovat, 50x40 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Pictures",
+            "productAreaNo": "1642",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Nástěnné dekorace", "key": "10757" },
+            { "name": "Umění k zavěšení", "key": "10788" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "60545116",
+    "name": "PJÄTTERYD",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s59385982",
+    "itemNo": "59385982",
+    "name": "NYMÖ / SKAFTET",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 409 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2289 }
+    ]
+}

@@ -1,1 +1,54 @@
-{ "id": "60297220", "name": "HEMNES", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }] }
+{
+    "id": {
+        "name": "HEMNES",
+        "typeName": "Półka ścienna",
+        "itemMeasureReferenceText": "148x37 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-polka-scienna-biala-bejca__0720649_pe732738_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hemnes-polka-scienna-biala-bejca-60297220/",
+        "id": "60297220",
+        "itemNoGlobal": "60297220",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 17,
+        "itemNo": "60297220",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hemnes-polka-scienna-biala-bejca__0334604_pe523546_s5.jpg",
+        "mainImageAlt": "HEMNES Półka ścienna, biała bejca, 148x37 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Wall shelves & storage",
+            "productAreaNo": "0216",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Półki ścienne", "key": "10398" },
+            { "name": "Kompletne półki ścienne", "key": "20660" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "60297220",
+    "name": "HEMNES",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }]
+}

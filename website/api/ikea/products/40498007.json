@@ -1,1 +1,54 @@
-{ "id": "40498007", "name": "EKTORP", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 180 }] }
+{
+    "id": {
+        "name": "EKTORP",
+        "typeName": "Wewnętrzna poducha siedziska",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ektorp-wewnetrzna-poducha-siedziska-czesc-zamienna__0931022_pe790983_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ektorp-wewnetrzna-poducha-siedziska-czesc-zamienna-40498007/",
+        "id": "40498007",
+        "itemNoGlobal": "40498007",
+        "onlineSellable": false,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "40498007",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 180,
+            "current": { "prefix": "", "wholeNumber": "180", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "EKTORP Wewnętrzna poducha siedziska, część zamienna",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Other business opportunities",
+            "homeFurnishingBusinessNo": "20",
+            "productAreaName": "Replacement parts for sofas and sofa beds",
+            "productAreaNo": "2071",
+            "productRangeAreaName": "Replacement parts for sofas                             ",
+            "productRangeAreaNo": "207"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy i fotele rozkładane", "key": "10663" },
+            { "name": "Części i akcesoria do sof rozkładanych", "key": "57538" },
+            { "name": "Zagłówki i akcesoria do sof", "key": "42249" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40498007",
+    "name": "EKTORP",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 180 }]
+}

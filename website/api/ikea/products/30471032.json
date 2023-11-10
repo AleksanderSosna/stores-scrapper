@@ -1,1 +1,88 @@
-{ "id": "30471032", "name": "LASSBYN", "categoryKey": "de001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }] }
+{
+    "id": {
+        "name": "LASSBYN",
+        "typeName": "Lustro stołowe",
+        "itemMeasureReferenceText": "17 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lassbyn-lustro-stolowe-zloty-kolor__0798859_pe767407_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lassbyn-lustro-stolowe-zloty-kolor-30471032/",
+        "id": "30471032",
+        "itemNoGlobal": "30471032",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "40516313",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lassbyn-lustro-stolowe-srebrny-40516313/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lassbyn-lustro-stolowe-srebrny__1061323_pe850368_s5.jpg",
+                    "imageAlt": "LASSBYN Lustro stołowe, srebrny, 17 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 29,
+                    "name": "LASSBYN",
+                    "typeName": "Lustro stołowe",
+                    "itemMeasureReferenceText": "17 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lassbyn-lustro-stolowe-srebrny__1061323_pe850368_s5.jpg",
+                    "mainImageAlt": "LASSBYN Lustro stołowe, srebrny, 17 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lassbyn-lustro-stolowe-srebrny__1061322_pe850369_s5.jpg",
+                    "itemNoGlobal": "40516313",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "40516313",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 59.99,
+                        "current": { "prefix": "", "wholeNumber": "59", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "żółty", "id": "10042", "hex": "ffdb00" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 29,
+        "itemNo": "30471032",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 49.99,
+            "current": { "prefix": "", "wholeNumber": "49", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lassbyn-lustro-stolowe-zloty-kolor__0893487_pe782333_s5.jpg",
+        "mainImageAlt": "LASSBYN Lustro stołowe, złoty kolor, 17 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Mirrors",
+            "productAreaNo": "1645",
+            "productRangeAreaName": "Wall decoration",
+            "productRangeAreaNo": "164"
+        },
+        "categoryPath": [
+            { "name": "Dekoracje", "key": "de001" },
+            { "name": "Lustra", "key": "20489" },
+            { "name": "Lustra do makijażu i powiększające", "key": "20499" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30471032",
+    "name": "LASSBYN",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 }]
+}

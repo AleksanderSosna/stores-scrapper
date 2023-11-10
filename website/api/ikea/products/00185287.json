@@ -1,1 +1,58 @@
-{ "id": "00185287", "name": "OLEBY", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "OLEBY",
+        "typeName": "Prkénko, sada 3 ks",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/oleby-prkenko-sada-3-ks-bambus__0368605_pe551171_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/oleby-prkenko-sada-3-ks-bambus-00185287/",
+        "id": "00185287",
+        "itemNoGlobal": "00185287",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 16,
+        "itemNo": "00185287",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "399", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-09-01",
+            "validTo": "2024-08-31",
+            "availabilityDisclaimer": "Cena platí od 1. září 2023 do 31. srpna 2024 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/oleby-prkenko-sada-3-ks-bambus__0375544_pe553227_s5.jpg",
+        "mainImageAlt": "OLEBY Prkénko, sada 3 ks, bambus",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Chopping boards",
+            "productAreaNo": "1424",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nože a kuchyňská prkénka", "key": "15934" },
+            { "name": "Kuchyňská prkénka", "key": "15947" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00185287",
+    "name": "OLEBY",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s29429826",
+    "itemNo": "29429826",
+    "name": "PAX / SVARTISDAL",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 4335 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 23770 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "s89509995",
+    "itemNo": "89509995",
+    "name": "ANFALLARE / KRILLE",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 539 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 4090 }
+    ]
+}

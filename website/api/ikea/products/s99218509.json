@@ -1,0 +1,10 @@
+{
+    "id": "s99218509",
+    "itemNo": "99218509",
+    "name": "PAX / GRIMO",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1560 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 8800 }
+    ]
+}

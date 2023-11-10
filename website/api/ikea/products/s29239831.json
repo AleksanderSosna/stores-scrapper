@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Komoda se 2 zásuvkami",
+        "itemMeasureReferenceText": "40x54 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-2-zasuvkami-antracit__0555344_pe660426_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-komoda-se-2-zasuvkami-antracit-s29239831/",
+        "id": "s29239831",
+        "itemNoGlobal": "29239831",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09239827",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-komoda-se-2-zasuvkami-bila-s09239827/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-2-zasuvkami-bila__0555298_pe660391_s5.jpg",
+                    "imageAlt": "NORDLI Komoda se 2 zásuvkami, bílá, 40x54 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 6,
+                    "name": "NORDLI",
+                    "typeName": "Komoda se 2 zásuvkami",
+                    "itemMeasureReferenceText": "40x54 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-2-zasuvkami-bila__0555298_pe660391_s5.jpg",
+                    "mainImageAlt": "NORDLI Komoda se 2 zásuvkami, bílá, 40x54 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-2-zasuvkami-bila__0858019_pe660384_s5.jpg",
+                    "itemNoGlobal": "09239827",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09239827",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 2790,
+                        "current": { "prefix": "", "wholeNumber": "2 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 6,
+        "itemNo": "29239831",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2790,
+            "current": { "prefix": "", "wholeNumber": "2 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-komoda-se-2-zasuvkami-antracit__0858027_pe660409_s5.jpg",
+        "mainImageAlt": "NORDLI Komoda se 2 zásuvkami, antracit, 40x54 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Bedside tables",
+            "productAreaNo": "0432",
+            "productRangeAreaName": "Chests & other furniture",
+            "productRangeAreaNo": "043"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Komody a zásuvkové díly", "key": "st004" },
+            { "name": "Komody", "key": "10451" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "29239831",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }]
+}

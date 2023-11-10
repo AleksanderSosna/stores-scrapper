@@ -1,1 +1,89 @@
-{ "id": "80324543", "name": "SENSUELL", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "SENSUELL",
+        "typeName": "Patelnia",
+        "itemMeasureReferenceText": "24 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0712837_pe729100_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/sensuell-patelnia-stal-nierdz-szary-80324543/",
+        "id": "80324543",
+        "itemNoGlobal": "80324543",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "60324544",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/sensuell-patelnia-stal-nierdz-szary-60324544/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0712832_pe729095_s5.jpg",
+                    "imageAlt": "SENSUELL Patelnia, stal nierdz/szary, 28 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.2,
+                    "ratingCount": 125,
+                    "name": "SENSUELL",
+                    "typeName": "Patelnia",
+                    "itemMeasureReferenceText": "28 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0712832_pe729095_s5.jpg",
+                    "mainImageAlt": "SENSUELL Patelnia, stal nierdz/szary, 28 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0465055_pe609842_s5.jpg",
+                    "itemNoGlobal": "60324544",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "60324544",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 249,
+                        "current": { "prefix": "", "wholeNumber": "249", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.2,
+        "ratingCount": 125,
+        "itemNo": "80324543",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0894768_pe559466_s5.jpg",
+        "mainImageAlt": "SENSUELL Patelnia, stal nierdz/szary, 24 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Patelnie i woki", "key": "20624" },
+            { "name": "Patelnie", "key": "20630" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80324543",
+    "name": "SENSUELL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

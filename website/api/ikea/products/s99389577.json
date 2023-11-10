@@ -1,0 +1,254 @@
+{
+    "id": {
+        "name": "ESPEVÄR/VESTMARKA",
+        "typeName": "Łóżko kontynentalne",
+        "itemMeasureReferenceText": "160x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929630_pe790346_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s99389577/",
+        "id": "s99389577",
+        "itemNoGlobal": "99389577",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 15,
+            "variants": [
+                {
+                    "id": "s09389751",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s09389751/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929626_pe790369_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929626_pe790369_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "09389751",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "09389751",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2304,
+                        "current": { "prefix": "", "wholeNumber": "2 304", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s19389741",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s19389741/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929623_pe790370_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929623_pe790370_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "19389741",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "19389741",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2244,
+                        "current": { "prefix": "", "wholeNumber": "2 244", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s29389533",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s29389533/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929629_pe790345_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 140x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "140x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929629_pe790345_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 140x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "29389533",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "29389533",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1919,
+                        "current": { "prefix": "", "wholeNumber": "1 919", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s29389731",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski-s29389731/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929633_pe790349_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0929633_pe790349_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "29389731",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "29389731",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2364,
+                        "current": { "prefix": "", "wholeNumber": "2 364", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s29389750",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s29389750/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929626_pe790369_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929626_pe790369_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "29389750",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "29389750",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2304,
+                        "current": { "prefix": "", "wholeNumber": "2 304", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39389575",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski-s39389575/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929630_pe790346_s5.jpg",
+                    "imageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "quickFacts": [
+                        { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+                        { "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }
+                    ],
+                    "availability": [],
+                    "name": "ESPEVÄR/VESTMARKA",
+                    "typeName": "Łóżko kontynentalne",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0929630_pe790346_s5.jpg",
+                    "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/twardy jasnoniebieski, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+                    "itemNoGlobal": "39389575",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "39389575",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 2304,
+                        "current": { "prefix": "", "wholeNumber": "2 304", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "niebieski", "id": "10007", "hex": "0058a3" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47483", "name": "Sprężyny", "typeName": "Materiał materaca" },
+            { "type": "FIRMNESS", "id": "47473", "name": "Średnio twardy", "typeName": "Twardość" }
+        ],
+        "features": [],
+        "availability": [],
+        "itemNo": "99389577",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 2304,
+            "current": { "prefix": "", "wholeNumber": "2 304", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/espevaer-vestmarka-lozko-kontynentalne-bialy-srednio-twardy-jasnoniebieski__0905185_pe783057_s5.jpg",
+        "mainImageAlt": "ESPEVÄR/VESTMARKA Łóżko kontynentalne, biały/średnio twardy jasnoniebieski, 160x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bases and slats",
+            "productAreaNo": "0514",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Łóżka kontynentalne", "key": "28433" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "99389577",
+    "name": "ESPEVÄR/VESTMARKA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 2304 }]
+}

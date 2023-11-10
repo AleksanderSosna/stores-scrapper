@@ -1,9 +1,0 @@
-{
-    "id": "49515031",
-    "name": "ACKJA / MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 84.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 398 }
-    ]
-}

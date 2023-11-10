@@ -1,1 +1,55 @@
-{ "id": "30427869", "name": "REPVÅG", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2800 }] }
+{
+    "id": {
+        "name": "REPVÅG",
+        "typeName": "Dveře",
+        "itemMeasureReferenceText": "50x229 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/repvag-dvere-bile-morena-dubova-dyha__0713962_pe729867_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/repvag-dvere-bile-morena-dubova-dyha-30427869/",
+        "id": "30427869",
+        "itemNoGlobal": "30427869",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 2,
+        "itemNo": "30427869",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2800,
+            "current": { "prefix": "", "wholeNumber": "2 800", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/repvag-dvere-bile-morena-dubova-dyha__0716073_pe730688_s5.jpg",
+        "mainImageAlt": "REPVÅG Dveře, bíle mořená dubová dýha, 50x229 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém PAX", "key": "19086" },
+            { "name": "Dveře bez pantů pro PAX", "key": "40206" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30427869",
+    "name": "REPVÅG",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2800 }]
+}

@@ -1,0 +1,123 @@
+{
+    "id": {
+        "name": "ENHET / TVÄLLEN",
+        "typeName": "Szafka pod umywalkę z 2 szufladami",
+        "itemMeasureReferenceText": "44x43x65 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-imit-debu-bialy-bateria-pilkan__0831409_pe777127_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-imit-debu-bialy-bateria-pilkan-s99336485/",
+        "id": "s99336485",
+        "itemNoGlobal": "99336485",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s09497251",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-blady-szaro-zielony-bateria-glypen-s09497251/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-blady-szaro-zielony-bateria-glypen__1153713_pe885786_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, biały/blady szaro-zielony bateria Glypen, 44x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Szafka pod umywalkę z 2 szufladami",
+                    "itemMeasureReferenceText": "44x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-blady-szaro-zielony-bateria-glypen__1153713_pe885786_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, biały/blady szaro-zielony bateria Glypen, 44x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-blady-szaro-zielony-bateria-glypen__1156404_pe887068_s5.jpg",
+                    "itemNoGlobal": "09497251",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09497251",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1058,
+                        "current": { "prefix": "", "wholeNumber": "1 058", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69336482",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-bateria-pilkan-s69336482/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-bateria-pilkan__0831411_pe777139_s5.jpg",
+                    "imageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, biały/bateria Pilkån, 44x43x65 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "ENHET / TVÄLLEN",
+                    "typeName": "Szafka pod umywalkę z 2 szufladami",
+                    "itemMeasureReferenceText": "44x43x65 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-bateria-pilkan__0831411_pe777139_s5.jpg",
+                    "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, biały/bateria Pilkån, 44x43x65 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-bialy-bateria-pilkan__0917621_pe785842_s5.jpg",
+                    "itemNoGlobal": "69336482",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69336482",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 947,
+                        "current": { "prefix": "", "wholeNumber": "947", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "99336485",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 989,
+            "current": { "prefix": "", "wholeNumber": "989", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/enhet-tvaellen-szafka-pod-umywalke-z-2-szufladami-imit-debu-bialy-bateria-pilkan__0917619_pe785840_s5.jpg",
+        "mainImageAlt": "ENHET / TVÄLLEN Szafka pod umywalkę z 2 szufladami, imit. dębu/biały bateria Pilkån, 44x43x65 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom furniture",
+            "productAreaNo": "0611",
+            "productRangeAreaName": "Bathroom furniture",
+            "productRangeAreaNo": "061"
+        },
+        "categoryPath": [
+            { "name": "Wyposażenie łazienki", "key": "ba001" },
+            { "name": "Systemy łazienkowe", "key": "700450" },
+            { "name": "Łazienka ENHET", "key": "700458" },
+            { "name": "Zestawy umywalkowe ENHET z umywalką", "key": "700493" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99336485",
+    "name": "ENHET / TVÄLLEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 989 }]
+}

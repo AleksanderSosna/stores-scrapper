@@ -1,9 +1,0 @@
-{
-    "id": "59528207",
-    "name": "NORDVIKEN / SKOGSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 21950 }
-    ]
-}

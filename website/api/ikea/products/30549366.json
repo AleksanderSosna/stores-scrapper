@@ -1,1 +1,52 @@
-{ "id": "30549366", "name": "PALPMOSSMAL", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }] }
+{
+    "id": {
+        "name": "PALPMOSSMAL",
+        "typeName": "Koncovky, 1 pár",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/palpmossmal-koncovky-1-par-bila__1157236_pe887545_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/palpmossmal-koncovky-1-par-bila-30549366/",
+        "id": "30549366",
+        "itemNoGlobal": "30549366",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "30549366",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 229,
+            "current": { "prefix": "", "wholeNumber": "229", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/palpmossmal-koncovky-1-par-bila__1157235_pe887546_s5.jpg",
+        "mainImageAlt": "PALPMOSSMAL Koncovky, 1 pár, bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtain rods and systems",
+            "productAreaNo": "1214",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Tyče a kolejnice na závěsy", "key": "18891" },
+            { "name": "Koncovky, držáky a další kování na závěsy", "key": "700426" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30549366",
+    "name": "PALPMOSSMAL",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 229 }]
+}

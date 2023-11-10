@@ -1,1 +1,59 @@
-{ "id": "10551505", "name": "SKOGSSVINGEL", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }] }
+{
+    "id": {
+        "name": "SKOGSSVINGEL",
+        "typeName": "Zatemňující závěsy, 1 pár",
+        "itemMeasureReferenceText": "145x300 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/skogssvingel-zatemnujici-zavesy-1-par-tm-modra-zelena__1138246_pe879926_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/skogssvingel-zatemnujici-zavesy-1-par-tm-modra-zelena-10551505/",
+        "id": "10551505",
+        "itemNoGlobal": "10551505",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "modrá", "id": "10007", "hex": "0058a3" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52515", "name": "Ztmavují místnost", "typeName": "Filtrace světla" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "10551505",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 999,
+            "current": { "prefix": "", "wholeNumber": "999", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "2 ks",
+            "unitText": "ks",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/skogssvingel-zatemnujici-zavesy-1-par-tm-modra-zelena__1138245_pe879927_s5.jpg",
+        "mainImageAlt": "SKOGSSVINGEL Zatemňující závěsy, 1 pár, tm.modrá/zelená, 145x300 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Závěsy a rolety", "key": "tl002" },
+            { "name": "Závěsy", "key": "10700" },
+            { "name": "Závěsy ztmavující místnost", "key": "700219" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10551505",
+    "name": "SKOGSSVINGEL",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 999 }]
+}

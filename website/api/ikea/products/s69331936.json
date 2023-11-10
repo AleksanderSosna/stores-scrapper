@@ -1,0 +1,10 @@
+{
+    "id": "s69331936",
+    "itemNo": "69331936",
+    "name": "LOBERGET / MALSKÄR",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
+    ]
+}

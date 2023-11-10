@@ -1,0 +1,10 @@
+{
+    "id": "s49541822",
+    "itemNo": "49541822",
+    "name": "HEMNES",
+    "categoryKey": "bm001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 2348 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 10880 }
+    ]
+}

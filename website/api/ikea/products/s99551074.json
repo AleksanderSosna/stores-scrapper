@@ -1,0 +1,89 @@
+{
+    "id": {
+        "name": "POÄNG",
+        "typeName": "Fotel/podnóżek",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-brazowy-glose-zlamana-biel__1134046_pe878642_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-podnozek-brazowy-glose-zlamana-biel-s99551074/",
+        "id": "s99551074",
+        "itemNoGlobal": "99551074",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s19551073",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-podnozek-brazowy-glose-ciemnobrazowy-s19551073/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-brazowy-glose-ciemnobrazowy__1134040_pe878639_s5.jpg",
+                    "imageAlt": "POÄNG Fotel/podnóżek, brązowy/Glose ciemnobrązowy",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "POÄNG",
+                    "typeName": "Fotel/podnóżek",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-brazowy-glose-ciemnobrazowy__1134040_pe878639_s5.jpg",
+                    "mainImageAlt": "POÄNG Fotel/podnóżek, brązowy/Glose ciemnobrązowy",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-brazowy-glose-ciemnobrazowy__0840639_pe601101_s5.jpg",
+                    "itemNoGlobal": "19551073",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "19551073",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1119,
+                        "current": { "prefix": "", "wholeNumber": "1 119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99551074",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1119,
+            "current": { "prefix": "", "wholeNumber": "1 119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-brazowy-glose-zlamana-biel__0841287_pe601124_s5.jpg",
+        "mainImageAlt": "POÄNG Fotel/podnóżek, brązowy/Glose złamana biel",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Armchairs",
+            "productAreaNo": "0125",
+            "productRangeAreaName": "Armchairs, footstool & sofa tables",
+            "productRangeAreaNo": "012"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Krzesła", "key": "fu002" },
+            { "name": "Fotele i szezlongi", "key": "fu006" },
+            { "name": "Fotele", "key": "16239" },
+            { "name": "Fotele tapicerowane", "key": "10687" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99551074",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1119 }]
+}

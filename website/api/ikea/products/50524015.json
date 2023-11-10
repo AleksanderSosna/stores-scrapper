@@ -1,1 +1,120 @@
-{ "id": "50524015", "name": "STENSUND", "categoryKey": "ka001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 150 }] }
+{
+    "id": {
+        "name": "STENSUND",
+        "typeName": "Front do zmywarki",
+        "itemMeasureReferenceText": "45x80 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-jasnozielony__1087323_pe860706_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-front-do-zmywarki-jasnozielony-50524015/",
+        "id": "50524015",
+        "itemNoGlobal": "50524015",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "80453200",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-front-do-zmywarki-bezowy-80453200/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bezowy__0944867_pe797490_s5.jpg",
+                    "imageAlt": "STENSUND Front do zmywarki, beżowy, 45x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "STENSUND",
+                    "typeName": "Front do zmywarki",
+                    "itemMeasureReferenceText": "45x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bezowy__0944867_pe797490_s5.jpg",
+                    "mainImageAlt": "STENSUND Front do zmywarki, beżowy, 45x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bezowy__0944792_pe797444_s5.jpg",
+                    "itemNoGlobal": "80453200",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80453200",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 150,
+                        "current": { "prefix": "", "wholeNumber": "150", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "20450582",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/stensund-front-do-zmywarki-bialy-20450582/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bialy__0944712_pe797433_s5.jpg",
+                    "imageAlt": "STENSUND Front do zmywarki, biały, 45x80 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 2,
+                    "name": "STENSUND",
+                    "typeName": "Front do zmywarki",
+                    "itemMeasureReferenceText": "45x80 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bialy__0944712_pe797433_s5.jpg",
+                    "mainImageAlt": "STENSUND Front do zmywarki, biały, 45x80 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-bialy__1031765_ph177068_s5.jpg",
+                    "itemNoGlobal": "20450582",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "20450582",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 150,
+                        "current": { "prefix": "", "wholeNumber": "150", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "zielony", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 2,
+        "itemNo": "50524015",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 150,
+            "current": { "prefix": "", "wholeNumber": "150", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/stensund-front-do-zmywarki-jasnozielony__1105154_pe868059_s5.jpg",
+        "mainImageAlt": "STENSUND Front do zmywarki, jasnozielony, 45x80 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchnie i AGD kuchenne", "key": "ka001" },
+            { "name": "Fronty do szafek i szuflad kuchennych", "key": "700293" },
+            { "name": "Drzwi do szafek kuchennych METOD", "key": "23613" },
+            { "name": "Jasnozielone fronty STENSUND", "key": "700367" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50524015",
+    "name": "STENSUND",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 150 }]
+}

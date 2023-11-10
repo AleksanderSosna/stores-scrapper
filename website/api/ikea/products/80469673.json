@@ -1,1 +1,58 @@
-{ "id": "80469673", "name": "POÄNG", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 490 }] }
+{
+    "id": {
+        "name": "POÄNG",
+        "typeName": "Sedák na dětské křeslo",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/poaeng-sedak-na-detske-kreslo-gisslarp-vzor-kocka__0937415_pe793709_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/poaeng-sedak-na-detske-kreslo-gisslarp-vzor-kocka-80469673/",
+        "id": "80469673",
+        "itemNoGlobal": "80469673",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "černá", "id": "10139", "hex": "000000" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" },
+            { "name": "barevné", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 7,
+        "itemNo": "80469673",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 490,
+            "current": { "prefix": "", "wholeNumber": "490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/poaeng-sedak-na-detske-kreslo-gisslarp-vzor-kocka__0953716_pe802881_s5.jpg",
+        "mainImageAlt": "POÄNG Sedák na dětské křeslo, Gisslarp/vzor kočka",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Children´s small furniture",
+            "productAreaNo": "0923",
+            "productRangeAreaName": "Children´s storage & study",
+            "productRangeAreaNo": "092"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Židle", "key": "fu002" },
+            { "name": "Dětské židle", "key": "bc004" },
+            { "name": "Dětská křesla", "key": "20483" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "80469673",
+    "name": "POÄNG",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 490 }]
+}

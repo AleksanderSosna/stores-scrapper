@@ -1,1 +1,64 @@
-{ "id": "00490782", "name": "ÄNGSLILJA", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }] }
+{
+    "id": {
+        "name": "ÄNGSLILJA",
+        "typeName": "Povlečení na dvoulůžko",
+        "itemMeasureReferenceText": "200x200/50x60 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/aengslilja-povleceni-na-dvouluzko-svetle-bezovozelene__0929593_pe790732_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/aengslilja-povleceni-na-dvouluzko-svetle-bezovozelene-00490782/",
+        "id": "00490782",
+        "itemNoGlobal": "50490789",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "zelená", "id": "10033", "hex": "3b7d22" }
+        ],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 84,
+        "itemNo": "00490782",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "649", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-24",
+            "validTo": "2024-04-20",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/aengslilja-povleceni-na-dvouluzko-svetle-bezovozelene__0929560_pe790739_s5.jpg",
+        "mainImageAlt": "ÄNGSLILJA Povlečení na dvoulůžko, světle béžovozelené, 200x200/50x60 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bed and bath textiles",
+            "homeFurnishingBusinessNo": "11",
+            "productAreaName": "Duvet covers",
+            "productAreaNo": "1112",
+            "productRangeAreaName": "Bedlinen",
+            "productRangeAreaNo": "111"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Lůžkoviny", "key": "tl004" },
+            { "name": "Ložní prádlo", "key": "10651" },
+            { "name": "Sady povlečení", "key": "10680" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "00490782",
+    "name": "ÄNGSLILJA",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 599 }]
+}

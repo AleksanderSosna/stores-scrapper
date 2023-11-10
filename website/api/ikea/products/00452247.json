@@ -1,1 +1,89 @@
-{ "id": "00452247", "name": "TYSSEDAL", "categoryKey": "st001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 450 }] }
+{
+    "id": {
+        "name": "TYSSEDAL",
+        "typeName": "Drzwi lustrzane",
+        "itemMeasureReferenceText": "50x195 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tyssedal-drzwi-lustrzane-bialy__0715018_pe730313_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/tyssedal-drzwi-lustrzane-bialy-00452247/",
+        "id": "00452247",
+        "itemNoGlobal": "00452247",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00449113",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/tyssedal-drzwi-lustrzane-bialy-00449113/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/tyssedal-drzwi-lustrzane-bialy__0715018_pe730313_s5.jpg",
+                    "imageAlt": "TYSSEDAL Drzwi lustrzane, biały, 50x229 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.6,
+                    "ratingCount": 13,
+                    "name": "TYSSEDAL",
+                    "typeName": "Drzwi lustrzane",
+                    "itemMeasureReferenceText": "50x229 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/tyssedal-drzwi-lustrzane-bialy__0715018_pe730313_s5.jpg",
+                    "mainImageAlt": "TYSSEDAL Drzwi lustrzane, biały, 50x229 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tyssedal-drzwi-lustrzane-bialy__0780491_pe760011_s5.jpg",
+                    "itemNoGlobal": "00449113",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00449113",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 500,
+                        "current": { "prefix": "", "wholeNumber": "500", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.6,
+        "ratingCount": 13,
+        "itemNo": "00452247",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 450,
+            "current": { "prefix": "", "wholeNumber": "450", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/tyssedal-drzwi-lustrzane-bialy__0780494_pe760010_s5.jpg",
+        "mainImageAlt": "TYSSEDAL Drzwi lustrzane, biały, 50x195 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Drzwi PAX bez zawiasów", "key": "40206" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00452247",
+    "name": "TYSSEDAL",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 450 }]
+}

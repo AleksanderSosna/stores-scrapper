@@ -1,1 +1,89 @@
-{ "id": "20349853", "name": "NORDLI", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }] }
+{
+    "id": {
+        "name": "NORDLI",
+        "typeName": "Rám postele s úložnými díly",
+        "itemMeasureReferenceText": "180x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-ram-postele-s-uloznymi-dily-bila__1151058_pe884758_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-ram-postele-s-uloznymi-dily-bila-20349853/",
+        "id": "20349853",
+        "itemNoGlobal": "20349853",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "00349849",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/nordli-ram-postele-s-uloznymi-dily-bila-00349849/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-ram-postele-s-uloznymi-dily-bila__1151058_pe884758_s5.jpg",
+                    "imageAlt": "NORDLI Rám postele s úložnými díly, bílá, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.5,
+                    "ratingCount": 21,
+                    "name": "NORDLI",
+                    "typeName": "Rám postele s úložnými díly",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-ram-postele-s-uloznymi-dily-bila__1151058_pe884758_s5.jpg",
+                    "mainImageAlt": "NORDLI Rám postele s úložnými díly, bílá, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-ram-postele-s-uloznymi-dily-bila__1102033_pe866854_s5.jpg",
+                    "itemNoGlobal": "00349849",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "00349849",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 9990,
+                        "current": { "prefix": "", "wholeNumber": "9 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ],
+            "variations": [{ "name": "Rozměr", "count": 2, "label": "2 rozměry" }]
+        },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 21,
+        "itemNo": "20349853",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 11990,
+            "current": { "prefix": "", "wholeNumber": "11 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/nordli-ram-postele-s-uloznymi-dily-bila__1102033_pe866854_s5.jpg",
+        "mainImageAlt": "NORDLI Rám postele s úložnými díly, bílá, 180x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed frames and beds with non upholstered headboards",
+            "productAreaNo": "0521",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Postele", "key": "bm003" },
+            { "name": "Manželské postele", "key": "16284" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20349853",
+    "name": "NORDLI",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }]
+}

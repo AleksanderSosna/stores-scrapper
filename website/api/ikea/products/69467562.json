@@ -1,9 +1,0 @@
-{
-    "id": "69467562",
-    "name": "NACKANÄS / NACKANÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1795 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10650 }
-    ]
-}

@@ -1,1 +1,53 @@
-{ "id": "10339388", "name": "ÖMSINT", "categoryKey": "bm001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }] }
+{
+    "id": {
+        "name": "ÖMSINT",
+        "typeName": "Materac spręż kiesz na łóżko rozs",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/oemsint-materac-sprez-kiesz-na-lozko-rozs__0748969_pe745353_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/oemsint-materac-sprez-kiesz-na-lozko-rozs-10339388/",
+        "id": "10339388",
+        "itemNoGlobal": "10339388",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "MATTRESS_MATERIAL", "id": "47479", "name": "Sprężyny kieszeniowe", "typeName": "Materiał materaca" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 21,
+        "itemNo": "10339388",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 599,
+            "current": { "prefix": "", "wholeNumber": "599", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/oemsint-materac-sprez-kiesz-na-lozko-rozs__0877483_pe655651_s5.jpg",
+        "mainImageAlt": "ÖMSINT Materac spręż kiesz na łóżko rozs, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Sleep furniture for small children",
+            "productAreaNo": "0931",
+            "productRangeAreaName": "Children`s sleep",
+            "productRangeAreaNo": "093"
+        },
+        "categoryPath": [
+            { "name": "Łóżka i materace", "key": "bm001" },
+            { "name": "Materace", "key": "bm002" },
+            { "name": "Materace dla dzieci", "key": "18724" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10339388",
+    "name": "ÖMSINT",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 599 }]
+}

@@ -1,0 +1,116 @@
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Vys. skříň na chlad./mraz. s dvířky",
+        "itemMeasureReferenceText": "60x62x210 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-vzor-dub__1032447_pe836922_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-vzor-dub-s59435473/",
+        "id": "s59435473",
+        "itemNoGlobal": "59435473",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "s69435477",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-seda-ram-s69435477/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-seda-ram__1032445_pe836923_s5.jpg",
+                    "imageAlt": "ENHET Vys. skříň na chlad./mraz. s dvířky, bílá/šedá rám, 60x62x210 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Vys. skříň na chlad./mraz. s dvířky",
+                    "itemMeasureReferenceText": "60x62x210 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-seda-ram__1032445_pe836923_s5.jpg",
+                    "mainImageAlt": "ENHET Vys. skříň na chlad./mraz. s dvířky, bílá/šedá rám, 60x62x210 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-seda-ram__0915695_pe784871_s5.jpg",
+                    "itemNoGlobal": "69435477",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69435477",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 4550,
+                        "current": { "prefix": "", "wholeNumber": "4 550", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s69436434",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-s69436434/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila__1032443_pe836918_s5.jpg",
+                    "imageAlt": "ENHET Vys. skříň na chlad./mraz. s dvířky, bílá, 60x62x210 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "ENHET",
+                    "typeName": "Vys. skříň na chlad./mraz. s dvířky",
+                    "itemMeasureReferenceText": "60x62x210 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila__1032443_pe836918_s5.jpg",
+                    "mainImageAlt": "ENHET Vys. skříň na chlad./mraz. s dvířky, bílá, 60x62x210 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila__0915698_pe784874_s5.jpg",
+                    "itemNoGlobal": "69436434",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69436434",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 4100,
+                        "current": { "prefix": "", "wholeNumber": "4 100", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "hnědá", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "59435473",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 4550,
+            "current": { "prefix": "", "wholeNumber": "4 550", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-vys-skrin-na-chlad-mraz-s-dvirky-bila-vzor-dub__0915697_pe784877_s5.jpg",
+        "mainImageAlt": "ENHET Vys. skříň na chlad./mraz. s dvířky, bílá/vzor dub, 60x62x210 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen cabinets, kitchen legs, open frames",
+            "productAreaNo": "0711",
+            "productRangeAreaName": "Kitchen cabinets",
+            "productRangeAreaNo": "071"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňské skříňky", "key": "700292" },
+            { "name": "ENHET, kuchyňské skříňky", "key": "48993" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "59435473",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 4550 }]
+}

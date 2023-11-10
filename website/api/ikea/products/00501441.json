@@ -1,1 +1,90 @@
-{ "id": "00501441", "name": "ASARUM", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1099 }] }
+{
+    "id": {
+        "name": "ASARUM",
+        "typeName": "Rozkładana sofa 3-osobowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/asarum-rozkladana-sofa-3-osobowa-granatowy__1011231_pe828422_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/asarum-rozkladana-sofa-3-osobowa-granatowy-00501441/",
+        "id": "00501441",
+        "itemNoGlobal": "00501441",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "20501440",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/asarum-rozkladana-sofa-3-osobowa-ciemnoszary-20501440/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/asarum-rozkladana-sofa-3-osobowa-ciemnoszary__1011308_pe828445_s5.jpg",
+                    "imageAlt": "ASARUM Rozkładana sofa 3-osobowa, ciemnoszary",
+                    "quickFacts": [{ "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 339,
+                    "name": "ASARUM",
+                    "typeName": "Rozkładana sofa 3-osobowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/asarum-rozkladana-sofa-3-osobowa-ciemnoszary__1011308_pe828445_s5.jpg",
+                    "mainImageAlt": "ASARUM Rozkładana sofa 3-osobowa, ciemnoszary",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/asarum-rozkladana-sofa-3-osobowa-ciemnoszary__1011311_pe828448_s5.jpg",
+                    "itemNoGlobal": "20501440",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "20501440",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1099,
+                        "current": { "prefix": "", "wholeNumber": "1 099", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "niebieski", "id": "10007", "hex": "0058a3" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "47465", "name": "Twardy", "typeName": "Twardość" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 339,
+        "itemNo": "00501441",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1099,
+            "current": { "prefix": "", "wholeNumber": "1 099", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/asarum-rozkladana-sofa-3-osobowa-granatowy__1011233_pe828427_s5.jpg",
+        "mainImageAlt": "ASARUM Rozkładana sofa 3-osobowa, granatowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofa beds",
+            "productAreaNo": "0113",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Sofy i narożniki", "key": "fu003" },
+            { "name": "Sofy i fotele rozkładane", "key": "10663" },
+            { "name": "Sofy i narożniki rozkładane", "key": "20874" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00501441",
+    "name": "ASARUM",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1099 }]
+}

@@ -1,1 +1,92 @@
-{ "id": "40560674", "name": "VARDAGEN", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }] }
+{
+    "id": {
+        "name": "VARDAGEN",
+        "typeName": "Patelnia",
+        "itemMeasureReferenceText": "32 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vardagen-patelnia-zeliwo__0770394_pe755504_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/vardagen-patelnia-zeliwo-40560674/",
+        "id": "40560674",
+        "itemNoGlobal": "40560674",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "70554515",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/vardagen-patelnia-zeliwo-70554515/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/vardagen-patelnia-zeliwo__0740605_pe742088_s5.jpg",
+                    "imageAlt": "VARDAGEN Patelnia, żeliwo, 28 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 1,
+                    "name": "VARDAGEN",
+                    "typeName": "Patelnia",
+                    "itemMeasureReferenceText": "28 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/vardagen-patelnia-zeliwo__0740605_pe742088_s5.jpg",
+                    "mainImageAlt": "VARDAGEN Patelnia, żeliwo, 28 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vardagen-patelnia-zeliwo__0771138_pe755673_s5.jpg",
+                    "itemNoGlobal": "70554515",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "70554515",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 149,
+                        "current": { "prefix": "", "wholeNumber": "149", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NEW_PRODUCT",
+                        "tagText": "Nowość",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NEW_PRODUCT",
+        "tagText": "Nowość",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "40560674",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 199,
+            "current": { "prefix": "", "wholeNumber": "199", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NEW_PRODUCT",
+            "tagText": "Nowość",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/vardagen-patelnia-zeliwo__0791005_pe764465_s5.jpg",
+        "mainImageAlt": "VARDAGEN Patelnia, żeliwo, 32 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Patelnie i woki", "key": "20624" },
+            { "name": "Patelnie", "key": "20630" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "40560674",
+    "name": "VARDAGEN",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 199 }]
+}

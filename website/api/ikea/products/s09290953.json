@@ -1,0 +1,10 @@
+{
+    "id": "s09290953",
+    "itemNo": "09290953",
+    "name": "EKBY ALEX / RAMSHULT",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 315 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1760 }
+    ]
+}

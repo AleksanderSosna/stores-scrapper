@@ -1,1 +1,53 @@
-{ "id": "30195548", "name": "BRÅVIKEN", "categoryKey": "ba001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3400 }] }
+{
+    "id": {
+        "name": "BRÅVIKEN",
+        "typeName": "Umyvadlo",
+        "itemMeasureReferenceText": "61x49x10 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/braviken-umyvadlo-bila__0756166_pe748796_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/braviken-umyvadlo-bila-30195548/",
+        "id": "30195548",
+        "itemNoGlobal": "30195548",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 7,
+        "itemNo": "30195548",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 3400,
+            "current": { "prefix": "", "wholeNumber": "3 400", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/braviken-umyvadlo-bila__0380219_pe555164_s5.jpg",
+        "mainImageAlt": "BRÅVIKEN Umyvadlo, bílá, 61x49x10 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bathroom & Water",
+            "homeFurnishingBusinessNo": "06",
+            "productAreaName": "Bathroom sinks",
+            "productAreaNo": "0634",
+            "productRangeAreaName": "Water fixtures & fittings",
+            "productRangeAreaNo": "063"
+        },
+        "categoryPath": [
+            { "name": "Koupelnový nábytek", "key": "ba001" },
+            { "name": "Koupelnová umyvadla", "key": "20723" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "30195548",
+    "name": "BRÅVIKEN",
+    "categoryKey": "ba001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 3400 }]
+}

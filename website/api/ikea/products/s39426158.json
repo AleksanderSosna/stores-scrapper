@@ -1,0 +1,87 @@
+{
+    "id": {
+        "name": "NORRMANSÖ / NORRMANSÖ",
+        "typeName": "Stół+6 krzeseł, zewn.",
+        "itemMeasureReferenceText": "220x100 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/norrmansoe-norrmansoe-stol-6-krzesel-zewn-akacja-bezowy-akacja__1078032_pe857068_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/norrmansoe-norrmansoe-stol-6-krzesel-zewn-akacja-bezowy-akacja-s39426158/",
+        "id": "s39426158",
+        "itemNoGlobal": "39426158",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s09435215",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/norrmansoe-vassholmen-stol-6-krzesel-zewn-akacja-czarny-bialy-s09435215/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/norrmansoe-vassholmen-stol-6-krzesel-zewn-akacja-czarny-bialy__1077701_pe856981_s5.jpg",
+                    "imageAlt": "NORRMANSÖ / VASSHOLMEN Stół+6 krzeseł, zewn., akacja/czarny biały, 220x100 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "NORRMANSÖ / VASSHOLMEN",
+                    "typeName": "Stół+6 krzeseł, zewn.",
+                    "itemMeasureReferenceText": "220x100 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/norrmansoe-vassholmen-stol-6-krzesel-zewn-akacja-czarny-bialy__1077701_pe856981_s5.jpg",
+                    "mainImageAlt": "NORRMANSÖ / VASSHOLMEN Stół+6 krzeseł, zewn., akacja/czarny biały, 220x100 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/norrmansoe-vassholmen-stol-6-krzesel-zewn-akacja-czarny-bialy__1078038_pe857075_s5.jpg",
+                    "itemNoGlobal": "09435215",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "09435215",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 4393,
+                        "current": { "prefix": "", "wholeNumber": "4 393", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "39426158",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 4393,
+            "current": { "prefix": "", "wholeNumber": "4 393", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/norrmansoe-norrmansoe-stol-6-krzesel-zewn-akacja-bezowy-akacja__1078031_pe857069_s5.jpg",
+        "mainImageAlt": "NORRMANSÖ / NORRMANSÖ Stół+6 krzeseł, zewn., akacja/beżowy akacja, 220x100 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Zestawy mebli", "key": "55036" },
+            { "name": "Meble ogrodowe ze stołem", "key": "21967" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "39426158",
+    "name": "NORRMANSÖ / NORRMANSÖ",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 4393 }]
+}

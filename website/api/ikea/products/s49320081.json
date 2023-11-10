@@ -1,0 +1,61 @@
+{
+    "id": {
+        "name": "EKTORP",
+        "typeName": "3místná pohovka s lenoškou",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/ektorp-3mistna-pohovka-s-lenoskou-virestad-cervena-bila__0818589_pe774504_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/ektorp-3mistna-pohovka-s-lenoskou-virestad-cervena-bila-s49320081/",
+        "id": "s49320081",
+        "itemNoGlobal": "49320081",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [{ "type": "FIRMNESS", "id": "59511", "name": "Extra měkké", "typeName": "Tvrdost" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.4,
+        "ratingCount": 15,
+        "itemNo": "49320081",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 16490,
+            "current": { "prefix": "", "wholeNumber": "16 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "17 490", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/ektorp-3mistna-pohovka-s-lenoskou-virestad-cervena-bila__0818588_pe774510_s5.jpg",
+        "mainImageAlt": "EKTORP 3místná pohovka s lenoškou, Virestad červená/bílá",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Living room seating",
+            "homeFurnishingBusinessNo": "01",
+            "productAreaName": "Sofas",
+            "productAreaNo": "0111",
+            "productRangeAreaName": "Sofas",
+            "productRangeAreaNo": "011"
+        },
+        "categoryPath": [
+            { "name": "Nábytek", "key": "fu001" },
+            { "name": "Pohovky a sedací soupravy", "key": "fu003" },
+            { "name": "Látkové pohovky", "key": "10661" },
+            { "name": "Sedací soupravy do L", "key": "47388" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "49320081",
+    "name": "EKTORP",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 16490 }]
+}

@@ -1,0 +1,59 @@
+{
+    "id": {
+        "name": "FANBYN",
+        "typeName": "Židle s područkami",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/fanbyn-zidle-s-podruckami-bila-vn-venkovni__0545007_pe655282_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/fanbyn-zidle-s-podruckami-bila-vn-venkovni-s09221016/",
+        "id": "s09221016",
+        "itemNoGlobal": "09221016",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "béžová", "id": "10003", "hex": "f4f3d7" },
+            { "name": "bílá", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 9,
+        "itemNo": "09221016",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 2290,
+            "current": { "prefix": "", "wholeNumber": "2 290", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/fanbyn-zidle-s-podruckami-bila-vn-venkovni__1052910_pe846509_s5.jpg",
+        "mainImageAlt": "FANBYN Židle s područkami, bílá/vn./venkovní",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Dining",
+            "homeFurnishingBusinessNo": "08",
+            "productAreaName": "Non upholstered chairs",
+            "productAreaNo": "0821",
+            "productRangeAreaName": "Dining seating",
+            "productRangeAreaNo": "082"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní nábytek", "key": "od003" },
+            { "name": "Venkovní posezení", "key": "700350" },
+            { "name": "Venkovní židle", "key": "21964" },
+            { "name": "Venkovní jídelní židle", "key": "21966" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "09221016",
+    "name": "FANBYN",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }]
+}

@@ -1,0 +1,84 @@
+{
+    "id": {
+        "name": "HAVSTA",
+        "typeName": "Kombinacja drzwi szklane przesuwane",
+        "itemMeasureReferenceText": "242x47x212 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havsta-kombinacja-drzwi-szklane-przesuwane-szary__0626964_pe693112_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/havsta-kombinacja-drzwi-szklane-przesuwane-szary-s89276868/",
+        "id": "s89276868",
+        "itemNoGlobal": "19265905",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "s69276869",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/havsta-kombinacja-drzwi-szklane-przesuwane-bialy-s69276869/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/havsta-kombinacja-drzwi-szklane-przesuwane-bialy__0675412_pe718325_s5.jpg",
+                    "imageAlt": "HAVSTA Kombinacja drzwi szklane przesuwane, biały, 242x47x212 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "HAVSTA",
+                    "typeName": "Kombinacja drzwi szklane przesuwane",
+                    "itemMeasureReferenceText": "242x47x212 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/havsta-kombinacja-drzwi-szklane-przesuwane-bialy__0675412_pe718325_s5.jpg",
+                    "mainImageAlt": "HAVSTA Kombinacja drzwi szklane przesuwane, biały, 242x47x212 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havsta-kombinacja-drzwi-szklane-przesuwane-bialy__0675411_pe718326_s5.jpg",
+                    "itemNoGlobal": "49265895",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "69276869",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 5996,
+                        "current": { "prefix": "", "wholeNumber": "5 996", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "89276868",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 5996,
+            "current": { "prefix": "", "wholeNumber": "5 996", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/havsta-kombinacja-drzwi-szklane-przesuwane-szary__0846149_pe693111_s5.jpg",
+        "mainImageAlt": "HAVSTA Kombinacja drzwi szklane przesuwane, szary, 242x47x212 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Display cabinets",
+            "productAreaNo": "0221",
+            "productRangeAreaName": "Display furniture",
+            "productRangeAreaNo": "022"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Szafki i witryny", "key": "st003" },
+            { "name": "Szafki", "key": "10409" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "89276868",
+    "name": "HAVSTA",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 5996 }]
+}

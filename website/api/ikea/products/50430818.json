@@ -1,1 +1,121 @@
-{ "id": "50430818", "name": "HILJA", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }] }
+{
+    "id": {
+        "name": "HILJA",
+        "typeName": "Zasłona, 2 szt.",
+        "itemMeasureReferenceText": "145x250 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-bialy__0627420_pe693352_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/hilja-zaslona-2-szt-bialy-50430818/",
+        "id": "50430818",
+        "itemNoGlobal": "50430818",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "90390735",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hilja-zaslona-2-szt-szary-90390735/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-szary__0535824_pe649658_s5.jpg",
+                    "imageAlt": "HILJA Zasłona, 2 szt., szary, 145x300 cm",
+                    "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52516", "name": "Filtrujący światło", "typeName": "Właściwości filtrujące światło" }],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 441,
+                    "name": "HILJA",
+                    "typeName": "Zasłona, 2 szt.",
+                    "itemMeasureReferenceText": "145x300 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-szary__0535824_pe649658_s5.jpg",
+                    "mainImageAlt": "HILJA Zasłona, 2 szt., szary, 145x300 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-szary__0889629_pe671128_s5.jpg",
+                    "itemNoGlobal": "90390735",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "90390735",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 79.99,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "40430814",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/hilja-zaslona-2-szt-bialy-40430814/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-bialy__0627420_pe693352_s5.jpg",
+                    "imageAlt": "HILJA Zasłona, 2 szt., biały, 145x300 cm",
+                    "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52516", "name": "Filtrujący światło", "typeName": "Właściwości filtrujące światło" }],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 441,
+                    "name": "HILJA",
+                    "typeName": "Zasłona, 2 szt.",
+                    "itemMeasureReferenceText": "145x300 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-bialy__0627420_pe693352_s5.jpg",
+                    "mainImageAlt": "HILJA Zasłona, 2 szt., biały, 145x300 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-bialy__0818949_pe774668_s5.jpg",
+                    "itemNoGlobal": "40430814",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "badge": { "type": "TOP_SELLER", "text": "Top Seller" },
+                    "itemNo": "40430814",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 79.99,
+                        "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [{ "type": "LIGHT_FILTRATION", "id": "52516", "name": "Filtrujący światło", "typeName": "Właściwości filtrujące światło" }],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 441,
+        "itemNo": "50430818",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 69.99,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/hilja-zaslona-2-szt-bialy__0818949_pe774668_s5.jpg",
+        "mainImageAlt": "HILJA Zasłona, 2 szt., biały, 145x250 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Home textiles",
+            "homeFurnishingBusinessNo": "12",
+            "productAreaName": "Curtains and window panels",
+            "productAreaNo": "1211",
+            "productRangeAreaName": "Window solutions",
+            "productRangeAreaNo": "121"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Firanki, zasłony i rolety", "key": "tl002" },
+            { "name": "Firanki i zasłony", "key": "10700" },
+            { "name": "Zasłony półprzeźroczyste", "key": "700220" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "50430818",
+    "name": "HILJA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }]
+}

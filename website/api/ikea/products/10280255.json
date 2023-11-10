@@ -1,1 +1,53 @@
-{ "id": "10280255", "name": "HOPPLÖS", "categoryKey": "kt001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }] }
+{
+    "id": {
+        "name": "HOPPLÖS",
+        "typeName": "Prkénko",
+        "itemMeasureReferenceText": "24x15 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/hopploes-prkenko-zelena__0403910_pe566109_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/hopploes-prkenko-zelena-10280255/",
+        "id": "10280255",
+        "itemNoGlobal": "10280255",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "zelená", "id": "10033", "hex": "3b7d22" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 320,
+        "itemNo": "10280255",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 19,
+            "current": { "prefix": "", "wholeNumber": "19", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": true,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/hopploes-prkenko-zelena__0896326_pe615948_s5.jpg",
+        "mainImageAlt": "HOPPLÖS Prkénko, zelená, 24x15 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Chopping boards",
+            "productAreaNo": "1424",
+            "productRangeAreaName": "Kitchen tools",
+            "productRangeAreaNo": "142"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňské a stolní nádobí", "key": "kt001" },
+            { "name": "Nože a kuchyňská prkénka", "key": "15934" },
+            { "name": "Kuchyňská prkénka", "key": "15947" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "10280255",
+    "name": "HOPPLÖS",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 19 }]
+}

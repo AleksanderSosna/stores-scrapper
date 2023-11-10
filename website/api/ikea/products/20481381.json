@@ -1,1 +1,58 @@
-{ "id": "20481381", "name": "ÅSVANG", "categoryKey": "bm001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }] }
+{
+    "id": {
+        "name": "ÅSVANG",
+        "typeName": "Pěnová matrace",
+        "itemMeasureReferenceText": "80x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/asvang-penova-matrace-tvrda-bila__0986620_pe818094_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/asvang-penova-matrace-tvrda-bila-20481381/",
+        "id": "20481381",
+        "itemNoGlobal": "50481389",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "badge": { "type": "TOP_SELLER", "text": "Nejprodávanější" },
+        "tag": "NONE",
+        "quickFacts": [
+            { "type": "MATTRESS_MATERIAL", "id": "47466", "name": "Pěna", "typeName": "Matrace, materiál" },
+            { "type": "FIRMNESS", "id": "47465", "name": "Tvrdé", "typeName": "Tvrdost" }
+        ],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 50,
+        "itemNo": "20481381",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1790,
+            "current": { "prefix": "", "wholeNumber": "1 790", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/asvang-penova-matrace-tvrda-bila__0857895_pe649180_s5.jpg",
+        "mainImageAlt": "ÅSVANG Pěnová matrace, tvrdá/bílá, 80x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Mattresses",
+            "productAreaNo": "0511",
+            "productRangeAreaName": "Mattresses and accessories",
+            "productRangeAreaNo": "051"
+        },
+        "categoryPath": [
+            { "name": "Postele a matrace", "key": "bm001" },
+            { "name": "Matrace", "key": "bm002" },
+            { "name": "Pěnové matrace", "key": "24823" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20481381",
+    "name": "ÅSVANG",
+    "categoryKey": "bm001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }]
+}

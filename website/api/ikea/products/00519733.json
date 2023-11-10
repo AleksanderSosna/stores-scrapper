@@ -1,1 +1,55 @@
-{ "id": "00519733", "name": "FRÖJDEFULL", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }] }
+{
+    "id": {
+        "name": "FRÖJDEFULL",
+        "typeName": "Miska",
+        "itemMeasureReferenceText": "12 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-miska-bialy__1062385_pe850777_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/froejdefull-miska-bialy-00519733/",
+        "id": "00519733",
+        "itemNoGlobal": "00519733",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4,
+        "ratingCount": 3,
+        "itemNo": "00519733",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 79.99,
+            "current": { "prefix": "", "wholeNumber": "79", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "priceUnit": "2 szt.",
+            "unitText": "szt.",
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/froejdefull-miska-bialy__1062381_pe850776_s5.jpg",
+        "mainImageAlt": "FRÖJDEFULL Miska, biały, 12 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Eating",
+            "homeFurnishingBusinessNo": "15",
+            "productAreaName": "Dinnerware",
+            "productAreaNo": "1511",
+            "productRangeAreaName": "Dining and serving",
+            "productRangeAreaNo": "151"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Zastawa stołowa", "key": "18860" },
+            { "name": "Miseczki i salaterki", "key": "18864" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00519733",
+    "name": "FRÖJDEFULL",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 }]
+}

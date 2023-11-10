@@ -1,1 +1,120 @@
-{ "id": "00324735", "name": "DUNVIK", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 900 }] }
+{
+    "id": {
+        "name": "DUNVIK",
+        "typeName": "Pokrycie łóżka kontynentalnego",
+        "itemMeasureReferenceText": "140x200 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary-00324735/",
+        "id": "00324735",
+        "itemNoGlobal": "00324735",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": {
+            "numberOfVariants": 2,
+            "variants": [
+                {
+                    "id": "40324738",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary-40324738/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "imageAlt": "DUNVIK Pokrycie łóżka kontynentalnego, Skiftebo ciemnoszary, 180x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 11,
+                    "name": "DUNVIK",
+                    "typeName": "Pokrycie łóżka kontynentalnego",
+                    "itemMeasureReferenceText": "180x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "mainImageAlt": "DUNVIK Pokrycie łóżka kontynentalnego, Skiftebo ciemnoszary, 180x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "itemNoGlobal": "40324738",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "40324738",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1100,
+                        "current": { "prefix": "", "wholeNumber": "1 100", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "80324736",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary-80324736/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "imageAlt": "DUNVIK Pokrycie łóżka kontynentalnego, Skiftebo ciemnoszary, 160x200 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.7,
+                    "ratingCount": 11,
+                    "name": "DUNVIK",
+                    "typeName": "Pokrycie łóżka kontynentalnego",
+                    "itemMeasureReferenceText": "160x200 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "mainImageAlt": "DUNVIK Pokrycie łóżka kontynentalnego, Skiftebo ciemnoszary, 160x200 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+                    "itemNoGlobal": "80324736",
+                    "onlineSellable": true,
+                    "lastChance": true,
+                    "itemNo": "80324736",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1000,
+                        "current": { "prefix": "", "wholeNumber": "1 000", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.7,
+        "ratingCount": 11,
+        "itemNo": "00324735",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 900,
+            "current": { "prefix": "", "wholeNumber": "900", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/dunvik-pokrycie-lozka-kontynentalnego-skiftebo-ciemnoszary__0779109_pe759256_s5.jpg",
+        "mainImageAlt": "DUNVIK Pokrycie łóżka kontynentalnego, Skiftebo ciemnoszary, 140x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Beds & Mattresses",
+            "homeFurnishingBusinessNo": "05",
+            "productAreaName": "Bed with upholstered headboard",
+            "productAreaNo": "0525",
+            "productRangeAreaName": "Beds",
+            "productRangeAreaNo": "052"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Łóżka", "key": "bm003" },
+            { "name": "Pokrycia do łóżek i zagłówków", "key": "57280" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Ostatnie sztuki"
+    },
+    "itemNo": "00324735",
+    "name": "DUNVIK",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 900 }]
+}

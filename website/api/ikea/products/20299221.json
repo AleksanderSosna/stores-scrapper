@@ -1,1 +1,54 @@
-{ "id": "20299221", "name": "PERSISK BELUTCH", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }] }
+{
+    "id": {
+        "name": "PERSISK BELUTCH",
+        "typeName": "Koberec, nízký vlas",
+        "itemMeasureReferenceText": "100x200 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/persisk-belutch-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory__0130087_pe284323_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/persisk-belutch-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory-20299221/",
+        "id": "20299221",
+        "itemNoGlobal": "20299221",
+        "onlineSellable": false,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "barevné", "id": "10583" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "20299221",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 8990,
+            "current": { "prefix": "", "wholeNumber": "8 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/persisk-belutch-koberec-nizky-vlas-rucne-vyrobene-ruzne-vzory__0892019_pe560636_s5.jpg",
+        "mainImageAlt": "PERSISK BELUTCH Koberec, nízký vlas, ručně vyrobené různé vzory, 100x200 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Oriental rugs",
+            "productAreaNo": "1312",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Orientální koberce", "key": "10695" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "20299221",
+    "name": "PERSISK BELUTCH",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }]
+}

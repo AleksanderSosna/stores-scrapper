@@ -1,9 +1,0 @@
-{
-    "id": "59297141",
-    "name": "JONAXEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 949 }
-    ]
-}

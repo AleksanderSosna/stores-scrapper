@@ -1,0 +1,10 @@
+{
+    "id": "s19551389",
+    "itemNo": "19551389",
+    "name": "GRÅSALA / ÖSTANÖ",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 477 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 2228 }
+    ]
+}

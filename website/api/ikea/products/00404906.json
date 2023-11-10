@@ -1,1 +1,92 @@
-{ "id": "00404906", "name": "LAUTERS", "categoryKey": "li001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }] }
+{
+    "id": {
+        "name": "LAUTERS",
+        "typeName": "Lampa stołowa",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-stolowa-brazowy-jesion-bialy__0713766_pe729748_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/lauters-lampa-stolowa-brazowy-jesion-bialy-00404906/",
+        "id": "00404906",
+        "itemNoGlobal": "00404906",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "50404895",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/lauters-lampa-stolowa-jesion-bialy-50404895/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-stolowa-jesion-bialy__0663864_pe712537_s5.jpg",
+                    "imageAlt": "LAUTERS Lampa stołowa, jesion/biały",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 5,
+                    "ratingCount": 23,
+                    "name": "LAUTERS",
+                    "typeName": "Lampa stołowa",
+                    "itemMeasureReferenceText": "",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-stolowa-jesion-bialy__0663864_pe712537_s5.jpg",
+                    "mainImageAlt": "LAUTERS Lampa stołowa, jesion/biały",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-stolowa-jesion-bialy__1239437_pe918903_s5.jpg",
+                    "itemNoGlobal": "50404895",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "50404895",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 119,
+                        "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "brązowy", "id": "10019", "hex": "814820" },
+            { "name": "biały", "id": "10156", "hex": "ffffff" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 23,
+        "itemNo": "00404906",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 119,
+            "current": { "prefix": "", "wholeNumber": "119", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-stolowa-brazowy-jesion-bialy__0713765_pe729749_s5.jpg",
+        "mainImageAlt": "LAUTERS Lampa stołowa, brązowy jesion/biały",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Lighting & Home electronics",
+            "homeFurnishingBusinessNo": "10",
+            "productAreaName": "Table lamps",
+            "productAreaNo": "1012",
+            "productRangeAreaName": "Luminaires",
+            "productRangeAreaNo": "101"
+        },
+        "categoryPath": [
+            { "name": "Oświetlenie", "key": "li001" },
+            { "name": "Lampy", "key": "li002" },
+            { "name": "Lampy stołowe", "key": "10732" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "00404906",
+    "name": "LAUTERS",
+    "categoryKey": "li001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 119 }]
+}

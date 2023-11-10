@@ -1,0 +1,10 @@
+{
+    "id": "s09241335",
+    "itemNo": "09241335",
+    "name": "SONGESAND",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 1849 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
+    ]
+}

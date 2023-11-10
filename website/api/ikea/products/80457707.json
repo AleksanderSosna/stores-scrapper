@@ -1,1 +1,54 @@
-{ "id": "80457707", "name": "ENHET", "categoryKey": "ka001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 180 }] }
+{
+    "id": {
+        "name": "ENHET",
+        "typeName": "Čelo zásuvky pro skříňku na troubu",
+        "itemMeasureReferenceText": "60x14 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-celo-zasuvky-pro-skrinku-na-troubu-imitace-betonu__0807189_pe770296_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/enhet-celo-zasuvky-pro-skrinku-na-troubu-imitace-betonu-80457707/",
+        "id": "80457707",
+        "itemNoGlobal": "80457707",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 1,
+        "itemNo": "80457707",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 180,
+            "current": { "prefix": "", "wholeNumber": "180", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/enhet-celo-zasuvky-pro-skrinku-na-troubu-imitace-betonu__0915694_pe784870_s5.jpg",
+        "mainImageAlt": "ENHET Čelo zásuvky pro skříňku na troubu, imitace betonu, 60x14 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Kitchen",
+            "homeFurnishingBusinessNo": "07",
+            "productAreaName": "Kitchen fronts, coverpanels, plinths and deco strips",
+            "productAreaNo": "0721",
+            "productRangeAreaName": "Kitchen fronts",
+            "productRangeAreaNo": "072"
+        },
+        "categoryPath": [
+            { "name": "Kuchyňský nábytek a spotřebiče", "key": "ka001" },
+            { "name": "Kuchyňská dvířka a čela zásuvek", "key": "700293" },
+            { "name": "ENHET, dvířka a čela zásuvek", "key": "48992" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "80457707",
+    "name": "ENHET",
+    "categoryKey": "ka001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 180 }]
+}

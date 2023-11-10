@@ -1,1 +1,54 @@
-{ "id": "20260445", "name": "SMÅSLUG", "categoryKey": "bc001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }] }
+{
+    "id": {
+        "name": "SMÅSLUG",
+        "typeName": "Pluszak",
+        "itemMeasureReferenceText": "",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/smaslug-pluszak-pies-brazowy__0710171_pe727374_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/smaslug-pluszak-pies-brazowy-20260445/",
+        "id": "20260445",
+        "itemNoGlobal": "20260445",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "brązowy", "id": "10019", "hex": "814820" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 172,
+        "itemNo": "20260445",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 29.99,
+            "current": { "prefix": "", "wholeNumber": "29", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/smaslug-pluszak-pies-brazowy__0876923_pe611130_s5.jpg",
+        "mainImageAlt": "SMÅSLUG Pluszak, pies/brązowy",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Children´s IKEA",
+            "homeFurnishingBusinessNo": "09",
+            "productAreaName": "Comfort toys",
+            "productAreaNo": "0971",
+            "productRangeAreaName": "Children`s play",
+            "productRangeAreaNo": "097"
+        },
+        "categoryPath": [
+            { "name": "Dzieci i niemowlęta", "key": "bc001" },
+            { "name": "Dzieci", "key": "bc003" },
+            { "name": "Zabawki dla dzieci", "key": "18734" },
+            { "name": "Pluszaki i maskotki", "key": "18740" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "20260445",
+    "name": "SMÅSLUG",
+    "categoryKey": "bc001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 }]
+}

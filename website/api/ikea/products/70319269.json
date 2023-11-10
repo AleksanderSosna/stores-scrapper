@@ -1,1 +1,89 @@
-{ "id": "70319269", "name": "ELVARLI", "categoryKey": "st001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 650 }] }
+{
+    "id": {
+        "name": "ELVARLI",
+        "typeName": "Police",
+        "itemMeasureReferenceText": "80x36 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-bambus__0440488_pe592506_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-police-bambus-70319269/",
+        "id": "70319269",
+        "itemNoGlobal": "70319269",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 1,
+            "variants": [
+                {
+                    "id": "80296291",
+                    "pipUrl": "https://www.ikea.com/cz/cs/p/elvarli-police-bambus-80296291/",
+                    "imageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-bambus__0430462_pe584639_s5.jpg",
+                    "imageAlt": "ELVARLI Police, bambus, 80x51 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "ratingValue": 4.8,
+                    "ratingCount": 5,
+                    "name": "ELVARLI",
+                    "typeName": "Police",
+                    "itemMeasureReferenceText": "80x51 cm",
+                    "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-bambus__0430462_pe584639_s5.jpg",
+                    "mainImageAlt": "ELVARLI Police, bambus, 80x51 cm",
+                    "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-bambus__0855975_pe603439_s5.jpg",
+                    "itemNoGlobal": "80296291",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "80296291",
+                    "itemType": "ART",
+                    "salesPrice": {
+                        "currencyCode": "CZK",
+                        "numeral": 800,
+                        "current": { "prefix": "", "wholeNumber": "800", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.8,
+        "ratingCount": 5,
+        "itemNo": "70319269",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 650,
+            "current": { "prefix": "", "wholeNumber": "650", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/elvarli-police-bambus__0857433_pe603437_s5.jpg",
+        "mainImageAlt": "ELVARLI Police, bambus, 80x36 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "Open storage systems",
+            "productAreaNo": "0424",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Úložné díly a organizéry", "key": "st001" },
+            { "name": "Úložné systémy", "key": "46052" },
+            { "name": "Systém ELVARLI", "key": "35766" },
+            { "name": "Stojny, bočnice a vnitřní vybavení ELVARLI", "key": "35767" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70319269",
+    "name": "ELVARLI",
+    "categoryKey": "st001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 650 }]
+}

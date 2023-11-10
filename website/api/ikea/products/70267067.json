@@ -1,1 +1,61 @@
-{ "id": "70267067", "name": "GLIMMA", "categoryKey": "de001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }] }
+{
+    "id": {
+        "name": "GLIMMA",
+        "typeName": "Neparfémované čajové svíčky",
+        "itemMeasureReferenceText": "6 hod.",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/glimma-neparfemovane-cajove-svicky__0638202_pe698766_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/glimma-neparfemovane-cajove-svicky-70267067/",
+        "id": "70267067",
+        "itemNoGlobal": "70267067",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "bílá", "id": "10156", "hex": "ffffff" }],
+        "tag": "NEW_LOWER_PRICE",
+        "tagText": "Nová\nnižší\ncena",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 390,
+        "itemNo": "70267067",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 59,
+            "current": { "prefix": "", "wholeNumber": "59", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "79", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "priceUnit": "36 ks",
+            "unitText": "ks",
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-10-17",
+            "validTo": "2024-04-13",
+            "tag": "NEW_LOWER_PRICE",
+            "tagText": "Nová\nnižší\ncena",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/glimma-neparfemovane-cajove-svicky__1059580_pe849678_s5.jpg",
+        "mainImageAlt": "GLIMMA Neparfémované čajové svíčky, 6 hod.",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Decoration",
+            "homeFurnishingBusinessNo": "16",
+            "productAreaName": "Candles and atmosphere light",
+            "productAreaNo": "1632",
+            "productRangeAreaName": "Home decoration",
+            "productRangeAreaNo": "163"
+        },
+        "categoryPath": [
+            { "name": "Dekorace", "key": "de001" },
+            { "name": "Svícny a svíčky", "key": "10760" },
+            { "name": "Neparfémované svíčky", "key": "10782" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70267067",
+    "name": "GLIMMA",
+    "categoryKey": "de001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 59 }]
+}

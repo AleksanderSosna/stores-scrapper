@@ -1,1 +1,54 @@
-{ "id": "30452905", "name": "BITTERSOPP", "categoryKey": "kt001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }] }
+{
+    "id": {
+        "name": "BITTERSOPP",
+        "typeName": "Patelnia do naleśników",
+        "itemMeasureReferenceText": "31 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/bittersopp-patelnia-do-nalesnikow-imitacja-kamienia__0717143_pe731130_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/bittersopp-patelnia-do-nalesnikow-imitacja-kamienia-30452905/",
+        "id": "30452905",
+        "itemNoGlobal": "30452905",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "szary", "id": "10028", "hex": "949494" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.9,
+        "ratingCount": 15,
+        "itemNo": "30452905",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 99.99,
+            "current": { "prefix": "", "wholeNumber": "99", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/bittersopp-patelnia-do-nalesnikow-imitacja-kamienia__0894541_pe731133_s5.jpg",
+        "mainImageAlt": "BITTERSOPP Patelnia do naleśników, imitacja kamienia, 31 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Cooking",
+            "homeFurnishingBusinessNo": "14",
+            "productAreaName": "Pans",
+            "productAreaNo": "1412",
+            "productRangeAreaName": "Cookware",
+            "productRangeAreaNo": "141"
+        },
+        "categoryPath": [
+            { "name": "Gotowanie i zastawa stołowa", "key": "kt001" },
+            { "name": "Naczynia do gotowania", "key": "kt003" },
+            { "name": "Patelnie i woki", "key": "20624" },
+            { "name": "Patelnie", "key": "20630" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30452905",
+    "name": "BITTERSOPP",
+    "categoryKey": "kt001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 }]
+}

@@ -1,1 +1,56 @@
-{ "id": "30529698", "name": "GÅNGGATA", "categoryKey": "tl001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }] }
+{
+    "id": {
+        "name": "GÅNGGATA",
+        "typeName": "Wycieraczka",
+        "itemMeasureReferenceText": "60x90 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/ganggata-wycieraczka-wielobarwny__1051165_pe845033_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/ganggata-wycieraczka-wielobarwny-30529698/",
+        "id": "30529698",
+        "itemNoGlobal": "30529698",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [
+            { "name": "beżowy", "id": "10003", "hex": "f4f3d7" },
+            { "name": "wielobarwny", "id": "10583" }
+        ],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 2,
+        "itemNo": "30529698",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 69.99,
+            "current": { "prefix": "", "wholeNumber": "69", "separator": ",", "decimals": "99", "suffix": "", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/ganggata-wycieraczka-wielobarwny__1051164_pe845034_s5.jpg",
+        "mainImageAlt": "GÅNGGATA Wycieraczka, wielobarwny, 60x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Tekstylia", "key": "tl001" },
+            { "name": "Dywany", "key": "10653" },
+            { "name": "Wycieraczki pod drzwi", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "30529698",
+    "name": "GÅNGGATA",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 }]
+}

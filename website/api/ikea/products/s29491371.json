@@ -1,0 +1,10 @@
+{
+    "id": "s29491371",
+    "itemNo": "29491371",
+    "name": "JÄLLBY / MOLNART",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 119.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
+    ]
+}

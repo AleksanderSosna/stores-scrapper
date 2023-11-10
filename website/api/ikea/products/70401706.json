@@ -1,1 +1,60 @@
-{ "id": "70401706", "name": "SJÄLLAND", "categoryKey": "fu001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }] }
+{
+    "id": {
+        "name": "SJÄLLAND",
+        "typeName": "Lavice, venkovní",
+        "itemMeasureReferenceText": "136 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/sjaelland-lavice-venkovni-svetle-seda-tmave-seda__0727615_pe735741_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/sjaelland-lavice-venkovni-svetle-seda-tmave-seda-70401706/",
+        "id": "70401706",
+        "itemNoGlobal": "70401706",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "šedá", "id": "10028", "hex": "949494" }],
+        "tag": "TIME_RESTRICTED_OFFER",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 5,
+        "ratingCount": 5,
+        "itemNo": "70401706",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 1990,
+            "current": { "prefix": "", "wholeNumber": "1 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "previous": { "prefix": "", "wholeNumber": "2 990", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "prevPriceLabel": "Původní cena",
+            "validFrom": "2023-08-01",
+            "validTo": "2023-12-31",
+            "availabilityDisclaimer": "Cena platí od 1. srpna 2023 do 31. prosince 2023 nebo do vyprodání zásob",
+            "tag": "TIME_RESTRICTED_OFFER",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/sjaelland-lavice-venkovni-svetle-seda-tmave-seda__0905892_pe671820_s5.jpg",
+        "mainImageAlt": "SJÄLLAND Lavice, venkovní, světle šedá/tmavě šedá, 136 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Outdoor",
+            "homeFurnishingBusinessNo": "17",
+            "productAreaName": "Outdoor dining seating",
+            "productAreaNo": "1715",
+            "productRangeAreaName": "Outdoor",
+            "productRangeAreaNo": "171"
+        },
+        "categoryPath": [
+            { "name": "Výrobky pro venkovní použití", "key": "od001" },
+            { "name": "Venkovní nábytek", "key": "od003" },
+            { "name": "Venkovní posezení", "key": "700350" },
+            { "name": "Venkovní lavice", "key": "47386" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "70401706",
+    "name": "SJÄLLAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }]
+}

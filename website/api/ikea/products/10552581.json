@@ -1,1 +1,54 @@
-{ "id": "10552581", "name": "RÄLSBUSS", "categoryKey": "tl001", "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }] }
+{
+    "id": {
+        "name": "RÄLSBUSS",
+        "typeName": "Rohožka",
+        "itemMeasureReferenceText": "60x90 cm",
+        "mainImageUrl": "https://www.ikea.com/cz/cs/images/products/raelsbuss-rohozka-bezova__1162459_pe889831_s5.jpg",
+        "pipUrl": "https://www.ikea.com/cz/cs/p/raelsbuss-rohozka-bezova-10552581/",
+        "id": "10552581",
+        "itemNoGlobal": "10552581",
+        "onlineSellable": true,
+        "lastChance": true,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "béžová", "id": "10003", "hex": "f4f3d7" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.5,
+        "ratingCount": 8,
+        "itemNo": "10552581",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "CZK",
+            "numeral": 299,
+            "current": { "prefix": "", "wholeNumber": "299", "separator": "", "decimals": "", "suffix": ",–", "isRegularCurrency": true },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/cz/cs/images/products/raelsbuss-rohozka-bezova__1162458_pe889832_s5.jpg",
+        "mainImageAlt": "RÄLSBUSS Rohožka, béžová, 60x90 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Rugs",
+            "homeFurnishingBusinessNo": "13",
+            "productAreaName": "Doormats & accessories",
+            "productAreaNo": "1313",
+            "productRangeAreaName": "Home furnishing rugs",
+            "productRangeAreaNo": "131"
+        },
+        "categoryPath": [
+            { "name": "Textilní výrobky", "key": "tl001" },
+            { "name": "Koberce", "key": "10653" },
+            { "name": "Rohožky", "key": "10698" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" },
+        "lastChanceText": "Poslední možnost nákupu"
+    },
+    "itemNo": "10552581",
+    "name": "RÄLSBUSS",
+    "categoryKey": "tl001",
+    "prices": [{ "countryCode": "cz", "currencyCode": "CZK", "price": 299 }]
+}

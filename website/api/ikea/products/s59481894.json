@@ -1,0 +1,10 @@
+{
+    "id": "s59481894",
+    "itemNo": "59481894",
+    "name": "MARKFROST / MOLNART",
+    "categoryKey": "li001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 114.98 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 798 }
+    ]
+}

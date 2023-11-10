@@ -1,0 +1,10 @@
+{
+    "id": "s49440620",
+    "itemNo": "49440620",
+    "name": "BOAXEL / LAGKAPTEN",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 824 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 5089 }
+    ]
+}

@@ -1,1 +1,52 @@
-{ "id": "70401933", "name": "BILLY", "categoryKey": "fu001", "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }] }
+{
+    "id": {
+        "name": "BILLY",
+        "typeName": "Nadstawka",
+        "itemMeasureReferenceText": "80x40x35 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/billy-nadstawka-bialy__0568613_pe665521_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/billy-nadstawka-bialy-70401933/",
+        "id": "70401933",
+        "itemNoGlobal": "70401933",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": { "numberOfVariants": 0, "variants": [] },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "ratingValue": 4.3,
+        "ratingCount": 6,
+        "itemNo": "70401933",
+        "itemType": "ART",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 110,
+            "current": { "prefix": "", "wholeNumber": "110", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "mainImageAlt": "BILLY Nadstawka, biały, 80x40x35 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Store and organise furniture",
+            "homeFurnishingBusinessNo": "02",
+            "productAreaName": "Bookcases",
+            "productAreaNo": "0214",
+            "productRangeAreaName": "Storage",
+            "productRangeAreaNo": "021"
+        },
+        "categoryPath": [
+            { "name": "Meble", "key": "fu001" },
+            { "name": "Biblioteczki i regały", "key": "st002" },
+            { "name": "Regały na książki", "key": "10382" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "70401933",
+    "name": "BILLY",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 110 }]
+}

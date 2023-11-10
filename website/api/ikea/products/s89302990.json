@@ -1,0 +1,10 @@
+{
+    "id": "s89302990",
+    "itemNo": "89302990",
+    "name": "TYSSEDAL",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 575 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 3200 }
+    ]
+}

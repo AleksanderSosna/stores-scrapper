@@ -1,0 +1,10 @@
+{
+    "id": "s79416893",
+    "itemNo": "79416893",
+    "name": "LAGKAPTEN / OLOV",
+    "categoryKey": "fu001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 189 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 1399 }
+    ]
+}

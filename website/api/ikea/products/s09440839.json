@@ -1,0 +1,10 @@
+{
+    "id": "s09440839",
+    "itemNo": "09440839",
+    "name": "SAMLA",
+    "categoryKey": "st001",
+    "prices": [
+        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
+        { "countryCode": "cz", "currencyCode": "CZK", "price": 55 }
+    ]
+}

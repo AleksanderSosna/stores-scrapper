@@ -1,0 +1,143 @@
+{
+    "id": {
+        "name": "PAX / FORSAND",
+        "typeName": "Kombinacja szafy",
+        "itemMeasureReferenceText": "150x60x236 cm",
+        "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1153780_pe885833_s5.jpg",
+        "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-bialy-s99500697/",
+        "id": "s99500697",
+        "itemNoGlobal": "99500697",
+        "onlineSellable": true,
+        "lastChance": false,
+        "gprDescription": {
+            "numberOfVariants": 3,
+            "variants": [
+                {
+                    "id": "s59500703",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo-s59500703/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1153781_pe885841_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, biały/dąb bejcowany na biało, 150x60x236 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "150x60x236 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1153781_pe885841_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/dąb bejcowany na biało, 150x60x236 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1160812_pe889115_s5.jpg",
+                    "itemNoGlobal": "59500703",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "59500703",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1805,
+                        "current": { "prefix": "", "wholeNumber": "1 805", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s99500701",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo-s99500701/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1153782_pe885840_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, biały/dąb bejcowany na biało, 150x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "150x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1153782_pe885840_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/dąb bejcowany na biało, 150x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-dab-bejcowany-na-bialo__1160814_pe889113_s5.jpg",
+                    "itemNoGlobal": "99500701",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "99500701",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1515,
+                        "current": { "prefix": "", "wholeNumber": "1 515", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                },
+                {
+                    "id": "s39500695",
+                    "pipUrl": "https://www.ikea.com/pl/pl/p/pax-forsand-kombinacja-szafy-bialy-bialy-s39500695/",
+                    "imageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1153779_pe885834_s5.jpg",
+                    "imageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x201 cm",
+                    "quickFacts": [],
+                    "availability": [],
+                    "name": "PAX / FORSAND",
+                    "typeName": "Kombinacja szafy",
+                    "itemMeasureReferenceText": "150x60x201 cm",
+                    "mainImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1153779_pe885834_s5.jpg",
+                    "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x201 cm",
+                    "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1160804_pe889111_s5.jpg",
+                    "itemNoGlobal": "39500695",
+                    "onlineSellable": true,
+                    "lastChance": false,
+                    "itemNo": "39500695",
+                    "itemType": "SPR",
+                    "salesPrice": {
+                        "currencyCode": "PLN",
+                        "numeral": 1440,
+                        "current": { "prefix": "", "wholeNumber": "1 440", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+                        "isBreathTaking": false,
+                        "discount": "",
+                        "tag": "NONE",
+                        "priceText": "Cena"
+                    },
+                    "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+                }
+            ]
+        },
+        "colors": [{ "name": "biały", "id": "10156", "hex": "ffffff" }],
+        "tag": "NONE",
+        "quickFacts": [],
+        "features": [],
+        "availability": [],
+        "itemNo": "99500697",
+        "itemType": "SPR",
+        "salesPrice": {
+            "currencyCode": "PLN",
+            "numeral": 1730,
+            "current": { "prefix": "", "wholeNumber": "1 730", "separator": "", "decimals": "", "suffix": ",-", "isRegularCurrency": false },
+            "isBreathTaking": false,
+            "discount": "",
+            "tag": "NONE",
+            "priceText": "Cena"
+        },
+        "contextualImageUrl": "https://www.ikea.com/pl/pl/images/products/pax-forsand-kombinacja-szafy-bialy-bialy__1160806_pe889109_s5.jpg",
+        "mainImageAlt": "PAX / FORSAND Kombinacja szafy, biały/biały, 150x60x236 cm",
+        "businessStructure": {
+            "homeFurnishingBusinessName": "Bedroom furniture",
+            "homeFurnishingBusinessNo": "04",
+            "productAreaName": "System wardrobes",
+            "productAreaNo": "0421",
+            "productRangeAreaName": "Wardrobes",
+            "productRangeAreaNo": "042"
+        },
+        "categoryPath": [
+            { "name": "Przechowywanie i organizacja", "key": "st001" },
+            { "name": "Systemy przechowywania", "key": "46052" },
+            { "name": "System PAX", "key": "19086" },
+            { "name": "Szafy PAX z drzwiami", "key": "24337" }
+        ],
+        "heroBackoffData": {},
+        "optimizelyAttributes": { "PRODUCT_TYPE": "standard" }
+    },
+    "itemNo": "99500697",
+    "name": "PAX / FORSAND",
+    "categoryKey": "fu001",
+    "prices": [{ "countryCode": "pl", "currencyCode": "PLN", "price": 1730 }]
+}
