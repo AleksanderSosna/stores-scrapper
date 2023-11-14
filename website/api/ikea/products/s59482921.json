@@ -1,10 +1,1 @@
-{
-    "id": "s59482921",
-    "itemNo": "59482921",
-    "name": "EKEDALEN / TOBIAS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3693 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17930 }
-    ]
-}
+{"id":"s59482921","itemNo":"59482921","name":"EKEDALEN / TOBIAS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3693},{"countryCode":"cz","currencyCode":"CZK","price":17930}]}

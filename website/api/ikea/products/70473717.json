@@ -1,10 +1,1 @@
-{
-    "id": "70473717",
-    "itemNo": "70473717",
-    "name": "VÄLVÅRDAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"70473717","itemNo":"70473717","name":"VÄLVÅRDAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

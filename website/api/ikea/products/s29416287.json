@@ -1,10 +1,1 @@
-{
-    "id": "s29416287",
-    "itemNo": "29416287",
-    "name": "STRAUMEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 315 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1520 }
-    ]
-}
+{"id":"s29416287","itemNo":"29416287","name":"STRAUMEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":315},{"countryCode":"cz","currencyCode":"CZK","price":1520}]}

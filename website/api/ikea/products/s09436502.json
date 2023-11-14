@@ -1,10 +1,1 @@
-{
-    "id": "s09436502",
-    "itemNo": "09436502",
-    "name": "HAUGA/BLECKBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1327 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6970 }
-    ]
-}
+{"id":"s09436502","itemNo":"09436502","name":"HAUGA/BLECKBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1327},{"countryCode":"cz","currencyCode":"CZK","price":6970}]}

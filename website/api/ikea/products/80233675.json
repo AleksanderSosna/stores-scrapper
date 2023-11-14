@@ -1,10 +1,1 @@
-{
-    "id": "80233675",
-    "itemNo": "80233675",
-    "name": "PLATS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"80233675","itemNo":"80233675","name":"PLATS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

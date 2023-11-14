@@ -1,10 +1,1 @@
-{
-    "id": "60259143",
-    "itemNo": "60259143",
-    "name": "GLASIG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"60259143","itemNo":"60259143","name":"GLASIG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

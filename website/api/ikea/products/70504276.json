@@ -1,10 +1,1 @@
-{
-    "id": "70504276",
-    "itemNo": "70504276",
-    "name": "FRIDNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }
-    ]
-}
+{"id":"70504276","itemNo":"70504276","name":"FRIDNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2790}]}

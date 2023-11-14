@@ -1,10 +1,1 @@
-{
-    "id": "30528482",
-    "itemNo": "30528482",
-    "name": "DYTÅG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"30528482","itemNo":"30528482","name":"DYTÅG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

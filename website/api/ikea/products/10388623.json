@@ -1,10 +1,1 @@
-{
-    "id": "10388623",
-    "itemNo": "10388623",
-    "name": "HAVSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
-    ]
-}
+{"id":"10388623","itemNo":"10388623","name":"HAVSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":5990}]}

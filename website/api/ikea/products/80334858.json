@@ -1,10 +1,1 @@
-{
-    "id": "80334858",
-    "itemNo": "80334858",
-    "name": "KUNGSFORS",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
-    ]
-}
+{"id":"80334858","itemNo":"80334858","name":"KUNGSFORS","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":200}]}

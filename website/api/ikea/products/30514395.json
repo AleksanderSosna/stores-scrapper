@@ -1,10 +1,1 @@
-{
-    "id": "30514395",
-    "itemNo": "30514395",
-    "name": "TROLLDOM",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"30514395","itemNo":"30514395","name":"TROLLDOM","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

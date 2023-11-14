@@ -1,10 +1,1 @@
-{
-    "id": "s09414859",
-    "itemNo": "09414859",
-    "name": "ESPEVÄR/VÅGSTRANDA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3843 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 21080 }
-    ]
-}
+{"id":"s09414859","itemNo":"09414859","name":"ESPEVÄR/VÅGSTRANDA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3843},{"countryCode":"cz","currencyCode":"CZK","price":21080}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30468384",
-    "itemNo": "30468384",
-    "name": "BOYSENBÄR",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"30468384","itemNo":"30468384","name":"BOYSENBÄR","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

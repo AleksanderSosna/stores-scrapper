@@ -1,10 +1,1 @@
-{
-    "id": "60532468",
-    "itemNo": "60532468",
-    "name": "FLÖNSA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"60532468","itemNo":"60532468","name":"FLÖNSA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10561849",
-    "itemNo": "10561849",
-    "name": "TIDTABELL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"10561849","itemNo":"10561849","name":"TIDTABELL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

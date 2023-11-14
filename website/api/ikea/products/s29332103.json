@@ -1,10 +1,1 @@
-{
-    "id": "s29332103",
-    "itemNo": "29332103",
-    "name": "KOMPLEMENT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 220 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }
-    ]
-}
+{"id":"s29332103","itemNo":"29332103","name":"KOMPLEMENT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":220},{"countryCode":"cz","currencyCode":"CZK","price":1200}]}

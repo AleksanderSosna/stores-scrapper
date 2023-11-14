@@ -1,10 +1,1 @@
-{
-    "id": "10562491",
-    "itemNo": "10562491",
-    "name": "UPPSTÅ",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"10562491","itemNo":"10562491","name":"UPPSTÅ","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

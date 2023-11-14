@@ -1,10 +1,1 @@
-{
-    "id": "30396448",
-    "itemNo": "30396448",
-    "name": "MILSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
-    ]
-}
+{"id":"30396448","itemNo":"30396448","name":"MILSBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":6490}]}

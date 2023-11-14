@@ -1,10 +1,1 @@
-{
-    "id": "20378459",
-    "itemNo": "20378459",
-    "name": "RIBBA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20378459","itemNo":"20378459","name":"RIBBA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

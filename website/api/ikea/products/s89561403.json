@@ -1,10 +1,1 @@
-{
-    "id": "s89561403",
-    "itemNo": "89561403",
-    "name": "TVÄRDRAG / TRÅDFRI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 269.97 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1495 }
-    ]
-}
+{"id":"s89561403","itemNo":"89561403","name":"TVÄRDRAG / TRÅDFRI","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":269.97},{"countryCode":"cz","currencyCode":"CZK","price":1495}]}

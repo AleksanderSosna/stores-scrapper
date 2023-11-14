@@ -1,10 +1,1 @@
-{
-    "id": "00515805",
-    "itemNo": "00515805",
-    "name": "LINDÅSEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"00515805","itemNo":"00515805","name":"LINDÅSEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

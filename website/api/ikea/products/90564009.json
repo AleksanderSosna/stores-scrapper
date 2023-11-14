@@ -1,10 +1,1 @@
-{
-    "id": "90564009",
-    "itemNo": "90564009",
-    "name": "LIVELYCKE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"90564009","itemNo":"90564009","name":"LIVELYCKE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

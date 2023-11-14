@@ -1,10 +1,1 @@
-{
-    "id": "s99490764",
-    "itemNo": "99490764",
-    "name": "MELLTORP / ÄLVSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5070 }
-    ]
-}
+{"id":"s99490764","itemNo":"99490764","name":"MELLTORP / ÄLVSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":797},{"countryCode":"cz","currencyCode":"CZK","price":5070}]}

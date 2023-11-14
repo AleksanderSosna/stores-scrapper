@@ -1,10 +1,1 @@
-{
-    "id": "40510839",
-    "itemNo": "40510839",
-    "name": "FIKADAGS",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
-    ]
-}
+{"id":"40510839","itemNo":"40510839","name":"FIKADAGS","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3},{"countryCode":"cz","currencyCode":"CZK","price":25}]}

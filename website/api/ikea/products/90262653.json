@@ -1,10 +1,1 @@
-{
-    "id": "90262653",
-    "itemNo": "90262653",
-    "name": "TIDIG",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1390 }
-    ]
-}
+{"id":"90262653","itemNo":"90262653","name":"TIDIG","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":1390}]}

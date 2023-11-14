@@ -1,10 +1,1 @@
-{
-    "id": "30425035",
-    "itemNo": "30425035",
-    "name": "HILLEBORG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"30425035","itemNo":"30425035","name":"HILLEBORG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

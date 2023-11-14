@@ -1,10 +1,1 @@
-{
-    "id": "30481253",
-    "itemNo": "30481253",
-    "name": "GODMORGON",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"30481253","itemNo":"30481253","name":"GODMORGON","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

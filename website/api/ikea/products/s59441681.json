@@ -1,10 +1,1 @@
-{
-    "id": "s59441681",
-    "itemNo": "59441681",
-    "name": "IDÅSEN / GRUPPSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3798 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 21980 }
-    ]
-}
+{"id":"s59441681","itemNo":"59441681","name":"IDÅSEN / GRUPPSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3798},{"countryCode":"cz","currencyCode":"CZK","price":21980}]}

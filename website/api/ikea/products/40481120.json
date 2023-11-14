@@ -1,10 +1,1 @@
-{
-    "id": "40481120",
-    "itemNo": "40481120",
-    "name": "KOPPANG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"40481120","itemNo":"40481120","name":"KOPPANG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

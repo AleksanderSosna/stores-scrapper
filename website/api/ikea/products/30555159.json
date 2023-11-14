@@ -1,10 +1,1 @@
-{
-    "id": "30555159",
-    "itemNo": "30555159",
-    "name": "DOMSTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"30555159","itemNo":"30555159","name":"DOMSTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":119},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

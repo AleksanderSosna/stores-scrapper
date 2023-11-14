@@ -1,10 +1,1 @@
-{
-    "id": "90395422",
-    "itemNo": "90395422",
-    "name": "TJENA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"90395422","itemNo":"90395422","name":"TJENA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

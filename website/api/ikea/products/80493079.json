@@ -1,10 +1,1 @@
-{
-    "id": "80493079",
-    "itemNo": "80493079",
-    "name": "INAMARIA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"80493079","itemNo":"80493079","name":"INAMARIA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

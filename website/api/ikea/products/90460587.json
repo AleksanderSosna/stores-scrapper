@@ -1,10 +1,1 @@
-{
-    "id": "90460587",
-    "itemNo": "90460587",
-    "name": "VILDKORN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"90460587","itemNo":"90460587","name":"VILDKORN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

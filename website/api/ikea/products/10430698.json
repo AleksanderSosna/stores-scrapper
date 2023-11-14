@@ -1,10 +1,1 @@
-{
-    "id": "10430698",
-    "itemNo": "10430698",
-    "name": "VÄRMD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"10430698","itemNo":"10430698","name":"VÄRMD","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

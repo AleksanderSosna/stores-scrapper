@@ -1,10 +1,1 @@
-{
-    "id": "50301166",
-    "itemNo": "50301166",
-    "name": "PRODUKT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"50301166","itemNo":"50301166","name":"PRODUKT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

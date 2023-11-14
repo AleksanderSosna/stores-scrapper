@@ -1,10 +1,1 @@
-{
-    "id": "90471581",
-    "itemNo": "90471581",
-    "name": "KORNSJÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
-    ]
-}
+{"id":"90471581","itemNo":"90471581","name":"KORNSJÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":549},{"countryCode":"cz","currencyCode":"CZK","price":2690}]}

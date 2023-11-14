@@ -1,10 +1,1 @@
-{
-    "id": "80490085",
-    "itemNo": "80490085",
-    "name": "ANKARSPEL",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"80490085","itemNo":"80490085","name":"ANKARSPEL","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

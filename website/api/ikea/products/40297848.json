@@ -1,10 +1,1 @@
-{
-    "id": "40297848",
-    "itemNo": "40297848",
-    "name": "RIKLIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"40297848","itemNo":"40297848","name":"RIKLIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

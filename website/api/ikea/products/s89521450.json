@@ -1,10 +1,1 @@
-{
-    "id": "s89521450",
-    "itemNo": "89521450",
-    "name": "FLEKKE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2197 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11070 }
-    ]
-}
+{"id":"s89521450","itemNo":"89521450","name":"FLEKKE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2197},{"countryCode":"cz","currencyCode":"CZK","price":11070}]}

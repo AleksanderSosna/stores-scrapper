@@ -1,10 +1,1 @@
-{
-    "id": "50514894",
-    "itemNo": "50514894",
-    "name": "HAVBERG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
-    ]
-}
+{"id":"50514894","itemNo":"50514894","name":"HAVBERG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":8990}]}

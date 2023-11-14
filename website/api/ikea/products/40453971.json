@@ -1,10 +1,1 @@
-{
-    "id": "40453971",
-    "itemNo": "40453971",
-    "name": "SÖDÅKRA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
-    ]
-}
+{"id":"40453971","itemNo":"40453971","name":"SÖDÅKRA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1790}]}

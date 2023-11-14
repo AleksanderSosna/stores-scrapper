@@ -1,10 +1,1 @@
-{
-    "id": "30463517",
-    "itemNo": "30463517",
-    "name": "MITTLED",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"30463517","itemNo":"30463517","name":"MITTLED","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80331930",
-    "itemNo": "80331930",
-    "name": "ÅHEIM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 325 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1600 }
-    ]
-}
+{"id":"80331930","itemNo":"80331930","name":"ÅHEIM","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":325},{"countryCode":"cz","currencyCode":"CZK","price":1600}]}

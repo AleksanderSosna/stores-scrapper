@@ -1,10 +1,1 @@
-{
-    "id": "s89523114",
-    "itemNo": "89523114",
-    "name": "SKYTTA / BOAXEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2315 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12110 }
-    ]
-}
+{"id":"s89523114","itemNo":"89523114","name":"SKYTTA / BOAXEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2315},{"countryCode":"cz","currencyCode":"CZK","price":12110}]}

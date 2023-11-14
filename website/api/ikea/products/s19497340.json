@@ -1,10 +1,1 @@
-{
-    "id": "s19497340",
-    "itemNo": "19497340",
-    "name": "BRIMNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1757 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7788 }
-    ]
-}
+{"id":"s19497340","itemNo":"19497340","name":"BRIMNES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1757},{"countryCode":"cz","currencyCode":"CZK","price":7788}]}

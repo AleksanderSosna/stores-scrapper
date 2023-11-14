@@ -1,10 +1,1 @@
-{
-    "id": "10562009",
-    "itemNo": "10562009",
-    "name": "SVÄRDTÅG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"10562009","itemNo":"10562009","name":"SVÄRDTÅG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10297656",
-    "itemNo": "10297656",
-    "name": "LISABO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"10297656","itemNo":"10297656","name":"LISABO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

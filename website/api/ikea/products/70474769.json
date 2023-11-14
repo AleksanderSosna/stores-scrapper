@@ -1,10 +1,1 @@
-{
-    "id": "70474769",
-    "itemNo": "70474769",
-    "name": "ELLOVEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"70474769","itemNo":"70474769","name":"ELLOVEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

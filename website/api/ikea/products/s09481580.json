@@ -1,10 +1,1 @@
-{
-    "id": "s09481580",
-    "itemNo": "09481580",
-    "name": "EKEDALEN / ÄLVSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12550 }
-    ]
-}
+{"id":"s09481580","itemNo":"09481580","name":"EKEDALEN / ÄLVSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2195},{"countryCode":"cz","currencyCode":"CZK","price":12550}]}

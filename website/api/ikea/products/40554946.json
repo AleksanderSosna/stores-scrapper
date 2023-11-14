@@ -1,10 +1,1 @@
-{
-    "id": "40554946",
-    "itemNo": "40554946",
-    "name": "BILD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"40554946","itemNo":"40554946","name":"BILD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

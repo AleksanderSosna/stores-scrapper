@@ -1,10 +1,1 @@
-{
-    "id": "s89297663",
-    "itemNo": "89297663",
-    "name": "JONAXEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 795 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4914 }
-    ]
-}
+{"id":"s89297663","itemNo":"89297663","name":"JONAXEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":795},{"countryCode":"cz","currencyCode":"CZK","price":4914}]}

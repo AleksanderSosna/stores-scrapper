@@ -1,10 +1,1 @@
-{
-    "id": "40331866",
-    "itemNo": "40331866",
-    "name": "ASKERSUND",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 85 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
-    ]
-}
+{"id":"40331866","itemNo":"40331866","name":"ASKERSUND","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":85},{"countryCode":"cz","currencyCode":"CZK","price":500}]}

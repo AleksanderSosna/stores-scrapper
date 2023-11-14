@@ -1,10 +1,1 @@
-{
-    "id": "80421252",
-    "itemNo": "80421252",
-    "name": "SOLGUL",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"80421252","itemNo":"80421252","name":"SOLGUL","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

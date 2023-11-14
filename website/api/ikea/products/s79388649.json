@@ -1,10 +1,1 @@
-{
-    "id": "s79388649",
-    "itemNo": "79388649",
-    "name": "STRANDTORP / TOBIAS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3595 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19950 }
-    ]
-}
+{"id":"s79388649","itemNo":"79388649","name":"STRANDTORP / TOBIAS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3595},{"countryCode":"cz","currencyCode":"CZK","price":19950}]}

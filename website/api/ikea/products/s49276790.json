@@ -1,10 +1,1 @@
-{
-    "id": "s49276790",
-    "itemNo": "49276790",
-    "name": "IKEA 365+",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 21.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
-    ]
-}
+{"id":"s49276790","itemNo":"49276790","name":"IKEA 365+","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":21.99},{"countryCode":"cz","currencyCode":"CZK","price":119}]}

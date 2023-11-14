@@ -1,10 +1,1 @@
-{
-    "id": "60260448",
-    "itemNo": "60260448",
-    "name": "KNORRIG",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"60260448","itemNo":"60260448","name":"KNORRIG","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

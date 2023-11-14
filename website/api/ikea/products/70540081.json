@@ -1,10 +1,1 @@
-{
-    "id": "70540081",
-    "itemNo": "70540081",
-    "name": "BEGRIPA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"70540081","itemNo":"70540081","name":"BEGRIPA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

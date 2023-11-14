@@ -1,10 +1,1 @@
-{
-    "id": "90412596",
-    "itemNo": "90412596",
-    "name": "VÅRBRÄCKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"90412596","itemNo":"90412596","name":"VÅRBRÄCKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

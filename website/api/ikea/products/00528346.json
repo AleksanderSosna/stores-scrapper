@@ -1,10 +1,1 @@
-{
-    "id": "00528346",
-    "itemNo": "00528346",
-    "name": "PLOGA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00528346","itemNo":"00528346","name":"PLOGA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

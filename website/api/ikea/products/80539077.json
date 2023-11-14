@@ -1,10 +1,1 @@
-{
-    "id": "80539077",
-    "itemNo": "80539077",
-    "name": "ROSENMANDEL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"80539077","itemNo":"80539077","name":"ROSENMANDEL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

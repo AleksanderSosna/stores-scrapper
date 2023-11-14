@@ -1,10 +1,1 @@
-{
-    "id": "20510623",
-    "itemNo": "20510623",
-    "name": "HEDERVÄRD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"20510623","itemNo":"20510623","name":"HEDERVÄRD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

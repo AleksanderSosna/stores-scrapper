@@ -1,10 +1,1 @@
-{
-    "id": "30434964",
-    "itemNo": "30434964",
-    "name": "FORSAND",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"30434964","itemNo":"30434964","name":"FORSAND","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":200},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

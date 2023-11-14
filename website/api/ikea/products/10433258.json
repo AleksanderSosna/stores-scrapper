@@ -1,10 +1,1 @@
-{
-    "id": "10433258",
-    "itemNo": "10433258",
-    "name": "BRAUNIT",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"10433258","itemNo":"10433258","name":"BRAUNIT","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00492489",
-    "itemNo": "00492489",
-    "name": "ÅSKMULLER",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"00492489","itemNo":"00492489","name":"ÅSKMULLER","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

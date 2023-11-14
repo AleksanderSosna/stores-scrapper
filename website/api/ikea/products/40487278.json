@@ -1,10 +1,1 @@
-{
-    "id": "40487278",
-    "itemNo": "40487278",
-    "name": "STRANDTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
-    ]
-}
+{"id":"40487278","itemNo":"40487278","name":"STRANDTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1899},{"countryCode":"cz","currencyCode":"CZK","price":11990}]}

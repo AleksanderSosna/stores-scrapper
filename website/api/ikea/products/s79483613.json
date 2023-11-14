@@ -1,10 +1,1 @@
-{
-    "id": "s79483613",
-    "itemNo": "79483613",
-    "name": "BILLY / HÖGBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 747 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4390 }
-    ]
-}
+{"id":"s79483613","itemNo":"79483613","name":"BILLY / HÖGBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":747},{"countryCode":"cz","currencyCode":"CZK","price":4390}]}

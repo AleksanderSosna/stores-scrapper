@@ -1,10 +1,1 @@
-{
-    "id": "s29471759",
-    "itemNo": "29471759",
-    "name": "BROR",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 470 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2420 }
-    ]
-}
+{"id":"s29471759","itemNo":"29471759","name":"BROR","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":470},{"countryCode":"cz","currencyCode":"CZK","price":2420}]}

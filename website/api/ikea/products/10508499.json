@@ -1,10 +1,1 @@
-{
-    "id": "10508499",
-    "itemNo": "10508499",
-    "name": "FELSISK",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"10508499","itemNo":"10508499","name":"FELSISK","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

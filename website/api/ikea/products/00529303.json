@@ -1,10 +1,1 @@
-{
-    "id": "00529303",
-    "itemNo": "00529303",
-    "name": "NATTSVÄRMARE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00529303","itemNo":"00529303","name":"NATTSVÄRMARE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

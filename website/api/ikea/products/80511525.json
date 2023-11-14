@@ -1,10 +1,1 @@
-{
-    "id": "80511525",
-    "itemNo": "80511525",
-    "name": "ENVÄLDIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"80511525","itemNo":"80511525","name":"ENVÄLDIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s89398681",
-    "itemNo": "89398681",
-    "name": "BILLY / BESTÅ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 998 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6337 }
-    ]
-}
+{"id":"s89398681","itemNo":"89398681","name":"BILLY / BESTÅ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":998},{"countryCode":"cz","currencyCode":"CZK","price":6337}]}

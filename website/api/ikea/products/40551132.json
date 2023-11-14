@@ -1,10 +1,1 @@
-{
-    "id": "40551132",
-    "itemNo": "40551132",
-    "name": "VÄXTHUS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"40551132","itemNo":"40551132","name":"VÄXTHUS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

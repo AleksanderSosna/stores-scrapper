@@ -1,10 +1,1 @@
-{
-    "id": "80490924",
-    "itemNo": "80490924",
-    "name": "SINDVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 80 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 450 }
-    ]
-}
+{"id":"80490924","itemNo":"80490924","name":"SINDVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":80},{"countryCode":"cz","currencyCode":"CZK","price":450}]}

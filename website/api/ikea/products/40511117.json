@@ -1,10 +1,1 @@
-{
-    "id": "40511117",
-    "itemNo": "40511117",
-    "name": "ÖSTERILD",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"40511117","itemNo":"40511117","name":"ÖSTERILD","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60540473",
-    "itemNo": "60540473",
-    "name": "BRAVUR",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"60540473","itemNo":"60540473","name":"BRAVUR","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

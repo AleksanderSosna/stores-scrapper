@@ -1,10 +1,1 @@
-{
-    "id": "s49484275",
-    "itemNo": "49484275",
-    "name": "POÄNG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 829 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4680 }
-    ]
-}
+{"id":"s49484275","itemNo":"49484275","name":"POÄNG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":829},{"countryCode":"cz","currencyCode":"CZK","price":4680}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60563704",
-    "itemNo": "60563704",
-    "name": "TIPPVAGN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
-    ]
-}
+{"id":"60563704","itemNo":"60563704","name":"TIPPVAGN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2.99},{"countryCode":"cz","currencyCode":"CZK","price":15}]}

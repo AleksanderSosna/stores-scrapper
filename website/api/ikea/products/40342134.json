@@ -1,10 +1,1 @@
-{
-    "id": "40342134",
-    "itemNo": "40342134",
-    "name": "FULLTALIG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"40342134","itemNo":"40342134","name":"FULLTALIG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00522863",
-    "itemNo": "00522863",
-    "name": "NÄSSELKLOCKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 209 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 849 }
-    ]
-}
+{"id":"00522863","itemNo":"00522863","name":"NÄSSELKLOCKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":209},{"countryCode":"cz","currencyCode":"CZK","price":849}]}

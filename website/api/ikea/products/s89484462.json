@@ -1,10 +1,1 @@
-{
-    "id": "s89484462",
-    "itemNo": "89484462",
-    "name": "GRÅVACKA / MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"s89484462","itemNo":"89484462","name":"GRÅVACKA / MOLNART","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s39481692",
-    "itemNo": "39481692",
-    "name": "KALLAX / LINNMON",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 608 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3689 }
-    ]
-}
+{"id":"s39481692","itemNo":"39481692","name":"KALLAX / LINNMON","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":608},{"countryCode":"cz","currencyCode":"CZK","price":3689}]}

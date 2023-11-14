@@ -1,10 +1,1 @@
-{
-    "id": "s19418324",
-    "itemNo": "19418324",
-    "name": "BERGSHULT / TOMTHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 75.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
-    ]
-}
+{"id":"s19418324","itemNo":"19418324","name":"BERGSHULT / TOMTHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":75.99},{"countryCode":"cz","currencyCode":"CZK","price":379}]}

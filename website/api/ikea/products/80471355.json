@@ -1,10 +1,1 @@
-{
-    "id": "80471355",
-    "itemNo": "80471355",
-    "name": "VIRRMO",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"80471355","itemNo":"80471355","name":"VIRRMO","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

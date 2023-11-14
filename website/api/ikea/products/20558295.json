@@ -1,10 +1,1 @@
-{
-    "id": "20558295",
-    "itemNo": "20558295",
-    "name": "BRUNKRISSLA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"20558295","itemNo":"20558295","name":"BRUNKRISSLA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80342900",
-    "itemNo": "80342900",
-    "name": "MOTTAGA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"80342900","itemNo":"80342900","name":"MOTTAGA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

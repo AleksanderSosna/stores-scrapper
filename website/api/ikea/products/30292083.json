@@ -1,10 +1,1 @@
-{
-    "id": "30292083",
-    "itemNo": "30292083",
-    "name": "GRIMAR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"30292083","itemNo":"30292083","name":"GRIMAR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00110640",
-    "itemNo": "00110640",
-    "name": "LERSTA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00110640","itemNo":"00110640","name":"LERSTA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

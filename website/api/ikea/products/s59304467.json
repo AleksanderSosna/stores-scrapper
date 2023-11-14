@@ -1,10 +1,1 @@
-{
-    "id": "s59304467",
-    "itemNo": "59304467",
-    "name": "HEMNES / ODENSVIK",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15970 }
-    ]
-}
+{"id":"s59304467","itemNo":"59304467","name":"HEMNES / ODENSVIK","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2449},{"countryCode":"cz","currencyCode":"CZK","price":15970}]}

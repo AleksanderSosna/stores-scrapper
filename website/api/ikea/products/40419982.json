@@ -1,10 +1,1 @@
-{
-    "id": "40419982",
-    "itemNo": "40419982",
-    "name": "ALEFJÄLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"40419982","itemNo":"40419982","name":"ALEFJÄLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1199},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

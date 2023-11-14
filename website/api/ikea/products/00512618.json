@@ -1,10 +1,1 @@
-{
-    "id": "00512618",
-    "itemNo": "00512618",
-    "name": "TOLKNING",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"00512618","itemNo":"00512618","name":"TOLKNING","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50060713",
-    "itemNo": "50060713",
-    "name": "EKORRE",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"50060713","itemNo":"50060713","name":"EKORRE","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

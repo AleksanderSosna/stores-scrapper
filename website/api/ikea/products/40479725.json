@@ -1,10 +1,1 @@
-{
-    "id": "40479725",
-    "itemNo": "40479725",
-    "name": "GODMIDDAG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"40479725","itemNo":"40479725","name":"GODMIDDAG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

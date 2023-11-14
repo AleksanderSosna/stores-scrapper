@@ -1,10 +1,1 @@
-{
-    "id": "80382321",
-    "itemNo": "80382321",
-    "name": "MAMMUT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"80382321","itemNo":"80382321","name":"MAMMUT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

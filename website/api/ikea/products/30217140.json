@@ -1,10 +1,1 @@
-{
-    "id": "30217140",
-    "itemNo": "30217140",
-    "name": "HUGAD",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 150 }
-    ]
-}
+{"id":"30217140","itemNo":"30217140","name":"HUGAD","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":25},{"countryCode":"cz","currencyCode":"CZK","price":150}]}

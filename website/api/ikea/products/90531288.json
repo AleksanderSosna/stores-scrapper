@@ -1,10 +1,1 @@
-{
-    "id": "90531288",
-    "itemNo": "90531288",
-    "name": "SOTNÄTFJÄRIL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 849 }
-    ]
-}
+{"id":"90531288","itemNo":"90531288","name":"SOTNÄTFJÄRIL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":159},{"countryCode":"cz","currencyCode":"CZK","price":849}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90241788",
-    "itemNo": "90241788",
-    "name": "SMÄCKER",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"90241788","itemNo":"90241788","name":"SMÄCKER","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

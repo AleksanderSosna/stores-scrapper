@@ -1,10 +1,1 @@
-{
-    "id": "40511056",
-    "itemNo": "40511056",
-    "name": "NACKANÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
-    ]
-}
+{"id":"40511056","itemNo":"40511056","name":"NACKANÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":5490}]}

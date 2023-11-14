@@ -1,10 +1,1 @@
-{
-    "id": "10496420",
-    "itemNo": "10496420",
-    "name": "RÖRT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"10496420","itemNo":"10496420","name":"RÖRT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

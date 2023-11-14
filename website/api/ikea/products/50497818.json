@@ -1,10 +1,1 @@
-{
-    "id": "50497818",
-    "itemNo": "50497818",
-    "name": "STRAUMEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 225 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1150 }
-    ]
-}
+{"id":"50497818","itemNo":"50497818","name":"STRAUMEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":225},{"countryCode":"cz","currencyCode":"CZK","price":1150}]}

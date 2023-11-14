@@ -1,10 +1,1 @@
-{
-    "id": "20504194",
-    "itemNo": "20504194",
-    "name": "GÖRSNYGG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"20504194","itemNo":"20504194","name":"GÖRSNYGG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

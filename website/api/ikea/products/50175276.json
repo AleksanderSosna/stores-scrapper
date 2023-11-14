@@ -1,10 +1,1 @@
-{
-    "id": "50175276",
-    "itemNo": "50175276",
-    "name": "IKEA 365+ GUNSTIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"50175276","itemNo":"50175276","name":"IKEA 365+ GUNSTIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

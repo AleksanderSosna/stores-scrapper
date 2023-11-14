@@ -1,10 +1,1 @@
-{
-    "id": "80468796",
-    "itemNo": "80468796",
-    "name": "EILIF",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"80468796","itemNo":"80468796","name":"EILIF","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":150},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

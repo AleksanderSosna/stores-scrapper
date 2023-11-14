@@ -1,10 +1,1 @@
-{
-    "id": "30482974",
-    "itemNo": "30482974",
-    "name": "LYSEKIL",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"30482974","itemNo":"30482974","name":"LYSEKIL","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

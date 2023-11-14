@@ -1,10 +1,1 @@
-{
-    "id": "20495415",
-    "itemNo": "20495415",
-    "name": "LYDERSHOLM",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"20495415","itemNo":"20495415","name":"LYDERSHOLM","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

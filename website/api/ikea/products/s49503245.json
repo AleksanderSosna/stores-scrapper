@@ -1,10 +1,1 @@
-{
-    "id": "s49503245",
-    "itemNo": "49503245",
-    "name": "LÄKTARE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2890 }
-    ]
-}
+{"id":"s49503245","itemNo":"49503245","name":"LÄKTARE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2890}]}

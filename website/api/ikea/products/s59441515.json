@@ -1,10 +1,1 @@
-{
-    "id": "s59441515",
-    "itemNo": "59441515",
-    "name": "UPPSPEL / GRUPPSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4597 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 22970 }
-    ]
-}
+{"id":"s59441515","itemNo":"59441515","name":"UPPSPEL / GRUPPSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4597},{"countryCode":"cz","currencyCode":"CZK","price":22970}]}

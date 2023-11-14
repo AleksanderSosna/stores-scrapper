@@ -1,10 +1,1 @@
-{
-    "id": "70491373",
-    "itemNo": "70491373",
-    "name": "SPORTSLIG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"70491373","itemNo":"70491373","name":"SPORTSLIG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

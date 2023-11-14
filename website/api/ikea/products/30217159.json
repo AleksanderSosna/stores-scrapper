@@ -1,10 +1,1 @@
-{
-    "id": "30217159",
-    "itemNo": "30217159",
-    "name": "RÄCKA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 70 }
-    ]
-}
+{"id":"30217159","itemNo":"30217159","name":"RÄCKA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":70}]}

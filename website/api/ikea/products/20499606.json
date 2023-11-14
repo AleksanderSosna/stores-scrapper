@@ -1,10 +1,1 @@
-{
-    "id": "20499606",
-    "itemNo": "20499606",
-    "name": "JÄRPLIDEN",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"20499606","itemNo":"20499606","name":"JÄRPLIDEN","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

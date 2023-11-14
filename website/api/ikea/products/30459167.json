@@ -1,10 +1,1 @@
-{
-    "id": "30459167",
-    "itemNo": "30459167",
-    "name": "STORÄTARE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"30459167","itemNo":"30459167","name":"STORÄTARE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

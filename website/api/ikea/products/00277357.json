@@ -1,10 +1,1 @@
-{
-    "id": "00277357",
-    "itemNo": "00277357",
-    "name": "VÄRDERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"00277357","itemNo":"00277357","name":"VÄRDERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

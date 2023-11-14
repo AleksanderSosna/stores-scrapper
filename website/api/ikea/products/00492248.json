@@ -1,10 +1,1 @@
-{
-    "id": "00492248",
-    "itemNo": "00492248",
-    "name": "CHILISTRÅN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"00492248","itemNo":"00492248","name":"CHILISTRÅN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50386245",
-    "itemNo": "50386245",
-    "name": "MÖRBYLÅNGA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 16990 }
-    ]
-}
+{"id":"50386245","itemNo":"50386245","name":"MÖRBYLÅNGA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2999},{"countryCode":"cz","currencyCode":"CZK","price":16990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20554117",
-    "itemNo": "20554117",
-    "name": "GURLI",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"20554117","itemNo":"20554117","name":"GURLI","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

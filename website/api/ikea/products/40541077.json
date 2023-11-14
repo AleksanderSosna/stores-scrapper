@@ -1,10 +1,1 @@
-{
-    "id": "40541077",
-    "itemNo": "40541077",
-    "name": "LUKTJASMIN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"40541077","itemNo":"40541077","name":"LUKTJASMIN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":279},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

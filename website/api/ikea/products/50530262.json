@@ -1,10 +1,1 @@
-{
-    "id": "50530262",
-    "itemNo": "50530262",
-    "name": "STÄLL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"50530262","itemNo":"50530262","name":"STÄLL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

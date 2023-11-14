@@ -1,10 +1,1 @@
-{
-    "id": "s09483918",
-    "itemNo": "09483918",
-    "name": "SMÅSTAD / PLATSA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1539 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8570 }
-    ]
-}
+{"id":"s09483918","itemNo":"09483918","name":"SMÅSTAD / PLATSA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1539},{"countryCode":"cz","currencyCode":"CZK","price":8570}]}

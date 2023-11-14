@@ -1,10 +1,1 @@
-{
-    "id": "40360222",
-    "itemNo": "40360222",
-    "name": "METALLISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"40360222","itemNo":"40360222","name":"METALLISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

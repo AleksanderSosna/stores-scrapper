@@ -1,10 +1,1 @@
-{
-    "id": "80532603",
-    "itemNo": "80532603",
-    "name": "TJABBIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"80532603","itemNo":"80532603","name":"TJABBIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60439130",
-    "itemNo": "60439130",
-    "name": "SÄLJAN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"60439130","itemNo":"60439130","name":"SÄLJAN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

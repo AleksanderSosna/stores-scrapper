@@ -1,10 +1,1 @@
-{
-    "id": "90474749",
-    "itemNo": "90474749",
-    "name": "TROTTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 990 }
-    ]
-}
+{"id":"90474749","itemNo":"90474749","name":"TROTTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":990}]}

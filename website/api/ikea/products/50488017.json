@@ -1,10 +1,1 @@
-{
-    "id": "50488017",
-    "itemNo": "50488017",
-    "name": "VÅGSJÖN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"50488017","itemNo":"50488017","name":"VÅGSJÖN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

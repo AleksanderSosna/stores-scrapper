@@ -1,10 +1,1 @@
-{
-    "id": "50523271",
-    "itemNo": "50523271",
-    "name": "BLECKSJÖN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
-    ]
-}
+{"id":"50523271","itemNo":"50523271","name":"BLECKSJÖN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":329}]}

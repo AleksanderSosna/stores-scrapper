@@ -1,10 +1,1 @@
-{
-    "id": "40526246",
-    "itemNo": "40526246",
-    "name": "OBEGRÄNSAD",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2790 }
-    ]
-}
+{"id":"40526246","itemNo":"40526246","name":"OBEGRÄNSAD","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2790}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10527209",
-    "itemNo": "10527209",
-    "name": "ASPSKOG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"10527209","itemNo":"10527209","name":"ASPSKOG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

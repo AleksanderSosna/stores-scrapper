@@ -1,10 +1,1 @@
-{
-    "id": "s49439693",
-    "itemNo": "49439693",
-    "name": "BJÖRNÖYA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1525 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8200 }
-    ]
-}
+{"id":"s49439693","itemNo":"49439693","name":"BJÖRNÖYA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1525},{"countryCode":"cz","currencyCode":"CZK","price":8200}]}

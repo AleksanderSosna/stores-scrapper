@@ -1,10 +1,1 @@
-{
-    "id": "10479604",
-    "itemNo": "10479604",
-    "name": "MARIATHERES",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"10479604","itemNo":"10479604","name":"MARIATHERES","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

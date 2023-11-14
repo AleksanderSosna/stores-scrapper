@@ -1,10 +1,1 @@
-{
-    "id": "90279842",
-    "itemNo": "90279842",
-    "name": "KVITTERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"90279842","itemNo":"90279842","name":"KVITTERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

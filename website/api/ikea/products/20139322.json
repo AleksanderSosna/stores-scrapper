@@ -1,10 +1,1 @@
-{
-    "id": "20139322",
-    "itemNo": "20139322",
-    "name": "KAVALKAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"20139322","itemNo":"20139322","name":"KAVALKAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

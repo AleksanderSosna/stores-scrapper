@@ -1,10 +1,1 @@
-{
-    "id": "s39482719",
-    "itemNo": "39482719",
-    "name": "LANEBERG / NORDVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11950 }
-    ]
-}
+{"id":"s39482719","itemNo":"39482719","name":"LANEBERG / NORDVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1995},{"countryCode":"cz","currencyCode":"CZK","price":11950}]}

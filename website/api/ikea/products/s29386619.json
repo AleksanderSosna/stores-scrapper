@@ -1,10 +1,1 @@
-{
-    "id": "s29386619",
-    "itemNo": "29386619",
-    "name": "PAX / GRIMO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2595 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14430 }
-    ]
-}
+{"id":"s29386619","itemNo":"29386619","name":"PAX / GRIMO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2595},{"countryCode":"cz","currencyCode":"CZK","price":14430}]}

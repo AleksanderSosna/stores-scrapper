@@ -1,10 +1,1 @@
-{
-    "id": "20561274",
-    "itemNo": "20561274",
-    "name": "PADDFOT",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20561274","itemNo":"20561274","name":"PADDFOT","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

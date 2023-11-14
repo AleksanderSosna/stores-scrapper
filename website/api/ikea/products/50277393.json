@@ -1,10 +1,1 @@
-{
-    "id": "50277393",
-    "itemNo": "50277393",
-    "name": "LOHALS",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"50277393","itemNo":"50277393","name":"LOHALS","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

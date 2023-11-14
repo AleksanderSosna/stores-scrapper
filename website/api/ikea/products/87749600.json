@@ -1,10 +1,1 @@
-{
-    "id": "87749600",
-    "itemNo": "87749600",
-    "name": "OBSERVATÖR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 70 }
-    ]
-}
+{"id":"87749600","itemNo":"87749600","name":"OBSERVATÖR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":70}]}

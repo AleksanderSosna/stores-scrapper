@@ -1,10 +1,1 @@
-{
-    "id": "s19332194",
-    "itemNo": "19332194",
-    "name": "GRIMO",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 300 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
-    ]
-}
+{"id":"s19332194","itemNo":"19332194","name":"GRIMO","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":300},{"countryCode":"cz","currencyCode":"CZK","price":1800}]}

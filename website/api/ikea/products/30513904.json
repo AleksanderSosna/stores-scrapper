@@ -1,10 +1,1 @@
-{
-    "id": "30513904",
-    "itemNo": "30513904",
-    "name": "LISTERBY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"30513904","itemNo":"30513904","name":"LISTERBY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":899},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

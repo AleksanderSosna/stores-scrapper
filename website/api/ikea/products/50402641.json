@@ -1,10 +1,1 @@
-{
-    "id": "50402641",
-    "itemNo": "50402641",
-    "name": "HAUGA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"50402641","itemNo":"50402641","name":"HAUGA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

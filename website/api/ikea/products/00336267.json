@@ -1,10 +1,1 @@
-{
-    "id": "00336267",
-    "itemNo": "00336267",
-    "name": "NYMÅNE",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"00336267","itemNo":"00336267","name":"NYMÅNE","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

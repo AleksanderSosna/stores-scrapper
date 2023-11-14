@@ -1,10 +1,1 @@
-{
-    "id": "80569248",
-    "itemNo": "80569248",
-    "name": "FLYGFISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"80569248","itemNo":"80569248","name":"FLYGFISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

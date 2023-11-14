@@ -1,10 +1,1 @@
-{
-    "id": "60485438",
-    "itemNo": "60485438",
-    "name": "FÄRGKLAR",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"60485438","itemNo":"60485438","name":"FÄRGKLAR","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":44.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

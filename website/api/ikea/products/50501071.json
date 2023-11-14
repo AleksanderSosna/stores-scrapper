@@ -1,10 +1,1 @@
-{
-    "id": "50501071",
-    "itemNo": "50501071",
-    "name": "GREÅKER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"50501071","itemNo":"50501071","name":"GREÅKER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

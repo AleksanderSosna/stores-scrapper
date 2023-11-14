@@ -1,10 +1,1 @@
-{
-    "id": "90541353",
-    "itemNo": "90541353",
-    "name": "TAGGÖGA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"90541353","itemNo":"90541353","name":"TAGGÖGA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

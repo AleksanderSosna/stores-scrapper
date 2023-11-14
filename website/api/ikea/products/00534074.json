@@ -1,10 +1,1 @@
-{
-    "id": "00534074",
-    "itemNo": "00534074",
-    "name": "BLÅVINGAD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00534074","itemNo":"00534074","name":"BLÅVINGAD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

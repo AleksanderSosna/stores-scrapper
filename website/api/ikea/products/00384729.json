@@ -1,10 +1,1 @@
-{
-    "id": "00384729",
-    "itemNo": "00384729",
-    "name": "KAFFEREP",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"00384729","itemNo":"00384729","name":"KAFFEREP","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

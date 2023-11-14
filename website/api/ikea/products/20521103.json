@@ -1,10 +1,1 @@
-{
-    "id": "20521103",
-    "itemNo": "20521103",
-    "name": "BLÅVINGAD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"20521103","itemNo":"20521103","name":"BLÅVINGAD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

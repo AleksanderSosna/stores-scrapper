@@ -1,10 +1,1 @@
-{
-    "id": "00531674",
-    "itemNo": "00531674",
-    "name": "AVSTEG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"00531674","itemNo":"00531674","name":"AVSTEG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s29391908",
-    "itemNo": "29391908",
-    "name": "METOD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 385 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2550 }
-    ]
-}
+{"id":"s29391908","itemNo":"29391908","name":"METOD","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":385},{"countryCode":"cz","currencyCode":"CZK","price":2550}]}

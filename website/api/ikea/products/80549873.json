@@ -1,10 +1,1 @@
-{
-    "id": "80549873",
-    "itemNo": "80549873",
-    "name": "VINARN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"80549873","itemNo":"80549873","name":"VINARN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

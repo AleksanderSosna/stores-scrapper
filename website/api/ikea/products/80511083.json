@@ -1,10 +1,1 @@
-{
-    "id": "80511083",
-    "itemNo": "80511083",
-    "name": "ARTISTISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"80511083","itemNo":"80511083","name":"ARTISTISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s89440562",
-    "itemNo": "89440562",
-    "name": "BOAXEL / LAGKAPTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 514 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3259 }
-    ]
-}
+{"id":"s89440562","itemNo":"89440562","name":"BOAXEL / LAGKAPTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":514},{"countryCode":"cz","currencyCode":"CZK","price":3259}]}

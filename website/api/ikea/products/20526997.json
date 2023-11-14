@@ -1,10 +1,1 @@
-{
-    "id": "20526997",
-    "itemNo": "20526997",
-    "name": "FOKUSERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
-    ]
-}
+{"id":"20526997","itemNo":"20526997","name":"FOKUSERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1699},{"countryCode":"cz","currencyCode":"CZK","price":8990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00556179",
-    "itemNo": "00556179",
-    "name": "SUNNERSTA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
-    ]
-}
+{"id":"00556179","itemNo":"00556179","name":"SUNNERSTA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":25}]}

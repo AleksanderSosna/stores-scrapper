@@ -1,10 +1,1 @@
-{
-    "id": "30497923",
-    "itemNo": "30497923",
-    "name": "ÖVERMÄTT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"30497923","itemNo":"30497923","name":"ÖVERMÄTT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

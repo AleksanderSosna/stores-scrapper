@@ -1,10 +1,1 @@
-{
-    "id": "70417024",
-    "itemNo": "70417024",
-    "name": "TIDVATTEN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"70417024","itemNo":"70417024","name":"TIDVATTEN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

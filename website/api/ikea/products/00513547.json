@@ -1,10 +1,1 @@
-{
-    "id": "00513547",
-    "itemNo": "00513547",
-    "name": "KLAGSHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"00513547","itemNo":"00513547","name":"KLAGSHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

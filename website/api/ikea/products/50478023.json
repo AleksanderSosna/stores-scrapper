@@ -1,10 +1,1 @@
-{
-    "id": "50478023",
-    "itemNo": "50478023",
-    "name": "LILLASJÖN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"50478023","itemNo":"50478023","name":"LILLASJÖN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

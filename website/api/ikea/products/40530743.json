@@ -1,10 +1,1 @@
-{
-    "id": "40530743",
-    "itemNo": "40530743",
-    "name": "FAMILJ",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"40530743","itemNo":"40530743","name":"FAMILJ","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

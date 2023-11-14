@@ -1,10 +1,1 @@
-{
-    "id": "s29499305",
-    "itemNo": "29499305",
-    "name": "TREDANSEN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 948 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4980 }
-    ]
-}
+{"id":"s29499305","itemNo":"29499305","name":"TREDANSEN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":948},{"countryCode":"cz","currencyCode":"CZK","price":4980}]}

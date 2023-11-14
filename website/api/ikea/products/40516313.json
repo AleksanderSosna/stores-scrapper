@@ -1,10 +1,1 @@
-{
-    "id": "40516313",
-    "itemNo": "40516313",
-    "name": "LASSBYN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40516313","itemNo":"40516313","name":"LASSBYN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

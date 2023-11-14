@@ -1,10 +1,1 @@
-{
-    "id": "40545933",
-    "itemNo": "40545933",
-    "name": "SVARTSENAP",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40545933","itemNo":"40545933","name":"SVARTSENAP","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

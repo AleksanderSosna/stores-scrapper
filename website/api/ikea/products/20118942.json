@@ -1,10 +1,1 @@
-{
-    "id": "20118942",
-    "itemNo": "20118942",
-    "name": "KNÄCKEBRÖD FLERKORN",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 8.5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"20118942","itemNo":"20118942","name":"KNÄCKEBRÖD FLERKORN","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":8.5},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

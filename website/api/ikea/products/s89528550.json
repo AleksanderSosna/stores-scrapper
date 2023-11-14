@@ -1,10 +1,1 @@
-{
-    "id": "s89528550",
-    "itemNo": "89528550",
-    "name": "TOMMARYD / LÄKTARE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2345 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 16550 }
-    ]
-}
+{"id":"s89528550","itemNo":"89528550","name":"TOMMARYD / LÄKTARE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2345},{"countryCode":"cz","currencyCode":"CZK","price":16550}]}

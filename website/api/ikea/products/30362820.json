@@ -1,10 +1,1 @@
-{
-    "id": "30362820",
-    "itemNo": "30362820",
-    "name": "DINERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"30362820","itemNo":"30362820","name":"DINERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

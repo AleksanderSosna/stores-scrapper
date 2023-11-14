@@ -1,10 +1,1 @@
-{
-    "id": "90490933",
-    "itemNo": "90490933",
-    "name": "BERGSVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 160 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"90490933","itemNo":"90490933","name":"BERGSVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":160},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

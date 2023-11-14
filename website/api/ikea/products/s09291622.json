@@ -1,10 +1,1 @@
-{
-    "id": "s09291622",
-    "itemNo": "09291622",
-    "name": "KOLBJÖRN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1397 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6970 }
-    ]
-}
+{"id":"s09291622","itemNo":"09291622","name":"KOLBJÖRN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1397},{"countryCode":"cz","currencyCode":"CZK","price":6970}]}

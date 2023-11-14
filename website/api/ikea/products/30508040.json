@@ -1,10 +1,1 @@
-{
-    "id": "30508040",
-    "itemNo": "30508040",
-    "name": "NATTSLÄNDA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"30508040","itemNo":"30508040","name":"NATTSLÄNDA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

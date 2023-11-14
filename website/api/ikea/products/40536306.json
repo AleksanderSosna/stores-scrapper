@@ -1,10 +1,1 @@
-{
-    "id": "40536306",
-    "itemNo": "40536306",
-    "name": "KÄRRDUNÖRT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"40536306","itemNo":"40536306","name":"KÄRRDUNÖRT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

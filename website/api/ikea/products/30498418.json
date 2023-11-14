@@ -1,10 +1,1 @@
-{
-    "id": "30498418",
-    "itemNo": "30498418",
-    "name": "STIG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"30498418","itemNo":"30498418","name":"STIG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

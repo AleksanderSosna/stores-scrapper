@@ -1,10 +1,1 @@
-{
-    "id": "00491531",
-    "itemNo": "00491531",
-    "name": "KYRRE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"00491531","itemNo":"00491531","name":"KYRRE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

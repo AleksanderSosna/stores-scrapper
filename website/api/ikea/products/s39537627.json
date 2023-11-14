@@ -1,10 +1,1 @@
-{
-    "id": "s39537627",
-    "itemNo": "39537627",
-    "name": "FREDDE / MATCHSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1498 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9480 }
-    ]
-}
+{"id":"s39537627","itemNo":"39537627","name":"FREDDE / MATCHSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1498},{"countryCode":"cz","currencyCode":"CZK","price":9480}]}

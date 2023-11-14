@@ -1,10 +1,1 @@
-{
-    "id": "20552222",
-    "itemNo": "20552222",
-    "name": "VEDBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"20552222","itemNo":"20552222","name":"VEDBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

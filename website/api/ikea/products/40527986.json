@@ -1,10 +1,1 @@
-{
-    "id": "40527986",
-    "itemNo": "40527986",
-    "name": "UDDARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
-    ]
-}
+{"id":"40527986","itemNo":"40527986","name":"UDDARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2599},{"countryCode":"cz","currencyCode":"CZK","price":12990}]}

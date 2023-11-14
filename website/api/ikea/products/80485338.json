@@ -1,10 +1,1 @@
-{
-    "id": "80485338",
-    "itemNo": "80485338",
-    "name": "PERJOHAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"80485338","itemNo":"80485338","name":"PERJOHAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

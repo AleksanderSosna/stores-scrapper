@@ -1,10 +1,1 @@
-{
-    "id": "s59412612",
-    "itemNo": "59412612",
-    "name": "BESTÅ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1160 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6010 }
-    ]
-}
+{"id":"s59412612","itemNo":"59412612","name":"BESTÅ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1160},{"countryCode":"cz","currencyCode":"CZK","price":6010}]}

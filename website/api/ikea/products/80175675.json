@@ -1,10 +1,1 @@
-{
-    "id": "80175675",
-    "itemNo": "80175675",
-    "name": "ROMANTISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"80175675","itemNo":"80175675","name":"ROMANTISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":44.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

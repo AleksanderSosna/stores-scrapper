@@ -1,10 +1,1 @@
-{
-    "id": "60508883",
-    "itemNo": "60508883",
-    "name": "IGELSTORP",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
-    ]
-}
+{"id":"60508883","itemNo":"60508883","name":"IGELSTORP","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":329}]}

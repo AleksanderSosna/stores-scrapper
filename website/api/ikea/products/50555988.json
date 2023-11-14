@@ -1,10 +1,1 @@
-{
-    "id": "50555988",
-    "itemNo": "50555988",
-    "name": "BÄCKFRÄNE",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"50555988","itemNo":"50555988","name":"BÄCKFRÄNE","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

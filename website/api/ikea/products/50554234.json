@@ -1,10 +1,1 @@
-{
-    "id": "50554234",
-    "itemNo": "50554234",
-    "name": "KAPHYACINT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"50554234","itemNo":"50554234","name":"KAPHYACINT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

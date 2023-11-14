@@ -1,10 +1,1 @@
-{
-    "id": "10496953",
-    "itemNo": "10496953",
-    "name": "TILLREDA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 529 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
-    ]
-}
+{"id":"10496953","itemNo":"10496953","name":"TILLREDA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":529},{"countryCode":"cz","currencyCode":"CZK","price":2690}]}

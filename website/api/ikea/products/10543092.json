@@ -1,10 +1,1 @@
-{
-    "id": "10543092",
-    "itemNo": "10543092",
-    "name": "BONDIS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 479 }
-    ]
-}
+{"id":"10543092","itemNo":"10543092","name":"BONDIS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":479}]}

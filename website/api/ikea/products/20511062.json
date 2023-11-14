@@ -1,10 +1,1 @@
-{
-    "id": "20511062",
-    "itemNo": "20511062",
-    "name": "BARNDRÖM",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"20511062","itemNo":"20511062","name":"BARNDRÖM","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

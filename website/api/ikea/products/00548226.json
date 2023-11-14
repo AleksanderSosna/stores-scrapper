@@ -1,10 +1,1 @@
-{
-    "id": "00548226",
-    "itemNo": "00548226",
-    "name": "HUTLÖS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00548226","itemNo":"00548226","name":"HUTLÖS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

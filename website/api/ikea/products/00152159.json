@@ -1,10 +1,1 @@
-{
-    "id": "00152159",
-    "itemNo": "00152159",
-    "name": "IKEA 365+ VÄRDEFULL",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00152159","itemNo":"00152159","name":"IKEA 365+ VÄRDEFULL","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90458768",
-    "itemNo": "90458768",
-    "name": "IDANÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
-    ]
-}
+{"id":"90458768","itemNo":"90458768","name":"IDANÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1399},{"countryCode":"cz","currencyCode":"CZK","price":8490}]}

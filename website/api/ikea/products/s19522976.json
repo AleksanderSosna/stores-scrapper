@@ -1,10 +1,1 @@
-{
-    "id": "s19522976",
-    "itemNo": "19522976",
-    "name": "PAX / MISTUDDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2180 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12420 }
-    ]
-}
+{"id":"s19522976","itemNo":"19522976","name":"PAX / MISTUDDEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2180},{"countryCode":"cz","currencyCode":"CZK","price":12420}]}

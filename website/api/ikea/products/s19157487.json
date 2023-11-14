@@ -1,10 +1,1 @@
-{
-    "id": "s19157487",
-    "itemNo": "19157487",
-    "name": "LÅNGUDDEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 444 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"s19157487","itemNo":"19157487","name":"LÅNGUDDEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":444},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

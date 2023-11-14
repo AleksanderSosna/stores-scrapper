@@ -1,10 +1,1 @@
-{
-    "id": "50382191",
-    "itemNo": "50382191",
-    "name": "IDÅSEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"50382191","itemNo":"50382191","name":"IDÅSEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

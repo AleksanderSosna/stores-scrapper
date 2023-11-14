@@ -1,10 +1,1 @@
-{
-    "id": "40340804",
-    "itemNo": "40340804",
-    "name": "EKEDALEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"40340804","itemNo":"40340804","name":"EKEDALEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

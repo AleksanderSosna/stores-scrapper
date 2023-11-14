@@ -1,10 +1,1 @@
-{
-    "id": "s39337609",
-    "itemNo": "39337609",
-    "name": "ENHET / TVÄLLEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2466.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11582 }
-    ]
-}
+{"id":"s39337609","itemNo":"39337609","name":"ENHET / TVÄLLEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2466.99},{"countryCode":"cz","currencyCode":"CZK","price":11582}]}

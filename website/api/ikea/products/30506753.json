@@ -1,10 +1,1 @@
-{
-    "id": "30506753",
-    "itemNo": "30506753",
-    "name": "RANNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
-    ]
-}
+{"id":"30506753","itemNo":"30506753","name":"RANNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1899},{"countryCode":"cz","currencyCode":"CZK","price":11990}]}

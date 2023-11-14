@@ -1,10 +1,1 @@
-{
-    "id": "70221423",
-    "itemNo": "70221423",
-    "name": "INGATORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"70221423","itemNo":"70221423","name":"INGATORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09433301",
-    "itemNo": "09433301",
-    "name": "PAX / HOKKSUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3325 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19540 }
-    ]
-}
+{"id":"s09433301","itemNo":"09433301","name":"PAX / HOKKSUND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3325},{"countryCode":"cz","currencyCode":"CZK","price":19540}]}

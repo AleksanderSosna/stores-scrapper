@@ -1,10 +1,1 @@
-{
-    "id": "40446754",
-    "itemNo": "40446754",
-    "name": "RUMSMALVA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40446754","itemNo":"40446754","name":"RUMSMALVA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

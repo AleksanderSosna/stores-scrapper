@@ -1,10 +1,1 @@
-{
-    "id": "70217973",
-    "itemNo": "70217973",
-    "name": "ADILS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
-    ]
-}
+{"id":"70217973","itemNo":"70217973","name":"ADILS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":100}]}

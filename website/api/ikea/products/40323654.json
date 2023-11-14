@@ -1,10 +1,1 @@
-{
-    "id": "40323654",
-    "itemNo": "40323654",
-    "name": "KORKEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"40323654","itemNo":"40323654","name":"KORKEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

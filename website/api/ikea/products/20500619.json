@@ -1,10 +1,1 @@
-{
-    "id": "20500619",
-    "itemNo": "20500619",
-    "name": "VÄSTKUSTROS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"20500619","itemNo":"20500619","name":"VÄSTKUSTROS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

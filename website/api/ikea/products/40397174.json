@@ -1,10 +1,1 @@
-{
-    "id": "40397174",
-    "itemNo": "40397174",
-    "name": "EKBACKEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1890 }
-    ]
-}
+{"id":"40397174","itemNo":"40397174","name":"EKBACKEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1890}]}

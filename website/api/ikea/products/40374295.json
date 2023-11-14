@@ -1,10 +1,1 @@
-{
-    "id": "40374295",
-    "itemNo": "40374295",
-    "name": "VINTERSAGA",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"40374295","itemNo":"40374295","name":"VINTERSAGA","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

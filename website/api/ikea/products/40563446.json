@@ -1,10 +1,1 @@
-{
-    "id": "40563446",
-    "itemNo": "40563446",
-    "name": "KUSTGRAN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 44.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"40563446","itemNo":"40563446","name":"KUSTGRAN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":44.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

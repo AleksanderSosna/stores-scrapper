@@ -1,10 +1,1 @@
-{
-    "id": "00450818",
-    "itemNo": "00450818",
-    "name": "SKOGSKORN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00450818","itemNo":"00450818","name":"SKOGSKORN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

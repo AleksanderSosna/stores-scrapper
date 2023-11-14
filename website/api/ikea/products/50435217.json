@@ -1,10 +1,1 @@
-{
-    "id": "50435217",
-    "itemNo": "50435217",
-    "name": "SVALLERUP",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"50435217","itemNo":"50435217","name":"SVALLERUP","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

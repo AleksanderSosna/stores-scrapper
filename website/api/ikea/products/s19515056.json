@@ -1,10 +1,1 @@
-{
-    "id": "s19515056",
-    "itemNo": "19515056",
-    "name": "TONSTAD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1798 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11980 }
-    ]
-}
+{"id":"s19515056","itemNo":"19515056","name":"TONSTAD","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1798},{"countryCode":"cz","currencyCode":"CZK","price":11980}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s29221256",
-    "itemNo": "29221256",
-    "name": "MELLTORP / TEODORES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 815 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5386 }
-    ]
-}
+{"id":"s29221256","itemNo":"29221256","name":"MELLTORP / TEODORES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":815},{"countryCode":"cz","currencyCode":"CZK","price":5386}]}

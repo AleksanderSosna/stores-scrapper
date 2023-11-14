@@ -1,10 +1,1 @@
-{
-    "id": "s69389531",
-    "itemNo": "69389531",
-    "name": "ESPEVÄR/VESTERÖY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 13190 }
-    ]
-}
+{"id":"s69389531","itemNo":"69389531","name":"ESPEVÄR/VESTERÖY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2119},{"countryCode":"cz","currencyCode":"CZK","price":13190}]}

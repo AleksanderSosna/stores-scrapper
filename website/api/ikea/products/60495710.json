@@ -1,10 +1,1 @@
-{
-    "id": "60495710",
-    "itemNo": "60495710",
-    "name": "VÄSTERVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"60495710","itemNo":"60495710","name":"VÄSTERVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

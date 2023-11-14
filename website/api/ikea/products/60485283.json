@@ -1,10 +1,1 @@
-{
-    "id": "60485283",
-    "itemNo": "60485283",
-    "name": "KABOMBA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"60485283","itemNo":"60485283","name":"KABOMBA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

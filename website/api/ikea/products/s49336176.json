@@ -1,10 +1,1 @@
-{
-    "id": "s49336176",
-    "itemNo": "49336176",
-    "name": "PAX / BERGSBO/ÅHEIM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2825 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15520 }
-    ]
-}
+{"id":"s49336176","itemNo":"49336176","name":"PAX / BERGSBO/ÅHEIM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2825},{"countryCode":"cz","currencyCode":"CZK","price":15520}]}

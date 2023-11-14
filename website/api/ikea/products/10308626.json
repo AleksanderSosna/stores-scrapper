@@ -1,10 +1,1 @@
-{
-    "id": "10308626",
-    "itemNo": "10308626",
-    "name": "SYLT LINGON",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"10308626","itemNo":"10308626","name":"SYLT LINGON","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

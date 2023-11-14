@@ -1,10 +1,1 @@
-{
-    "id": "50387259",
-    "itemNo": "50387259",
-    "name": "NYSKÖLJD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 11 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"50387259","itemNo":"50387259","name":"NYSKÖLJD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":11},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

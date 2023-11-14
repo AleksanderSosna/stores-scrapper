@@ -1,10 +1,1 @@
-{
-    "id": "00501436",
-    "itemNo": "00501436",
-    "name": "ANGSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
-    ]
-}
+{"id":"00501436","itemNo":"00501436","name":"ANGSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1499},{"countryCode":"cz","currencyCode":"CZK","price":8990}]}

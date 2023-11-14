@@ -1,10 +1,1 @@
-{
-    "id": "10475502",
-    "itemNo": "10475502",
-    "name": "MEDELSTOR",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"10475502","itemNo":"10475502","name":"MEDELSTOR","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1799},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

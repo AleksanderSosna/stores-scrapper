@@ -1,10 +1,1 @@
-{
-    "id": "60191916",
-    "itemNo": "60191916",
-    "name": "JUBLA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 32.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"60191916","itemNo":"60191916","name":"JUBLA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":32.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

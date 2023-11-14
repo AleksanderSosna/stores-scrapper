@@ -1,10 +1,1 @@
-{
-    "id": "10364740",
-    "itemNo": "10364740",
-    "name": "GRIMSÅS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
-    ]
-}
+{"id":"10364740","itemNo":"10364740","name":"GRIMSÅS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1790}]}

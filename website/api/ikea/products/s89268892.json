@@ -1,10 +1,1 @@
-{
-    "id": "s89268892",
-    "itemNo": "89268892",
-    "name": "SAGSTUA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"s89268892","itemNo":"89268892","name":"SAGSTUA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09431608",
-    "itemNo": "09431608",
-    "name": "SKATSJÖN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 310 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1598 }
-    ]
-}
+{"id":"s09431608","itemNo":"09431608","name":"SKATSJÖN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":310},{"countryCode":"cz","currencyCode":"CZK","price":1598}]}

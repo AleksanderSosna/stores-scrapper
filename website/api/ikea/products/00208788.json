@@ -1,10 +1,1 @@
-{
-    "id": "00208788",
-    "itemNo": "00208788",
-    "name": "FRASERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"00208788","itemNo":"00208788","name":"FRASERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

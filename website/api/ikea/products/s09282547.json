@@ -1,10 +1,1 @@
-{
-    "id": "s09282547",
-    "itemNo": "09282547",
-    "name": "BEKANT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"s09282547","itemNo":"09282547","name":"BEKANT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

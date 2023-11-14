@@ -1,10 +1,1 @@
-{
-    "id": "s29464914",
-    "itemNo": "29464914",
-    "name": "METOD / MAXIMERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1705 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9250 }
-    ]
-}
+{"id":"s29464914","itemNo":"29464914","name":"METOD / MAXIMERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1705},{"countryCode":"cz","currencyCode":"CZK","price":9250}]}

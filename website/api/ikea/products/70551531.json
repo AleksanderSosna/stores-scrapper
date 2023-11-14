@@ -1,10 +1,1 @@
-{
-    "id": "70551531",
-    "itemNo": "70551531",
-    "name": "AFTONSPARV",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"70551531","itemNo":"70551531","name":"AFTONSPARV","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

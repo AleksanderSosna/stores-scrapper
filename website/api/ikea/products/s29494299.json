@@ -1,10 +1,1 @@
-{
-    "id": "s29494299",
-    "itemNo": "29494299",
-    "name": "VANGSTA / TEODORES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1195 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6586 }
-    ]
-}
+{"id":"s29494299","itemNo":"29494299","name":"VANGSTA / TEODORES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1195},{"countryCode":"cz","currencyCode":"CZK","price":6586}]}

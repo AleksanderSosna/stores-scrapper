@@ -1,10 +1,1 @@
-{
-    "id": "20466229",
-    "itemNo": "20466229",
-    "name": "PINNARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"20466229","itemNo":"20466229","name":"PINNARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

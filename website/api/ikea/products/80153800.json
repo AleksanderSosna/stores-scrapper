@@ -1,10 +1,1 @@
-{
-    "id": "80153800",
-    "itemNo": "80153800",
-    "name": "TROFAST",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 189 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"80153800","itemNo":"80153800","name":"TROFAST","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":189},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

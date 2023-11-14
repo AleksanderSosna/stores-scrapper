@@ -1,10 +1,1 @@
-{
-    "id": "50327289",
-    "itemNo": "50327289",
-    "name": "TOPPIG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"50327289","itemNo":"50327289","name":"TOPPIG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80270125",
-    "itemNo": "80270125",
-    "name": "LÖVBACKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"80270125","itemNo":"80270125","name":"LÖVBACKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

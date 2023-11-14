@@ -1,10 +1,1 @@
-{
-    "id": "00522132",
-    "itemNo": "00522132",
-    "name": "GRUSNARV",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 649 }
-    ]
-}
+{"id":"00522132","itemNo":"00522132","name":"GRUSNARV","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":649}]}

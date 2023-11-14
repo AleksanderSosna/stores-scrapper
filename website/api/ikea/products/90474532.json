@@ -1,10 +1,1 @@
-{
-    "id": "90474532",
-    "itemNo": "90474532",
-    "name": "FÖRUT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"90474532","itemNo":"90474532","name":"FÖRUT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2.99},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

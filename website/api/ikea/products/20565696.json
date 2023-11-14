@@ -1,10 +1,1 @@
-{
-    "id": "20565696",
-    "itemNo": "20565696",
-    "name": "SILVERSIDA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20565696","itemNo":"20565696","name":"SILVERSIDA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80512087",
-    "itemNo": "80512087",
-    "name": "STEFAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"80512087","itemNo":"80512087","name":"STEFAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

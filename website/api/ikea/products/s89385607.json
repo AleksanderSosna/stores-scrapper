@@ -1,10 +1,1 @@
-{
-    "id": "s89385607",
-    "itemNo": "89385607",
-    "name": "PAX / REINSVOLL/ÅHEIM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5905 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 32850 }
-    ]
-}
+{"id":"s89385607","itemNo":"89385607","name":"PAX / REINSVOLL/ÅHEIM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5905},{"countryCode":"cz","currencyCode":"CZK","price":32850}]}

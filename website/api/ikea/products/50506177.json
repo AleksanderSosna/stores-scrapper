@@ -1,10 +1,1 @@
-{
-    "id": "50506177",
-    "itemNo": "50506177",
-    "name": "LÄTTLAGAT",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"50506177","itemNo":"50506177","name":"LÄTTLAGAT","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

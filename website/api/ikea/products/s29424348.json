@@ -1,10 +1,1 @@
-{
-    "id": "s29424348",
-    "itemNo": "29424348",
-    "name": "PLATSA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1425 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6580 }
-    ]
-}
+{"id":"s29424348","itemNo":"29424348","name":"PLATSA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1425},{"countryCode":"cz","currencyCode":"CZK","price":6580}]}

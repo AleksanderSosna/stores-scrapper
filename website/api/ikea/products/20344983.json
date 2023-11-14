@@ -1,10 +1,1 @@
-{
-    "id": "20344983",
-    "itemNo": "20344983",
-    "name": "VINDUM",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"20344983","itemNo":"20344983","name":"VINDUM","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

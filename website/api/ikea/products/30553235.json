@@ -1,10 +1,1 @@
-{
-    "id": "30553235",
-    "itemNo": "30553235",
-    "name": "KORSNING",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"30553235","itemNo":"30553235","name":"KORSNING","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

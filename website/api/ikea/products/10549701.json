@@ -1,10 +1,1 @@
-{
-    "id": "10549701",
-    "itemNo": "10549701",
-    "name": "JÄTTEVALLMO",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"10549701","itemNo":"10549701","name":"JÄTTEVALLMO","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

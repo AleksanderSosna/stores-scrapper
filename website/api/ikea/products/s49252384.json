@@ -1,10 +1,1 @@
-{
-    "id": "s49252384",
-    "itemNo": "49252384",
-    "name": "LÅNGFJÄLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"s49252384","itemNo":"49252384","name":"LÅNGFJÄLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":549},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

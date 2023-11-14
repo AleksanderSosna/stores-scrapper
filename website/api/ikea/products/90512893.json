@@ -1,10 +1,1 @@
-{
-    "id": "90512893",
-    "itemNo": "90512893",
-    "name": "DIMFORSEN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"90512893","itemNo":"90512893","name":"DIMFORSEN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

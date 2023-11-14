@@ -1,10 +1,1 @@
-{
-    "id": "s69440822",
-    "itemNo": "69440822",
-    "name": "SAMLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 27.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 139 }
-    ]
-}
+{"id":"s69440822","itemNo":"69440822","name":"SAMLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":27.99},{"countryCode":"cz","currencyCode":"CZK","price":139}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20470491",
-    "itemNo": "20470491",
-    "name": "UPPLÖV",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1050 }
-    ]
-}
+{"id":"20470491","itemNo":"20470491","name":"UPPLÖV","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":170},{"countryCode":"cz","currencyCode":"CZK","price":1050}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90454001",
-    "itemNo": "90454001",
-    "name": "KROKFJORDEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"90454001","itemNo":"90454001","name":"KROKFJORDEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

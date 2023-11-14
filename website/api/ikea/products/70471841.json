@@ -1,10 +1,1 @@
-{
-    "id": "70471841",
-    "itemNo": "70471841",
-    "name": "SANDVEDEL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"70471841","itemNo":"70471841","name":"SANDVEDEL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

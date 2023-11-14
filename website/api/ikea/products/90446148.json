@@ -1,10 +1,1 @@
-{
-    "id": "90446148",
-    "itemNo": "90446148",
-    "name": "HJÄLPA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 60 }
-    ]
-}
+{"id":"90446148","itemNo":"90446148","name":"HJÄLPA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5},{"countryCode":"cz","currencyCode":"CZK","price":60}]}

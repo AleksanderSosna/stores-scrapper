@@ -1,10 +1,1 @@
-{
-    "id": "50559463",
-    "itemNo": "50559463",
-    "name": "BLODOLVON",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 22.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
-    ]
-}
+{"id":"50559463","itemNo":"50559463","name":"BLODOLVON","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":22.99},{"countryCode":"cz","currencyCode":"CZK","price":119}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50446560",
-    "itemNo": "50446560",
-    "name": "KOMPLEMENT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
-    ]
-}
+{"id":"50446560","itemNo":"50446560","name":"KOMPLEMENT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35},{"countryCode":"cz","currencyCode":"CZK","price":200}]}

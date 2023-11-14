@@ -1,10 +1,1 @@
-{
-    "id": "s19419677",
-    "itemNo": "19419677",
-    "name": "NYSJÖN / BJÖRKÅN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 714 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3588 }
-    ]
-}
+{"id":"s19419677","itemNo":"19419677","name":"NYSJÖN / BJÖRKÅN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":714},{"countryCode":"cz","currencyCode":"CZK","price":3588}]}

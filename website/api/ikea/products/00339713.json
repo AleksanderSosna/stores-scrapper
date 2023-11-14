@@ -1,10 +1,1 @@
-{
-    "id": "00339713",
-    "itemNo": "00339713",
-    "name": "NORRSJÖN",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"00339713","itemNo":"00339713","name":"NORRSJÖN","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

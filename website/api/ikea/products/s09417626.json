@@ -1,10 +1,1 @@
-{
-    "id": "s09417626",
-    "itemNo": "09417626",
-    "name": "LAGKAPTEN / ADILS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 234 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1499 }
-    ]
-}
+{"id":"s09417626","itemNo":"09417626","name":"LAGKAPTEN / ADILS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":234},{"countryCode":"cz","currencyCode":"CZK","price":1499}]}

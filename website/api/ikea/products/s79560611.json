@@ -1,10 +1,1 @@
-{
-    "id": "s79560611",
-    "itemNo": "79560611",
-    "name": "SILVERGLANS / RODRET",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 244.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1167 }
-    ]
-}
+{"id":"s79560611","itemNo":"79560611","name":"SILVERGLANS / RODRET","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":244.98},{"countryCode":"cz","currencyCode":"CZK","price":1167}]}

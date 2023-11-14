@@ -1,10 +1,1 @@
-{
-    "id": "s49103247",
-    "itemNo": "49103247",
-    "name": "LISABO / JANINGE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1495 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10950 }
-    ]
-}
+{"id":"s49103247","itemNo":"49103247","name":"LISABO / JANINGE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1495},{"countryCode":"cz","currencyCode":"CZK","price":10950}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70434311",
-    "itemNo": "70434311",
-    "name": "BUSKBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"70434311","itemNo":"70434311","name":"BUSKBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

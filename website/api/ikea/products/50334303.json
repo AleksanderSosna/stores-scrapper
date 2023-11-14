@@ -1,10 +1,1 @@
-{
-    "id": "50334303",
-    "itemNo": "50334303",
-    "name": "BILLSBRO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"50334303","itemNo":"50334303","name":"BILLSBRO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

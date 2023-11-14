@@ -1,10 +1,1 @@
-{
-    "id": "80329197",
-    "itemNo": "80329197",
-    "name": "TYSSEDAL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 500 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2600 }
-    ]
-}
+{"id":"80329197","itemNo":"80329197","name":"TYSSEDAL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":500},{"countryCode":"cz","currencyCode":"CZK","price":2600}]}

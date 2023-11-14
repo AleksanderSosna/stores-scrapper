@@ -1,10 +1,1 @@
-{
-    "id": "s09417693",
-    "itemNo": "09417693",
-    "name": "ANFALLARE / ADILS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 359 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2890 }
-    ]
-}
+{"id":"s09417693","itemNo":"09417693","name":"ANFALLARE / ADILS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":359},{"countryCode":"cz","currencyCode":"CZK","price":2890}]}

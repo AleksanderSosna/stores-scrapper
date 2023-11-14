@@ -1,10 +1,1 @@
-{
-    "id": "90514514",
-    "itemNo": "90514514",
-    "name": "KAPPELAND",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"90514514","itemNo":"90514514","name":"KAPPELAND","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":159},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

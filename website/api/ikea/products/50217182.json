@@ -1,10 +1,1 @@
-{
-    "id": "50217182",
-    "itemNo": "50217182",
-    "name": "RAFFIG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"50217182","itemNo":"50217182","name":"RAFFIG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

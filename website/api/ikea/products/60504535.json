@@ -1,10 +1,1 @@
-{
-    "id": "60504535",
-    "itemNo": "60504535",
-    "name": "DRACAENA FRAGRANS 'COMPACTA'",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"60504535","itemNo":"60504535","name":"DRACAENA FRAGRANS 'COMPACTA'","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

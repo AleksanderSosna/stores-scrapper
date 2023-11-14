@@ -1,10 +1,1 @@
-{
-    "id": "30528670",
-    "itemNo": "30528670",
-    "name": "SILVERGLANS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"30528670","itemNo":"30528670","name":"SILVERGLANS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

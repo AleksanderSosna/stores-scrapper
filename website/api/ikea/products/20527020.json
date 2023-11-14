@@ -1,10 +1,1 @@
-{
-    "id": "20527020",
-    "itemNo": "20527020",
-    "name": "UPPFRISKANDE",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12490 }
-    ]
-}
+{"id":"20527020","itemNo":"20527020","name":"UPPFRISKANDE","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2399},{"countryCode":"cz","currencyCode":"CZK","price":12490}]}

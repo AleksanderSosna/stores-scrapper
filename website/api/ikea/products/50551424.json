@@ -1,10 +1,1 @@
-{
-    "id": "50551424",
-    "itemNo": "50551424",
-    "name": "HÖGALT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"50551424","itemNo":"50551424","name":"HÖGALT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

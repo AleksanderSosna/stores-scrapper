@@ -1,10 +1,1 @@
-{
-    "id": "s69544711",
-    "itemNo": "69544711",
-    "name": "MALM",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1898 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10880 }
-    ]
-}
+{"id":"s69544711","itemNo":"69544711","name":"MALM","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1898},{"countryCode":"cz","currencyCode":"CZK","price":10880}]}

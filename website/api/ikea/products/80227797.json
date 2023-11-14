@@ -1,10 +1,1 @@
-{
-    "id": "80227797",
-    "itemNo": "80227797",
-    "name": "BYÅS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }
-    ]
-}
+{"id":"80227797","itemNo":"80227797","name":"BYÅS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":3690}]}

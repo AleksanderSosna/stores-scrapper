@@ -1,10 +1,1 @@
-{
-    "id": "70308685",
-    "itemNo": "70308685",
-    "name": "ODGER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"70308685","itemNo":"70308685","name":"ODGER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

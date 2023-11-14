@@ -1,10 +1,1 @@
-{
-    "id": "10427064",
-    "itemNo": "10427064",
-    "name": "GULSPARV",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"10427064","itemNo":"10427064","name":"GULSPARV","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

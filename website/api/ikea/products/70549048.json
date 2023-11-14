@@ -1,10 +1,1 @@
-{
-    "id": "70549048",
-    "itemNo": "70549048",
-    "name": "KORALLBUSKE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"70549048","itemNo":"70549048","name":"KORALLBUSKE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

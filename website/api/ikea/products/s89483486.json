@@ -1,10 +1,1 @@
-{
-    "id": "s89483486",
-    "itemNo": "89483486",
-    "name": "DOCKSTA / ODGER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11950 }
-    ]
-}
+{"id":"s89483486","itemNo":"89483486","name":"DOCKSTA / ODGER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2195},{"countryCode":"cz","currencyCode":"CZK","price":11950}]}

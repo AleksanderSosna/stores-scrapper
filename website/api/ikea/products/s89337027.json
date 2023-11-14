@@ -1,10 +1,1 @@
-{
-    "id": "s89337027",
-    "itemNo": "89337027",
-    "name": "KILSVIKEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1079 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"s89337027","itemNo":"89337027","name":"KILSVIKEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1079},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

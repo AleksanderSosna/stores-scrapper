@@ -1,10 +1,1 @@
-{
-    "id": "60262659",
-    "itemNo": "60262659",
-    "name": "TROSS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"60262659","itemNo":"60262659","name":"TROSS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

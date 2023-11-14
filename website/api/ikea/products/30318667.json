@@ -1,10 +1,1 @@
-{
-    "id": "30318667",
-    "itemNo": "30318667",
-    "name": "ÄNGSLILJA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"30318667","itemNo":"30318667","name":"ÄNGSLILJA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

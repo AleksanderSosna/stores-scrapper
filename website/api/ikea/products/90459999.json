@@ -1,10 +1,1 @@
-{
-    "id": "90459999",
-    "itemNo": "90459999",
-    "name": "UPPDATERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 65 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"90459999","itemNo":"90459999","name":"UPPDATERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":65},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

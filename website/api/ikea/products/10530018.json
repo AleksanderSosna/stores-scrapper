@@ -1,10 +1,1 @@
-{
-    "id": "10530018",
-    "itemNo": "10530018",
-    "name": "SYMFONISK",
-    "categoryKey": "hs001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"10530018","itemNo":"10530018","name":"SYMFONISK","categoryKey":"hs001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

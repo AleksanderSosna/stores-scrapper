@@ -1,10 +1,1 @@
-{
-    "id": "s59443468",
-    "itemNo": "59443468",
-    "name": "ESSEBODA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17990 }
-    ]
-}
+{"id":"s59443468","itemNo":"59443468","name":"ESSEBODA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2799},{"countryCode":"cz","currencyCode":"CZK","price":17990}]}

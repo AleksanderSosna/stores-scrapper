@@ -1,10 +1,1 @@
-{
-    "id": "s49440743",
-    "itemNo": "49440743",
-    "name": "NORDEN / ODGER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9970 }
-    ]
-}
+{"id":"s49440743","itemNo":"49440743","name":"NORDEN / ODGER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1797},{"countryCode":"cz","currencyCode":"CZK","price":9970}]}

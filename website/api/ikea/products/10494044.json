@@ -1,10 +1,1 @@
-{
-    "id": "10494044",
-    "itemNo": "10494044",
-    "name": "KLIPPAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 990 }
-    ]
-}
+{"id":"10494044","itemNo":"10494044","name":"KLIPPAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":990}]}

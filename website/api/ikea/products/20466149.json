@@ -1,10 +1,1 @@
-{
-    "id": "20466149",
-    "itemNo": "20466149",
-    "name": "GLIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 11.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"20466149","itemNo":"20466149","name":"GLIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":11.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70561002",
-    "itemNo": "70561002",
-    "name": "VÄXBO",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"70561002","itemNo":"70561002","name":"VÄXBO","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s29417710",
-    "itemNo": "29417710",
-    "name": "ANFALLARE / HILVER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"s29417710","itemNo":"29417710","name":"ANFALLARE / HILVER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

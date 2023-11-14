@@ -1,10 +1,1 @@
-{
-    "id": "10529557",
-    "itemNo": "10529557",
-    "name": "STRANDSKATA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"10529557","itemNo":"10529557","name":"STRANDSKATA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10544237",
-    "itemNo": "10544237",
-    "name": "SOLFÅGEL",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10544237","itemNo":"10544237","name":"SOLFÅGEL","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

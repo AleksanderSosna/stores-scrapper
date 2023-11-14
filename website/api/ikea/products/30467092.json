@@ -1,10 +1,1 @@
-{
-    "id": "30467092",
-    "itemNo": "30467092",
-    "name": "GONATT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
-    ]
-}
+{"id":"30467092","itemNo":"30467092","name":"GONATT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":5990}]}

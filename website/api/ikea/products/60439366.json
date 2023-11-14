@@ -1,10 +1,1 @@
-{
-    "id": "60439366",
-    "itemNo": "60439366",
-    "name": "AJÖSS",
-    "categoryKey": "lc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"60439366","itemNo":"60439366","name":"AJÖSS","categoryKey":"lc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

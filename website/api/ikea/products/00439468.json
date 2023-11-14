@@ -1,10 +1,1 @@
-{
-    "id": "00439468",
-    "itemNo": "00439468",
-    "name": "NORDKISA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
-    ]
-}
+{"id":"00439468","itemNo":"00439468","name":"NORDKISA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1499},{"countryCode":"cz","currencyCode":"CZK","price":8490}]}

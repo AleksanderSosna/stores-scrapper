@@ -1,10 +1,1 @@
-{
-    "id": "50537107",
-    "itemNo": "50537107",
-    "name": "RÖNNVECKMAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"50537107","itemNo":"50537107","name":"RÖNNVECKMAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

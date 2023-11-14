@@ -1,10 +1,1 @@
-{
-    "id": "10505716",
-    "itemNo": "10505716",
-    "name": "BLÅKULLEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"10505716","itemNo":"10505716","name":"BLÅKULLEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

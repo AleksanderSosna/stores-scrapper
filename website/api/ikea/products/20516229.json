@@ -1,10 +1,1 @@
-{
-    "id": "20516229",
-    "itemNo": "20516229",
-    "name": "GRYTÅS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"20516229","itemNo":"20516229","name":"GRYTÅS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

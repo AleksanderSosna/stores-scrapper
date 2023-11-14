@@ -1,10 +1,1 @@
-{
-    "id": "90557725",
-    "itemNo": "90557725",
-    "name": "VILSTA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1099 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
-    ]
-}
+{"id":"90557725","itemNo":"90557725","name":"VILSTA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1099},{"countryCode":"cz","currencyCode":"CZK","price":5490}]}

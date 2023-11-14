@@ -1,10 +1,1 @@
-{
-    "id": "10471735",
-    "itemNo": "10471735",
-    "name": "SANELA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"10471735","itemNo":"10471735","name":"SANELA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

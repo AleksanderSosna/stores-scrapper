@@ -1,10 +1,1 @@
-{
-    "id": "60323304",
-    "itemNo": "60323304",
-    "name": "VARDAGEN",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"60323304","itemNo":"60323304","name":"VARDAGEN","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30511962",
-    "itemNo": "30511962",
-    "name": "KONSTFULL",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"30511962","itemNo":"30511962","name":"KONSTFULL","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

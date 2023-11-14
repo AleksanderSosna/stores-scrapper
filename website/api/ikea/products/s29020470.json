@@ -1,10 +1,1 @@
-{
-    "id": "s29020470",
-    "itemNo": "29020470",
-    "name": "BILLY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1942 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12260 }
-    ]
-}
+{"id":"s29020470","itemNo":"29020470","name":"BILLY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1942},{"countryCode":"cz","currencyCode":"CZK","price":12260}]}

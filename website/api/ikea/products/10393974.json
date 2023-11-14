@@ -1,10 +1,1 @@
-{
-    "id": "10393974",
-    "itemNo": "10393974",
-    "name": "UNDERVERK",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
-    ]
-}
+{"id":"10393974","itemNo":"10393974","name":"UNDERVERK","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1599},{"countryCode":"cz","currencyCode":"CZK","price":6990}]}

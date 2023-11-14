@@ -1,10 +1,1 @@
-{
-    "id": "10311006",
-    "itemNo": "10311006",
-    "name": "SUCCULENT",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"10311006","itemNo":"10311006","name":"SUCCULENT","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

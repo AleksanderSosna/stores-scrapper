@@ -1,10 +1,1 @@
-{
-    "id": "s49428114",
-    "itemNo": "49428114",
-    "name": "HEMNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2057 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10288 }
-    ]
-}
+{"id":"s49428114","itemNo":"49428114","name":"HEMNES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2057},{"countryCode":"cz","currencyCode":"CZK","price":10288}]}

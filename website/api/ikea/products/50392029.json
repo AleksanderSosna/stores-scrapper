@@ -1,10 +1,1 @@
-{
-    "id": "50392029",
-    "itemNo": "50392029",
-    "name": "ROCKÅN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"50392029","itemNo":"50392029","name":"ROCKÅN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

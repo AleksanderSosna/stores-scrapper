@@ -1,10 +1,1 @@
-{
-    "id": "10457999",
-    "itemNo": "10457999",
-    "name": "BERGENES",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"10457999","itemNo":"10457999","name":"BERGENES","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10531131",
-    "itemNo": "10531131",
-    "name": "VARMBLIXT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"10531131","itemNo":"10531131","name":"VARMBLIXT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

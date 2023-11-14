@@ -1,10 +1,1 @@
-{
-    "id": "90339389",
-    "itemNo": "90339389",
-    "name": "INNERLIG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"90339389","itemNo":"90339389","name":"INNERLIG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

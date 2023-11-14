@@ -1,10 +1,1 @@
-{
-    "id": "40426341",
-    "itemNo": "40426341",
-    "name": "VANILJSTÅNG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"40426341","itemNo":"40426341","name":"VANILJSTÅNG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

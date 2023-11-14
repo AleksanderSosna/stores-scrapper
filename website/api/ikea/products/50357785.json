@@ -1,10 +1,1 @@
-{
-    "id": "50357785",
-    "itemNo": "50357785",
-    "name": "UTTER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"50357785","itemNo":"50357785","name":"UTTER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30485500",
-    "itemNo": "30485500",
-    "name": "NORDMÄRKE",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"30485500","itemNo":"30485500","name":"NORDMÄRKE","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

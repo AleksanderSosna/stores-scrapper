@@ -1,10 +1,1 @@
-{
-    "id": "90219829",
-    "itemNo": "90219829",
-    "name": "BEKVÄM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"90219829","itemNo":"90219829","name":"BEKVÄM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

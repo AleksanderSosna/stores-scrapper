@@ -1,10 +1,1 @@
-{
-    "id": "50434307",
-    "itemNo": "50434307",
-    "name": "LUBBAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"50434307","itemNo":"50434307","name":"LUBBAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

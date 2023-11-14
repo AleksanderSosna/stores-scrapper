@@ -1,10 +1,1 @@
-{
-    "id": "70410602",
-    "itemNo": "70410602",
-    "name": "VÅRSTA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 160 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 880 }
-    ]
-}
+{"id":"70410602","itemNo":"70410602","name":"VÅRSTA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":160},{"countryCode":"cz","currencyCode":"CZK","price":880}]}

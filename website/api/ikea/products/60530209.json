@@ -1,10 +1,1 @@
-{
-    "id": "60530209",
-    "itemNo": "60530209",
-    "name": "BISSA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"60530209","itemNo":"60530209","name":"BISSA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":279},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

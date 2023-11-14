@@ -1,10 +1,1 @@
-{
-    "id": "70464708",
-    "itemNo": "70464708",
-    "name": "FISKBO",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
-    ]
-}
+{"id":"70464708","itemNo":"70464708","name":"FISKBO","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":25}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50149843",
-    "itemNo": "50149843",
-    "name": "MÅTTLIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"50149843","itemNo":"50149843","name":"MÅTTLIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

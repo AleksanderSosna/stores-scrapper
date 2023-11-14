@@ -1,10 +1,1 @@
-{
-    "id": "s29443257",
-    "itemNo": "29443257",
-    "name": "VISKAFORS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19990 }
-    ]
-}
+{"id":"s29443257","itemNo":"29443257","name":"VISKAFORS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3499},{"countryCode":"cz","currencyCode":"CZK","price":19990}]}

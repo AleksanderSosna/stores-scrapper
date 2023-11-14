@@ -1,10 +1,1 @@
-{
-    "id": "60386527",
-    "itemNo": "60386527",
-    "name": "MELODI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"60386527","itemNo":"60386527","name":"MELODI","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

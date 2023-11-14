@@ -1,10 +1,1 @@
-{
-    "id": "50569952",
-    "itemNo": "50569952",
-    "name": "ÅFJÄLL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }
-    ]
-}
+{"id":"50569952","itemNo":"50569952","name":"ÅFJÄLL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":3290}]}

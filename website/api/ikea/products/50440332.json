@@ -1,10 +1,1 @@
-{
-    "id": "50440332",
-    "itemNo": "50440332",
-    "name": "LENAST",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"50440332","itemNo":"50440332","name":"LENAST","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

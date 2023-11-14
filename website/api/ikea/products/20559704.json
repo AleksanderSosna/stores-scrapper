@@ -1,10 +1,1 @@
-{
-    "id": "20559704",
-    "itemNo": "20559704",
-    "name": "TRYSTÄVMAL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"20559704","itemNo":"20559704","name":"TRYSTÄVMAL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

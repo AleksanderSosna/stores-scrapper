@@ -1,10 +1,1 @@
-{
-    "id": "70396390",
-    "itemNo": "70396390",
-    "name": "RANARP",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"70396390","itemNo":"70396390","name":"RANARP","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

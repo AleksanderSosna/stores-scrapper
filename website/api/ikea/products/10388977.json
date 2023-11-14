@@ -1,10 +1,1 @@
-{
-    "id": "10388977",
-    "itemNo": "10388977",
-    "name": "MATÄLSKARE",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"10388977","itemNo":"10388977","name":"MATÄLSKARE","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

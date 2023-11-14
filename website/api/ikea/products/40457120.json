@@ -1,10 +1,1 @@
-{
-    "id": "40457120",
-    "itemNo": "40457120",
-    "name": "STJÄRNBRÄCKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"40457120","itemNo":"40457120","name":"STJÄRNBRÄCKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

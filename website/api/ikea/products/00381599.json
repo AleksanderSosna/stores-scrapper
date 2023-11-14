@@ -1,10 +1,1 @@
-{
-    "id": "00381599",
-    "itemNo": "00381599",
-    "name": "FUBBLA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"00381599","itemNo":"00381599","name":"FUBBLA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09503313",
-    "itemNo": "09503313",
-    "name": "SPIKSMED",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 428 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2780 }
-    ]
-}
+{"id":"s09503313","itemNo":"09503313","name":"SPIKSMED","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":428},{"countryCode":"cz","currencyCode":"CZK","price":2780}]}

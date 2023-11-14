@@ -1,10 +1,1 @@
-{
-    "id": "60419957",
-    "itemNo": "60419957",
-    "name": "JONAXEL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 649 }
-    ]
-}
+{"id":"60419957","itemNo":"60419957","name":"JONAXEL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":90},{"countryCode":"cz","currencyCode":"CZK","price":649}]}

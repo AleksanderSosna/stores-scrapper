@@ -1,10 +1,1 @@
-{
-    "id": "40399903",
-    "itemNo": "40399903",
-    "name": "KROKSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
-    ]
-}
+{"id":"40399903","itemNo":"40399903","name":"KROKSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":75}]}

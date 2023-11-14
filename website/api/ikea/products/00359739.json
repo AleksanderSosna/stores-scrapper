@@ -1,10 +1,1 @@
-{
-    "id": "00359739",
-    "itemNo": "00359739",
-    "name": "ROTHULT",
-    "categoryKey": "hi001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 700 }
-    ]
-}
+{"id":"00359739","itemNo":"00359739","name":"ROTHULT","categoryKey":"hi001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":119},{"countryCode":"cz","currencyCode":"CZK","price":700}]}

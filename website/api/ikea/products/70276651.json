@@ -1,10 +1,1 @@
-{
-    "id": "70276651",
-    "itemNo": "70276651",
-    "name": "ALOE VERA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"70276651","itemNo":"70276651","name":"ALOE VERA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

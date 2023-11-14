@@ -1,10 +1,1 @@
-{
-    "id": "10525413",
-    "itemNo": "10525413",
-    "name": "ORDNING",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"10525413","itemNo":"10525413","name":"ORDNING","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s69277835",
-    "itemNo": "69277835",
-    "name": "KOMPLEMENT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 260 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1350 }
-    ]
-}
+{"id":"s69277835","itemNo":"69277835","name":"KOMPLEMENT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":260},{"countryCode":"cz","currencyCode":"CZK","price":1350}]}

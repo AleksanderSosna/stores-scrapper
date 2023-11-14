@@ -1,10 +1,1 @@
-{
-    "id": "30547145",
-    "itemNo": "30547145",
-    "name": "GULKAVLE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"30547145","itemNo":"30547145","name":"GULKAVLE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s99505893",
-    "itemNo": "99505893",
-    "name": "STRANDTORP / KLINTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3195 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19950 }
-    ]
-}
+{"id":"s99505893","itemNo":"99505893","name":"STRANDTORP / KLINTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3195},{"countryCode":"cz","currencyCode":"CZK","price":19950}]}

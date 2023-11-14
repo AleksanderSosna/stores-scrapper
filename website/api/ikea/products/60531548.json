@@ -1,10 +1,1 @@
-{
-    "id": "60531548",
-    "itemNo": "60531548",
-    "name": "SEGELFISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"60531548","itemNo":"60531548","name":"SEGELFISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

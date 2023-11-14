@@ -1,10 +1,1 @@
-{
-    "id": "80449005",
-    "itemNo": "80449005",
-    "name": "SKOTTORP",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"80449005","itemNo":"80449005","name":"SKOTTORP","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

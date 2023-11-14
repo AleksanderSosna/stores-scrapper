@@ -1,10 +1,1 @@
-{
-    "id": "60545569",
-    "itemNo": "60545569",
-    "name": "SOLDVÄRGMAL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"60545569","itemNo":"60545569","name":"SOLDVÄRGMAL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

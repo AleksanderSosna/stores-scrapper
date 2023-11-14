@@ -1,10 +1,1 @@
-{
-    "id": "s29297294",
-    "itemNo": "29297294",
-    "name": "MELLTORP / NILSOVE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1097 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6670 }
-    ]
-}
+{"id":"s29297294","itemNo":"29297294","name":"MELLTORP / NILSOVE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1097},{"countryCode":"cz","currencyCode":"CZK","price":6670}]}

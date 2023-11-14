@@ -1,10 +1,1 @@
-{
-    "id": "80339790",
-    "itemNo": "80339790",
-    "name": "HACKÅS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"80339790","itemNo":"80339790","name":"HACKÅS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

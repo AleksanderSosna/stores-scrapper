@@ -1,10 +1,1 @@
-{
-    "id": "70503837",
-    "itemNo": "70503837",
-    "name": "KNOPARE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"70503837","itemNo":"70503837","name":"KNOPARE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s89287386",
-    "itemNo": "89287386",
-    "name": "BILLY / OXBERG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 328 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2340 }
-    ]
-}
+{"id":"s89287386","itemNo":"89287386","name":"BILLY / OXBERG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":328},{"countryCode":"cz","currencyCode":"CZK","price":2340}]}

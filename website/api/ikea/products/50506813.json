@@ -1,10 +1,1 @@
-{
-    "id": "50506813",
-    "itemNo": "50506813",
-    "name": "JÄTTEMÄTT",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"50506813","itemNo":"50506813","name":"JÄTTEMÄTT","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

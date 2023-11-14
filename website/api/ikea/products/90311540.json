@@ -1,10 +1,1 @@
-{
-    "id": "90311540",
-    "itemNo": "90311540",
-    "name": "LILLVIKEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 95 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
-    ]
-}
+{"id":"90311540","itemNo":"90311540","name":"LILLVIKEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":95},{"countryCode":"cz","currencyCode":"CZK","price":500}]}

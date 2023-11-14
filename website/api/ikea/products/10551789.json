@@ -1,10 +1,1 @@
-{
-    "id": "10551789",
-    "itemNo": "10551789",
-    "name": "VINTERFINT",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"10551789","itemNo":"10551789","name":"VINTERFINT","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

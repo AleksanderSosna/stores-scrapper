@@ -1,10 +1,1 @@
-{
-    "id": "s49387547",
-    "itemNo": "49387547",
-    "name": "SKOTTORP / SKAFTET",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 329.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1789 }
-    ]
-}
+{"id":"s49387547","itemNo":"49387547","name":"SKOTTORP / SKAFTET","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":329.99},{"countryCode":"cz","currencyCode":"CZK","price":1789}]}

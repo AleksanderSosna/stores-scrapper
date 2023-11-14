@@ -1,10 +1,1 @@
-{
-    "id": "20226767",
-    "itemNo": "20226767",
-    "name": "DRYCK BUBBEL ÄPPLE & LINGON",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
-    ]
-}
+{"id":"20226767","itemNo":"20226767","name":"DRYCK BUBBEL ÄPPLE & LINGON","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":75}]}

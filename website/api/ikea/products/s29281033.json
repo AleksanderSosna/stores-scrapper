@@ -1,10 +1,1 @@
-{
-    "id": "s29281033",
-    "itemNo": "29281033",
-    "name": "IDÅSEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8990 }
-    ]
-}
+{"id":"s29281033","itemNo":"29281033","name":"IDÅSEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1199},{"countryCode":"cz","currencyCode":"CZK","price":8990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70458528",
-    "itemNo": "70458528",
-    "name": "FJÄLLBRÄCKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 339 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
-    ]
-}
+{"id":"70458528","itemNo":"70458528","name":"FJÄLLBRÄCKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":339},{"countryCode":"cz","currencyCode":"CZK","price":1690}]}

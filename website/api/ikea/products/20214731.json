@@ -1,10 +1,1 @@
-{
-    "id": "20214731",
-    "itemNo": "20214731",
-    "name": "BRANÄS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"20214731","itemNo":"20214731","name":"BRANÄS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

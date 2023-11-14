@@ -1,10 +1,1 @@
-{
-    "id": "20556338",
-    "itemNo": "20556338",
-    "name": "SVEDJENÄVA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"20556338","itemNo":"20556338","name":"SVEDJENÄVA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

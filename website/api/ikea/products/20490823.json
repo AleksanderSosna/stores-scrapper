@@ -1,10 +1,1 @@
-{
-    "id": "20490823",
-    "itemNo": "20490823",
-    "name": "MÖRTVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
-    ]
-}
+{"id":"20490823","itemNo":"20490823","name":"MÖRTVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":170},{"countryCode":"cz","currencyCode":"CZK","price":750}]}

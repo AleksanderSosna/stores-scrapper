@@ -1,10 +1,1 @@
-{
-    "id": "10501271",
-    "itemNo": "10501271",
-    "name": "VÅGHÖJD",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4190 }
-    ]
-}
+{"id":"10501271","itemNo":"10501271","name":"VÅGHÖJD","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":4190}]}

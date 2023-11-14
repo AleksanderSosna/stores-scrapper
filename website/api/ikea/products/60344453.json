@@ -1,10 +1,1 @@
-{
-    "id": "60344453",
-    "itemNo": "60344453",
-    "name": "VILTO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"60344453","itemNo":"60344453","name":"VILTO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70504592",
-    "itemNo": "70504592",
-    "name": "TIBAST",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"70504592","itemNo":"70504592","name":"TIBAST","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

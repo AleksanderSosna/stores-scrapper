@@ -1,10 +1,1 @@
-{
-    "id": "00273175",
-    "itemNo": "00273175",
-    "name": "VOXTORP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 145 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"00273175","itemNo":"00273175","name":"VOXTORP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":145},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10503406",
-    "itemNo": "10503406",
-    "name": "DIRIGERA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"10503406","itemNo":"10503406","name":"DIRIGERA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

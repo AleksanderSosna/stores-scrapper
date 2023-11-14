@@ -1,10 +1,1 @@
-{
-    "id": "40478373",
-    "itemNo": "40478373",
-    "name": "SENAPSKÅL",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"40478373","itemNo":"40478373","name":"SENAPSKÅL","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

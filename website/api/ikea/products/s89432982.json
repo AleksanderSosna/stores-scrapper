@@ -1,10 +1,1 @@
-{
-    "id": "s89432982",
-    "itemNo": "89432982",
-    "name": "PAX / MEHAMN/AULI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2460 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 13650 }
-    ]
-}
+{"id":"s89432982","itemNo":"89432982","name":"PAX / MEHAMN/AULI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2460},{"countryCode":"cz","currencyCode":"CZK","price":13650}]}

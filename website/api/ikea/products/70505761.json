@@ -1,10 +1,1 @@
-{
-    "id": "70505761",
-    "itemNo": "70505761",
-    "name": "ENKÖPING",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 550 }
-    ]
-}
+{"id":"70505761","itemNo":"70505761","name":"ENKÖPING","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":550}]}

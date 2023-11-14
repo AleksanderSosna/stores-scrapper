@@ -1,10 +1,1 @@
-{
-    "id": "80365152",
-    "itemNo": "80365152",
-    "name": "GALANT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
-    ]
-}
+{"id":"80365152","itemNo":"80365152","name":"GALANT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":5990}]}

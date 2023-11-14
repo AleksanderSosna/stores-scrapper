@@ -1,10 +1,1 @@
-{
-    "id": "s69325469",
-    "itemNo": "69325469",
-    "name": "BERGSHULT / RAMSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 93.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 479 }
-    ]
-}
+{"id":"s69325469","itemNo":"69325469","name":"BERGSHULT / RAMSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":93.99},{"countryCode":"cz","currencyCode":"CZK","price":479}]}

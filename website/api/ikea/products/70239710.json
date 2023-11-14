@@ -1,10 +1,1 @@
-{
-    "id": "70239710",
-    "itemNo": "70239710",
-    "name": "STOCKHOLM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
-    ]
-}
+{"id":"70239710","itemNo":"70239710","name":"STOCKHOLM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":6490}]}

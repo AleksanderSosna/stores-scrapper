@@ -1,10 +1,1 @@
-{
-    "id": "20558894",
-    "itemNo": "20558894",
-    "name": "SLAGVERK",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 23 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"20558894","itemNo":"20558894","name":"SLAGVERK","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":23},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

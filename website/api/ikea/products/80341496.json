@@ -1,10 +1,1 @@
-{
-    "id": "80341496",
-    "itemNo": "80341496",
-    "name": "NYHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 700 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4000 }
-    ]
-}
+{"id":"80341496","itemNo":"80341496","name":"NYHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":700},{"countryCode":"cz","currencyCode":"CZK","price":4000}]}

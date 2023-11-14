@@ -1,10 +1,1 @@
-{
-    "id": "30349452",
-    "itemNo": "30349452",
-    "name": "KVISTBRO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"30349452","itemNo":"30349452","name":"KVISTBRO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

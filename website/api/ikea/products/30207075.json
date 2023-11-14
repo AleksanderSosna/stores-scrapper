@@ -1,10 +1,1 @@
-{
-    "id": "30207075",
-    "itemNo": "30207075",
-    "name": "SKOGHALL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"30207075","itemNo":"30207075","name":"SKOGHALL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00292094",
-    "itemNo": "00292094",
-    "name": "SILVERHÖJDEN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00292094","itemNo":"00292094","name":"SILVERHÖJDEN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

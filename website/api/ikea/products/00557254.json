@@ -1,10 +1,1 @@
-{
-    "id": "00557254",
-    "itemNo": "00557254",
-    "name": "KANTNÅL",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"00557254","itemNo":"00557254","name":"KANTNÅL","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

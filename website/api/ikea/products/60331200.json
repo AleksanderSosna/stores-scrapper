@@ -1,10 +1,1 @@
-{
-    "id": "60331200",
-    "itemNo": "60331200",
-    "name": "HJÄLPA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 30 }
-    ]
-}
+{"id":"60331200","itemNo":"60331200","name":"HJÄLPA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":30}]}

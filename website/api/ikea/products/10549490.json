@@ -1,10 +1,1 @@
-{
-    "id": "10549490",
-    "itemNo": "10549490",
-    "name": "SORGMANTEL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10549490","itemNo":"10549490","name":"SORGMANTEL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

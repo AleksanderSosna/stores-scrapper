@@ -1,10 +1,1 @@
-{
-    "id": "40448437",
-    "itemNo": "40448437",
-    "name": "BÄSTIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"40448437","itemNo":"40448437","name":"BÄSTIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

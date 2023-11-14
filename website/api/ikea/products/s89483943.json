@@ -1,10 +1,1 @@
-{
-    "id": "s89483943",
-    "itemNo": "89483943",
-    "name": "DANDERYD / DANDERYD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2315 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14150 }
-    ]
-}
+{"id":"s89483943","itemNo":"89483943","name":"DANDERYD / DANDERYD","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2315},{"countryCode":"cz","currencyCode":"CZK","price":14150}]}

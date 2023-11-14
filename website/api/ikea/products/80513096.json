@@ -1,10 +1,1 @@
-{
-    "id": "80513096",
-    "itemNo": "80513096",
-    "name": "HEMKOMST",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"80513096","itemNo":"80513096","name":"HEMKOMST","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

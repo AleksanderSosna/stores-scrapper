@@ -1,10 +1,1 @@
-{
-    "id": "20534332",
-    "itemNo": "20534332",
-    "name": "FRÖSVI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"20534332","itemNo":"20534332","name":"FRÖSVI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

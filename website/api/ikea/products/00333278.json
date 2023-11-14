@@ -1,10 +1,1 @@
-{
-    "id": "00333278",
-    "itemNo": "00333278",
-    "name": "BROR",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 95 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 450 }
-    ]
-}
+{"id":"00333278","itemNo":"00333278","name":"BROR","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":95},{"countryCode":"cz","currencyCode":"CZK","price":450}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30253072",
-    "itemNo": "30253072",
-    "name": "RÅGRUND",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"30253072","itemNo":"30253072","name":"RÅGRUND","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

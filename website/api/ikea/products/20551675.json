@@ -1,10 +1,1 @@
-{
-    "id": "20551675",
-    "itemNo": "20551675",
-    "name": "KALBÅDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 45 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 250 }
-    ]
-}
+{"id":"20551675","itemNo":"20551675","name":"KALBÅDEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":45},{"countryCode":"cz","currencyCode":"CZK","price":250}]}

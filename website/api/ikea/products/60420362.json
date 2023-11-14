@@ -1,10 +1,1 @@
-{
-    "id": "60420362",
-    "itemNo": "60420362",
-    "name": "FREKVENS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"60420362","itemNo":"60420362","name":"FREKVENS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

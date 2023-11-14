@@ -1,10 +1,1 @@
-{
-    "id": "s69481695",
-    "itemNo": "69481695",
-    "name": "NORBERG / FRANKLIN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 697 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3788 }
-    ]
-}
+{"id":"s69481695","itemNo":"69481695","name":"NORBERG / FRANKLIN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":697},{"countryCode":"cz","currencyCode":"CZK","price":3788}]}

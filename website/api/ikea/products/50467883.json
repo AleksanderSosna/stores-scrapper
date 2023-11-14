@@ -1,10 +1,1 @@
-{
-    "id": "50467883",
-    "itemNo": "50467883",
-    "name": "SMAKLIG",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"50467883","itemNo":"50467883","name":"SMAKLIG","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1599},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

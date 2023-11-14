@@ -1,10 +1,1 @@
-{
-    "id": "10389142",
-    "itemNo": "10389142",
-    "name": "UTDRAG",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"10389142","itemNo":"10389142","name":"UTDRAG","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30521800",
-    "itemNo": "30521800",
-    "name": "SVARTRÅ",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"30521800","itemNo":"30521800","name":"SVARTRÅ","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

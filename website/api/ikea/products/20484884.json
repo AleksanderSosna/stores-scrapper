@@ -1,10 +1,1 @@
-{
-    "id": "20484884",
-    "itemNo": "20484884",
-    "name": "STARTTID",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"20484884","itemNo":"20484884","name":"STARTTID","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80424967",
-    "itemNo": "80424967",
-    "name": "HAUGA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"80424967","itemNo":"80424967","name":"HAUGA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":899},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

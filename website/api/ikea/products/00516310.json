@@ -1,10 +1,1 @@
-{
-    "id": "00516310",
-    "itemNo": "00516310",
-    "name": "LERBODA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"00516310","itemNo":"00516310","name":"LERBODA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

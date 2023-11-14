@@ -1,10 +1,1 @@
-{
-    "id": "s19495911",
-    "itemNo": "19495911",
-    "name": "KALBÅDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 150 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 640 }
-    ]
-}
+{"id":"s19495911","itemNo":"19495911","name":"KALBÅDEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":150},{"countryCode":"cz","currencyCode":"CZK","price":640}]}

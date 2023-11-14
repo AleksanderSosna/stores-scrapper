@@ -1,10 +1,1 @@
-{
-    "id": "50528080",
-    "itemNo": "50528080",
-    "name": "SANDBRODD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"50528080","itemNo":"50528080","name":"SANDBRODD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

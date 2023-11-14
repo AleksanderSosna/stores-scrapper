@@ -1,10 +1,1 @@
-{
-    "id": "30561396",
-    "itemNo": "30561396",
-    "name": "SLÖJSILJA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"30561396","itemNo":"30561396","name":"SLÖJSILJA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

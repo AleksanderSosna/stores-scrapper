@@ -1,10 +1,1 @@
-{
-    "id": "20556324",
-    "itemNo": "20556324",
-    "name": "ROSENROBINIA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"20556324","itemNo":"20556324","name":"ROSENROBINIA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

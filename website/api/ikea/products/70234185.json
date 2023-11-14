@@ -1,10 +1,1 @@
-{
-    "id": "70234185",
-    "itemNo": "70234185",
-    "name": "SKARPÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"70234185","itemNo":"70234185","name":"SKARPÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

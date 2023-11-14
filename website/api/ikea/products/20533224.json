@@ -1,10 +1,1 @@
-{
-    "id": "20533224",
-    "itemNo": "20533224",
-    "name": "UPPFYLLD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"20533224","itemNo":"20533224","name":"UPPFYLLD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

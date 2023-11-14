@@ -1,10 +1,1 @@
-{
-    "id": "20374338",
-    "itemNo": "20374338",
-    "name": "VADHOLMA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 380 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2000 }
-    ]
-}
+{"id":"20374338","itemNo":"20374338","name":"VADHOLMA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":380},{"countryCode":"cz","currencyCode":"CZK","price":2000}]}

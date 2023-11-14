@@ -1,10 +1,1 @@
-{
-    "id": "80479790",
-    "itemNo": "80479790",
-    "name": "SPJUTVIAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"80479790","itemNo":"80479790","name":"SPJUTVIAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

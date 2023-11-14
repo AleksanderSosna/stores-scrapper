@@ -1,10 +1,1 @@
-{
-    "id": "20400304",
-    "itemNo": "20400304",
-    "name": "TISKEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"20400304","itemNo":"20400304","name":"TISKEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

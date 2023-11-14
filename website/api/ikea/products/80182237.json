@@ -1,10 +1,1 @@
-{
-    "id": "80182237",
-    "itemNo": "80182237",
-    "name": "VARIERA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"80182237","itemNo":"80182237","name":"VARIERA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

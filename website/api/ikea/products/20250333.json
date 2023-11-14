@@ -1,10 +1,1 @@
-{
-    "id": "20250333",
-    "itemNo": "20250333",
-    "name": "FÄRVIK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 275 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2000 }
-    ]
-}
+{"id":"20250333","itemNo":"20250333","name":"FÄRVIK","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":275},{"countryCode":"cz","currencyCode":"CZK","price":2000}]}

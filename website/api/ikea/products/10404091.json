@@ -1,10 +1,1 @@
-{
-    "id": "10404091",
-    "itemNo": "10404091",
-    "name": "RISBYN",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"10404091","itemNo":"10404091","name":"RISBYN","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30446373",
-    "itemNo": "30446373",
-    "name": "SLATTUM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3790 }
-    ]
-}
+{"id":"30446373","itemNo":"30446373","name":"SLATTUM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":3790}]}

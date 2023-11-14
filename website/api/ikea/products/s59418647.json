@@ -1,10 +1,1 @@
-{
-    "id": "s59418647",
-    "itemNo": "59418647",
-    "name": "SKATVAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 260 }
-    ]
-}
+{"id":"s59418647","itemNo":"59418647","name":"SKATVAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":70},{"countryCode":"cz","currencyCode":"CZK","price":260}]}

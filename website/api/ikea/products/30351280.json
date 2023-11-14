@@ -1,10 +1,1 @@
-{
-    "id": "30351280",
-    "itemNo": "30351280",
-    "name": "ALLEMANSRÄTTEN",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 11 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"30351280","itemNo":"30351280","name":"ALLEMANSRÄTTEN","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":11},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

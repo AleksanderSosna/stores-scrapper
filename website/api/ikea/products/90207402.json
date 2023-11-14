@@ -1,10 +1,1 @@
-{
-    "id": "90207402",
-    "itemNo": "90207402",
-    "name": "ANNONS",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"90207402","itemNo":"90207402","name":"ANNONS","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

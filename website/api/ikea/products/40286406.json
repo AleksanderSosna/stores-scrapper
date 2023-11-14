@@ -1,10 +1,1 @@
-{
-    "id": "40286406",
-    "itemNo": "40286406",
-    "name": "SMÅBIT",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"40286406","itemNo":"40286406","name":"SMÅBIT","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00506684",
-    "itemNo": "00506684",
-    "name": "UNDERHÅLLA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"00506684","itemNo":"00506684","name":"UNDERHÅLLA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

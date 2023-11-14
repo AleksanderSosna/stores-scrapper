@@ -1,10 +1,1 @@
-{
-    "id": "s19272637",
-    "itemNo": "19272637",
-    "name": "LANDSKRONA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 34990 }
-    ]
-}
+{"id":"s19272637","itemNo":"19272637","name":"LANDSKRONA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4799},{"countryCode":"cz","currencyCode":"CZK","price":34990}]}

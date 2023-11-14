@@ -1,10 +1,1 @@
-{
-    "id": "60500325",
-    "itemNo": "60500325",
-    "name": "KÄTTIL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"60500325","itemNo":"60500325","name":"KÄTTIL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

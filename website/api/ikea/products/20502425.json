@@ -1,10 +1,1 @@
-{
-    "id": "20502425",
-    "itemNo": "20502425",
-    "name": "HEDERSAM",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"20502425","itemNo":"20502425","name":"HEDERSAM","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

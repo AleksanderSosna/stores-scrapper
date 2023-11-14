@@ -1,10 +1,1 @@
-{
-    "id": "60510485",
-    "itemNo": "60510485",
-    "name": "HIMLEÅN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"60510485","itemNo":"60510485","name":"HIMLEÅN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

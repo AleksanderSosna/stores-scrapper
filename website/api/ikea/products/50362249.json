@@ -1,10 +1,1 @@
-{
-    "id": "50362249",
-    "itemNo": "50362249",
-    "name": "ROTSUND",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"50362249","itemNo":"50362249","name":"ROTSUND","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

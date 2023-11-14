@@ -1,10 +1,1 @@
-{
-    "id": "50471837",
-    "itemNo": "50471837",
-    "name": "LÅNGDANS",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"50471837","itemNo":"50471837","name":"LÅNGDANS","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

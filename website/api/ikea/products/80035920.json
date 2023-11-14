@@ -1,10 +1,1 @@
-{
-    "id": "80035920",
-    "itemNo": "80035920",
-    "name": "FÖRHÖJA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"80035920","itemNo":"80035920","name":"FÖRHÖJA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

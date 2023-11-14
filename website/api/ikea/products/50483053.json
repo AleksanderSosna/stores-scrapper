@@ -1,10 +1,1 @@
-{
-    "id": "50483053",
-    "itemNo": "50483053",
-    "name": "BLECKBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"50483053","itemNo":"50483053","name":"BLECKBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70499878",
-    "itemNo": "70499878",
-    "name": "PILBLIXT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
-    ]
-}
+{"id":"70499878","itemNo":"70499878","name":"PILBLIXT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1790}]}

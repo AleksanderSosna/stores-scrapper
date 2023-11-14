@@ -1,10 +1,1 @@
-{
-    "id": "10551077",
-    "itemNo": "10551077",
-    "name": "BANKKONTOR",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"10551077","itemNo":"10551077","name":"BANKKONTOR","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1499},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

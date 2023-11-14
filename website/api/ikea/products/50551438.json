@@ -1,10 +1,1 @@
-{
-    "id": "50551438",
-    "itemNo": "50551438",
-    "name": "PRAKTTIDLÖSA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"50551438","itemNo":"50551438","name":"PRAKTTIDLÖSA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

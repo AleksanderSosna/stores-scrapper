@@ -1,10 +1,1 @@
-{
-    "id": "40555984",
-    "itemNo": "40555984",
-    "name": "DÄCKSBÅT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 219 }
-    ]
-}
+{"id":"40555984","itemNo":"40555984","name":"DÄCKSBÅT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":219}]}

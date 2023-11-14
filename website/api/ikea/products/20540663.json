@@ -1,10 +1,1 @@
-{
-    "id": "20540663",
-    "itemNo": "20540663",
-    "name": "BLÅHAJ",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20540663","itemNo":"20540663","name":"BLÅHAJ","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

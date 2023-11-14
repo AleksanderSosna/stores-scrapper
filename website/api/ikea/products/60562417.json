@@ -1,10 +1,1 @@
-{
-    "id": "60562417",
-    "itemNo": "60562417",
-    "name": "HAVSSMAK",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"60562417","itemNo":"60562417","name":"HAVSSMAK","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

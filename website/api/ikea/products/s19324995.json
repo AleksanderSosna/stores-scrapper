@@ -1,10 +1,1 @@
-{
-    "id": "s19324995",
-    "itemNo": "19324995",
-    "name": "DOCKSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"s19324995","itemNo":"19324995","name":"DOCKSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

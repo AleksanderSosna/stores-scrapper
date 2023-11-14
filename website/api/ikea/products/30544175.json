@@ -1,10 +1,1 @@
-{
-    "id": "30544175",
-    "itemNo": "30544175",
-    "name": "SKÄREFLY",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"30544175","itemNo":"30544175","name":"SKÄREFLY","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

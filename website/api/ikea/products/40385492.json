@@ -1,10 +1,1 @@
-{
-    "id": "40385492",
-    "itemNo": "40385492",
-    "name": "SALJEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 110 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"40385492","itemNo":"40385492","name":"SALJEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":110},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

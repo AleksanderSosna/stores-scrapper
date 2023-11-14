@@ -1,10 +1,1 @@
-{
-    "id": "20497221",
-    "itemNo": "20497221",
-    "name": "HALVVARM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"20497221","itemNo":"20497221","name":"HALVVARM","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

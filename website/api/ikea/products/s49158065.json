@@ -1,10 +1,1 @@
-{
-    "id": "s49158065",
-    "itemNo": "49158065",
-    "name": "NESTTUN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
-    ]
-}
+{"id":"s49158065","itemNo":"49158065","name":"NESTTUN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1249},{"countryCode":"cz","currencyCode":"CZK","price":6490}]}

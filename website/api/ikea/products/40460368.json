@@ -1,10 +1,1 @@
-{
-    "id": "40460368",
-    "itemNo": "40460368",
-    "name": "LAPPTÅTEL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"40460368","itemNo":"40460368","name":"LAPPTÅTEL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

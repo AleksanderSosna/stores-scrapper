@@ -1,10 +1,1 @@
-{
-    "id": "80501258",
-    "itemNo": "80501258",
-    "name": "BLIDVÄDER",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"80501258","itemNo":"80501258","name":"BLIDVÄDER","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

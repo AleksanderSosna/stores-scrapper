@@ -1,10 +1,1 @@
-{
-    "id": "40454560",
-    "itemNo": "40454560",
-    "name": "SUNNERSTA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"40454560","itemNo":"40454560","name":"SUNNERSTA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

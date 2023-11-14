@@ -1,10 +1,1 @@
-{
-    "id": "80393089",
-    "itemNo": "80393089",
-    "name": "FULLÄNDAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"80393089","itemNo":"80393089","name":"FULLÄNDAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80346875",
-    "itemNo": "80346875",
-    "name": "TROLLBO",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
-    ]
-}
+{"id":"80346875","itemNo":"80346875","name":"TROLLBO","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":749}]}

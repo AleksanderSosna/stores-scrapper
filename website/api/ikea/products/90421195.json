@@ -1,10 +1,1 @@
-{
-    "id": "90421195",
-    "itemNo": "90421195",
-    "name": "MEHAMN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
-    ]
-}
+{"id":"90421195","itemNo":"90421195","name":"MEHAMN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":500}]}

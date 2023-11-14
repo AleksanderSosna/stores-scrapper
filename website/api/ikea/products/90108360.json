@@ -1,10 +1,1 @@
-{
-    "id": "90108360",
-    "itemNo": "90108360",
-    "name": "GLIMMA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 22.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"90108360","itemNo":"90108360","name":"GLIMMA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":22.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

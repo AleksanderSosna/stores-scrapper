@@ -1,10 +1,1 @@
-{
-    "id": "s09491230",
-    "itemNo": "09491230",
-    "name": "VRETSTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 16990 }
-    ]
-}
+{"id":"s09491230","itemNo":"09491230","name":"VRETSTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3299},{"countryCode":"cz","currencyCode":"CZK","price":16990}]}

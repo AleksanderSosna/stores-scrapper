@@ -1,10 +1,1 @@
-{
-    "id": "30564535",
-    "itemNo": "30564535",
-    "name": "BULLERSKYDD",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"30564535","itemNo":"30564535","name":"BULLERSKYDD","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

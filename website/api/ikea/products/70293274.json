@@ -1,10 +1,1 @@
-{
-    "id": "70293274",
-    "itemNo": "70293274",
-    "name": "BUMERANG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
-    ]
-}
+{"id":"70293274","itemNo":"70293274","name":"BUMERANG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.5},{"countryCode":"cz","currencyCode":"CZK","price":15}]}

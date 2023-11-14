@@ -1,10 +1,1 @@
-{
-    "id": "80400042",
-    "itemNo": "80400042",
-    "name": "BURHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"80400042","itemNo":"80400042","name":"BURHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

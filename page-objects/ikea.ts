@@ -1,6 +1,8 @@
 import { Locator, Page } from "@playwright/test";
 import { ulid } from "ulid";
 import fs from "fs";
+import fsPromises from "fs/promises";
+import path from "path";
 
 export class Ikea {
     readonly page: Page;
@@ -38,6 +40,16 @@ export class Ikea {
         const fileName = options ? (typeof options.fileName == "string" ? options.fileName : ulid()) : ulid();
 
         fs.writeFileSync(`${directory}/${fileName}.json`, data);
+    }
+
+    async deleteAllFilesFromDirectory(directory: string): Promise<void> {
+        try {
+            const files = await fsPromises.readdir(directory);
+            const deleteFilePromises = files.map((file) => fsPromises.unlink(path.join(directory, file)));
+            await Promise.all(deleteFilePromises);
+        } catch (err) {
+            console.log(err);
+        }
     }
 
     async getSessionIdFromLocalStorage(): Promise<string> {

@@ -1,10 +1,1 @@
-{
-    "id": "s59480314",
-    "itemNo": "59480314",
-    "name": "NORBERG / KÄTTIL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4970 }
-    ]
-}
+{"id":"s59480314","itemNo":"59480314","name":"NORBERG / KÄTTIL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":797},{"countryCode":"cz","currencyCode":"CZK","price":4970}]}

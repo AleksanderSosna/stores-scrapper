@@ -1,10 +1,1 @@
-{
-    "id": "30449239",
-    "itemNo": "30449239",
-    "name": "ALSTERN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"30449239","itemNo":"30449239","name":"ALSTERN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

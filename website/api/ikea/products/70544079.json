@@ -1,10 +1,1 @@
-{
-    "id": "70544079",
-    "itemNo": "70544079",
-    "name": "SMÅHAGEL",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"70544079","itemNo":"70544079","name":"SMÅHAGEL","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

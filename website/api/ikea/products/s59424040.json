@@ -1,10 +1,1 @@
-{
-    "id": "s59424040",
-    "itemNo": "59424040",
-    "name": "SKYTTA / AULI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3250 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 16300 }
-    ]
-}
+{"id":"s59424040","itemNo":"59424040","name":"SKYTTA / AULI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3250},{"countryCode":"cz","currencyCode":"CZK","price":16300}]}

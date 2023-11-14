@@ -1,10 +1,1 @@
-{
-    "id": "80428475",
-    "itemNo": "80428475",
-    "name": "FÖRNUFT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"80428475","itemNo":"80428475","name":"FÖRNUFT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

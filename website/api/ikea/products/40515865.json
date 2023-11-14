@@ -1,10 +1,1 @@
-{
-    "id": "40515865",
-    "itemNo": "40515865",
-    "name": "FÖRDELAKTIG",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 26990 }
-    ]
-}
+{"id":"40515865","itemNo":"40515865","name":"FÖRDELAKTIG","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5699},{"countryCode":"cz","currencyCode":"CZK","price":26990}]}

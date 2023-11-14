@@ -1,10 +1,1 @@
-{
-    "id": "s89424048",
-    "itemNo": "89424048",
-    "name": "SKYTTA / MEHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1675 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8500 }
-    ]
-}
+{"id":"s89424048","itemNo":"89424048","name":"SKYTTA / MEHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1675},{"countryCode":"cz","currencyCode":"CZK","price":8500}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09424047",
-    "itemNo": "09424047",
-    "name": "SKYTTA / MEHAMN/AULI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3750 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 18900 }
-    ]
-}
+{"id":"s09424047","itemNo":"09424047","name":"SKYTTA / MEHAMN/AULI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3750},{"countryCode":"cz","currencyCode":"CZK","price":18900}]}

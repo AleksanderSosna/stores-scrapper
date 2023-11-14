@@ -1,10 +1,1 @@
-{
-    "id": "60401127",
-    "itemNo": "60401127",
-    "name": "TROXHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"60401127","itemNo":"60401127","name":"TROXHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

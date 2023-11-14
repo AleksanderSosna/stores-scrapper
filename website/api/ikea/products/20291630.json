@@ -1,10 +1,1 @@
-{
-    "id": "20291630",
-    "itemNo": "20291630",
-    "name": "SELSVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 80 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"20291630","itemNo":"20291630","name":"SELSVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":80},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

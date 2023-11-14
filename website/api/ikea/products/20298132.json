@@ -1,10 +1,1 @@
-{
-    "id": "20298132",
-    "itemNo": "20298132",
-    "name": "TUSSÖY",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"20298132","itemNo":"20298132","name":"TUSSÖY","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

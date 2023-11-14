@@ -1,10 +1,1 @@
-{
-    "id": "s39526148",
-    "itemNo": "39526148",
-    "name": "FJÄLLMIL / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 42 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 145 }
-    ]
-}
+{"id":"s39526148","itemNo":"39526148","name":"FJÄLLMIL / HEMMA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":42},{"countryCode":"cz","currencyCode":"CZK","price":145}]}

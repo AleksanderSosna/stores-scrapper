@@ -1,10 +1,1 @@
-{
-    "id": "s99387007",
-    "itemNo": "99387007",
-    "name": "LYCKSELE LÖVÅS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
-    ]
-}
+{"id":"s99387007","itemNo":"99387007","name":"LYCKSELE LÖVÅS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1199},{"countryCode":"cz","currencyCode":"CZK","price":6490}]}

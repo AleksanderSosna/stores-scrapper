@@ -1,10 +1,1 @@
-{
-    "id": "10467639",
-    "itemNo": "10467639",
-    "name": "LUNDSKÄR",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 500 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"10467639","itemNo":"10467639","name":"LUNDSKÄR","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":500},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

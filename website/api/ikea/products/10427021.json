@@ -1,10 +1,1 @@
-{
-    "id": "10427021",
-    "itemNo": "10427021",
-    "name": "SÅNGLÄRKA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"10427021","itemNo":"10427021","name":"SÅNGLÄRKA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":119},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

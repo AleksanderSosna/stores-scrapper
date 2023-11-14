@@ -1,10 +1,1 @@
-{
-    "id": "20404095",
-    "itemNo": "20404095",
-    "name": "TÅGARP",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"20404095","itemNo":"20404095","name":"TÅGARP","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

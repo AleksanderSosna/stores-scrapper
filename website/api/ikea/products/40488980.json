@@ -1,10 +1,1 @@
-{
-    "id": "40488980",
-    "itemNo": "40488980",
-    "name": "TVÄTTAD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
-    ]
-}
+{"id":"40488980","itemNo":"40488980","name":"TVÄTTAD","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2599},{"countryCode":"cz","currencyCode":"CZK","price":12990}]}

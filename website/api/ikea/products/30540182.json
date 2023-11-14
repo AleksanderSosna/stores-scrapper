@@ -1,10 +1,1 @@
-{
-    "id": "30540182",
-    "itemNo": "30540182",
-    "name": "ÅKERRÄTTIKA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"30540182","itemNo":"30540182","name":"ÅKERRÄTTIKA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

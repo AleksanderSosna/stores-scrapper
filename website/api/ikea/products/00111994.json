@@ -1,10 +1,1 @@
-{
-    "id": "00111994",
-    "itemNo": "00111994",
-    "name": "ALBERT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00111994","itemNo":"00111994","name":"ALBERT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

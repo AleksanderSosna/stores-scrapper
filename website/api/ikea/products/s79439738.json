@@ -1,10 +1,1 @@
-{
-    "id": "s79439738",
-    "itemNo": "79439738",
-    "name": "BESTÅ / EKET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2050 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11250 }
-    ]
-}
+{"id":"s79439738","itemNo":"79439738","name":"BESTÅ / EKET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2050},{"countryCode":"cz","currencyCode":"CZK","price":11250}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s19416773",
-    "itemNo": "19416773",
-    "name": "LAGKAPTEN / OLOV",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 189 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1399 }
-    ]
-}
+{"id":"s19416773","itemNo":"19416773","name":"LAGKAPTEN / OLOV","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":189},{"countryCode":"cz","currencyCode":"CZK","price":1399}]}

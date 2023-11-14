@@ -1,10 +1,1 @@
-{
-    "id": "30341903",
-    "itemNo": "30341903",
-    "name": "INSJÖN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
-    ]
-}
+{"id":"30341903","itemNo":"30341903","name":"INSJÖN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":6990}]}

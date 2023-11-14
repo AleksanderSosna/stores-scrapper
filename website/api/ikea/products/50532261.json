@@ -1,10 +1,1 @@
-{
-    "id": "50532261",
-    "itemNo": "50532261",
-    "name": "SANDSVINGEL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"50532261","itemNo":"50532261","name":"SANDSVINGEL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s19502817",
-    "itemNo": "19502817",
-    "name": "RIDSPÖ / BJÖRKBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2298 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14280 }
-    ]
-}
+{"id":"s19502817","itemNo":"19502817","name":"RIDSPÖ / BJÖRKBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2298},{"countryCode":"cz","currencyCode":"CZK","price":14280}]}

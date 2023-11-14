@@ -1,10 +1,1 @@
-{
-    "id": "s39502604",
-    "itemNo": "39502604",
-    "name": "VÅGSJÖN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.96 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 276 }
-    ]
-}
+{"id":"s39502604","itemNo":"39502604","name":"VÅGSJÖN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.96},{"countryCode":"cz","currencyCode":"CZK","price":276}]}

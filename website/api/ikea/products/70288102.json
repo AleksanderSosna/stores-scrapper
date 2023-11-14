@@ -1,10 +1,1 @@
-{
-    "id": "70288102",
-    "itemNo": "70288102",
-    "name": "SYLT HALLON & BLÅBÄR",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"70288102","itemNo":"70288102","name":"SYLT HALLON & BLÅBÄR","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

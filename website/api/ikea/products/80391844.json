@@ -1,10 +1,1 @@
-{
-    "id": "80391844",
-    "itemNo": "80391844",
-    "name": "DUVHOLMEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 30 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
-    ]
-}
+{"id":"80391844","itemNo":"80391844","name":"DUVHOLMEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":30},{"countryCode":"cz","currencyCode":"CZK","price":200}]}

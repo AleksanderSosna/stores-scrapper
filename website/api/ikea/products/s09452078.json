@@ -1,10 +1,1 @@
-{
-    "id": "s09452078",
-    "itemNo": "09452078",
-    "name": "SÖDERHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4898 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 36980 }
-    ]
-}
+{"id":"s09452078","itemNo":"09452078","name":"SÖDERHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4898},{"countryCode":"cz","currencyCode":"CZK","price":36980}]}

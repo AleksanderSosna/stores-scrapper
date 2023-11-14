@@ -1,10 +1,1 @@
-{
-    "id": "40435538",
-    "itemNo": "40435538",
-    "name": "BODARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"40435538","itemNo":"40435538","name":"BODARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":200},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

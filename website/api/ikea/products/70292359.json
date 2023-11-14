@@ -1,10 +1,1 @@
-{
-    "id": "70292359",
-    "itemNo": "70292359",
-    "name": "KNAGGLIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"70292359","itemNo":"70292359","name":"KNAGGLIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

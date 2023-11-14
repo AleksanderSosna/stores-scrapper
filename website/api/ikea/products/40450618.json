@@ -1,10 +1,1 @@
-{
-    "id": "40450618",
-    "itemNo": "40450618",
-    "name": "VESTERÖY",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"40450618","itemNo":"40450618","name":"VESTERÖY","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

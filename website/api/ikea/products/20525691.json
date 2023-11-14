@@ -1,10 +1,1 @@
-{
-    "id": "20525691",
-    "itemNo": "20525691",
-    "name": "LARKOLLEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
-    ]
-}
+{"id":"20525691","itemNo":"20525691","name":"LARKOLLEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":200}]}

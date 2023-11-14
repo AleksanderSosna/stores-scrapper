@@ -1,10 +1,1 @@
-{
-    "id": "00499513",
-    "itemNo": "00499513",
-    "name": "MOALISA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"00499513","itemNo":"00499513","name":"MOALISA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

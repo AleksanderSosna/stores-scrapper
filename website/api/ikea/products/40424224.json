@@ -1,10 +1,1 @@
-{
-    "id": "40424224",
-    "itemNo": "40424224",
-    "name": "SILVERTOPP",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"40424224","itemNo":"40424224","name":"SILVERTOPP","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

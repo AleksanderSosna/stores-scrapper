@@ -1,10 +1,1 @@
-{
-    "id": "90538063",
-    "itemNo": "90538063",
-    "name": "BLANDSKOG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"90538063","itemNo":"90538063","name":"BLANDSKOG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

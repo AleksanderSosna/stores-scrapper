@@ -1,10 +1,1 @@
-{
-    "id": "10521735",
-    "itemNo": "10521735",
-    "name": "OMNEJD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19990 }
-    ]
-}
+{"id":"10521735","itemNo":"10521735","name":"OMNEJD","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2799},{"countryCode":"cz","currencyCode":"CZK","price":19990}]}

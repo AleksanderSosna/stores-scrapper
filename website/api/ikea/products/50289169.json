@@ -1,10 +1,1 @@
-{
-    "id": "50289169",
-    "itemNo": "50289169",
-    "name": "SKÄRANDE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"50289169","itemNo":"50289169","name":"SKÄRANDE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

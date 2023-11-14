@@ -1,10 +1,1 @@
-{
-    "id": "60391661",
-    "itemNo": "60391661",
-    "name": "TORNVIKEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 259 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"60391661","itemNo":"60391661","name":"TORNVIKEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":259},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59189033",
-    "itemNo": "59189033",
-    "name": "EKET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 900 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6240 }
-    ]
-}
+{"id":"s59189033","itemNo":"59189033","name":"EKET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":900},{"countryCode":"cz","currencyCode":"CZK","price":6240}]}

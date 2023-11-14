@@ -1,10 +1,1 @@
-{
-    "id": "30486788",
-    "itemNo": "30486788",
-    "name": "TRÅDFRI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"30486788","itemNo":"30486788","name":"TRÅDFRI","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

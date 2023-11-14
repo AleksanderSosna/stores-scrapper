@@ -1,10 +1,1 @@
-{
-    "id": "s29272712",
-    "itemNo": "29272712",
-    "name": "TULLSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3999 }
-    ]
-}
+{"id":"s29272712","itemNo":"29272712","name":"TULLSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":3999}]}

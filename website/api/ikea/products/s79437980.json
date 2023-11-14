@@ -1,10 +1,1 @@
-{
-    "id": "s79437980",
-    "itemNo": "79437980",
-    "name": "AULI / MEHAMN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5500 }
-    ]
-}
+{"id":"s79437980","itemNo":"79437980","name":"AULI / MEHAMN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1100},{"countryCode":"cz","currencyCode":"CZK","price":5500}]}

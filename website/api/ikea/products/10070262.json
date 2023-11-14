@@ -1,10 +1,1 @@
-{
-    "id": "10070262",
-    "itemNo": "10070262",
-    "name": "LILL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"10070262","itemNo":"10070262","name":"LILL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

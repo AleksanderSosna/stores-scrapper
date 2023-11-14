@@ -1,10 +1,1 @@
-{
-    "id": "80488544",
-    "itemNo": "80488544",
-    "name": "NORDVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"80488544","itemNo":"80488544","name":"NORDVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1599},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00553208",
-    "itemNo": "00553208",
-    "name": "GULDFISK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"00553208","itemNo":"00553208","name":"GULDFISK","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

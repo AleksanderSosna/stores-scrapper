@@ -1,10 +1,1 @@
-{
-    "id": "90504647",
-    "itemNo": "90504647",
-    "name": "OMBONAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"90504647","itemNo":"90504647","name":"OMBONAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

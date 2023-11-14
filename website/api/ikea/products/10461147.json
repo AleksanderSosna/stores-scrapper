@@ -1,10 +1,1 @@
-{
-    "id": "10461147",
-    "itemNo": "10461147",
-    "name": "FEJKA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"10461147","itemNo":"10461147","name":"FEJKA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30141126",
-    "itemNo": "30141126",
-    "name": "BÄSTIS",
-    "categoryKey": "lc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"30141126","itemNo":"30141126","name":"BÄSTIS","categoryKey":"lc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

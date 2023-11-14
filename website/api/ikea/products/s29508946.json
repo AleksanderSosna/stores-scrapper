@@ -1,10 +1,1 @@
-{
-    "id": "s29508946",
-    "itemNo": "29508946",
-    "name": "SYMFONISK / DIRIGERA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 348.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1889 }
-    ]
-}
+{"id":"s29508946","itemNo":"29508946","name":"SYMFONISK / DIRIGERA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":348.99},{"countryCode":"cz","currencyCode":"CZK","price":1889}]}

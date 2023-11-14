@@ -1,10 +1,1 @@
-{
-    "id": "30407814",
-    "itemNo": "30407814",
-    "name": "RINNIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"30407814","itemNo":"30407814","name":"RINNIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60357431",
-    "itemNo": "60357431",
-    "name": "LEDLJUS",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"60357431","itemNo":"60357431","name":"LEDLJUS","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

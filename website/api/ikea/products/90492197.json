@@ -1,10 +1,1 @@
-{
-    "id": "90492197",
-    "itemNo": "90492197",
-    "name": "ELLOVEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 65 }
-    ]
-}
+{"id":"90492197","itemNo":"90492197","name":"ELLOVEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":65}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10559460",
-    "itemNo": "10559460",
-    "name": "KOLSTAN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
-    ]
-}
+{"id":"10559460","itemNo":"10559460","name":"KOLSTAN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1999},{"countryCode":"cz","currencyCode":"CZK","price":9490}]}

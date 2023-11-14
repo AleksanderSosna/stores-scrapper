@@ -1,10 +1,1 @@
-{
-    "id": "90474396",
-    "itemNo": "90474396",
-    "name": "BLÄDDRARE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"90474396","itemNo":"90474396","name":"BLÄDDRARE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

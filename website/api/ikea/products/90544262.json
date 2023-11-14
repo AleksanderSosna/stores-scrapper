@@ -1,10 +1,1 @@
-{
-    "id": "90544262",
-    "itemNo": "90544262",
-    "name": "TÅGVECKLARE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"90544262","itemNo":"90544262","name":"TÅGVECKLARE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

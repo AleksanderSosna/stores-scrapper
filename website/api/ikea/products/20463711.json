@@ -1,10 +1,1 @@
-{
-    "id": "20463711",
-    "itemNo": "20463711",
-    "name": "MIDDAGSMAT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20463711","itemNo":"20463711","name":"MIDDAGSMAT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

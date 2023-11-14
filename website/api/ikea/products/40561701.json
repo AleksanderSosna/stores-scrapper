@@ -1,10 +1,1 @@
-{
-    "id": "40561701",
-    "itemNo": "40561701",
-    "name": "POINSETTIA",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"40561701","itemNo":"40561701","name":"POINSETTIA","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

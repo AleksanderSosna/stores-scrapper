@@ -1,10 +1,1 @@
-{
-    "id": "40365762",
-    "itemNo": "40365762",
-    "name": "HOVSTA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"40365762","itemNo":"40365762","name":"HOVSTA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

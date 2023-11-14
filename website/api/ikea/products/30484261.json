@@ -1,10 +1,1 @@
-{
-    "id": "30484261",
-    "itemNo": "30484261",
-    "name": "GULLIGAST",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"30484261","itemNo":"30484261","name":"GULLIGAST","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

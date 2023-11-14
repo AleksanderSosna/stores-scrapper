@@ -1,10 +1,1 @@
-{
-    "id": "40327949",
-    "itemNo": "40327949",
-    "name": "BERÄKNA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"40327949","itemNo":"40327949","name":"BERÄKNA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50499558",
-    "itemNo": "50499558",
-    "name": "PEPPRIG",
-    "categoryKey": "lc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"50499558","itemNo":"50499558","name":"PEPPRIG","categoryKey":"lc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

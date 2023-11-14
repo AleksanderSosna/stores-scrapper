@@ -1,10 +1,1 @@
-{
-    "id": "s99304446",
-    "itemNo": "99304446",
-    "name": "HEMNES / RÄTTVIKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 21760 }
-    ]
-}
+{"id":"s99304446","itemNo":"99304446","name":"HEMNES / RÄTTVIKEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3699},{"countryCode":"cz","currencyCode":"CZK","price":21760}]}

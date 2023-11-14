@@ -1,10 +1,1 @@
-{
-    "id": "00421133",
-    "itemNo": "00421133",
-    "name": "UTSUND",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"00421133","itemNo":"00421133","name":"UTSUND","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

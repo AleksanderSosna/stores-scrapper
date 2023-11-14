@@ -1,10 +1,1 @@
-{
-    "id": "80424236",
-    "itemNo": "80424236",
-    "name": "SKÖLDBLAD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"80424236","itemNo":"80424236","name":"SKÖLDBLAD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

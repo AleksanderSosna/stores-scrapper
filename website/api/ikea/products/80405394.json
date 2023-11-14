@@ -1,10 +1,1 @@
-{
-    "id": "80405394",
-    "itemNo": "80405394",
-    "name": "SKAFTET",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 140 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 700 }
-    ]
-}
+{"id":"80405394","itemNo":"80405394","name":"SKAFTET","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":140},{"countryCode":"cz","currencyCode":"CZK","price":700}]}

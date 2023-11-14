@@ -1,10 +1,1 @@
-{
-    "id": "50323366",
-    "itemNo": "50323366",
-    "name": "OXBERG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 950 }
-    ]
-}
+{"id":"50323366","itemNo":"50323366","name":"OXBERG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":950}]}

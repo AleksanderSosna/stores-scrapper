@@ -1,10 +1,1 @@
-{
-    "id": "60289244",
-    "itemNo": "60289244",
-    "name": "VÖRDA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"60289244","itemNo":"60289244","name":"VÖRDA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

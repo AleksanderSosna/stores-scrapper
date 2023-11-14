@@ -1,10 +1,1 @@
-{
-    "id": "50333049",
-    "itemNo": "50333049",
-    "name": "JAKOBSBYN",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"50333049","itemNo":"50333049","name":"JAKOBSBYN","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

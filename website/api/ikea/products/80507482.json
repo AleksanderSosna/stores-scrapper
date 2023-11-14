@@ -1,10 +1,1 @@
-{
-    "id": "80507482",
-    "itemNo": "80507482",
-    "name": "SKRUVSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"80507482","itemNo":"80507482","name":"SKRUVSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

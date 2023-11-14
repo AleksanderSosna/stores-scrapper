@@ -1,10 +1,1 @@
-{
-    "id": "70509702",
-    "itemNo": "70509702",
-    "name": "KRINGSYNT",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"70509702","itemNo":"70509702","name":"KRINGSYNT","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

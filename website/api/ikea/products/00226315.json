@@ -1,10 +1,1 @@
-{
-    "id": "00226315",
-    "itemNo": "00226315",
-    "name": "VARIERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
-    ]
-}
+{"id":"00226315","itemNo":"00226315","name":"VARIERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":25}]}

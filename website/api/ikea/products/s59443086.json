@@ -1,10 +1,1 @@
-{
-    "id": "s59443086",
-    "itemNo": "59443086",
-    "name": "TVÄLLEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 550 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2100 }
-    ]
-}
+{"id":"s59443086","itemNo":"59443086","name":"TVÄLLEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":550},{"countryCode":"cz","currencyCode":"CZK","price":2100}]}

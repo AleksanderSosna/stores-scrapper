@@ -1,10 +1,1 @@
-{
-    "id": "10354208",
-    "itemNo": "10354208",
-    "name": "BYGGLEK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"10354208","itemNo":"10354208","name":"BYGGLEK","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

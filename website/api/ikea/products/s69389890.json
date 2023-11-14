@@ -1,10 +1,1 @@
-{
-    "id": "s69389890",
-    "itemNo": "69389890",
-    "name": "ESPEVÄR/VESTMARKA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2728 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15580 }
-    ]
-}
+{"id":"s69389890","itemNo":"69389890","name":"ESPEVÄR/VESTMARKA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2728},{"countryCode":"cz","currencyCode":"CZK","price":15580}]}

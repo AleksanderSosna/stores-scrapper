@@ -1,10 +1,1 @@
-{
-    "id": "50437626",
-    "itemNo": "50437626",
-    "name": "MISTERHULT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"50437626","itemNo":"50437626","name":"MISTERHULT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

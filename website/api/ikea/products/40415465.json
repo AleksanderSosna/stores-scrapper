@@ -1,10 +1,1 @@
-{
-    "id": "40415465",
-    "itemNo": "40415465",
-    "name": "LOMMARP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"40415465","itemNo":"40415465","name":"LOMMARP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

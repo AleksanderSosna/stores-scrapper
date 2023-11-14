@@ -1,10 +1,1 @@
-{
-    "id": "50511211",
-    "itemNo": "50511211",
-    "name": "SNÖRPA",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"50511211","itemNo":"50511211","name":"SNÖRPA","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

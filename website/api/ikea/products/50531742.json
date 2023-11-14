@@ -1,10 +1,1 @@
-{
-    "id": "50531742",
-    "itemNo": "50531742",
-    "name": "IKEA PS 2014",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"50531742","itemNo":"50531742","name":"IKEA PS 2014","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":239},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

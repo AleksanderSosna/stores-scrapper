@@ -1,10 +1,1 @@
-{
-    "id": "20308678",
-    "itemNo": "20308678",
-    "name": "BJÖRKBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"20308678","itemNo":"20308678","name":"BJÖRKBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

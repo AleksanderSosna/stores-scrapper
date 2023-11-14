@@ -1,10 +1,1 @@
-{
-    "id": "s59525614",
-    "itemNo": "59525614",
-    "name": "TROFAST",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 269 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1419 }
-    ]
-}
+{"id":"s59525614","itemNo":"59525614","name":"TROFAST","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":269},{"countryCode":"cz","currencyCode":"CZK","price":1419}]}

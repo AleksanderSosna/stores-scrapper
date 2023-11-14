@@ -1,10 +1,1 @@
-{
-    "id": "20331198",
-    "itemNo": "20331198",
-    "name": "LÄTTHET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 50 }
-    ]
-}
+{"id":"20331198","itemNo":"20331198","name":"LÄTTHET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":50}]}

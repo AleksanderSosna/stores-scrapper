@@ -1,10 +1,1 @@
-{
-    "id": "s59510617",
-    "itemNo": "59510617",
-    "name": "JÄTTEBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12694 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 70200 }
-    ]
-}
+{"id":"s59510617","itemNo":"59510617","name":"JÄTTEBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12694},{"countryCode":"cz","currencyCode":"CZK","price":70200}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00132798",
-    "itemNo": "00132798",
-    "name": "GOSIG GOLDEN",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00132798","itemNo":"00132798","name":"GOSIG GOLDEN","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

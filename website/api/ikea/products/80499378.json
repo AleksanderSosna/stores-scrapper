@@ -1,10 +1,1 @@
-{
-    "id": "80499378",
-    "itemNo": "80499378",
-    "name": "TOTEBO",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"80499378","itemNo":"80499378","name":"TOTEBO","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

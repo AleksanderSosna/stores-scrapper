@@ -1,10 +1,1 @@
-{
-    "id": "10493799",
-    "itemNo": "10493799",
-    "name": "PÄRUP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"10493799","itemNo":"10493799","name":"PÄRUP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10545029",
-    "itemNo": "10545029",
-    "name": "ÄNGSBLÅVINGE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"10545029","itemNo":"10545029","name":"ÄNGSBLÅVINGE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

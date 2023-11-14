@@ -1,10 +1,1 @@
-{
-    "id": "10551845",
-    "itemNo": "10551845",
-    "name": "TABBERAS",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":{"name":"TABBERAS","typeName":"Sitko/lejek zest 3","itemMeasureReferenceText":"","mainImageUrl":"https://www.ikea.com/pl/pl/images/products/tabberas-sitko-lejek-zest-3-stal-nierdz__1080816_pe858197_s5.jpg","pipUrl":"https://www.ikea.com/pl/pl/p/tabberas-sitko-lejek-zest-3-stal-nierdz-10551845/","id":"10551845","itemNoGlobal":"10551845","onlineSellable":true,"lastChance":false,"gprDescription":{"numberOfVariants":0,"variants":[]},"colors":[{"name":"szary","id":"10028","hex":"949494"}],"badge":{"type":"LIMITED_EDITION","text":"Kolekcja limitowana"},"tag":"NONE","quickFacts":[],"features":[],"availability":[],"ratingValue":5,"ratingCount":4,"itemNo":"10551845","itemType":"ART","salesPrice":{"currencyCode":"PLN","numeral":39.99,"current":{"prefix":"","wholeNumber":"39","separator":",","decimals":"99","suffix":"","isRegularCurrency":false},"isBreathTaking":false,"discount":"","tag":"NONE","priceText":"Cena"},"contextualImageUrl":"https://www.ikea.com/pl/pl/images/products/tabberas-sitko-lejek-zest-3-stal-nierdz__1210253_pe909597_s5.jpg","mainImageAlt":"TABBERAS Sitko/lejek zest 3, stal nierdz","businessStructure":{"homeFurnishingBusinessName":"Cooking","homeFurnishingBusinessNo":"14","productAreaName":"Kitchen utensils","productAreaNo":"1422","productRangeAreaName":"Kitchen tools","productRangeAreaNo":"142"},"categoryPath":[{"name":"Gotowanie i zastawa stołowa","key":"kt001"},{"name":"Naczynia do gotowania","key":"kt003"},{"name":"Wkłady do gotowania, pokrywki i podstawki pod garnki","key":"15927"}],"heroBackoffData":{},"optimizelyAttributes":{"PRODUCT_TYPE":"standard"}},"itemNo":"10551845","name":"TABBERAS","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30417399",
-    "itemNo": "30417399",
-    "name": "UTRUSTA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 160 }
-    ]
-}
+{"id":"30417399","itemNo":"30417399","name":"UTRUSTA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":160}]}

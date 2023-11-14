@@ -1,10 +1,1 @@
-{
-    "id": "s79420461",
-    "itemNo": "79420461",
-    "name": "PAX / FORSAND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2315 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 13100 }
-    ]
-}
+{"id":"s79420461","itemNo":"79420461","name":"PAX / FORSAND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2315},{"countryCode":"cz","currencyCode":"CZK","price":13100}]}

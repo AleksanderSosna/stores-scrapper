@@ -1,10 +1,1 @@
-{
-    "id": "00566965",
-    "itemNo": "00566965",
-    "name": "TRIXIG",
-    "categoryKey": "hi001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"00566965","itemNo":"00566965","name":"TRIXIG","categoryKey":"hi001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

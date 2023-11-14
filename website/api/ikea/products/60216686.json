@@ -1,10 +1,1 @@
-{
-    "id": "60216686",
-    "itemNo": "60216686",
-    "name": "SIBBARP",
-    "categoryKey": "hi001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 649 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2400 }
-    ]
-}
+{"id":"60216686","itemNo":"60216686","name":"SIBBARP","categoryKey":"hi001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":649},{"countryCode":"cz","currencyCode":"CZK","price":2400}]}

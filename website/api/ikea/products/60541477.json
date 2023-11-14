@@ -1,10 +1,1 @@
-{
-    "id": "60541477",
-    "itemNo": "60541477",
-    "name": "ELLJUSSPÅR",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"60541477","itemNo":"60541477","name":"ELLJUSSPÅR","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1399},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

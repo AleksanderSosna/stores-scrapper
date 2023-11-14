@@ -1,10 +1,1 @@
-{
-    "id": "s99401433",
-    "itemNo": "99401433",
-    "name": "VIMLE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19490 }
-    ]
-}
+{"id":"s99401433","itemNo":"99401433","name":"VIMLE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2699},{"countryCode":"cz","currencyCode":"CZK","price":19490}]}

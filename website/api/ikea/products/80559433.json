@@ -1,10 +1,1 @@
-{
-    "id": "80559433",
-    "itemNo": "80559433",
-    "name": "SANDSKÄDDA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"80559433","itemNo":"80559433","name":"SANDSKÄDDA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

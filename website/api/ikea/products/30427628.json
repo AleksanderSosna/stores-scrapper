@@ -1,10 +1,1 @@
-{
-    "id": "30427628",
-    "itemNo": "30427628",
-    "name": "EDSBRUK",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
-    ]
-}
+{"id":"30427628","itemNo":"30427628","name":"EDSBRUK","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":379}]}

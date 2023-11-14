@@ -1,10 +1,1 @@
-{
-    "id": "s19494450",
-    "itemNo": "19494450",
-    "name": "SKAFTET / LUNNOM",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"s19494450","itemNo":"19494450","name":"SKAFTET / LUNNOM","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

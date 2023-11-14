@@ -1,10 +1,1 @@
-{
-    "id": "20192828",
-    "itemNo": "20192828",
-    "name": "EKBY ALEX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"20192828","itemNo":"20192828","name":"EKBY ALEX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

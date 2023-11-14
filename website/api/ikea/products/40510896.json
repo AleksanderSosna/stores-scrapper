@@ -1,10 +1,1 @@
-{
-    "id": "40510896",
-    "itemNo": "40510896",
-    "name": "PERSILLADE",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"40510896","itemNo":"40510896","name":"PERSILLADE","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

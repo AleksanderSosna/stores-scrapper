@@ -1,10 +1,1 @@
-{
-    "id": "90535106",
-    "itemNo": "90535106",
-    "name": "CACTACEAE",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"90535106","itemNo":"90535106","name":"CACTACEAE","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

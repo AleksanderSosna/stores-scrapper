@@ -1,10 +1,1 @@
-{
-    "id": "20471612",
-    "itemNo": "20471612",
-    "name": "DÄNKA",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"20471612","itemNo":"20471612","name":"DÄNKA","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

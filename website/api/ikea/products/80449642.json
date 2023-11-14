@@ -1,10 +1,1 @@
-{
-    "id": "80449642",
-    "itemNo": "80449642",
-    "name": "NYDALA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"80449642","itemNo":"80449642","name":"NYDALA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

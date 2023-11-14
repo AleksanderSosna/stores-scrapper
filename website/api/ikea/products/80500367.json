@@ -1,10 +1,1 @@
-{
-    "id": "80500367",
-    "itemNo": "80500367",
-    "name": "LILLTJÄRN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
-    ]
-}
+{"id":"80500367","itemNo":"80500367","name":"LILLTJÄRN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59},{"countryCode":"cz","currencyCode":"CZK","price":379}]}

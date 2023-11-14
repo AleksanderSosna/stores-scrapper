@@ -1,10 +1,1 @@
-{
-    "id": "s99320979",
-    "itemNo": "99320979",
-    "name": "ENHET",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 270 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
-    ]
-}
+{"id":"s99320979","itemNo":"99320979","name":"ENHET","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":270},{"countryCode":"cz","currencyCode":"CZK","price":1800}]}

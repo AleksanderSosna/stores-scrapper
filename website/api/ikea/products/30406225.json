@@ -1,10 +1,1 @@
-{
-    "id": "30406225",
-    "itemNo": "30406225",
-    "name": "LÖKNÄS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"30406225","itemNo":"30406225","name":"LÖKNÄS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":119},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90280483",
-    "itemNo": "90280483",
-    "name": "MANDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
-    ]
-}
+{"id":"90280483","itemNo":"90280483","name":"MANDAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1999},{"countryCode":"cz","currencyCode":"CZK","price":9490}]}

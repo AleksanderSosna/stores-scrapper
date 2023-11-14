@@ -1,10 +1,1 @@
-{
-    "id": "00401955",
-    "itemNo": "00401955",
-    "name": "NYTTIG FIL 500",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 189 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"00401955","itemNo":"00401955","name":"NYTTIG FIL 500","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":189},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

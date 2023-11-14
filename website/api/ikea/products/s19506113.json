@@ -1,10 +1,1 @@
-{
-    "id": "s19506113",
-    "itemNo": "19506113",
-    "name": "GULLIVER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 898 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4980 }
-    ]
-}
+{"id":"s19506113","itemNo":"19506113","name":"GULLIVER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":898},{"countryCode":"cz","currencyCode":"CZK","price":4980}]}

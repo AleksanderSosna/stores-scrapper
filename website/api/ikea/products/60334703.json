@@ -1,10 +1,1 @@
-{
-    "id": "60334703",
-    "itemNo": "60334703",
-    "name": "GRADVIS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"60334703","itemNo":"60334703","name":"GRADVIS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

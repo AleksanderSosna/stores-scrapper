@@ -1,10 +1,1 @@
-{
-    "id": "20462226",
-    "itemNo": "20462226",
-    "name": "HEMLAGAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20462226","itemNo":"20462226","name":"HEMLAGAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

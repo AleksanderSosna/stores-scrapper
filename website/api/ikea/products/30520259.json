@@ -1,10 +1,1 @@
-{
-    "id": "30520259",
-    "itemNo": "30520259",
-    "name": "ÄDELLÖVSKOG",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"30520259","itemNo":"30520259","name":"ÄDELLÖVSKOG","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

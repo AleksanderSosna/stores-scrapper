@@ -1,10 +1,1 @@
-{
-    "id": "60347102",
-    "itemNo": "60347102",
-    "name": "FJANTIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"60347102","itemNo":"60347102","name":"FJANTIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

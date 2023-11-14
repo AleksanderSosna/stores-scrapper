@@ -1,10 +1,1 @@
-{
-    "id": "20530249",
-    "itemNo": "20530249",
-    "name": "HÖGBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1100 }
-    ]
-}
+{"id":"20530249","itemNo":"20530249","name":"HÖGBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1100}]}

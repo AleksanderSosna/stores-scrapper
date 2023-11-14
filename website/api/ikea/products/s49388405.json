@@ -1,10 +1,1 @@
-{
-    "id": "s49388405",
-    "itemNo": "49388405",
-    "name": "KNOXHULT",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1576 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9148 }
-    ]
-}
+{"id":"s49388405","itemNo":"49388405","name":"KNOXHULT","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1576},{"countryCode":"cz","currencyCode":"CZK","price":9148}]}

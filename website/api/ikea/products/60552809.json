@@ -1,10 +1,1 @@
-{
-    "id": "60552809",
-    "itemNo": "60552809",
-    "name": "BUKETTAPEL",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"60552809","itemNo":"60552809","name":"BUKETTAPEL","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

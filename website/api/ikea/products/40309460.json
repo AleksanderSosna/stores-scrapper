@@ -1,10 +1,1 @@
-{
-    "id": "40309460",
-    "itemNo": "40309460",
-    "name": "FIGURERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9 }
-    ]
-}
+{"id":"40309460","itemNo":"40309460","name":"FIGURERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2},{"countryCode":"cz","currencyCode":"CZK","price":9}]}

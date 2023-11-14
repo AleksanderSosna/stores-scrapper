@@ -1,10 +1,1 @@
-{
-    "id": "00321015",
-    "itemNo": "00321015",
-    "name": "KRUMMELUR",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"00321015","itemNo":"00321015","name":"KRUMMELUR","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00396336",
-    "itemNo": "00396336",
-    "name": "STORSINT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 379 }
-    ]
-}
+{"id":"00396336","itemNo":"00396336","name":"STORSINT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":379}]}

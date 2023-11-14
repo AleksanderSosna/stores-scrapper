@@ -1,10 +1,1 @@
-{
-    "id": "70473604",
-    "itemNo": "70473604",
-    "name": "LINNMON",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"70473604","itemNo":"70473604","name":"LINNMON","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

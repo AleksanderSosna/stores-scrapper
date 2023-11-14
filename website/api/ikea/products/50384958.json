@@ -1,10 +1,1 @@
-{
-    "id": "50384958",
-    "itemNo": "50384958",
-    "name": "GAMMAN",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"50384958","itemNo":"50384958","name":"GAMMAN","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

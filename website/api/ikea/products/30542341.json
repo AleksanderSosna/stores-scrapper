@@ -1,10 +1,1 @@
-{
-    "id": "30542341",
-    "itemNo": "30542341",
-    "name": "MALLHOPPA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 479 }
-    ]
-}
+{"id":"30542341","itemNo":"30542341","name":"MALLHOPPA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":479}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00287295",
-    "itemNo": "00287295",
-    "name": "SNITTA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00287295","itemNo":"00287295","name":"SNITTA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

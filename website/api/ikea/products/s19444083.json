@@ -1,10 +1,1 @@
-{
-    "id": "s19444083",
-    "itemNo": "19444083",
-    "name": "REGOLIT / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 42.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"s19444083","itemNo":"19444083","name":"REGOLIT / HEMMA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":42.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

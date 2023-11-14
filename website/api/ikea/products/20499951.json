@@ -1,10 +1,1 @@
-{
-    "id": "20499951",
-    "itemNo": "20499951",
-    "name": "RÅKALL",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }
-    ]
-}
+{"id":"20499951","itemNo":"20499951","name":"RÅKALL","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1999},{"countryCode":"cz","currencyCode":"CZK","price":10990}]}

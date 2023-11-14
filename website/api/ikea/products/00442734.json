@@ -1,10 +1,1 @@
-{
-    "id": "00442734",
-    "itemNo": "00442734",
-    "name": "NATTJASMIN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00442734","itemNo":"00442734","name":"NATTJASMIN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59424945",
-    "itemNo": "59424945",
-    "name": "TROTTEN / FLINTAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1097 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4179 }
-    ]
-}
+{"id":"s59424945","itemNo":"59424945","name":"TROTTEN / FLINTAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1097},{"countryCode":"cz","currencyCode":"CZK","price":4179}]}

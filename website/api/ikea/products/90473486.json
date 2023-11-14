@@ -1,10 +1,1 @@
-{
-    "id": "90473486",
-    "itemNo": "90473486",
-    "name": "SKOGSVIKEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"90473486","itemNo":"90473486","name":"SKOGSVIKEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

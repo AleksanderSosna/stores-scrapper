@@ -1,10 +1,1 @@
-{
-    "id": "20242890",
-    "itemNo": "20242890",
-    "name": "JÄLL",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"20242890","itemNo":"20242890","name":"JÄLL","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80543258",
-    "itemNo": "80543258",
-    "name": "LEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"80543258","itemNo":"80543258","name":"LEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80569408",
-    "itemNo": "80569408",
-    "name": "LAGKAPTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"80569408","itemNo":"80569408","name":"LAGKAPTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

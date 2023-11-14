@@ -1,10 +1,1 @@
-{
-    "id": "90428272",
-    "itemNo": "90428272",
-    "name": "KALLARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 130 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 90 }
-    ]
-}
+{"id":"90428272","itemNo":"90428272","name":"KALLARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":130},{"countryCode":"cz","currencyCode":"CZK","price":90}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59494603",
-    "itemNo": "59494603",
-    "name": "SKRUVBY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 848 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5280 }
-    ]
-}
+{"id":"s59494603","itemNo":"59494603","name":"SKRUVBY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":848},{"countryCode":"cz","currencyCode":"CZK","price":5280}]}

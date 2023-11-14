@@ -1,10 +1,1 @@
-{
-    "id": "s59428260",
-    "itemNo": "59428260",
-    "name": "VIDGA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 140 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 746 }
-    ]
-}
+{"id":"s59428260","itemNo":"59428260","name":"VIDGA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":140},{"countryCode":"cz","currencyCode":"CZK","price":746}]}

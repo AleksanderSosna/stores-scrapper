@@ -1,10 +1,1 @@
-{
-    "id": "20341135",
-    "itemNo": "20341135",
-    "name": "FRIHETEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
-    ]
-}
+{"id":"20341135","itemNo":"20341135","name":"FRIHETEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2899},{"countryCode":"cz","currencyCode":"CZK","price":14990}]}

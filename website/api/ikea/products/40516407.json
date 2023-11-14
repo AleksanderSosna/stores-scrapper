@@ -1,10 +1,1 @@
-{
-    "id": "40516407",
-    "itemNo": "40516407",
-    "name": "KLYNNON",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 25.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"40516407","itemNo":"40516407","name":"KLYNNON","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":25.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

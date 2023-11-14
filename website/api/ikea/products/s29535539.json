@@ -1,10 +1,1 @@
-{
-    "id": "s29535539",
-    "itemNo": "29535539",
-    "name": "LISABO / KRYLBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1297 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6470 }
-    ]
-}
+{"id":"s29535539","itemNo":"29535539","name":"LISABO / KRYLBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1297},{"countryCode":"cz","currencyCode":"CZK","price":6470}]}

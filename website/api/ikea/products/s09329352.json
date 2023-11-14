@@ -1,10 +1,1 @@
-{
-    "id": "s09329352",
-    "itemNo": "09329352",
-    "name": "PAX / REINSVOLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2360 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14480 }
-    ]
-}
+{"id":"s09329352","itemNo":"09329352","name":"PAX / REINSVOLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2360},{"countryCode":"cz","currencyCode":"CZK","price":14480}]}

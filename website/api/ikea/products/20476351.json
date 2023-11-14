@@ -1,10 +1,1 @@
-{
-    "id": "20476351",
-    "itemNo": "20476351",
-    "name": "NEREBY",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"20476351","itemNo":"20476351","name":"NEREBY","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

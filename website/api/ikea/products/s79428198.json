@@ -1,10 +1,1 @@
-{
-    "id": "s79428198",
-    "itemNo": "79428198",
-    "name": "LERGRYN / SUNNEBY",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 164 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
-    ]
-}
+{"id":"s79428198","itemNo":"79428198","name":"LERGRYN / SUNNEBY","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":164},{"countryCode":"cz","currencyCode":"CZK","price":1099}]}

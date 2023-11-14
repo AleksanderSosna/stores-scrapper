@@ -1,10 +1,1 @@
-{
-    "id": "50234803",
-    "itemNo": "50234803",
-    "name": "FÄRGRIK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"50234803","itemNo":"50234803","name":"FÄRGRIK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10430368",
-    "itemNo": "10430368",
-    "name": "BARLAST",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"10430368","itemNo":"10430368","name":"BARLAST","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

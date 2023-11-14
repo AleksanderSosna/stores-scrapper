@@ -1,10 +1,1 @@
-{
-    "id": "50346829",
-    "itemNo": "50346829",
-    "name": "FÖRSLAG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"50346829","itemNo":"50346829","name":"FÖRSLAG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

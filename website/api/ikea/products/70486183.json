@@ -1,10 +1,1 @@
-{
-    "id": "70486183",
-    "itemNo": "70486183",
-    "name": "MADESJÖ",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"70486183","itemNo":"70486183","name":"MADESJÖ","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

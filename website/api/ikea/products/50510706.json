@@ -1,10 +1,1 @@
-{
-    "id": "50510706",
-    "itemNo": "50510706",
-    "name": "SANDTRAV",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"50510706","itemNo":"50510706","name":"SANDTRAV","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

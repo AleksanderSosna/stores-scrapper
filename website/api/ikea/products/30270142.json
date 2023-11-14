@@ -1,10 +1,1 @@
-{
-    "id": "30270142",
-    "itemNo": "30270142",
-    "name": "BORRBY",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"30270142","itemNo":"30270142","name":"BORRBY","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

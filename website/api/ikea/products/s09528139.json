@@ -1,10 +1,1 @@
-{
-    "id": "s09528139",
-    "itemNo": "09528139",
-    "name": "SKYTTA / PAX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4795 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25800 }
-    ]
-}
+{"id":"s09528139","itemNo":"09528139","name":"SKYTTA / PAX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4795},{"countryCode":"cz","currencyCode":"CZK","price":25800}]}

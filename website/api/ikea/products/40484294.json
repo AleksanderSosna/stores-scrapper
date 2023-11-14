@@ -1,10 +1,1 @@
-{
-    "id": "40484294",
-    "itemNo": "40484294",
-    "name": "IKEA 365+",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 649 }
-    ]
-}
+{"id":"40484294","itemNo":"40484294","name":"IKEA 365+","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":649}]}

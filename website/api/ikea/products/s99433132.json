@@ -1,10 +1,1 @@
-{
-    "id": "s99433132",
-    "itemNo": "99433132",
-    "name": "PAX / AULI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2560 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 13200 }
-    ]
-}
+{"id":"s99433132","itemNo":"99433132","name":"PAX / AULI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2560},{"countryCode":"cz","currencyCode":"CZK","price":13200}]}

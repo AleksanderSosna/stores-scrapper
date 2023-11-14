@@ -1,10 +1,1 @@
-{
-    "id": "50450236",
-    "itemNo": "50450236",
-    "name": "VOXLÖV",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"50450236","itemNo":"50450236","name":"VOXLÖV","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

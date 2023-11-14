@@ -1,10 +1,1 @@
-{
-    "id": "90480175",
-    "itemNo": "90480175",
-    "name": "BAKTRADITION",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"90480175","itemNo":"90480175","name":"BAKTRADITION","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

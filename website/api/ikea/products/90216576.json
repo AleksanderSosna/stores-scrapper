@@ -1,10 +1,1 @@
-{
-    "id": "90216576",
-    "itemNo": "90216576",
-    "name": "RÄTTVIKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 600 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3000 }
-    ]
-}
+{"id":"90216576","itemNo":"90216576","name":"RÄTTVIKEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":600},{"countryCode":"cz","currencyCode":"CZK","price":3000}]}

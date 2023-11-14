@@ -1,10 +1,1 @@
-{
-    "id": "s89904180",
-    "itemNo": "89904180",
-    "name": "BERGSBO",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 225 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1600 }
-    ]
-}
+{"id":"s89904180","itemNo":"89904180","name":"BERGSBO","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":225},{"countryCode":"cz","currencyCode":"CZK","price":1600}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60454489",
-    "itemNo": "60454489",
-    "name": "SÖDERHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 800 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4000 }
-    ]
-}
+{"id":"60454489","itemNo":"60454489","name":"SÖDERHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":800},{"countryCode":"cz","currencyCode":"CZK","price":4000}]}

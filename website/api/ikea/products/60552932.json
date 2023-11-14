@@ -1,10 +1,1 @@
-{
-    "id": "60552932",
-    "itemNo": "60552932",
-    "name": "ENRUM",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"60552932","itemNo":"60552932","name":"ENRUM","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

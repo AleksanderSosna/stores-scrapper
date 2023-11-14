@@ -1,10 +1,1 @@
-{
-    "id": "10405731",
-    "itemNo": "10405731",
-    "name": "EVEDAL",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"10405731","itemNo":"10405731","name":"EVEDAL","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

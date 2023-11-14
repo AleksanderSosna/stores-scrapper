@@ -1,10 +1,1 @@
-{
-    "id": "s19213474",
-    "itemNo": "19213474",
-    "name": "FONNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 270 }
-    ]
-}
+{"id":"s19213474","itemNo":"19213474","name":"FONNES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":70},{"countryCode":"cz","currencyCode":"CZK","price":270}]}

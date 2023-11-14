@@ -1,10 +1,1 @@
-{
-    "id": "60526434",
-    "itemNo": "60526434",
-    "name": "LAPPDUNÖRT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"60526434","itemNo":"60526434","name":"LAPPDUNÖRT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

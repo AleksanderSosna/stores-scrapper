@@ -1,10 +1,1 @@
-{
-    "id": "50316182",
-    "itemNo": "50316182",
-    "name": "SOCKERBIT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 65 }
-    ]
-}
+{"id":"50316182","itemNo":"50316182","name":"SOCKERBIT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":65}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90543210",
-    "itemNo": "90543210",
-    "name": "PLOGFÅRA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"90543210","itemNo":"90543210","name":"PLOGFÅRA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

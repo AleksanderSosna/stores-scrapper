@@ -1,10 +1,1 @@
-{
-    "id": "00118523",
-    "itemNo": "00118523",
-    "name": "PACHIRA AQUATICA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"00118523","itemNo":"00118523","name":"PACHIRA AQUATICA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

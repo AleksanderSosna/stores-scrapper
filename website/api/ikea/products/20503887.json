@@ -1,10 +1,1 @@
-{
-    "id": "20503887",
-    "itemNo": "20503887",
-    "name": "YUPPIENALLE",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"20503887","itemNo":"20503887","name":"YUPPIENALLE","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.5},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

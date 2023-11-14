@@ -1,10 +1,1 @@
-{
-    "id": "10514179",
-    "itemNo": "10514179",
-    "name": "BUDDINGE",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6990 }
-    ]
-}
+{"id":"10514179","itemNo":"10514179","name":"BUDDINGE","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":6990}]}

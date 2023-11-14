@@ -1,10 +1,1 @@
-{
-    "id": "30512216",
-    "itemNo": "30512216",
-    "name": "JOSTEIN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 400 }
-    ]
-}
+{"id":"30512216","itemNo":"30512216","name":"JOSTEIN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":70},{"countryCode":"cz","currencyCode":"CZK","price":400}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s79481652",
-    "itemNo": "79481652",
-    "name": "KALLAX / LAGKAPTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 618 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3889 }
-    ]
-}
+{"id":"s79481652","itemNo":"79481652","name":"KALLAX / LAGKAPTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":618},{"countryCode":"cz","currencyCode":"CZK","price":3889}]}

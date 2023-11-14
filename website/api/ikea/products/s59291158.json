@@ -1,10 +1,1 @@
-{
-    "id": "s59291158",
-    "itemNo": "59291158",
-    "name": "BERGSHULT / PERSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 410.97 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1857 }
-    ]
-}
+{"id":"s59291158","itemNo":"59291158","name":"BERGSHULT / PERSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":410.97},{"countryCode":"cz","currencyCode":"CZK","price":1857}]}

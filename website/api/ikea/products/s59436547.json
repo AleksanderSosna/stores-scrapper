@@ -1,10 +1,1 @@
-{
-    "id": "s59436547",
-    "itemNo": "59436547",
-    "name": "LOMMARP/BJÖRKBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2897 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 18770 }
-    ]
-}
+{"id":"s59436547","itemNo":"59436547","name":"LOMMARP/BJÖRKBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2897},{"countryCode":"cz","currencyCode":"CZK","price":18770}]}

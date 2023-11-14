@@ -1,10 +1,1 @@
-{
-    "id": "90555986",
-    "itemNo": "90555986",
-    "name": "OTEREN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"90555986","itemNo":"90555986","name":"OTEREN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1399},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

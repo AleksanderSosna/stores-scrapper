@@ -1,10 +1,1 @@
-{
-    "id": "20341692",
-    "itemNo": "20341692",
-    "name": "TOLLSJÖN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"20341692","itemNo":"20341692","name":"TOLLSJÖN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

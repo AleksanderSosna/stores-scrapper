@@ -1,10 +1,1 @@
-{
-    "id": "66914300",
-    "itemNo": "66914300",
-    "name": "MAGASIN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"66914300","itemNo":"66914300","name":"MAGASIN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

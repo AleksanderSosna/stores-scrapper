@@ -1,10 +1,1 @@
-{
-    "id": "70273596",
-    "itemNo": "70273596",
-    "name": "FLISAT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"70273596","itemNo":"70273596","name":"FLISAT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

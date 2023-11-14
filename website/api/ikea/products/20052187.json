@@ -1,10 +1,1 @@
-{
-    "id": "20052187",
-    "itemNo": "20052187",
-    "name": "TRAMPA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20052187","itemNo":"20052187","name":"TRAMPA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

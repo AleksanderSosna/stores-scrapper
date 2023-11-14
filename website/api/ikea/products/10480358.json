@@ -1,10 +1,1 @@
-{
-    "id": "10480358",
-    "itemNo": "10480358",
-    "name": "STAVREBY",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10480358","itemNo":"10480358","name":"STAVREBY","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

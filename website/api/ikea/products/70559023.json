@@ -1,10 +1,1 @@
-{
-    "id": "70559023",
-    "itemNo": "70559023",
-    "name": "BONDSKÄRET",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"70559023","itemNo":"70559023","name":"BONDSKÄRET","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

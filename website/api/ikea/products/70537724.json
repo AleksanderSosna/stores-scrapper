@@ -1,10 +1,1 @@
-{
-    "id": "70537724",
-    "itemNo": "70537724",
-    "name": "NICKEBO",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 155 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 810 }
-    ]
-}
+{"id":"70537724","itemNo":"70537724","name":"NICKEBO","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":155},{"countryCode":"cz","currencyCode":"CZK","price":810}]}

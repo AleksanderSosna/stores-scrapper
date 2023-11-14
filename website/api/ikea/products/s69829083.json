@@ -1,10 +1,1 @@
-{
-    "id": "s69829083",
-    "itemNo": "69829083",
-    "name": "OMAR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 458 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2580 }
-    ]
-}
+{"id":"s69829083","itemNo":"69829083","name":"OMAR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":458},{"countryCode":"cz","currencyCode":"CZK","price":2580}]}

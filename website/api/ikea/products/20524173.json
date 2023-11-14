@@ -1,10 +1,1 @@
-{
-    "id": "20524173",
-    "itemNo": "20524173",
-    "name": "BELÖNING",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"20524173","itemNo":"20524173","name":"BELÖNING","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

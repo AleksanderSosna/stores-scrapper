@@ -1,10 +1,1 @@
-{
-    "id": "00447821",
-    "itemNo": "00447821",
-    "name": "EXCEPTIONELL",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 235 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1300 }
-    ]
-}
+{"id":"00447821","itemNo":"00447821","name":"EXCEPTIONELL","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":235},{"countryCode":"cz","currencyCode":"CZK","price":1300}]}

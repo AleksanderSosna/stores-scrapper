@@ -1,10 +1,1 @@
-{
-    "id": "70128571",
-    "itemNo": "70128571",
-    "name": "PYSSLA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"70128571","itemNo":"70128571","name":"PYSSLA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

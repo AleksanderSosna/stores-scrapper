@@ -1,10 +1,1 @@
-{
-    "id": "00556773",
-    "itemNo": "00556773",
-    "name": "FREIVID",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"00556773","itemNo":"00556773","name":"FREIVID","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

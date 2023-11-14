@@ -1,10 +1,1 @@
-{
-    "id": "00417664",
-    "itemNo": "00417664",
-    "name": "FÖRBÄTTRA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 120 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1150 }
-    ]
-}
+{"id":"00417664","itemNo":"00417664","name":"FÖRBÄTTRA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":120},{"countryCode":"cz","currencyCode":"CZK","price":1150}]}

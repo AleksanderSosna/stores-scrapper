@@ -1,10 +1,1 @@
-{
-    "id": "50532992",
-    "itemNo": "50532992",
-    "name": "NÖVLING",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"50532992","itemNo":"50532992","name":"NÖVLING","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

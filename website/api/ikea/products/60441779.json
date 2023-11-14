@@ -1,10 +1,1 @@
-{
-    "id": "60441779",
-    "itemNo": "60441779",
-    "name": "ÖRFJÄLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"60441779","itemNo":"60441779","name":"ÖRFJÄLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

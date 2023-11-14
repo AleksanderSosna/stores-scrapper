@@ -1,10 +1,1 @@
-{
-    "id": "s49544236",
-    "itemNo": "49544236",
-    "name": "DANDERYD / INGOLF",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1595 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9150 }
-    ]
-}
+{"id":"s49544236","itemNo":"49544236","name":"DANDERYD / INGOLF","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1595},{"countryCode":"cz","currencyCode":"CZK","price":9150}]}

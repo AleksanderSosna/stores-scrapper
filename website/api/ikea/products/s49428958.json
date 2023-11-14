@@ -1,10 +1,1 @@
-{
-    "id": "s49428958",
-    "itemNo": "49428958",
-    "name": "INGATORP / BERGMUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2915 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15550 }
-    ]
-}
+{"id":"s49428958","itemNo":"49428958","name":"INGATORP / BERGMUND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2915},{"countryCode":"cz","currencyCode":"CZK","price":15550}]}

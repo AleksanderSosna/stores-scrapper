@@ -1,10 +1,1 @@
-{
-    "id": "40347730",
-    "itemNo": "40347730",
-    "name": "FÄRGMÅRA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 119 }
-    ]
-}
+{"id":"40347730","itemNo":"40347730","name":"FÄRGMÅRA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":119}]}

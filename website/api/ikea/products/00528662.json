@@ -1,10 +1,1 @@
-{
-    "id": "00528662",
-    "itemNo": "00528662",
-    "name": "MITTLED",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00528662","itemNo":"00528662","name":"MITTLED","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

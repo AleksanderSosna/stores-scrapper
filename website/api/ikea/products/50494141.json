@@ -1,10 +1,1 @@
-{
-    "id": "50494141",
-    "itemNo": "50494141",
-    "name": "RUNNEN",
-    "categoryKey": "rm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 70 }
-    ]
-}
+{"id":"50494141","itemNo":"50494141","name":"RUNNEN","categoryKey":"rm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12},{"countryCode":"cz","currencyCode":"CZK","price":70}]}

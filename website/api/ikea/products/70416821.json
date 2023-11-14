@@ -1,10 +1,1 @@
-{
-    "id": "70416821",
-    "itemNo": "70416821",
-    "name": "KULINARISK",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
-    ]
-}
+{"id":"70416821","itemNo":"70416821","name":"KULINARISK","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3199},{"countryCode":"cz","currencyCode":"CZK","price":14990}]}

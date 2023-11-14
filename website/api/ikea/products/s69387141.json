@@ -1,10 +1,1 @@
-{
-    "id": "s69387141",
-    "itemNo": "69387141",
-    "name": "LYCKSELE HÅVET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"s69387141","itemNo":"69387141","name":"LYCKSELE HÅVET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1699},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

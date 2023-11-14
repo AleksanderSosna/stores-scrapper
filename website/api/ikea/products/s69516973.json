@@ -1,10 +1,1 @@
-{
-    "id": "s69516973",
-    "itemNo": "69516973",
-    "name": "NYHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
-    ]
-}
+{"id":"s69516973","itemNo":"69516973","name":"NYHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1699},{"countryCode":"cz","currencyCode":"CZK","price":8490}]}

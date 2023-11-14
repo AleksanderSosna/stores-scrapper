@@ -1,10 +1,1 @@
-{
-    "id": "20205425",
-    "itemNo": "20205425",
-    "name": "VEDDINGE",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 65 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 340 }
-    ]
-}
+{"id":"20205425","itemNo":"20205425","name":"VEDDINGE","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":65},{"countryCode":"cz","currencyCode":"CZK","price":340}]}

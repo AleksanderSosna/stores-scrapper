@@ -1,10 +1,1 @@
-{
-    "id": "s59482898",
-    "itemNo": "59482898",
-    "name": "KIVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5990 }
-    ]
-}
+{"id":"s59482898","itemNo":"59482898","name":"KIVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":5990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20552378",
-    "itemNo": "20552378",
-    "name": "NIMM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"20552378","itemNo":"20552378","name":"NIMM","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

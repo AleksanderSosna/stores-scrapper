@@ -1,10 +1,1 @@
-{
-    "id": "00461888",
-    "itemNo": "00461888",
-    "name": "ÄSPERÖD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"00461888","itemNo":"00461888","name":"ÄSPERÖD","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

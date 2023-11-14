@@ -1,10 +1,1 @@
-{
-    "id": "00501243",
-    "itemNo": "00501243",
-    "name": "BLÅLIDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"00501243","itemNo":"00501243","name":"BLÅLIDEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

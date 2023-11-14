@@ -1,10 +1,1 @@
-{
-    "id": "s69248386",
-    "itemNo": "69248386",
-    "name": "IVAR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1840 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7500 }
-    ]
-}
+{"id":"s69248386","itemNo":"69248386","name":"IVAR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1840},{"countryCode":"cz","currencyCode":"CZK","price":7500}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80104268",
-    "itemNo": "80104268",
-    "name": "LACK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"80104268","itemNo":"80104268","name":"LACK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

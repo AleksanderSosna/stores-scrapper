@@ -1,10 +1,1 @@
-{
-    "id": "70497582",
-    "itemNo": "70497582",
-    "name": "FRÖTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"70497582","itemNo":"70497582","name":"FRÖTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

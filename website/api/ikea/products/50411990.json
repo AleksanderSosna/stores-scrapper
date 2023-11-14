@@ -1,10 +1,1 @@
-{
-    "id": "50411990",
-    "itemNo": "50411990",
-    "name": "GLADOM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"50411990","itemNo":"50411990","name":"GLADOM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

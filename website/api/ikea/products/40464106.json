@@ -1,10 +1,1 @@
-{
-    "id": "40464106",
-    "itemNo": "40464106",
-    "name": "JÄTTELIK",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"40464106","itemNo":"40464106","name":"JÄTTELIK","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10540611",
-    "itemNo": "10540611",
-    "name": "SKÄRLÅNGA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10540611","itemNo":"10540611","name":"SKÄRLÅNGA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

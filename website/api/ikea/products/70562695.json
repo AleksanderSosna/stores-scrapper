@@ -1,10 +1,1 @@
-{
-    "id": "70562695",
-    "itemNo": "70562695",
-    "name": "STRÅLA",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"70562695","itemNo":"70562695","name":"STRÅLA","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

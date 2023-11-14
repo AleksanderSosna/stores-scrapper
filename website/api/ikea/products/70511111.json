@@ -1,10 +1,1 @@
-{
-    "id": "70511111",
-    "itemNo": "70511111",
-    "name": "ÅNNELAND",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
-    ]
-}
+{"id":"70511111","itemNo":"70511111","name":"ÅNNELAND","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2999},{"countryCode":"cz","currencyCode":"CZK","price":14990}]}

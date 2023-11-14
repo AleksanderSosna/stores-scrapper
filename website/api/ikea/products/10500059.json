@@ -1,10 +1,1 @@
-{
-    "id": "10500059",
-    "itemNo": "10500059",
-    "name": "HÖVOLM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"10500059","itemNo":"10500059","name":"HÖVOLM","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

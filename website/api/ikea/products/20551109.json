@@ -1,10 +1,1 @@
-{
-    "id": "20551109",
-    "itemNo": "20551109",
-    "name": "IDROTTSHALL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
-    ]
-}
+{"id":"20551109","itemNo":"20551109","name":"IDROTTSHALL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1790}]}

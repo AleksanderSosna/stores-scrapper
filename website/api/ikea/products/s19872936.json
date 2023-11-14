@@ -1,10 +1,1 @@
-{
-    "id": "s19872936",
-    "itemNo": "19872936",
-    "name": "PAX",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1400 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7600 }
-    ]
-}
+{"id":"s19872936","itemNo":"19872936","name":"PAX","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1400},{"countryCode":"cz","currencyCode":"CZK","price":7600}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20522027",
-    "itemNo": "20522027",
-    "name": "STYRSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"20522027","itemNo":"20522027","name":"STYRSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

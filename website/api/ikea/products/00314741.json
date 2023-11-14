@@ -1,10 +1,1 @@
-{
-    "id": "00314741",
-    "itemNo": "00314741",
-    "name": "KOPPLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00314741","itemNo":"00314741","name":"KOPPLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70529465",
-    "itemNo": "70529465",
-    "name": "PINNTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }
-    ]
-}
+{"id":"70529465","itemNo":"70529465","name":"PINNTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3690}]}

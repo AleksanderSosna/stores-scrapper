@@ -1,10 +1,1 @@
-{
-    "id": "10486652",
-    "itemNo": "10486652",
-    "name": "OLIVBLAD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10486652","itemNo":"10486652","name":"OLIVBLAD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

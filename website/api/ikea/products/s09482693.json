@@ -1,10 +1,1 @@
-{
-    "id": "s09482693",
-    "itemNo": "09482693",
-    "name": "SKOGSTA / INGOLF",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3493 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19730 }
-    ]
-}
+{"id":"s09482693","itemNo":"09482693","name":"SKOGSTA / INGOLF","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3493},{"countryCode":"cz","currencyCode":"CZK","price":19730}]}

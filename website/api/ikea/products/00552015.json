@@ -1,10 +1,1 @@
-{
-    "id": "00552015",
-    "itemNo": "00552015",
-    "name": "ÖVNING",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00552015","itemNo":"00552015","name":"ÖVNING","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

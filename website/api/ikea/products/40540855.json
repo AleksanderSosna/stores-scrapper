@@ -1,10 +1,1 @@
-{
-    "id": "40540855",
-    "itemNo": "40540855",
-    "name": "ROTBLÖTA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 169 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"40540855","itemNo":"40540855","name":"ROTBLÖTA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":169},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80342721",
-    "itemNo": "80342721",
-    "name": "ULLVIDE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 469 }
-    ]
-}
+{"id":"80342721","itemNo":"80342721","name":"ULLVIDE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":469}]}

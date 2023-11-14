@@ -1,10 +1,1 @@
-{
-    "id": "40476185",
-    "itemNo": "40476185",
-    "name": "DVÄRGTULPAN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"40476185","itemNo":"40476185","name":"DVÄRGTULPAN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

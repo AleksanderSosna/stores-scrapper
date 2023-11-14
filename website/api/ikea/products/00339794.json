@@ -1,10 +1,1 @@
-{
-    "id": "00339794",
-    "itemNo": "00339794",
-    "name": "VILJESTARK",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25 }
-    ]
-}
+{"id":"00339794","itemNo":"00339794","name":"VILJESTARK","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":25}]}

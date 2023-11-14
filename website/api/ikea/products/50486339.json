@@ -1,10 +1,1 @@
-{
-    "id": "50486339",
-    "itemNo": "50486339",
-    "name": "LINDBYN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"50486339","itemNo":"50486339","name":"LINDBYN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

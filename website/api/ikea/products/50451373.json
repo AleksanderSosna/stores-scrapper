@@ -1,10 +1,1 @@
-{
-    "id": "50451373",
-    "itemNo": "50451373",
-    "name": "SMÅSTAD",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 230 }
-    ]
-}
+{"id":"50451373","itemNo":"50451373","name":"SMÅSTAD","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":230}]}

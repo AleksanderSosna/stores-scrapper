@@ -1,10 +1,1 @@
-{
-    "id": "80552889",
-    "itemNo": "80552889",
-    "name": "DYTÅG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"80552889","itemNo":"80552889","name":"DYTÅG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

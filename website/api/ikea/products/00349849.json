@@ -1,10 +1,1 @@
-{
-    "id": "00349849",
-    "itemNo": "00349849",
-    "name": "NORDLI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2099 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"00349849","itemNo":"00349849","name":"NORDLI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2099},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

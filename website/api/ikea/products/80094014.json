@@ -1,10 +1,1 @@
-{
-    "id": "80094014",
-    "itemNo": "80094014",
-    "name": "REKO",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 8 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"80094014","itemNo":"80094014","name":"REKO","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":8},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

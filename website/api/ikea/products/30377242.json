@@ -1,10 +1,1 @@
-{
-    "id": "30377242",
-    "itemNo": "30377242",
-    "name": "FLYSTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1390 }
-    ]
-}
+{"id":"30377242","itemNo":"30377242","name":"FLYSTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":279},{"countryCode":"cz","currencyCode":"CZK","price":1390}]}

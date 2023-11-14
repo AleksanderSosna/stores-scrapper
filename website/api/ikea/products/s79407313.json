@@ -1,10 +1,1 @@
-{
-    "id": "s79407313",
-    "itemNo": "79407313",
-    "name": "NORDVIKEN / BERGMUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3015 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17550 }
-    ]
-}
+{"id":"s79407313","itemNo":"79407313","name":"NORDVIKEN / BERGMUND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3015},{"countryCode":"cz","currencyCode":"CZK","price":17550}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s79399761",
-    "itemNo": "79399761",
-    "name": "BERGMUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 439 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"s79399761","itemNo":"79399761","name":"BERGMUND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":439},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

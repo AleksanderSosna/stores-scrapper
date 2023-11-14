@@ -1,10 +1,1 @@
-{
-    "id": "s49020025",
-    "itemNo": "49020025",
-    "name": "HEMNES",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1274 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7190 }
-    ]
-}
+{"id":"s49020025","itemNo":"49020025","name":"HEMNES","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1274},{"countryCode":"cz","currencyCode":"CZK","price":7190}]}

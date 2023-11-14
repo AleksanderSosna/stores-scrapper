@@ -1,10 +1,1 @@
-{
-    "id": "60513422",
-    "itemNo": "60513422",
-    "name": "KÖLAX",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"60513422","itemNo":"60513422","name":"KÖLAX","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

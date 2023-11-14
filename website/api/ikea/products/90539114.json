@@ -1,10 +1,1 @@
-{
-    "id": "90539114",
-    "itemNo": "90539114",
-    "name": "TUMHOLMEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"90539114","itemNo":"90539114","name":"TUMHOLMEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

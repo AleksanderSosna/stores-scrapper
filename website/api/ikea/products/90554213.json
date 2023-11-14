@@ -1,10 +1,1 @@
-{
-    "id": "90554213",
-    "itemNo": "90554213",
-    "name": "SLÅNSPINNMAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"90554213","itemNo":"90554213","name":"SLÅNSPINNMAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

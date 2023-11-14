@@ -1,10 +1,1 @@
-{
-    "id": "80469277",
-    "itemNo": "80469277",
-    "name": "ÄNGARNA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"80469277","itemNo":"80469277","name":"ÄNGARNA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

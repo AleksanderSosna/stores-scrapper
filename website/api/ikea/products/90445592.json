@@ -1,10 +1,1 @@
-{
-    "id": "90445592",
-    "itemNo": "90445592",
-    "name": "FÖRNYANDE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"90445592","itemNo":"90445592","name":"FÖRNYANDE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

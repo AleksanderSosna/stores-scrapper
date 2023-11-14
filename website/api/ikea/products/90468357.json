@@ -1,10 +1,1 @@
-{
-    "id": "90468357",
-    "itemNo": "90468357",
-    "name": "CASHEWÄPPLE",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"90468357","itemNo":"90468357","name":"CASHEWÄPPLE","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

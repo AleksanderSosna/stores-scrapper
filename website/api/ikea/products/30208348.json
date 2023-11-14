@@ -1,10 +1,1 @@
-{
-    "id": "30208348",
-    "itemNo": "30208348",
-    "name": "SMÅGLI",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"30208348","itemNo":"30208348","name":"SMÅGLI","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

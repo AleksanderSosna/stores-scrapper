@@ -1,10 +1,1 @@
-{
-    "id": "20387642",
-    "itemNo": "20387642",
-    "name": "HOLMSUND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"20387642","itemNo":"20387642","name":"HOLMSUND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

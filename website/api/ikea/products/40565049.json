@@ -1,10 +1,1 @@
-{
-    "id": "40565049",
-    "itemNo": "40565049",
-    "name": "KUNGSCISSUS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"40565049","itemNo":"40565049","name":"KUNGSCISSUS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

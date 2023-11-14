@@ -1,10 +1,1 @@
-{
-    "id": "50538809",
-    "itemNo": "50538809",
-    "name": "LAPPVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 65 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 400 }
-    ]
-}
+{"id":"50538809","itemNo":"50538809","name":"LAPPVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":65},{"countryCode":"cz","currencyCode":"CZK","price":400}]}

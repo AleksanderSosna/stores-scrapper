@@ -1,10 +1,1 @@
-{
-    "id": "10494770",
-    "itemNo": "10494770",
-    "name": "SMÅFRUSEN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7490 }
-    ]
-}
+{"id":"10494770","itemNo":"10494770","name":"SMÅFRUSEN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1699},{"countryCode":"cz","currencyCode":"CZK","price":7490}]}

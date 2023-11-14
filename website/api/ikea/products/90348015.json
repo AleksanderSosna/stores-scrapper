@@ -1,10 +1,1 @@
-{
-    "id": "90348015",
-    "itemNo": "90348015",
-    "name": "RAGGISAR",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"90348015","itemNo":"90348015","name":"RAGGISAR","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

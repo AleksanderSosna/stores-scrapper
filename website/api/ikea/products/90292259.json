@@ -1,10 +1,1 @@
-{
-    "id": "90292259",
-    "itemNo": "90292259",
-    "name": "HUSET",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"90292259","itemNo":"90292259","name":"HUSET","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

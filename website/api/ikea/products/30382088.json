@@ -1,10 +1,1 @@
-{
-    "id": "30382088",
-    "itemNo": "30382088",
-    "name": "IKEA 365+",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 18 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 90 }
-    ]
-}
+{"id":"30382088","itemNo":"30382088","name":"IKEA 365+","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":18},{"countryCode":"cz","currencyCode":"CZK","price":90}]}

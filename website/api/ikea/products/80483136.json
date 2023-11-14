@@ -1,10 +1,1 @@
-{
-    "id": "80483136",
-    "itemNo": "80483136",
-    "name": "LYCKSELE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 690 }
-    ]
-}
+{"id":"80483136","itemNo":"80483136","name":"LYCKSELE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":690}]}

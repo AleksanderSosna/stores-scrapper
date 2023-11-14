@@ -1,10 +1,1 @@
-{
-    "id": "20542860",
-    "itemNo": "20542860",
-    "name": "TÄRNESTAD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 20 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"20542860","itemNo":"20542860","name":"TÄRNESTAD","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":20},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

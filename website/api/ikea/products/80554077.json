@@ -1,10 +1,1 @@
-{
-    "id": "80554077",
-    "itemNo": "80554077",
-    "name": "ÅKERBRUK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"80554077","itemNo":"80554077","name":"ÅKERBRUK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

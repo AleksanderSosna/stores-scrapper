@@ -1,10 +1,1 @@
-{
-    "id": "30555705",
-    "itemNo": "30555705",
-    "name": "KALKSTUFF",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 35 }
-    ]
-}
+{"id":"30555705","itemNo":"30555705","name":"KALKSTUFF","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":35}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80551922",
-    "itemNo": "80551922",
-    "name": "TABBERAS",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"80551922","itemNo":"80551922","name":"TABBERAS","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80512469",
-    "itemNo": "80512469",
-    "name": "TIGERFINK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"80512469","itemNo":"80512469","name":"TIGERFINK","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09536592",
-    "itemNo": "09536592",
-    "name": "GRÖNLID",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 25480 }
-    ]
-}
+{"id":"s09536592","itemNo":"09536592","name":"GRÖNLID","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4399},{"countryCode":"cz","currencyCode":"CZK","price":25480}]}

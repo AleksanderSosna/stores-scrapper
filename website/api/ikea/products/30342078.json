@@ -1,10 +1,1 @@
-{
-    "id": "30342078",
-    "itemNo": "30342078",
-    "name": "REGISSÖR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14990 }
-    ]
-}
+{"id":"30342078","itemNo":"30342078","name":"REGISSÖR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2599},{"countryCode":"cz","currencyCode":"CZK","price":14990}]}

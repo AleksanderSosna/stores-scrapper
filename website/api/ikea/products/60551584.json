@@ -1,10 +1,1 @@
-{
-    "id": "60551584",
-    "itemNo": "60551584",
-    "name": "KOPPARLÖNN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"60551584","itemNo":"60551584","name":"KOPPARLÖNN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

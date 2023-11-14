@@ -1,10 +1,1 @@
-{
-    "id": "00349444",
-    "itemNo": "00349444",
-    "name": "TINGBY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"00349444","itemNo":"00349444","name":"TINGBY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

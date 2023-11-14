@@ -1,10 +1,1 @@
-{
-    "id": "00494025",
-    "itemNo": "00494025",
-    "name": "TOFTAN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00494025","itemNo":"00494025","name":"TOFTAN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

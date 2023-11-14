@@ -1,10 +1,1 @@
-{
-    "id": "90563689",
-    "itemNo": "90563689",
-    "name": "NÄTBARB",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"90563689","itemNo":"90563689","name":"NÄTBARB","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

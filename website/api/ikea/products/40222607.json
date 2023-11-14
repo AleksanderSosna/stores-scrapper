@@ -1,10 +1,1 @@
-{
-    "id": "40222607",
-    "itemNo": "40222607",
-    "name": "DRAGAN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"40222607","itemNo":"40222607","name":"DRAGAN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

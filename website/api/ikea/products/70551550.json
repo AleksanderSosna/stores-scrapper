@@ -1,10 +1,1 @@
-{
-    "id": "70551550",
-    "itemNo": "70551550",
-    "name": "ÅKERBÄR",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"70551550","itemNo":"70551550","name":"ÅKERBÄR","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

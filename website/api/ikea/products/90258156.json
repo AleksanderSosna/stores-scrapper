@@ -1,10 +1,1 @@
-{
-    "id": "90258156",
-    "itemNo": "90258156",
-    "name": "SATSUMAS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"90258156","itemNo":"90258156","name":"SATSUMAS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

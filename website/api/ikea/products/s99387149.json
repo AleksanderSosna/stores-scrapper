@@ -1,10 +1,1 @@
-{
-    "id": "s99387149",
-    "itemNo": "99387149",
-    "name": "LYCKSELE MURBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
-    ]
-}
+{"id":"s99387149","itemNo":"99387149","name":"LYCKSELE MURBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1499},{"countryCode":"cz","currencyCode":"CZK","price":8490}]}

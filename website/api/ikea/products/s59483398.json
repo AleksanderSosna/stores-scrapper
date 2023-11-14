@@ -1,10 +1,1 @@
-{
-    "id": "s59483398",
-    "itemNo": "59483398",
-    "name": "SONGESAND",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3595 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 16368 }
-    ]
-}
+{"id":"s59483398","itemNo":"59483398","name":"SONGESAND","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3595},{"countryCode":"cz","currencyCode":"CZK","price":16368}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70368801",
-    "itemNo": "70368801",
-    "name": "MATTRADITION",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"70368801","itemNo":"70368801","name":"MATTRADITION","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":899},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

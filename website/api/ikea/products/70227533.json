@@ -1,10 +1,1 @@
-{
-    "id": "70227533",
-    "itemNo": "70227533",
-    "name": "UPPLID",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 119 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"70227533","itemNo":"70227533","name":"UPPLID","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":119},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

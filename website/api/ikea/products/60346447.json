@@ -1,10 +1,1 @@
-{
-    "id": "60346447",
-    "itemNo": "60346447",
-    "name": "VÅRELD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"60346447","itemNo":"60346447","name":"VÅRELD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20510307",
-    "itemNo": "20510307",
-    "name": "NÄMMARÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"20510307","itemNo":"20510307","name":"NÄMMARÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

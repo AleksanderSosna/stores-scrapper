@@ -1,10 +1,1 @@
-{
-    "id": "20342535",
-    "itemNo": "20342535",
-    "name": "BROGRUND",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"20342535","itemNo":"20342535","name":"BROGRUND","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

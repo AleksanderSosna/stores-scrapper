@@ -1,10 +1,1 @@
-{
-    "id": "00357226",
-    "itemNo": "00357226",
-    "name": "DVALA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"00357226","itemNo":"00357226","name":"DVALA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60312249",
-    "itemNo": "60312249",
-    "name": "KNODD",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"60312249","itemNo":"60312249","name":"KNODD","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

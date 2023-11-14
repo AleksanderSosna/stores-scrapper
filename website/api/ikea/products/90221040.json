@@ -1,10 +1,1 @@
-{
-    "id": "90221040",
-    "itemNo": "90221040",
-    "name": "BODBYN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 380 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2700 }
-    ]
-}
+{"id":"90221040","itemNo":"90221040","name":"BODBYN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":380},{"countryCode":"cz","currencyCode":"CZK","price":2700}]}

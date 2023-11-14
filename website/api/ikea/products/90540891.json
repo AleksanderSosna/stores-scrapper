@@ -1,10 +1,1 @@
-{
-    "id": "90540891",
-    "itemNo": "90540891",
-    "name": "TJINGA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"90540891","itemNo":"90540891","name":"TJINGA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

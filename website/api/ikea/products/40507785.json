@@ -1,10 +1,1 @@
-{
-    "id": "40507785",
-    "itemNo": "40507785",
-    "name": "UPPSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"40507785","itemNo":"40507785","name":"UPPSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

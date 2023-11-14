@@ -1,10 +1,1 @@
-{
-    "id": "20561033",
-    "itemNo": "20561033",
-    "name": "LJUNGSBRO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"20561033","itemNo":"20561033","name":"LJUNGSBRO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10538383",
-    "itemNo": "10538383",
-    "name": "FÖNSTERBLAD",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"10538383","itemNo":"10538383","name":"FÖNSTERBLAD","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

@@ -1,10 +1,1 @@
-{
-    "id": "60516915",
-    "itemNo": "60516915",
-    "name": "TÖVÄDER",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"60516915","itemNo":"60516915","name":"TÖVÄDER","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

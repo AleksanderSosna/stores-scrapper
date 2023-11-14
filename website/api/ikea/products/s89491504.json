@@ -1,10 +1,1 @@
-{
-    "id": "s89491504",
-    "itemNo": "89491504",
-    "name": "SUNNEBY / LUNNOM",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"s89491504","itemNo":"89491504","name":"SUNNEBY / LUNNOM","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

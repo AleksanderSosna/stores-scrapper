@@ -1,10 +1,1 @@
-{
-    "id": "30381852",
-    "itemNo": "30381852",
-    "name": "LUSTIGT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"30381852","itemNo":"30381852","name":"LUSTIGT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20467592",
-    "itemNo": "20467592",
-    "name": "VÄLBILDAD",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1099 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5290 }
-    ]
-}
+{"id":"20467592","itemNo":"20467592","name":"VÄLBILDAD","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1099},{"countryCode":"cz","currencyCode":"CZK","price":5290}]}

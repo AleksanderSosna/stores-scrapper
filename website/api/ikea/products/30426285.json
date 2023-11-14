@@ -1,10 +1,1 @@
-{
-    "id": "30426285",
-    "itemNo": "30426285",
-    "name": "BERGSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"30426285","itemNo":"30426285","name":"BERGSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

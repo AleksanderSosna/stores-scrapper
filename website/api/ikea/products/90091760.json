@@ -1,10 +1,1 @@
-{
-    "id": "90091760",
-    "itemNo": "90091760",
-    "name": "DRAGON",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"90091760","itemNo":"90091760","name":"DRAGON","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

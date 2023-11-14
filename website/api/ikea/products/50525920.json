@@ -1,10 +1,1 @@
-{
-    "id": "50525920",
-    "itemNo": "50525920",
-    "name": "PERSBOL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"50525920","itemNo":"50525920","name":"PERSBOL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

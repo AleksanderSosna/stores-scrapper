@@ -1,10 +1,1 @@
-{
-    "id": "90467942",
-    "itemNo": "90467942",
-    "name": "SANDVIVA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"90467942","itemNo":"90467942","name":"SANDVIVA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

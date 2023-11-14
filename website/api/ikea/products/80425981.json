@@ -1,10 +1,1 @@
-{
-    "id": "80425981",
-    "itemNo": "80425981",
-    "name": "FESTLIGT",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"80425981","itemNo":"80425981","name":"FESTLIGT","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.5},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50505644",
-    "itemNo": "50505644",
-    "name": "STRIMMIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"50505644","itemNo":"50505644","name":"STRIMMIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

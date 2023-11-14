@@ -1,10 +1,1 @@
-{
-    "id": "60319024",
-    "itemNo": "60319024",
-    "name": "OFANTLIGT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"60319024","itemNo":"60319024","name":"OFANTLIGT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

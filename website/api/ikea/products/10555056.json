@@ -1,10 +1,1 @@
-{
-    "id": "10555056",
-    "itemNo": "10555056",
-    "name": "NISSÖGA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"10555056","itemNo":"10555056","name":"NISSÖGA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

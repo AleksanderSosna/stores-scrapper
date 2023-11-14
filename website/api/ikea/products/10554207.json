@@ -1,10 +1,1 @@
-{
-    "id": "10554207",
-    "itemNo": "10554207",
-    "name": "FJÄLLTRIFT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"10554207","itemNo":"10554207","name":"FJÄLLTRIFT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

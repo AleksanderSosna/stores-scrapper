@@ -1,10 +1,1 @@
-{
-    "id": "50078746",
-    "itemNo": "50078746",
-    "name": "SY",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"50078746","itemNo":"50078746","name":"SY","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

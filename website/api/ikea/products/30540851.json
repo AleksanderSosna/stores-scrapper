@@ -1,10 +1,1 @@
-{
-    "id": "30540851",
-    "itemNo": "30540851",
-    "name": "PLUTTIS",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"30540851","itemNo":"30540851","name":"PLUTTIS","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s89490948",
-    "itemNo": "89490948",
-    "name": "HUVUDSPELARE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 748 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4180 }
-    ]
-}
+{"id":"s89490948","itemNo":"89490948","name":"HUVUDSPELARE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":748},{"countryCode":"cz","currencyCode":"CZK","price":4180}]}

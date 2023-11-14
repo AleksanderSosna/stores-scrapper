@@ -1,10 +1,1 @@
-{
-    "id": "80564651",
-    "itemNo": "80564651",
-    "name": "SNÖKRABBA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"80564651","itemNo":"80564651","name":"SNÖKRABBA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

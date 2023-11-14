@@ -1,10 +1,1 @@
-{
-    "id": "70150920",
-    "itemNo": "70150920",
-    "name": "SYLT JORDGUBB",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 16 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"70150920","itemNo":"70150920","name":"SYLT JORDGUBB","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":16},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

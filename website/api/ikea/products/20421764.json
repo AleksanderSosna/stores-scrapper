@@ -1,10 +1,1 @@
-{
-    "id": "20421764",
-    "itemNo": "20421764",
-    "name": "VISBÄCK",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"20421764","itemNo":"20421764","name":"VISBÄCK","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

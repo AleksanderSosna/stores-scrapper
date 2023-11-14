@@ -1,10 +1,1 @@
-{
-    "id": "60512936",
-    "itemNo": "60512936",
-    "name": "SURSÖT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"60512936","itemNo":"60512936","name":"SURSÖT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

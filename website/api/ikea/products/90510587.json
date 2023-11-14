@@ -1,10 +1,1 @@
-{
-    "id": "90510587",
-    "itemNo": "90510587",
-    "name": "SMYGA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"90510587","itemNo":"90510587","name":"SMYGA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

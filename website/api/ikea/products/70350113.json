@@ -1,10 +1,1 @@
-{
-    "id": "70350113",
-    "itemNo": "70350113",
-    "name": "GLATTIS",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"70350113","itemNo":"70350113","name":"GLATTIS","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

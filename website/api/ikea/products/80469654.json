@@ -1,10 +1,1 @@
-{
-    "id": "80469654",
-    "itemNo": "80469654",
-    "name": "OSTVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 185 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"80469654","itemNo":"80469654","name":"OSTVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":185},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

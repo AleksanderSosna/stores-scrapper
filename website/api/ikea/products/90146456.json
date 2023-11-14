@@ -1,10 +1,1 @@
-{
-    "id": "90146456",
-    "itemNo": "90146456",
-    "name": "INGOLF",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"90146456","itemNo":"90146456","name":"INGOLF","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

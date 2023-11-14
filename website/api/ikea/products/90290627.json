@@ -1,10 +1,1 @@
-{
-    "id": "90290627",
-    "itemNo": "90290627",
-    "name": "HOPPVALS",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 109 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"90290627","itemNo":"90290627","name":"HOPPVALS","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":109},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

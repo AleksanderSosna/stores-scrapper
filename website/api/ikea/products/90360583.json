@@ -1,10 +1,1 @@
-{
-    "id": "90360583",
-    "itemNo": "90360583",
-    "name": "SJÖRAPPORT",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"90360583","itemNo":"90360583","name":"SJÖRAPPORT","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

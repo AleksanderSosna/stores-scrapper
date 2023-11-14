@@ -1,10 +1,1 @@
-{
-    "id": "00507985",
-    "itemNo": "00507985",
-    "name": "SÖDERSJÖN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00507985","itemNo":"00507985","name":"SÖDERSJÖN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

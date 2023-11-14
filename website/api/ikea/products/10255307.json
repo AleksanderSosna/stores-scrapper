@@ -1,10 +1,1 @@
-{
-    "id": "10255307",
-    "itemNo": "10255307",
-    "name": "FEJAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"10255307","itemNo":"10255307","name":"FEJAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":70},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

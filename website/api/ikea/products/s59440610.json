@@ -1,10 +1,1 @@
-{
-    "id": "s59440610",
-    "itemNo": "59440610",
-    "name": "VIHALS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1947 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10970 }
-    ]
-}
+{"id":"s59440610","itemNo":"59440610","name":"VIHALS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1947},{"countryCode":"cz","currencyCode":"CZK","price":10970}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30342629",
-    "itemNo": "30342629",
-    "name": "LILLREVET",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"30342629","itemNo":"30342629","name":"LILLREVET","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

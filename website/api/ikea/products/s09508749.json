@@ -1,10 +1,1 @@
-{
-    "id": "s09508749",
-    "itemNo": "09508749",
-    "name": "MITTCIRKEL / NÄRSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2299 }
-    ]
-}
+{"id":"s09508749","itemNo":"09508749","name":"MITTCIRKEL / NÄRSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":449},{"countryCode":"cz","currencyCode":"CZK","price":2299}]}

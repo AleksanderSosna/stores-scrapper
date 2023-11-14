@@ -1,10 +1,1 @@
-{
-    "id": "90057252",
-    "itemNo": "90057252",
-    "name": "BLANDA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"90057252","itemNo":"90057252","name":"BLANDA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

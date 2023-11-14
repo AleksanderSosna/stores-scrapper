@@ -1,10 +1,1 @@
-{
-    "id": "60499077",
-    "itemNo": "60499077",
-    "name": "ANGERSBY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
-    ]
-}
+{"id":"60499077","itemNo":"60499077","name":"ANGERSBY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1799},{"countryCode":"cz","currencyCode":"CZK","price":9490}]}

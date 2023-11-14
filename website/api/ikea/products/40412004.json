@@ -1,10 +1,1 @@
-{
-    "id": "40412004",
-    "itemNo": "40412004",
-    "name": "KOPPLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"40412004","itemNo":"40412004","name":"KOPPLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

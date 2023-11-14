@@ -1,10 +1,1 @@
-{
-    "id": "80320347",
-    "itemNo": "80320347",
-    "name": "SMÅÄTA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"80320347","itemNo":"80320347","name":"SMÅÄTA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

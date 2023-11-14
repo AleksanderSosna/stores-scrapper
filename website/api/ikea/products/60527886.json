@@ -1,10 +1,1 @@
-{
-    "id": "60527886",
-    "itemNo": "60527886",
-    "name": "SANDSENAP",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"60527886","itemNo":"60527886","name":"SANDSENAP","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

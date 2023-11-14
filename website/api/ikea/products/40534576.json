@@ -1,10 +1,1 @@
-{
-    "id": "40534576",
-    "itemNo": "40534576",
-    "name": "HAVREHOJ",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40534576","itemNo":"40534576","name":"HAVREHOJ","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

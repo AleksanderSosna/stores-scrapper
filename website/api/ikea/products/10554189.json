@@ -1,10 +1,1 @@
-{
-    "id": "10554189",
-    "itemNo": "10554189",
-    "name": "GULDFLY",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"10554189","itemNo":"10554189","name":"GULDFLY","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40454819",
-    "itemNo": "40454819",
-    "name": "FÖRENLIG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"40454819","itemNo":"40454819","name":"FÖRENLIG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

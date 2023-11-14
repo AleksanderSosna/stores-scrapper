@@ -1,10 +1,1 @@
-{
-    "id": "80514185",
-    "itemNo": "80514185",
-    "name": "SPENTRUP",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3790 }
-    ]
-}
+{"id":"80514185","itemNo":"80514185","name":"SPENTRUP","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":3790}]}

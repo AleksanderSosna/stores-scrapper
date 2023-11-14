@@ -1,10 +1,1 @@
-{
-    "id": "40461103",
-    "itemNo": "40461103",
-    "name": "MÅLSKYTT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
-    ]
-}
+{"id":"40461103","itemNo":"40461103","name":"MÅLSKYTT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":239},{"countryCode":"cz","currencyCode":"CZK","price":1690}]}

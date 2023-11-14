@@ -1,10 +1,1 @@
-{
-    "id": "s49537716",
-    "itemNo": "49537716",
-    "name": "NORDLI",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3898 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19480 }
-    ]
-}
+{"id":"s49537716","itemNo":"49537716","name":"NORDLI","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3898},{"countryCode":"cz","currencyCode":"CZK","price":19480}]}

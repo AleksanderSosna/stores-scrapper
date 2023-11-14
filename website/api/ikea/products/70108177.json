@@ -1,10 +1,1 @@
-{
-    "id": "70108177",
-    "itemNo": "70108177",
-    "name": "LEKA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"70108177","itemNo":"70108177","name":"LEKA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

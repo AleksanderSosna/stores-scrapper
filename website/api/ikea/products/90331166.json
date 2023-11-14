@@ -1,10 +1,1 @@
-{
-    "id": "90331166",
-    "itemNo": "90331166",
-    "name": "HJÄLPA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 180 }
-    ]
-}
+{"id":"90331166","itemNo":"90331166","name":"HJÄLPA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":180}]}

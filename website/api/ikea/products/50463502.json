@@ -1,10 +1,1 @@
-{
-    "id": "50463502",
-    "itemNo": "50463502",
-    "name": "SAKARIAS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 290 }
-    ]
-}
+{"id":"50463502","itemNo":"50463502","name":"SAKARIAS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":50},{"countryCode":"cz","currencyCode":"CZK","price":290}]}

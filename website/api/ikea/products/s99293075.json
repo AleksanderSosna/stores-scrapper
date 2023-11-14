@@ -1,10 +1,1 @@
-{
-    "id": "s99293075",
-    "itemNo": "99293075",
-    "name": "GODMORGON / ODENSVIK",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2099 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12770 }
-    ]
-}
+{"id":"s99293075","itemNo":"99293075","name":"GODMORGON / ODENSVIK","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2099},{"countryCode":"cz","currencyCode":"CZK","price":12770}]}

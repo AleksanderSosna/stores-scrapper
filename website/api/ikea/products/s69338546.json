@@ -1,10 +1,1 @@
-{
-    "id": "s69338546",
-    "itemNo": "69338546",
-    "name": "FJÄLLBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 298 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1598 }
-    ]
-}
+{"id":"s69338546","itemNo":"69338546","name":"FJÄLLBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":298},{"countryCode":"cz","currencyCode":"CZK","price":1598}]}

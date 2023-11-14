@@ -1,10 +1,1 @@
-{
-    "id": "50557529",
-    "itemNo": "50557529",
-    "name": "KÄRRKNIPPROT",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"50557529","itemNo":"50557529","name":"KÄRRKNIPPROT","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

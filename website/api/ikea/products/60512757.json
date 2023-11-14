@@ -1,10 +1,1 @@
-{
-    "id": "60512757",
-    "itemNo": "60512757",
-    "name": "KNOPPÄNG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"60512757","itemNo":"60512757","name":"KNOPPÄNG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59501731",
-    "itemNo": "59501731",
-    "name": "BJÖRKSNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10990 }
-    ]
-}
+{"id":"s59501731","itemNo":"59501731","name":"BJÖRKSNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2299},{"countryCode":"cz","currencyCode":"CZK","price":10990}]}

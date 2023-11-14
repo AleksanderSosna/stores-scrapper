@@ -1,10 +1,1 @@
-{
-    "id": "10506952",
-    "itemNo": "10506952",
-    "name": "PLOMMONROS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"10506952","itemNo":"10506952","name":"PLOMMONROS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

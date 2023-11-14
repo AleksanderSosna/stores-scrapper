@@ -1,10 +1,1 @@
-{
-    "id": "60446767",
-    "itemNo": "60446767",
-    "name": "MJÖLKKLOCKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
-    ]
-}
+{"id":"60446767","itemNo":"60446767","name":"MJÖLKKLOCKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":159},{"countryCode":"cz","currencyCode":"CZK","price":749}]}

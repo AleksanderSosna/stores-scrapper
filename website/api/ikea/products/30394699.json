@@ -1,10 +1,1 @@
-{
-    "id": "30394699",
-    "itemNo": "30394699",
-    "name": "FÖRNIMMA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"30394699","itemNo":"30394699","name":"FÖRNIMMA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

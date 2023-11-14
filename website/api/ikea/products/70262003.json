@@ -1,10 +1,1 @@
-{
-    "id": "70262003",
-    "itemNo": "70262003",
-    "name": "LÅTSAS",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"70262003","itemNo":"70262003","name":"LÅTSAS","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

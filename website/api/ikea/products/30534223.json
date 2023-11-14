@@ -1,10 +1,1 @@
-{
-    "id": "30534223",
-    "itemNo": "30534223",
-    "name": "ANTAGEN",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9 }
-    ]
-}
+{"id":"30534223","itemNo":"30534223","name":"ANTAGEN","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3},{"countryCode":"cz","currencyCode":"CZK","price":9}]}

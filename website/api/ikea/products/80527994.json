@@ -1,10 +1,1 @@
-{
-    "id": "80527994",
-    "itemNo": "80527994",
-    "name": "LÄKTARE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 700 }
-    ]
-}
+{"id":"80527994","itemNo":"80527994","name":"LÄKTARE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":700}]}

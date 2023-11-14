@@ -1,10 +1,1 @@
-{
-    "id": "80336433",
-    "itemNo": "80336433",
-    "name": "GUBBARP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
-    ]
-}
+{"id":"80336433","itemNo":"80336433","name":"GUBBARP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2},{"countryCode":"cz","currencyCode":"CZK","price":15}]}

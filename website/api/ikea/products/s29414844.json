@@ -1,10 +1,1 @@
-{
-    "id": "s29414844",
-    "itemNo": "29414844",
-    "name": "ESPEVÄR/VALEVÅG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3103 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17280 }
-    ]
-}
+{"id":"s29414844","itemNo":"29414844","name":"ESPEVÄR/VALEVÅG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3103},{"countryCode":"cz","currencyCode":"CZK","price":17280}]}

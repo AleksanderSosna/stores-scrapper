@@ -1,10 +1,1 @@
-{
-    "id": "30551397",
-    "itemNo": "30551397",
-    "name": "LAGEROLVON",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
-    ]
-}
+{"id":"30551397","itemNo":"30551397","name":"LAGEROLVON","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1690}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s79495135",
-    "itemNo": "79495135",
-    "name": "EKEDALEN / LILLÅNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 14150 }
-    ]
-}
+{"id":"s79495135","itemNo":"79495135","name":"EKEDALEN / LILLÅNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2995},{"countryCode":"cz","currencyCode":"CZK","price":14150}]}

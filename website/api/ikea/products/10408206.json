@@ -1,10 +1,1 @@
-{
-    "id": "10408206",
-    "itemNo": "10408206",
-    "name": "FYRTUR",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"10408206","itemNo":"10408206","name":"FYRTUR","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":549},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

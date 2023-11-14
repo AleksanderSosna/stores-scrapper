@@ -1,10 +1,1 @@
-{
-    "id": "50441647",
-    "itemNo": "50441647",
-    "name": "FRÖJERED",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 70 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 400 }
-    ]
-}
+{"id":"50441647","itemNo":"50441647","name":"FRÖJERED","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":70},{"countryCode":"cz","currencyCode":"CZK","price":400}]}

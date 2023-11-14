@@ -1,10 +1,1 @@
-{
-    "id": "30494694",
-    "itemNo": "30494694",
-    "name": "OXMYREN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 900 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4000 }
-    ]
-}
+{"id":"30494694","itemNo":"30494694","name":"OXMYREN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":900},{"countryCode":"cz","currencyCode":"CZK","price":4000}]}

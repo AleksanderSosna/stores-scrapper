@@ -1,10 +1,1 @@
-{
-    "id": "40542307",
-    "itemNo": "40542307",
-    "name": "EKOLN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"40542307","itemNo":"40542307","name":"EKOLN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

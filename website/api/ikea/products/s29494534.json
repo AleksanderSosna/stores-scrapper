@@ -1,10 +1,1 @@
-{
-    "id": "s29494534",
-    "itemNo": "29494534",
-    "name": "MARKFROST / MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1098 }
-    ]
-}
+{"id":"s29494534","itemNo":"29494534","name":"MARKFROST / MOLNART","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149.98},{"countryCode":"cz","currencyCode":"CZK","price":1098}]}

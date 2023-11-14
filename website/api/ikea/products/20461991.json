@@ -1,10 +1,1 @@
-{
-    "id": "20461991",
-    "itemNo": "20461991",
-    "name": "ÄNGSKORN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"20461991","itemNo":"20461991","name":"ÄNGSKORN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

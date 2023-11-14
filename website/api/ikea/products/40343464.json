@@ -1,10 +1,1 @@
-{
-    "id": "40343464",
-    "itemNo": "40343464",
-    "name": "GRIMO",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1200 }
-    ]
-}
+{"id":"40343464","itemNo":"40343464","name":"GRIMO","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":175},{"countryCode":"cz","currencyCode":"CZK","price":1200}]}

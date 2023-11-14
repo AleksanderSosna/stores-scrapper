@@ -1,10 +1,1 @@
-{
-    "id": "00100467",
-    "itemNo": "00100467",
-    "name": "PAPPIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"00100467","itemNo":"00100467","name":"PAPPIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

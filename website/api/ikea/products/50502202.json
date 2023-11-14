@@ -1,10 +1,1 @@
-{
-    "id": "50502202",
-    "itemNo": "50502202",
-    "name": "ADLAD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"50502202","itemNo":"50502202","name":"ADLAD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

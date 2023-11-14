@@ -1,10 +1,1 @@
-{
-    "id": "10430518",
-    "itemNo": "10430518",
-    "name": "PERSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 16 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
-    ]
-}
+{"id":"10430518","itemNo":"10430518","name":"PERSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":16},{"countryCode":"cz","currencyCode":"CZK","price":75}]}

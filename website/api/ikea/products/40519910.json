@@ -1,10 +1,1 @@
-{
-    "id": "40519910",
-    "itemNo": "40519910",
-    "name": "VÄRLDENS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
-    ]
-}
+{"id":"40519910","itemNo":"40519910","name":"VÄRLDENS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":279},{"countryCode":"cz","currencyCode":"CZK","price":1690}]}

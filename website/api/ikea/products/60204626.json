@@ -1,10 +1,1 @@
-{
-    "id": "60204626",
-    "itemNo": "60204626",
-    "name": "MAXIMERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 145 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
-    ]
-}
+{"id":"60204626","itemNo":"60204626","name":"MAXIMERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":145},{"countryCode":"cz","currencyCode":"CZK","price":650}]}

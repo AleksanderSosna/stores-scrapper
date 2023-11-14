@@ -1,10 +1,1 @@
-{
-    "id": "50494363",
-    "itemNo": "50494363",
-    "name": "HELMER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"50494363","itemNo":"50494363","name":"HELMER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

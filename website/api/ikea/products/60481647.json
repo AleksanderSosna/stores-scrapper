@@ -1,10 +1,1 @@
-{
-    "id": "60481647",
-    "itemNo": "60481647",
-    "name": "ÅKREHAMN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9490 }
-    ]
-}
+{"id":"60481647","itemNo":"60481647","name":"ÅKREHAMN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1799},{"countryCode":"cz","currencyCode":"CZK","price":9490}]}

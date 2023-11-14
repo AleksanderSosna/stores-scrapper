@@ -1,10 +1,1 @@
-{
-    "id": "40514248",
-    "itemNo": "40514248",
-    "name": "PRAKTLYSING",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"40514248","itemNo":"40514248","name":"PRAKTLYSING","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":449},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

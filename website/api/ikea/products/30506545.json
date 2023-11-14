@@ -1,10 +1,1 @@
-{
-    "id": "30506545",
-    "itemNo": "30506545",
-    "name": "TRIPPEVALS",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 259 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"30506545","itemNo":"30506545","name":"TRIPPEVALS","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":259},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

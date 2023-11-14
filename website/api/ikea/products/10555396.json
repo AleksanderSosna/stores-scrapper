@@ -1,10 +1,1 @@
-{
-    "id": "10555396",
-    "itemNo": "10555396",
-    "name": "CUCURBITA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"10555396","itemNo":"10555396","name":"CUCURBITA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

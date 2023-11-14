@@ -1,10 +1,1 @@
-{
-    "id": "80012853",
-    "itemNo": "80012853",
-    "name": "VARIERA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"80012853","itemNo":"80012853","name":"VARIERA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

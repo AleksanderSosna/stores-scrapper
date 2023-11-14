@@ -1,10 +1,1 @@
-{
-    "id": "s59506026",
-    "itemNo": "59506026",
-    "name": "DOCKSTA / MÅNHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2195 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10750 }
-    ]
-}
+{"id":"s59506026","itemNo":"59506026","name":"DOCKSTA / MÅNHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2195},{"countryCode":"cz","currencyCode":"CZK","price":10750}]}

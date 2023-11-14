@@ -1,10 +1,1 @@
-{
-    "id": "60131734",
-    "itemNo": "60131734",
-    "name": "GLENN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"60131734","itemNo":"60131734","name":"GLENN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":449},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90559197",
-    "itemNo": "90559197",
-    "name": "LENDA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"90559197","itemNo":"90559197","name":"LENDA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

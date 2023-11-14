@@ -1,10 +1,1 @@
-{
-    "id": "00507853",
-    "itemNo": "00507853",
-    "name": "LÅNESPELARE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"00507853","itemNo":"00507853","name":"LÅNESPELARE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

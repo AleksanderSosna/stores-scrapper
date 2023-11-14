@@ -1,10 +1,1 @@
-{
-    "id": "90496708",
-    "itemNo": "90496708",
-    "name": "FREDRIKSJÖN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 109 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 429 }
-    ]
-}
+{"id":"90496708","itemNo":"90496708","name":"FREDRIKSJÖN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":109},{"countryCode":"cz","currencyCode":"CZK","price":429}]}

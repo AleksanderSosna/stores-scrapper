@@ -1,10 +1,1 @@
-{
-    "id": "80435169",
-    "itemNo": "80435169",
-    "name": "TJUGO",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"80435169","itemNo":"80435169","name":"TJUGO","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

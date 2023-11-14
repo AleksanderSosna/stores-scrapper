@@ -1,10 +1,1 @@
-{
-    "id": "90190524",
-    "itemNo": "90190524",
-    "name": "FARDAL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1800 }
-    ]
-}
+{"id":"90190524","itemNo":"90190524","name":"FARDAL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":250},{"countryCode":"cz","currencyCode":"CZK","price":1800}]}

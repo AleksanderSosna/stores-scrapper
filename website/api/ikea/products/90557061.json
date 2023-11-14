@@ -1,10 +1,1 @@
-{
-    "id": "90557061",
-    "itemNo": "90557061",
-    "name": "MÅGEBO",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12490 }
-    ]
-}
+{"id":"90557061","itemNo":"90557061","name":"MÅGEBO","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2999},{"countryCode":"cz","currencyCode":"CZK","price":12490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59158003",
-    "itemNo": "59158003",
-    "name": "FYNDIG",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"s59158003","itemNo":"59158003","name":"FYNDIG","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

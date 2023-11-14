@@ -1,10 +1,1 @@
-{
-    "id": "00338407",
-    "itemNo": "00338407",
-    "name": "BAGGANÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 25 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"00338407","itemNo":"00338407","name":"BAGGANÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":25},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50565911",
-    "itemNo": "50565911",
-    "name": "UTTAG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 549 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"50565911","itemNo":"50565911","name":"UTTAG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":549},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

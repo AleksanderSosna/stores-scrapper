@@ -1,10 +1,1 @@
-{
-    "id": "50417789",
-    "itemNo": "50417789",
-    "name": "MAJGULL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"50417789","itemNo":"50417789","name":"MAJGULL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

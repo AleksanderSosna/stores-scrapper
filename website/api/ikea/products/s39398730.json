@@ -1,10 +1,1 @@
-{
-    "id": "s39398730",
-    "itemNo": "39398730",
-    "name": "KALLAX / LACK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1177.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5159 }
-    ]
-}
+{"id":"s39398730","itemNo":"39398730","name":"KALLAX / LACK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1177.99},{"countryCode":"cz","currencyCode":"CZK","price":5159}]}

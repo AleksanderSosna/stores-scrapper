@@ -1,10 +1,1 @@
-{
-    "id": "50389140",
-    "itemNo": "50389140",
-    "name": "FINSMAKARE",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
-    ]
-}
+{"id":"50389140","itemNo":"50389140","name":"FINSMAKARE","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2399},{"countryCode":"cz","currencyCode":"CZK","price":11990}]}

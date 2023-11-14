@@ -1,10 +1,1 @@
-{
-    "id": "00262879",
-    "itemNo": "00262879",
-    "name": "EKERÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"00262879","itemNo":"00262879","name":"EKERÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

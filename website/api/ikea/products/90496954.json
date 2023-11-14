@@ -1,10 +1,1 @@
-{
-    "id": "90496954",
-    "itemNo": "90496954",
-    "name": "STENKOL",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"90496954","itemNo":"90496954","name":"STENKOL","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

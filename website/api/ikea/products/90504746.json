@@ -1,10 +1,1 @@
-{
-    "id": "90504746",
-    "itemNo": "90504746",
-    "name": "VÄNKRETS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"90504746","itemNo":"90504746","name":"VÄNKRETS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40524836",
-    "itemNo": "40524836",
-    "name": "KLYNNETÅG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"40524836","itemNo":"40524836","name":"KLYNNETÅG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

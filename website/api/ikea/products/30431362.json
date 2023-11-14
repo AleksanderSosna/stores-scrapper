@@ -1,10 +1,1 @@
-{
-    "id": "30431362",
-    "itemNo": "30431362",
-    "name": "OPPEJEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 849 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4490 }
-    ]
-}
+{"id":"30431362","itemNo":"30431362","name":"OPPEJEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":849},{"countryCode":"cz","currencyCode":"CZK","price":4490}]}

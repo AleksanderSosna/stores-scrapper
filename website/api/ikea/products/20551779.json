@@ -1,10 +1,1 @@
-{
-    "id": "20551779",
-    "itemNo": "20551779",
-    "name": "VÅRVIAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20551779","itemNo":"20551779","name":"VÅRVIAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

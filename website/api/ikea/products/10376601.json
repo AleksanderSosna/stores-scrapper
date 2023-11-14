@@ -1,10 +1,1 @@
-{
-    "id": "10376601",
-    "itemNo": "10376601",
-    "name": "EKLATANT",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"10376601","itemNo":"10376601","name":"EKLATANT","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

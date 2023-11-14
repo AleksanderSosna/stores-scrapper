@@ -1,10 +1,1 @@
-{
-    "id": "s79521200",
-    "itemNo": "79521200",
-    "name": "PAX / MISTUDDEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1815 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10410 }
-    ]
-}
+{"id":"s79521200","itemNo":"79521200","name":"PAX / MISTUDDEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1815},{"countryCode":"cz","currencyCode":"CZK","price":10410}]}

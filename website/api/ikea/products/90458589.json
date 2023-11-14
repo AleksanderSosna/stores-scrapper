@@ -1,10 +1,1 @@
-{
-    "id": "90458589",
-    "itemNo": "90458589",
-    "name": "SMÅSPORRE",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 949 }
-    ]
-}
+{"id":"90458589","itemNo":"90458589","name":"SMÅSPORRE","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":949}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s09429200",
-    "itemNo": "09429200",
-    "name": "SANDSBERG / DALFRED",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 598 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4370 }
-    ]
-}
+{"id":"s09429200","itemNo":"09429200","name":"SANDSBERG / DALFRED","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":598},{"countryCode":"cz","currencyCode":"CZK","price":4370}]}

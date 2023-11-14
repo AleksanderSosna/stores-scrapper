@@ -1,10 +1,1 @@
-{
-    "id": "70522299",
-    "itemNo": "70522299",
-    "name": "INBAKAD",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"70522299","itemNo":"70522299","name":"INBAKAD","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

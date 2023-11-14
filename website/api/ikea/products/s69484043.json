@@ -1,10 +1,1 @@
-{
-    "id": "s69484043",
-    "itemNo": "69484043",
-    "name": "GRÅSALA / GRÅSALA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5186 }
-    ]
-}
+{"id":"s69484043","itemNo":"69484043","name":"GRÅSALA / GRÅSALA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":995},{"countryCode":"cz","currencyCode":"CZK","price":5186}]}

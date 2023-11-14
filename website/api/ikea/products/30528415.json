@@ -1,10 +1,1 @@
-{
-    "id": "30528415",
-    "itemNo": "30528415",
-    "name": "FENOMEN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"30528415","itemNo":"30528415","name":"FENOMEN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

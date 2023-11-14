@@ -1,10 +1,1 @@
-{
-    "id": "20483808",
-    "itemNo": "20483808",
-    "name": "ALEX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 799 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"20483808","itemNo":"20483808","name":"ALEX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":799},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

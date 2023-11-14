@@ -1,10 +1,1 @@
-{
-    "id": "00502474",
-    "itemNo": "00502474",
-    "name": "ENSTAKA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"00502474","itemNo":"00502474","name":"ENSTAKA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

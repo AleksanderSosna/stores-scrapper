@@ -1,10 +1,1 @@
-{
-    "id": "s09429733",
-    "itemNo": "09429733",
-    "name": "PAX / TYSSEDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2010 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10050 }
-    ]
-}
+{"id":"s09429733","itemNo":"09429733","name":"PAX / TYSSEDAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2010},{"countryCode":"cz","currencyCode":"CZK","price":10050}]}

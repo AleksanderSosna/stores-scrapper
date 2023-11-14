@@ -1,10 +1,1 @@
-{
-    "id": "50527269",
-    "itemNo": "50527269",
-    "name": "FYRTIOFYRA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"50527269","itemNo":"50527269","name":"FYRTIOFYRA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

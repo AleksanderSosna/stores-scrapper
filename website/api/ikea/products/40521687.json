@@ -1,10 +1,1 @@
-{
-    "id": "40521687",
-    "itemNo": "40521687",
-    "name": "OSKARSHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 600 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"40521687","itemNo":"40521687","name":"OSKARSHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":600},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30450402",
-    "itemNo": "30450402",
-    "name": "TONVIS",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"30450402","itemNo":"30450402","name":"TONVIS","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

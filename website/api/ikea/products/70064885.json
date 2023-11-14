@@ -1,10 +1,1 @@
-{
-    "id": "70064885",
-    "itemNo": "70064885",
-    "name": "VESSLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"70064885","itemNo":"70064885","name":"VESSLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

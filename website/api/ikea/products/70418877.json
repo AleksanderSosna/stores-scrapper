@@ -1,10 +1,1 @@
-{
-    "id": "70418877",
-    "itemNo": "70418877",
-    "name": "RINGHULT",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
-    ]
-}
+{"id":"70418877","itemNo":"70418877","name":"RINGHULT","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":750}]}

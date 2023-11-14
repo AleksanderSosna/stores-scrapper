@@ -1,10 +1,1 @@
-{
-    "id": "90467838",
-    "itemNo": "90467838",
-    "name": "BJÖRKÅSEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"90467838","itemNo":"90467838","name":"BJÖRKÅSEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

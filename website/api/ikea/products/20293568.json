@@ -1,10 +1,1 @@
-{
-    "id": "20293568",
-    "itemNo": "20293568",
-    "name": "STUBBARP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 40 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 150 }
-    ]
-}
+{"id":"20293568","itemNo":"20293568","name":"STUBBARP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":40},{"countryCode":"cz","currencyCode":"CZK","price":150}]}

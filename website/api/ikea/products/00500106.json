@@ -1,10 +1,1 @@
-{
-    "id": "00500106",
-    "itemNo": "00500106",
-    "name": "KLAMPENBORG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"00500106","itemNo":"00500106","name":"KLAMPENBORG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

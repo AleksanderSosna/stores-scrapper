@@ -1,10 +1,1 @@
-{
-    "id": "70511451",
-    "itemNo": "70511451",
-    "name": "ENTUSIASM",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"70511451","itemNo":"70511451","name":"ENTUSIASM","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00301908",
-    "itemNo": "00301908",
-    "name": "BUSBASSE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00301908","itemNo":"00301908","name":"BUSBASSE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

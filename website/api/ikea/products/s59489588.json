@@ -1,10 +1,1 @@
-{
-    "id": "s59489588",
-    "itemNo": "59489588",
-    "name": "HYLTARP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 22990 }
-    ]
-}
+{"id":"s59489588","itemNo":"59489588","name":"HYLTARP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3499},{"countryCode":"cz","currencyCode":"CZK","price":22990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90184047",
-    "itemNo": "90184047",
-    "name": "MARIUS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"90184047","itemNo":"90184047","name":"MARIUS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

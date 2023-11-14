@@ -1,10 +1,1 @@
-{
-    "id": "20519874",
-    "itemNo": "20519874",
-    "name": "GIFFLAR",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 11 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"20519874","itemNo":"20519874","name":"GIFFLAR","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":11},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

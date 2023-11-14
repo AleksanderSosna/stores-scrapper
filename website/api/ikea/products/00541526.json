@@ -1,10 +1,1 @@
-{
-    "id": "00541526",
-    "itemNo": "00541526",
-    "name": "ÖKENSAND",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"00541526","itemNo":"00541526","name":"ÖKENSAND","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

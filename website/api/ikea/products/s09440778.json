@@ -1,10 +1,1 @@
-{
-    "id": "s09440778",
-    "itemNo": "09440778",
-    "name": "UTESPELARE / HELMER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1447 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6979 }
-    ]
-}
+{"id":"s09440778","itemNo":"09440778","name":"UTESPELARE / HELMER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1447},{"countryCode":"cz","currencyCode":"CZK","price":6979}]}

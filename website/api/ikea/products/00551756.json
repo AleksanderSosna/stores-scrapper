@@ -1,10 +1,1 @@
-{
-    "id": "00551756",
-    "itemNo": "00551756",
-    "name": "SOCKERÄRT",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
-    ]
-}
+{"id":"00551756","itemNo":"00551756","name":"SOCKERÄRT","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":329}]}

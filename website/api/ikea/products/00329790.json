@@ -1,10 +1,1 @@
-{
-    "id": "00329790",
-    "itemNo": "00329790",
-    "name": "PINNIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"00329790","itemNo":"00329790","name":"PINNIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40552971",
-    "itemNo": "40552971",
-    "name": "ÖMSESIDIG",
-    "categoryKey": "hs001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"40552971","itemNo":"40552971","name":"ÖMSESIDIG","categoryKey":"hs001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

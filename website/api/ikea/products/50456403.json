@@ -1,10 +1,1 @@
-{
-    "id": "50456403",
-    "itemNo": "50456403",
-    "name": "SANDSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 18 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 75 }
-    ]
-}
+{"id":"50456403","itemNo":"50456403","name":"SANDSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":18},{"countryCode":"cz","currencyCode":"CZK","price":75}]}

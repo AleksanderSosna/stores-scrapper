@@ -1,10 +1,1 @@
-{
-    "id": "40309573",
-    "itemNo": "40309573",
-    "name": "STUK",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"40309573","itemNo":"40309573","name":"STUK","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

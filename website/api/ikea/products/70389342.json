@@ -1,10 +1,1 @@
-{
-    "id": "70389342",
-    "itemNo": "70389342",
-    "name": "RYTMISK",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"70389342","itemNo":"70389342","name":"RYTMISK","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1199},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

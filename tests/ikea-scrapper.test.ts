@@ -65,6 +65,8 @@ test.describe("Ikea Scrapper", () => {
                 [];
             ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
 
+            await ikea.deleteAllFilesFromDirectory("./website/api/ikea/products");
+
             await page.close();
         });
 

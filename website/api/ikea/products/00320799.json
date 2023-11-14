@@ -1,10 +1,1 @@
-{
-    "id": "00320799",
-    "itemNo": "00320799",
-    "name": "SKÅDIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 100 }
-    ]
-}
+{"id":"00320799","itemNo":"00320799","name":"SKÅDIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":100}]}

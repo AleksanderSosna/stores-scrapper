@@ -1,10 +1,1 @@
-{
-    "id": "50507558",
-    "itemNo": "50507558",
-    "name": "GRUPPSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"50507558","itemNo":"50507558","name":"GRUPPSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

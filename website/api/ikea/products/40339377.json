@@ -1,10 +1,1 @@
-{
-    "id": "40339377",
-    "itemNo": "40339377",
-    "name": "NATTSMYG",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 449 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"40339377","itemNo":"40339377","name":"NATTSMYG","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":449},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

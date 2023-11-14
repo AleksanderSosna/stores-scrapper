@@ -1,10 +1,1 @@
-{
-    "id": "20564239",
-    "itemNo": "20564239",
-    "name": "TRATTVIVA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"20564239","itemNo":"20564239","name":"TRATTVIVA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

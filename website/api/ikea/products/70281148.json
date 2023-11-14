@@ -1,10 +1,1 @@
-{
-    "id": "70281148",
-    "itemNo": "70281148",
-    "name": "GURLI",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"70281148","itemNo":"70281148","name":"GURLI","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

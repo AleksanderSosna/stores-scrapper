@@ -1,10 +1,1 @@
-{
-    "id": "10395591",
-    "itemNo": "10395591",
-    "name": "LÄTTHET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 75 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 400 }
-    ]
-}
+{"id":"10395591","itemNo":"10395591","name":"LÄTTHET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":75},{"countryCode":"cz","currencyCode":"CZK","price":400}]}

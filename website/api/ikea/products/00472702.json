@@ -1,10 +1,1 @@
-{
-    "id": "00472702",
-    "itemNo": "00472702",
-    "name": "BERGIG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }
-    ]
-}
+{"id":"00472702","itemNo":"00472702","name":"BERGIG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3290}]}

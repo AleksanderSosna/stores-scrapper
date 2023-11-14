@@ -1,10 +1,1 @@
-{
-    "id": "s69332399",
-    "itemNo": "69332399",
-    "name": "BOAXEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 660 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4050 }
-    ]
-}
+{"id":"s69332399","itemNo":"69332399","name":"BOAXEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":660},{"countryCode":"cz","currencyCode":"CZK","price":4050}]}

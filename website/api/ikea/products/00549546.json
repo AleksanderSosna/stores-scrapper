@@ -1,10 +1,1 @@
-{
-    "id": "00549546",
-    "itemNo": "00549546",
-    "name": "HUMLEMOTT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"00549546","itemNo":"00549546","name":"HUMLEMOTT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

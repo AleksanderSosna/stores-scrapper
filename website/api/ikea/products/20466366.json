@@ -1,10 +1,1 @@
-{
-    "id": "20466366",
-    "itemNo": "20466366",
-    "name": "JÄLLBY",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 50 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 300 }
-    ]
-}
+{"id":"20466366","itemNo":"20466366","name":"JÄLLBY","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":50},{"countryCode":"cz","currencyCode":"CZK","price":300}]}

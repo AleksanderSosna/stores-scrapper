@@ -1,10 +1,1 @@
-{
-    "id": "s29523372",
-    "itemNo": "29523372",
-    "name": "LAGKAPTEN / ALEX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 398 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2089 }
-    ]
-}
+{"id":"s29523372","itemNo":"29523372","name":"LAGKAPTEN / ALEX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":398},{"countryCode":"cz","currencyCode":"CZK","price":2089}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s69416011",
-    "itemNo": "69416011",
-    "name": "LÖKNÄS / SKAFTET",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 369 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2189 }
-    ]
-}
+{"id":"s69416011","itemNo":"69416011","name":"LÖKNÄS / SKAFTET","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":369},{"countryCode":"cz","currencyCode":"CZK","price":2189}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s39501317",
-    "itemNo": "39501317",
-    "name": "LOBERGET / SIBBEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 749 }
-    ]
-}
+{"id":"s39501317","itemNo":"39501317","name":"LOBERGET / SIBBEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":749}]}

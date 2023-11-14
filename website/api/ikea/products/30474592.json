@@ -1,10 +1,1 @@
-{
-    "id": "30474592",
-    "itemNo": "30474592",
-    "name": "BULLIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 469 }
-    ]
-}
+{"id":"30474592","itemNo":"30474592","name":"BULLIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":469}]}

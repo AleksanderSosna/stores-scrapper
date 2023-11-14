@@ -1,10 +1,1 @@
-{
-    "id": "00389072",
-    "itemNo": "00389072",
-    "name": "INDIRA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"00389072","itemNo":"00389072","name":"INDIRA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

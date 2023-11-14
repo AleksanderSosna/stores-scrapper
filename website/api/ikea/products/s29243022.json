@@ -1,10 +1,1 @@
-{
-    "id": "s29243022",
-    "itemNo": "29243022",
-    "name": "SANNIDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 80 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 310 }
-    ]
-}
+{"id":"s29243022","itemNo":"29243022","name":"SANNIDAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":80},{"countryCode":"cz","currencyCode":"CZK","price":310}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90124534",
-    "itemNo": "90124534",
-    "name": "SKORVA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 500 }
-    ]
-}
+{"id":"90124534","itemNo":"90124534","name":"SKORVA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":500}]}

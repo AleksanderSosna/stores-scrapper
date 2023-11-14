@@ -1,10 +1,1 @@
-{
-    "id": "50497738",
-    "itemNo": "50497738",
-    "name": "SKYTTA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 450 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2200 }
-    ]
-}
+{"id":"50497738","itemNo":"50497738","name":"SKYTTA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":450},{"countryCode":"cz","currencyCode":"CZK","price":2200}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20420175",
-    "itemNo": "20420175",
-    "name": "SUNNEBY",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 35 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 200 }
-    ]
-}
+{"id":"20420175","itemNo":"20420175","name":"SUNNEBY","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":35},{"countryCode":"cz","currencyCode":"CZK","price":200}]}

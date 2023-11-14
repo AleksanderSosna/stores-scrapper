@@ -1,10 +1,1 @@
-{
-    "id": "00521905",
-    "itemNo": "00521905",
-    "name": "JÄTTESTA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 699 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"00521905","itemNo":"00521905","name":"JÄTTESTA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":699},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

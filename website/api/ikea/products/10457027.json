@@ -1,10 +1,1 @@
-{
-    "id": "10457027",
-    "itemNo": "10457027",
-    "name": "TRONNAN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"10457027","itemNo":"10457027","name":"TRONNAN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

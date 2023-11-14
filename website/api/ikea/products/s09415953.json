@@ -1,10 +1,1 @@
-{
-    "id": "s09415953",
-    "itemNo": "09415953",
-    "name": "NYSJÖN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4480 }
-    ]
-}
+{"id":"s09415953","itemNo":"09415953","name":"NYSJÖN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":899},{"countryCode":"cz","currencyCode":"CZK","price":4480}]}

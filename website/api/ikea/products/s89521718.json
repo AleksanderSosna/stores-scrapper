@@ -1,10 +1,1 @@
-{
-    "id": "s89521718",
-    "itemNo": "89521718",
-    "name": "MITTCIRKEL / ALEX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 498 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2489 }
-    ]
-}
+{"id":"s89521718","itemNo":"89521718","name":"MITTCIRKEL / ALEX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":498},{"countryCode":"cz","currencyCode":"CZK","price":2489}]}

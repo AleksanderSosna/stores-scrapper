@@ -1,10 +1,1 @@
-{
-    "id": "s39030510",
-    "itemNo": "39030510",
-    "name": "ASKVOLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1049 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5890 }
-    ]
-}
+{"id":"s39030510","itemNo":"39030510","name":"ASKVOLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1049},{"countryCode":"cz","currencyCode":"CZK","price":5890}]}

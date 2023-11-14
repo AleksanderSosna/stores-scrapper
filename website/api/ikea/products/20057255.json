@@ -1,10 +1,1 @@
-{
-    "id": "20057255",
-    "itemNo": "20057255",
-    "name": "BLANDA BLANK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"20057255","itemNo":"20057255","name":"BLANDA BLANK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

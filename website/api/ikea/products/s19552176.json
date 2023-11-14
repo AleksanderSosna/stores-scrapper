@@ -1,10 +1,1 @@
-{
-    "id": "s19552176",
-    "itemNo": "19552176",
-    "name": "KALLAX",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 448 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
-    ]
-}
+{"id":"s19552176","itemNo":"19552176","name":"KALLAX","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":448},{"countryCode":"cz","currencyCode":"CZK","price":2690}]}

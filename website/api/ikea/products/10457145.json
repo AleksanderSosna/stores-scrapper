@@ -1,10 +1,1 @@
-{
-    "id": "10457145",
-    "itemNo": "10457145",
-    "name": "GLADELIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 329 }
-    ]
-}
+{"id":"10457145","itemNo":"10457145","name":"GLADELIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":329}]}

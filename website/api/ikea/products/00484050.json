@@ -1,10 +1,1 @@
-{
-    "id": "00484050",
-    "itemNo": "00484050",
-    "name": "HILDEGUN",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"00484050","itemNo":"00484050","name":"HILDEGUN","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

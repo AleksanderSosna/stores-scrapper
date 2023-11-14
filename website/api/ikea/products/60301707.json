@@ -1,10 +1,1 @@
-{
-    "id": "60301707",
-    "itemNo": "60301707",
-    "name": "FRAKTA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 15 }
-    ]
-}
+{"id":"60301707","itemNo":"60301707","name":"FRAKTA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.5},{"countryCode":"cz","currencyCode":"CZK","price":15}]}

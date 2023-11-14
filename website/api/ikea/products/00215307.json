@@ -1,10 +1,1 @@
-{
-    "id": "00215307",
-    "itemNo": "00215307",
-    "name": "HEKTAR",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2690 }
-    ]
-}
+{"id":"00215307","itemNo":"00215307","name":"HEKTAR","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":2690}]}

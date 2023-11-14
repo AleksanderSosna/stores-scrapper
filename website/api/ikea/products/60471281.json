@@ -1,10 +1,1 @@
-{
-    "id": "60471281",
-    "itemNo": "60471281",
-    "name": "ROSSARED",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"60471281","itemNo":"60471281","name":"ROSSARED","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

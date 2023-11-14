@@ -1,10 +1,1 @@
-{
-    "id": "s79431332",
-    "itemNo": "79431332",
-    "name": "PAX / BERGSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11750 }
-    ]
-}
+{"id":"s79431332","itemNo":"79431332","name":"PAX / BERGSBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1995},{"countryCode":"cz","currencyCode":"CZK","price":11750}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30526341",
-    "itemNo": "30526341",
-    "name": "DRACAENA MARGINATA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"30526341","itemNo":"30526341","name":"DRACAENA MARGINATA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

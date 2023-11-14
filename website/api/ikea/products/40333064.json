@@ -1,10 +1,1 @@
-{
-    "id": "40333064",
-    "itemNo": "40333064",
-    "name": "BRUNSTA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"40333064","itemNo":"40333064","name":"BRUNSTA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

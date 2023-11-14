@@ -1,10 +1,1 @@
-{
-    "id": "s79294542",
-    "itemNo": "79294542",
-    "name": "VITTSJÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 798 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4280 }
-    ]
-}
+{"id":"s79294542","itemNo":"79294542","name":"VITTSJÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":798},{"countryCode":"cz","currencyCode":"CZK","price":4280}]}

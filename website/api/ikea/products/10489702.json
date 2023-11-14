@@ -1,10 +1,1 @@
-{
-    "id": "10489702",
-    "itemNo": "10489702",
-    "name": "BEKRÄFTA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"10489702","itemNo":"10489702","name":"BEKRÄFTA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":90},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

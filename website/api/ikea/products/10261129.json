@@ -1,10 +1,1 @@
-{
-    "id": "10261129",
-    "itemNo": "10261129",
-    "name": "FINNBY",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"10261129","itemNo":"10261129","name":"FINNBY","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

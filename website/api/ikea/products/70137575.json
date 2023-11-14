@@ -1,10 +1,1 @@
-{
-    "id": "70137575",
-    "itemNo": "70137575",
-    "name": "SMASKA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"70137575","itemNo":"70137575","name":"SMASKA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

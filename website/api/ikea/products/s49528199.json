@@ -1,10 +1,1 @@
-{
-    "id": "s49528199",
-    "itemNo": "49528199",
-    "name": "NORDVIKEN / SKOGSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9470 }
-    ]
-}
+{"id":"s49528199","itemNo":"49528199","name":"NORDVIKEN / SKOGSBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1797},{"countryCode":"cz","currencyCode":"CZK","price":9470}]}

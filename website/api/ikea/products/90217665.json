@@ -1,10 +1,1 @@
-{
-    "id": "90217665",
-    "itemNo": "90217665",
-    "name": "HEMNES",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 899 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6490 }
-    ]
-}
+{"id":"90217665","itemNo":"90217665","name":"HEMNES","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":899},{"countryCode":"cz","currencyCode":"CZK","price":6490}]}

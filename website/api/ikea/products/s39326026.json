@@ -1,10 +1,1 @@
-{
-    "id": "s39326026",
-    "itemNo": "39326026",
-    "name": "BERGSHULT / SANDSHULT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 133.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 574 }
-    ]
-}
+{"id":"s39326026","itemNo":"39326026","name":"BERGSHULT / SANDSHULT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":133.99},{"countryCode":"cz","currencyCode":"CZK","price":574}]}

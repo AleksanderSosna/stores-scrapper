@@ -1,10 +1,1 @@
-{
-    "id": "90291698",
-    "itemNo": "90291698",
-    "name": "LAXVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 155 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
-    ]
-}
+{"id":"90291698","itemNo":"90291698","name":"LAXVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":155},{"countryCode":"cz","currencyCode":"CZK","price":750}]}

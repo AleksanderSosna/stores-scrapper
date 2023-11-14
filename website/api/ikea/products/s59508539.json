@@ -1,10 +1,1 @@
-{
-    "id": "s59508539",
-    "itemNo": "59508539",
-    "name": "MITTCIRKEL / ADILS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1099 }
-    ]
-}
+{"id":"s59508539","itemNo":"59508539","name":"MITTCIRKEL / ADILS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1099}]}

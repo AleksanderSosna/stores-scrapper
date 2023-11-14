@@ -1,10 +1,1 @@
-{
-    "id": "90480161",
-    "itemNo": "90480161",
-    "name": "LÄTTBAKAD",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"90480161","itemNo":"90480161","name":"LÄTTBAKAD","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

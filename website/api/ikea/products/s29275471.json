@@ -1,10 +1,1 @@
-{
-    "id": "s29275471",
-    "itemNo": "29275471",
-    "name": "NISSEDAL",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 477 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2997 }
-    ]
-}
+{"id":"s29275471","itemNo":"29275471","name":"NISSEDAL","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":477},{"countryCode":"cz","currencyCode":"CZK","price":2997}]}

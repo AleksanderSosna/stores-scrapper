@@ -1,10 +1,1 @@
-{
-    "id": "30323763",
-    "itemNo": "30323763",
-    "name": "KNIXHULT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1190 }
-    ]
-}
+{"id":"30323763","itemNo":"30323763","name":"KNIXHULT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1190}]}

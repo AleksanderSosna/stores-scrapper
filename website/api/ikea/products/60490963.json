@@ -1,10 +1,1 @@
-{
-    "id": "60490963",
-    "itemNo": "60490963",
-    "name": "BJÖRKÖVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 135 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
-    ]
-}
+{"id":"60490963","itemNo":"60490963","name":"BJÖRKÖVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":135},{"countryCode":"cz","currencyCode":"CZK","price":650}]}

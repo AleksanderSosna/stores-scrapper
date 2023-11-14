@@ -1,10 +1,1 @@
-{
-    "id": "30342163",
-    "itemNo": "30342163",
-    "name": "AGUNNARYD",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2190 }
-    ]
-}
+{"id":"30342163","itemNo":"30342163","name":"AGUNNARYD","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":2190}]}

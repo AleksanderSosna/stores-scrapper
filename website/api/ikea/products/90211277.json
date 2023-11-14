@@ -1,10 +1,1 @@
-{
-    "id": "90211277",
-    "itemNo": "90211277",
-    "name": "AULI",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"90211277","itemNo":"90211277","name":"AULI","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":250},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

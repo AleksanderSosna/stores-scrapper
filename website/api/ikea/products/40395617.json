@@ -1,10 +1,1 @@
-{
-    "id": "40395617",
-    "itemNo": "40395617",
-    "name": "NYPON",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 12.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"40395617","itemNo":"40395617","name":"NYPON","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":12.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30554522",
-    "itemNo": "30554522",
-    "name": "FAGNING",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"30554522","itemNo":"30554522","name":"FAGNING","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

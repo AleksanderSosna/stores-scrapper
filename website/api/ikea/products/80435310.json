@@ -1,10 +1,1 @@
-{
-    "id": "80435310",
-    "itemNo": "80435310",
-    "name": "LETTAN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 200 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"80435310","itemNo":"80435310","name":"LETTAN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":200},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

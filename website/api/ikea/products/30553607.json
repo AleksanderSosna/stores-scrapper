@@ -1,10 +1,1 @@
-{
-    "id": "30553607",
-    "itemNo": "30553607",
-    "name": "JÄLL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"30553607","itemNo":"30553607","name":"JÄLL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

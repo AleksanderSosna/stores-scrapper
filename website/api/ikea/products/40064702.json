@@ -1,10 +1,1 @@
-{
-    "id": "40064702",
-    "itemNo": "40064702",
-    "name": "RAJTAN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"40064702","itemNo":"40064702","name":"RAJTAN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

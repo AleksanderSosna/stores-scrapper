@@ -1,10 +1,1 @@
-{
-    "id": "s09556189",
-    "itemNo": "09556189",
-    "name": "DOCKSTA / LILLÅNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2995 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 13150 }
-    ]
-}
+{"id":"s09556189","itemNo":"09556189","name":"DOCKSTA / LILLÅNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2995},{"countryCode":"cz","currencyCode":"CZK","price":13150}]}

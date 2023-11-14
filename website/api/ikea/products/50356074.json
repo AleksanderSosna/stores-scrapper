@@ -1,10 +1,1 @@
-{
-    "id": "50356074",
-    "itemNo": "50356074",
-    "name": "LERHYTTAN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1000 }
-    ]
-}
+{"id":"50356074","itemNo":"50356074","name":"LERHYTTAN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":175},{"countryCode":"cz","currencyCode":"CZK","price":1000}]}

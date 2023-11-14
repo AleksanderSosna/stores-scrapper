@@ -1,10 +1,1 @@
-{
-    "id": "s99515401",
-    "itemNo": "99515401",
-    "name": "PAX / FARDAL/ÅHEIM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3075 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17480 }
-    ]
-}
+{"id":"s99515401","itemNo":"99515401","name":"PAX / FARDAL/ÅHEIM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3075},{"countryCode":"cz","currencyCode":"CZK","price":17480}]}

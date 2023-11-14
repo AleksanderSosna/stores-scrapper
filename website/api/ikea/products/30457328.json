@@ -1,10 +1,1 @@
-{
-    "id": "30457328",
-    "itemNo": "30457328",
-    "name": "LUSTIGKURRE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"30457328","itemNo":"30457328","name":"LUSTIGKURRE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

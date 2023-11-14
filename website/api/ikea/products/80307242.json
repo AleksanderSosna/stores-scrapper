@@ -1,10 +1,1 @@
-{
-    "id": "80307242",
-    "itemNo": "80307242",
-    "name": "ENGAVÅGEN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"80307242","itemNo":"80307242","name":"ENGAVÅGEN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":175},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

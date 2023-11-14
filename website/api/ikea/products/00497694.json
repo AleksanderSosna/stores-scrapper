@@ -1,10 +1,1 @@
-{
-    "id": "00497694",
-    "itemNo": "00497694",
-    "name": "NÖJAKTIG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00497694","itemNo":"00497694","name":"NÖJAKTIG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

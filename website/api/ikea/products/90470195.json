@@ -1,10 +1,1 @@
-{
-    "id": "90470195",
-    "itemNo": "90470195",
-    "name": "VESTMARKA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"90470195","itemNo":"90470195","name":"VESTMARKA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

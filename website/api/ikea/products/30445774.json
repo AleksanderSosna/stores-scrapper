@@ -1,10 +1,1 @@
-{
-    "id": "30445774",
-    "itemNo": "30445774",
-    "name": "LIDKULLEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"30445774","itemNo":"30445774","name":"LIDKULLEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

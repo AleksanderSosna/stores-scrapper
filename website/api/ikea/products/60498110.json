@@ -1,10 +1,1 @@
-{
-    "id": "60498110",
-    "itemNo": "60498110",
-    "name": "SEKINER",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"60498110","itemNo":"60498110","name":"SEKINER","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

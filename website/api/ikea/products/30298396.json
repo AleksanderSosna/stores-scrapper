@@ -1,10 +1,1 @@
-{
-    "id": "30298396",
-    "itemNo": "30298396",
-    "name": "IKORNNES",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2990 }
-    ]
-}
+{"id":"30298396","itemNo":"30298396","name":"IKORNNES","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2990}]}

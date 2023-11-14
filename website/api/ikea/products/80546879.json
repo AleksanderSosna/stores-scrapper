@@ -1,10 +1,1 @@
-{
-    "id": "80546879",
-    "itemNo": "80546879",
-    "name": "ÄNGSNEJLIKA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"80546879","itemNo":"80546879","name":"ÄNGSNEJLIKA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

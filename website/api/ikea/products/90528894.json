@@ -1,10 +1,1 @@
-{
-    "id": "90528894",
-    "itemNo": "90528894",
-    "name": "VEDBÄK",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"90528894","itemNo":"90528894","name":"VEDBÄK","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

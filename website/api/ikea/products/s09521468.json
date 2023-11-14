@@ -1,10 +1,1 @@
-{
-    "id": "s09521468",
-    "itemNo": "09521468",
-    "name": "FYRESDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1597 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8570 }
-    ]
-}
+{"id":"s09521468","itemNo":"09521468","name":"FYRESDAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1597},{"countryCode":"cz","currencyCode":"CZK","price":8570}]}

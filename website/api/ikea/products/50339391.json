@@ -1,10 +1,1 @@
-{
-    "id": "50339391",
-    "itemNo": "50339391",
-    "name": "PLUTTEN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"50339391","itemNo":"50339391","name":"PLUTTEN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

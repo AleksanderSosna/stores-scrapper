@@ -1,10 +1,1 @@
-{
-    "id": "50556370",
-    "itemNo": "50556370",
-    "name": "LÖNNSTÄVMAL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"50556370","itemNo":"50556370","name":"LÖNNSTÄVMAL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

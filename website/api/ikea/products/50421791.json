@@ -1,10 +1,1 @@
-{
-    "id": "50421791",
-    "itemNo": "50421791",
-    "name": "VISPAD",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"50421791","itemNo":"50421791","name":"VISPAD","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

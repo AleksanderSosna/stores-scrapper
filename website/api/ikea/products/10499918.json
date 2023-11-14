@@ -1,10 +1,1 @@
-{
-    "id": "10499918",
-    "itemNo": "10499918",
-    "name": "HUTTRA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"10499918","itemNo":"10499918","name":"HUTTRA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1599},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

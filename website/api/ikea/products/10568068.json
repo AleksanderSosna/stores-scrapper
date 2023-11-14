@@ -1,10 +1,1 @@
-{
-    "id": "10568068",
-    "itemNo": "10568068",
-    "name": "VINDÅS",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 11990 }
-    ]
-}
+{"id":"10568068","itemNo":"10568068","name":"VINDÅS","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2499},{"countryCode":"cz","currencyCode":"CZK","price":11990}]}

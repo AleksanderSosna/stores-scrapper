@@ -1,10 +1,1 @@
-{
-    "id": "80521181",
-    "itemNo": "80521181",
-    "name": "BRUMMIG",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"80521181","itemNo":"80521181","name":"BRUMMIG","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

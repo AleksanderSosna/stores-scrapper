@@ -1,10 +1,1 @@
-{
-    "id": "00552096",
-    "itemNo": "00552096",
-    "name": "PÄRLETERNELL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00552096","itemNo":"00552096","name":"PÄRLETERNELL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

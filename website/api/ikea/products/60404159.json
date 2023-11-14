@@ -1,10 +1,1 @@
-{
-    "id": "60404159",
-    "itemNo": "60404159",
-    "name": "SINARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 570 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2700 }
-    ]
-}
+{"id":"60404159","itemNo":"60404159","name":"SINARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":570},{"countryCode":"cz","currencyCode":"CZK","price":2700}]}

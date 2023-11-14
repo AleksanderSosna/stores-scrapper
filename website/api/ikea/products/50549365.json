@@ -1,10 +1,1 @@
-{
-    "id": "50549365",
-    "itemNo": "50549365",
-    "name": "TALLBARSMAL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 30 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"50549365","itemNo":"50549365","name":"TALLBARSMAL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":30},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

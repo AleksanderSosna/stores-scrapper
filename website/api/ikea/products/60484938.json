@@ -1,10 +1,1 @@
-{
-    "id": "60484938",
-    "itemNo": "60484938",
-    "name": "PIVRING",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"60484938","itemNo":"60484938","name":"PIVRING","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

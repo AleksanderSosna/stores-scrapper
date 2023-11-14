@@ -1,10 +1,1 @@
-{
-    "id": "20558573",
-    "itemNo": "20558573",
-    "name": "MARKKRYPARE",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"20558573","itemNo":"20558573","name":"MARKKRYPARE","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

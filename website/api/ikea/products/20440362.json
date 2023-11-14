@@ -1,10 +1,1 @@
-{
-    "id": "20440362",
-    "itemNo": "20440362",
-    "name": "SVENSÅS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20440362","itemNo":"20440362","name":"SVENSÅS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

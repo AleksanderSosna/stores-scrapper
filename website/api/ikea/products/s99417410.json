@@ -1,10 +1,1 @@
-{
-    "id": "s99417410",
-    "itemNo": "99417410",
-    "name": "HYLLIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 170 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 898 }
-    ]
-}
+{"id":"s99417410","itemNo":"99417410","name":"HYLLIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":170},{"countryCode":"cz","currencyCode":"CZK","price":898}]}

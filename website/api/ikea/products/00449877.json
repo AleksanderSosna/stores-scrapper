@@ -1,10 +1,1 @@
-{
-    "id": "00449877",
-    "itemNo": "00449877",
-    "name": "NÄVLINGE",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00449877","itemNo":"00449877","name":"NÄVLINGE","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

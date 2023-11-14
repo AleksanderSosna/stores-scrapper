@@ -1,10 +1,1 @@
-{
-    "id": "50348545",
-    "itemNo": "50348545",
-    "name": "PÄRLBAND",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"50348545","itemNo":"50348545","name":"PÄRLBAND","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

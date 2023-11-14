@@ -1,10 +1,1 @@
-{
-    "id": "20432499",
-    "itemNo": "20432499",
-    "name": "RENSARE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"20432499","itemNo":"20432499","name":"RENSARE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

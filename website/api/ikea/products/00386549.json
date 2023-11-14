@@ -1,10 +1,1 @@
-{
-    "id": "00386549",
-    "itemNo": "00386549",
-    "name": "HILDRUN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"00386549","itemNo":"00386549","name":"HILDRUN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

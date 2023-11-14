@@ -1,10 +1,1 @@
-{
-    "id": "00496939",
-    "itemNo": "00496939",
-    "name": "LAGAN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"00496939","itemNo":"00496939","name":"LAGAN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

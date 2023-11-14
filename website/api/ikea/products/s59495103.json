@@ -1,10 +1,1 @@
-{
-    "id": "s59495103",
-    "itemNo": "59495103",
-    "name": "MÖRBYLÅNGA / LILLÅNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4395 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 24950 }
-    ]
-}
+{"id":"s59495103","itemNo":"59495103","name":"MÖRBYLÅNGA / LILLÅNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4395},{"countryCode":"cz","currencyCode":"CZK","price":24950}]}

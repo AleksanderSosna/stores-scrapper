@@ -1,10 +1,1 @@
-{
-    "id": "70423242",
-    "itemNo": "70423242",
-    "name": "BERGPALM",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"70423242","itemNo":"70423242","name":"BERGPALM","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

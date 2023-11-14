@@ -1,10 +1,1 @@
-{
-    "id": "20483002",
-    "itemNo": "20483002",
-    "name": "VIDGA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"20483002","itemNo":"20483002","name":"VIDGA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

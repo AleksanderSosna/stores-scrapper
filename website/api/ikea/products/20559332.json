@@ -1,10 +1,1 @@
-{
-    "id": "20559332",
-    "itemNo": "20559332",
-    "name": "MITTCIRKEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 139 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"20559332","itemNo":"20559332","name":"MITTCIRKEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":139},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00500644",
-    "itemNo": "00500644",
-    "name": "STRANDTALL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"00500644","itemNo":"00500644","name":"STRANDTALL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

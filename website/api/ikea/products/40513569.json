@@ -1,10 +1,1 @@
-{
-    "id": "40513569",
-    "itemNo": "40513569",
-    "name": "MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"40513569","itemNo":"40513569","name":"MOLNART","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

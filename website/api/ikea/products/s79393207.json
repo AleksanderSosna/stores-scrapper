@@ -1,10 +1,1 @@
-{
-    "id": "s79393207",
-    "itemNo": "79393207",
-    "name": "BACKSÄLEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7990 }
-    ]
-}
+{"id":"s79393207","itemNo":"79393207","name":"BACKSÄLEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1399},{"countryCode":"cz","currencyCode":"CZK","price":7990}]}

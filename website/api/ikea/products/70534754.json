@@ -1,10 +1,1 @@
-{
-    "id": "70534754",
-    "itemNo": "70534754",
-    "name": "LILLÅNÄS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"70534754","itemNo":"70534754","name":"LILLÅNÄS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

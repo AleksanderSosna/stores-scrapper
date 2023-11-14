@@ -1,10 +1,1 @@
-{
-    "id": "20548292",
-    "itemNo": "20548292",
-    "name": "IDALINNEA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"20548292","itemNo":"20548292","name":"IDALINNEA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

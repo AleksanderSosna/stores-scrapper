@@ -1,10 +1,1 @@
-{
-    "id": "70453192",
-    "itemNo": "70453192",
-    "name": "STENSUND",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 75 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 340 }
-    ]
-}
+{"id":"70453192","itemNo":"70453192","name":"STENSUND","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":75},{"countryCode":"cz","currencyCode":"CZK","price":340}]}

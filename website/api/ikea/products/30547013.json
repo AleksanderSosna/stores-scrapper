@@ -1,10 +1,1 @@
-{
-    "id": "30547013",
-    "itemNo": "30547013",
-    "name": "LÖNNHÖSTMAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"30547013","itemNo":"30547013","name":"LÖNNHÖSTMAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

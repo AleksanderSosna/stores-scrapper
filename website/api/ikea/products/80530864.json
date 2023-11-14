@@ -1,10 +1,1 @@
-{
-    "id": "80530864",
-    "itemNo": "80530864",
-    "name": "ROSENVIAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"80530864","itemNo":"80530864","name":"ROSENVIAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

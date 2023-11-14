@@ -1,10 +1,1 @@
-{
-    "id": "90515660",
-    "itemNo": "90515660",
-    "name": "PAGODTRÄD",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"90515660","itemNo":"90515660","name":"PAGODTRÄD","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50513432",
-    "itemNo": "50513432",
-    "name": "SKÄRMLILJA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"50513432","itemNo":"50513432","name":"SKÄRMLILJA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

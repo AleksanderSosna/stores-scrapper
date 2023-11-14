@@ -1,10 +1,1 @@
-{
-    "id": "s69396174",
-    "itemNo": "69396174",
-    "name": "PAX / ÅHEIM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2380 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12660 }
-    ]
-}
+{"id":"s69396174","itemNo":"69396174","name":"PAX / ÅHEIM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2380},{"countryCode":"cz","currencyCode":"CZK","price":12660}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80374217",
-    "itemNo": "80374217",
-    "name": "DALSKÄRR",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"80374217","itemNo":"80374217","name":"DALSKÄRR","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

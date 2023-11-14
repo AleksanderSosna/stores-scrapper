@@ -1,10 +1,1 @@
-{
-    "id": "30425276",
-    "itemNo": "30425276",
-    "name": "YLLEVAD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"30425276","itemNo":"30425276","name":"YLLEVAD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70533575",
-    "itemNo": "70533575",
-    "name": "SOJABÖNA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"70533575","itemNo":"70533575","name":"SOJABÖNA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

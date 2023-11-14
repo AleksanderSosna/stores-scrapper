@@ -1,10 +1,1 @@
-{
-    "id": "30372640",
-    "itemNo": "30372640",
-    "name": "KLAPPA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"30372640","itemNo":"30372640","name":"KLAPPA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

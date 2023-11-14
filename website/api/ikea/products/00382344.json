@@ -1,10 +1,1 @@
-{
-    "id": "00382344",
-    "itemNo": "00382344",
-    "name": "HOKKSUND",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 350 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2500 }
-    ]
-}
+{"id":"00382344","itemNo":"00382344","name":"HOKKSUND","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":350},{"countryCode":"cz","currencyCode":"CZK","price":2500}]}

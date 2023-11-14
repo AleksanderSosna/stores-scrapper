@@ -1,10 +1,1 @@
-{
-    "id": "s79439795",
-    "itemNo": "79439795",
-    "name": "SVARTISDAL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1475 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7800 }
-    ]
-}
+{"id":"s79439795","itemNo":"79439795","name":"SVARTISDAL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1475},{"countryCode":"cz","currencyCode":"CZK","price":7800}]}

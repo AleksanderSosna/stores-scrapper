@@ -1,10 +1,1 @@
-{
-    "id": "s49221401",
-    "itemNo": "49221401",
-    "name": "EKEDALEN / ODGER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1397 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7970 }
-    ]
-}
+{"id":"s49221401","itemNo":"49221401","name":"EKEDALEN / ODGER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1397},{"countryCode":"cz","currencyCode":"CZK","price":7970}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10156109",
-    "itemNo": "10156109",
-    "name": "BORRBY",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"10156109","itemNo":"10156109","name":"BORRBY","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

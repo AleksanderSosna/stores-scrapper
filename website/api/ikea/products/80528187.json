@@ -1,10 +1,1 @@
-{
-    "id": "80528187",
-    "itemNo": "80528187",
-    "name": "CTENANTHE",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"80528187","itemNo":"80528187","name":"CTENANTHE","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

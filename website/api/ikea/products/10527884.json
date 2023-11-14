@@ -1,10 +1,1 @@
-{
-    "id": "10527884",
-    "itemNo": "10527884",
-    "name": "DVÄRGNARV",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"10527884","itemNo":"10527884","name":"DVÄRGNARV","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

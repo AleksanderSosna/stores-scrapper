@@ -1,10 +1,1 @@
-{
-    "id": "90491065",
-    "itemNo": "90491065",
-    "name": "RINGBLOMMA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 649 }
-    ]
-}
+{"id":"90491065","itemNo":"90491065","name":"RINGBLOMMA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89},{"countryCode":"cz","currencyCode":"CZK","price":649}]}

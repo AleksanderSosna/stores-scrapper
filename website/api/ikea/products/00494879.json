@@ -1,10 +1,1 @@
-{
-    "id": "00494879",
-    "itemNo": "00494879",
-    "name": "DRÖNJÖNS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"00494879","itemNo":"00494879","name":"DRÖNJÖNS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80336758",
-    "itemNo": "80336758",
-    "name": "NYMÅNE",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 229 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"80336758","itemNo":"80336758","name":"NYMÅNE","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":229},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40430814",
-    "itemNo": "40430814",
-    "name": "HILJA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"40430814","itemNo":"40430814","name":"HILJA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

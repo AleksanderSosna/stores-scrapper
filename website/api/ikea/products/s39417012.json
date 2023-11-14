@@ -1,10 +1,1 @@
-{
-    "id": "s39417012",
-    "itemNo": "39417012",
-    "name": "GURSKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1375 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7468 }
-    ]
-}
+{"id":"s39417012","itemNo":"39417012","name":"GURSKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1375},{"countryCode":"cz","currencyCode":"CZK","price":7468}]}

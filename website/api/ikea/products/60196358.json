@@ -1,10 +1,1 @@
-{
-    "id": "60196358",
-    "itemNo": "60196358",
-    "name": "SUNDVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"60196358","itemNo":"60196358","name":"SUNDVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

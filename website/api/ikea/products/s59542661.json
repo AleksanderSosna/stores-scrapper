@@ -1,10 +1,1 @@
-{
-    "id": "s59542661",
-    "itemNo": "59542661",
-    "name": "VAPPEBY",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 118 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 598 }
-    ]
-}
+{"id":"s59542661","itemNo":"59542661","name":"VAPPEBY","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":118},{"countryCode":"cz","currencyCode":"CZK","price":598}]}

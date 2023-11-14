@@ -1,10 +1,1 @@
-{
-    "id": "70476419",
-    "itemNo": "70476419",
-    "name": "VATNESTRÖM",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9990 }
-    ]
-}
+{"id":"70476419","itemNo":"70476419","name":"VATNESTRÖM","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1999},{"countryCode":"cz","currencyCode":"CZK","price":9990}]}

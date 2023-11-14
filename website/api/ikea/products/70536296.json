@@ -1,10 +1,1 @@
-{
-    "id": "70536296",
-    "itemNo": "70536296",
-    "name": "KRÅKRISMOTT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"70536296","itemNo":"70536296","name":"KRÅKRISMOTT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

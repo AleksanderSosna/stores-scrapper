@@ -1,10 +1,1 @@
-{
-    "id": "90365180",
-    "itemNo": "90365180",
-    "name": "MAMMUT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 179 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"90365180","itemNo":"90365180","name":"MAMMUT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":179},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

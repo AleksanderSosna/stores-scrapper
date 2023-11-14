@@ -1,10 +1,1 @@
-{
-    "id": "s59416912",
-    "itemNo": "59416912",
-    "name": "LAGKAPTEN / NÄRSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1899 }
-    ]
-}
+{"id":"s59416912","itemNo":"59416912","name":"LAGKAPTEN / NÄRSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":1899}]}

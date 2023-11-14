@@ -1,10 +1,1 @@
-{
-    "id": "s69437570",
-    "itemNo": "69437570",
-    "name": "UPPSPEL / MATCHSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3797 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17970 }
-    ]
-}
+{"id":"s69437570","itemNo":"69437570","name":"UPPSPEL / MATCHSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3797},{"countryCode":"cz","currencyCode":"CZK","price":17970}]}

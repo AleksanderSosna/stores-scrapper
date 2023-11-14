@@ -1,10 +1,1 @@
-{
-    "id": "20429637",
-    "itemNo": "20429637",
-    "name": "UPPLAGA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"20429637","itemNo":"20429637","name":"UPPLAGA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

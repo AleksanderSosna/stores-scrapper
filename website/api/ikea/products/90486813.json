@@ -1,10 +1,1 @@
-{
-    "id": "90486813",
-    "itemNo": "90486813",
-    "name": "GRONG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"90486813","itemNo":"90486813","name":"GRONG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":159},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

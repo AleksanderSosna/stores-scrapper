@@ -1,10 +1,1 @@
-{
-    "id": "s49491308",
-    "itemNo": "49491308",
-    "name": "FREDDE / STYRSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2298 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 10980 }
-    ]
-}
+{"id":"s49491308","itemNo":"49491308","name":"FREDDE / STYRSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2298},{"countryCode":"cz","currencyCode":"CZK","price":10980}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s29291956",
-    "itemNo": "29291956",
-    "name": "SLÄKT",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8590 }
-    ]
-}
+{"id":"s29291956","itemNo":"29291956","name":"SLÄKT","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1499},{"countryCode":"cz","currencyCode":"CZK","price":8590}]}

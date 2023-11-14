@@ -1,10 +1,1 @@
-{
-    "id": "s19931865",
-    "itemNo": "19931865",
-    "name": "FJÄLKINGE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1078 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8490 }
-    ]
-}
+{"id":"s19931865","itemNo":"19931865","name":"FJÄLKINGE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1078},{"countryCode":"cz","currencyCode":"CZK","price":8490}]}

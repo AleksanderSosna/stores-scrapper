@@ -1,10 +1,1 @@
-{
-    "id": "70128613",
-    "itemNo": "70128613",
-    "name": "LEN",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"70128613","itemNo":"70128613","name":"LEN","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

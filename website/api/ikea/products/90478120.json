@@ -1,10 +1,1 @@
-{
-    "id": "90478120",
-    "itemNo": "90478120",
-    "name": "PILSKOTT",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"90478120","itemNo":"90478120","name":"PILSKOTT","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

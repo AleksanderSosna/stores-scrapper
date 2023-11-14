@@ -1,10 +1,1 @@
-{
-    "id": "90292103",
-    "itemNo": "90292103",
-    "name": "MOSSLANDA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"90292103","itemNo":"90292103","name":"MOSSLANDA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

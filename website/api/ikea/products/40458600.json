@@ -1,10 +1,1 @@
-{
-    "id": "40458600",
-    "itemNo": "40458600",
-    "name": "FAVORISERA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"40458600","itemNo":"40458600","name":"FAVORISERA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50565906",
-    "itemNo": "50565906",
-    "name": "TILLFART",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"50565906","itemNo":"50565906","name":"TILLFART","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

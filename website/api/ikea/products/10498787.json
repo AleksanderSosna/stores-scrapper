@@ -1,10 +1,1 @@
-{
-    "id": "10498787",
-    "itemNo": "10498787",
-    "name": "SOLHETTA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"10498787","itemNo":"10498787","name":"SOLHETTA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

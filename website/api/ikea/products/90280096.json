@@ -1,10 +1,1 @@
-{
-    "id": "90280096",
-    "itemNo": "90280096",
-    "name": "MELLTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 740 }
-    ]
-}
+{"id":"90280096","itemNo":"90280096","name":"MELLTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":740}]}

@@ -1,10 +1,1 @@
-{
-    "id": "80096372",
-    "itemNo": "80096372",
-    "name": "FADO",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"80096372","itemNo":"80096372","name":"FADO","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

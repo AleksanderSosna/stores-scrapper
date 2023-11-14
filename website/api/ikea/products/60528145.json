@@ -1,10 +1,1 @@
-{
-    "id": "60528145",
-    "itemNo": "60528145",
-    "name": "LILLHULT",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"60528145","itemNo":"60528145","name":"LILLHULT","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

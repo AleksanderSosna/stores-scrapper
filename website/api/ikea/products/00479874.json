@@ -1,10 +1,1 @@
-{
-    "id": "00479874",
-    "itemNo": "00479874",
-    "name": "LILLTRÄSK",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"00479874","itemNo":"00479874","name":"LILLTRÄSK","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

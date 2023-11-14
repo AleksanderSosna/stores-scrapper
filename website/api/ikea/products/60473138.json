@@ -1,10 +1,1 @@
-{
-    "id": "60473138",
-    "itemNo": "60473138",
-    "name": "REINSVOLL",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 375 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2400 }
-    ]
-}
+{"id":"60473138","itemNo":"60473138","name":"REINSVOLL","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":375},{"countryCode":"cz","currencyCode":"CZK","price":2400}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00030262",
-    "itemNo": "00030262",
-    "name": "FÖRVAR",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"00030262","itemNo":"00030262","name":"FÖRVAR","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

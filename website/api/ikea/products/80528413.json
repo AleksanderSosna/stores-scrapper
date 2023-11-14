@@ -1,10 +1,1 @@
-{
-    "id": "80528413",
-    "itemNo": "80528413",
-    "name": "FENOMEN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"80528413","itemNo":"80528413","name":"FENOMEN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

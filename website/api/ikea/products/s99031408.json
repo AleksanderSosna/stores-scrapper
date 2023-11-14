@@ -1,10 +1,1 @@
-{
-    "id": "s99031408",
-    "itemNo": "99031408",
-    "name": "HEJNE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 750 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4220 }
-    ]
-}
+{"id":"s99031408","itemNo":"99031408","name":"HEJNE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":750},{"countryCode":"cz","currencyCode":"CZK","price":4220}]}

@@ -1,10 +1,1 @@
-{
-    "id": "70527348",
-    "itemNo": "70527348",
-    "name": "GUBBRÖRA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"70527348","itemNo":"70527348","name":"GUBBRÖRA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4.99},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

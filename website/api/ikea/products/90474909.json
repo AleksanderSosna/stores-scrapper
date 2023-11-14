@@ -1,10 +1,1 @@
-{
-    "id": "90474909",
-    "itemNo": "90474909",
-    "name": "ÖVERSIDAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 80 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"90474909","itemNo":"90474909","name":"ÖVERSIDAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":80},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

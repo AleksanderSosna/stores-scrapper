@@ -1,10 +1,1 @@
-{
-    "id": "60318939",
-    "itemNo": "60318939",
-    "name": "OFTAST",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"60318939","itemNo":"60318939","name":"OFTAST","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3},{"countryCode":"cz","currencyCode":"CZK","price":19}]}

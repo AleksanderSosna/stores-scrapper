@@ -1,10 +1,1 @@
-{
-    "id": "s09903014",
-    "itemNo": "09903014",
-    "name": "MICKE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 648 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3290 }
-    ]
-}
+{"id":"s09903014","itemNo":"09903014","name":"MICKE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":648},{"countryCode":"cz","currencyCode":"CZK","price":3290}]}

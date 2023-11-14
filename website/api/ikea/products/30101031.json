@@ -1,10 +1,1 @@
-{
-    "id": "30101031",
-    "itemNo": "30101031",
-    "name": "SILL DILL",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 45 }
-    ]
-}
+{"id":"30101031","itemNo":"30101031","name":"SILL DILL","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":45}]}

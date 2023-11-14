@@ -1,10 +1,1 @@
-{
-    "id": "80472878",
-    "itemNo": "80472878",
-    "name": "SMEVIKEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 140 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"80472878","itemNo":"80472878","name":"SMEVIKEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":140},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

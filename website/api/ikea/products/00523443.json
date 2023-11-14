@@ -1,10 +1,1 @@
-{
-    "id": "00523443",
-    "itemNo": "00523443",
-    "name": "HALVTOM",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"00523443","itemNo":"00523443","name":"HALVTOM","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

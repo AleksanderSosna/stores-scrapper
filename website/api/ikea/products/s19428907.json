@@ -1,10 +1,1 @@
-{
-    "id": "s19428907",
-    "itemNo": "19428907",
-    "name": "HÅVERUD / DALFRED",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 897 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7470 }
-    ]
-}
+{"id":"s19428907","itemNo":"19428907","name":"HÅVERUD / DALFRED","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":897},{"countryCode":"cz","currencyCode":"CZK","price":7470}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s89428193",
-    "itemNo": "89428193",
-    "name": "VINGMAST / HEMMA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 159 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"s89428193","itemNo":"89428193","name":"VINGMAST / HEMMA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":159},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

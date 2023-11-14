@@ -1,10 +1,1 @@
-{
-    "id": "80495318",
-    "itemNo": "80495318",
-    "name": "KÄRLEKSGRÄS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"80495318","itemNo":"80495318","name":"KÄRLEKSGRÄS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

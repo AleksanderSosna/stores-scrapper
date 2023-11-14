@@ -1,10 +1,1 @@
-{
-    "id": "20456541",
-    "itemNo": "20456541",
-    "name": "VIGDIS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20456541","itemNo":"20456541","name":"VIGDIS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

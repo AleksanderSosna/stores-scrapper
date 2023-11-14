@@ -1,10 +1,1 @@
-{
-    "id": "20246162",
-    "itemNo": "20246162",
-    "name": "RISSLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"20246162","itemNo":"20246162","name":"RISSLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

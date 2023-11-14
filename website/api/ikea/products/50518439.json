@@ -1,10 +1,1 @@
-{
-    "id": "50518439",
-    "itemNo": "50518439",
-    "name": "LÖVMÅNAD",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"50518439","itemNo":"50518439","name":"LÖVMÅNAD","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

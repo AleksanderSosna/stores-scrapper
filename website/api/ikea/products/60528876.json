@@ -1,10 +1,1 @@
-{
-    "id": "60528876",
-    "itemNo": "60528876",
-    "name": "SORTSÖ",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"60528876","itemNo":"60528876","name":"SORTSÖ","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

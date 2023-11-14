@@ -1,10 +1,1 @@
-{
-    "id": "20436888",
-    "itemNo": "20436888",
-    "name": "BYGGLEK",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 349 }
-    ]
-}
+{"id":"20436888","itemNo":"20436888","name":"BYGGLEK","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":349}]}

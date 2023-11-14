@@ -1,10 +1,1 @@
-{
-    "id": "10561910",
-    "itemNo": "10561910",
-    "name": "BÖNSYRSA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"10561910","itemNo":"10561910","name":"BÖNSYRSA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

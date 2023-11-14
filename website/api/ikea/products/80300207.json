@@ -1,10 +1,1 @@
-{
-    "id": "80300207",
-    "itemNo": "80300207",
-    "name": "FÖRSIKTIGT",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"80300207","itemNo":"80300207","name":"FÖRSIKTIGT","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10299698",
-    "itemNo": "10299698",
-    "name": "BÅTSFJORD",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"10299698","itemNo":"10299698","name":"BÅTSFJORD","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":90},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

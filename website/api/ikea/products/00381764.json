@@ -1,10 +1,1 @@
-{
-    "id": "00381764",
-    "itemNo": "00381764",
-    "name": "VIKHAMMER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1690 }
-    ]
-}
+{"id":"00381764","itemNo":"00381764","name":"VIKHAMMER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":299},{"countryCode":"cz","currencyCode":"CZK","price":1690}]}

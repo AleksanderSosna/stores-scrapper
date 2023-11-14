@@ -1,10 +1,1 @@
-{
-    "id": "s19432283",
-    "itemNo": "19432283",
-    "name": "PAX / SVARTISDAL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3835 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 20350 }
-    ]
-}
+{"id":"s19432283","itemNo":"19432283","name":"PAX / SVARTISDAL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3835},{"countryCode":"cz","currencyCode":"CZK","price":20350}]}

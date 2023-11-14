@@ -1,10 +1,1 @@
-{
-    "id": "s49249396",
-    "itemNo": "49249396",
-    "name": "HÄLLAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 627 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4970 }
-    ]
-}
+{"id":"s49249396","itemNo":"49249396","name":"HÄLLAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":627},{"countryCode":"cz","currencyCode":"CZK","price":4970}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30537655",
-    "itemNo": "30537655",
-    "name": "FÄLTLÖNN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"30537655","itemNo":"30537655","name":"FÄLTLÖNN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

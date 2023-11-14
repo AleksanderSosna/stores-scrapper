@@ -1,10 +1,1 @@
-{
-    "id": "90308627",
-    "itemNo": "90308627",
-    "name": "SYLT HJORTRON",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 31 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"90308627","itemNo":"90308627","name":"SYLT HJORTRON","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":31},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "30520424",
-    "itemNo": "30520424",
-    "name": "BUSENKEL",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"30520424","itemNo":"30520424","name":"BUSENKEL","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

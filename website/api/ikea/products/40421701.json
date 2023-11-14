@@ -1,10 +1,1 @@
-{
-    "id": "40421701",
-    "itemNo": "40421701",
-    "name": "PAPAJA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 8.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"40421701","itemNo":"40421701","name":"PAPAJA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":8.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

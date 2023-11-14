@@ -1,10 +1,1 @@
-{
-    "id": "70529229",
-    "itemNo": "70529229",
-    "name": "SKYDRAG",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 65 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"70529229","itemNo":"70529229","name":"SKYDRAG","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":65},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

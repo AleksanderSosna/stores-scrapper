@@ -1,10 +1,1 @@
-{
-    "id": "10205421",
-    "itemNo": "10205421",
-    "name": "VEDDINGE",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 255 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"10205421","itemNo":"10205421","name":"VEDDINGE","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":255},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

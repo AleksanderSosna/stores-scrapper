@@ -1,10 +1,1 @@
-{
-    "id": "90456590",
-    "itemNo": "90456590",
-    "name": "MÅLA",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"90456590","itemNo":"90456590","name":"MÅLA","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

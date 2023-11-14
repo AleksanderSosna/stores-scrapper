@@ -1,10 +1,1 @@
-{
-    "id": "s39442318",
-    "itemNo": "39442318",
-    "name": "ÖVERSIDAN / TRÅDFRI",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 280 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1226 }
-    ]
-}
+{"id":"s39442318","itemNo":"39442318","name":"ÖVERSIDAN / TRÅDFRI","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":280},{"countryCode":"cz","currencyCode":"CZK","price":1226}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40497239",
-    "itemNo": "40497239",
-    "name": "BACKSÄLEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 599 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"40497239","itemNo":"40497239","name":"BACKSÄLEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":599},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

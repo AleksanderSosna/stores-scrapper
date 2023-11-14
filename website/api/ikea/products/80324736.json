@@ -1,10 +1,1 @@
-{
-    "id": "80324736",
-    "itemNo": "80324736",
-    "name": "DUNVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1000 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5000 }
-    ]
-}
+{"id":"80324736","itemNo":"80324736","name":"DUNVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1000},{"countryCode":"cz","currencyCode":"CZK","price":5000}]}

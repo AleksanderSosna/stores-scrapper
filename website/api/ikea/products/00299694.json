@@ -1,10 +1,1 @@
-{
-    "id": "00299694",
-    "itemNo": "00299694",
-    "name": "BJORLI",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 90 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"00299694","itemNo":"00299694","name":"BJORLI","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":90},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

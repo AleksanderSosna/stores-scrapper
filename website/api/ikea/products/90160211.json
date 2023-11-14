@@ -1,10 +1,1 @@
-{
-    "id": "90160211",
-    "itemNo": "90160211",
-    "name": "LURÖY",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"90160211","itemNo":"90160211","name":"LURÖY","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

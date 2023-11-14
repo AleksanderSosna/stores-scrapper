@@ -1,10 +1,1 @@
-{
-    "id": "60501259",
-    "itemNo": "60501259",
-    "name": "BLÅSVERK",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"60501259","itemNo":"60501259","name":"BLÅSVERK","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

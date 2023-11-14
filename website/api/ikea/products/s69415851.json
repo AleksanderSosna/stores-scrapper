@@ -1,10 +1,1 @@
-{
-    "id": "s69415851",
-    "itemNo": "69415851",
-    "name": "GODMORGON/TOLKEN / TÖRNVIKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12379 }
-    ]
-}
+{"id":"s69415851","itemNo":"69415851","name":"GODMORGON/TOLKEN / TÖRNVIKEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2149},{"countryCode":"cz","currencyCode":"CZK","price":12379}]}

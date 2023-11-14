@@ -1,10 +1,1 @@
-{
-    "id": "20328978",
-    "itemNo": "20328978",
-    "name": "VOXNAN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"20328978","itemNo":"20328978","name":"VOXNAN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

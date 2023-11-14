@@ -1,10 +1,1 @@
-{
-    "id": "60538955",
-    "itemNo": "60538955",
-    "name": "HATTEFJÄLL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 7490 }
-    ]
-}
+{"id":"60538955","itemNo":"60538955","name":"HATTEFJÄLL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1199},{"countryCode":"cz","currencyCode":"CZK","price":7490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40506922",
-    "itemNo": "40506922",
-    "name": "KOSINGEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"40506922","itemNo":"40506922","name":"KOSINGEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

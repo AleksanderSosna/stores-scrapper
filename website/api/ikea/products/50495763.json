@@ -1,10 +1,1 @@
-{
-    "id": "50495763",
-    "itemNo": "50495763",
-    "name": "BESTÄMMA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"50495763","itemNo":"50495763","name":"BESTÄMMA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

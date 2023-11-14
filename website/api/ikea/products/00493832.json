@@ -1,10 +1,1 @@
-{
-    "id": "00493832",
-    "itemNo": "00493832",
-    "name": "PURRPINGLA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"00493832","itemNo":"00493832","name":"PURRPINGLA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

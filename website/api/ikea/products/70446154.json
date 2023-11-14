@@ -1,10 +1,1 @@
-{
-    "id": "70446154",
-    "itemNo": "70446154",
-    "name": "HÄNGIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"70446154","itemNo":"70446154","name":"HÄNGIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

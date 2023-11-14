@@ -1,10 +1,1 @@
-{
-    "id": "00533201",
-    "itemNo": "00533201",
-    "name": "RYKTA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"00533201","itemNo":"00533201","name":"RYKTA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10565791",
-    "itemNo": "10565791",
-    "name": "EKTORP",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"10565791","itemNo":"10565791","name":"EKTORP","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

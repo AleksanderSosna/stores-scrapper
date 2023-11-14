@@ -1,10 +1,1 @@
-{
-    "id": "60448766",
-    "itemNo": "60448766",
-    "name": "HULTARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"60448766","itemNo":"60448766","name":"HULTARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

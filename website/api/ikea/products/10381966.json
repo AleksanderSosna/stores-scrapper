@@ -1,10 +1,1 @@
-{
-    "id": "10381966",
-    "itemNo": "10381966",
-    "name": "LÖRBY",
-    "categoryKey": "he001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"10381966","itemNo":"10381966","name":"LÖRBY","categoryKey":"he001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

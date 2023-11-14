@@ -1,10 +1,1 @@
-{
-    "id": "60492617",
-    "itemNo": "60492617",
-    "name": "KNARDRUP",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"60492617","itemNo":"60492617","name":"KNARDRUP","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

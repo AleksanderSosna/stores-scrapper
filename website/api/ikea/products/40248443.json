@@ -1,10 +1,1 @@
-{
-    "id": "40248443",
-    "itemNo": "40248443",
-    "name": "LÄTTSAM",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40248443","itemNo":"40248443","name":"LÄTTSAM","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

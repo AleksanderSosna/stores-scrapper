@@ -1,10 +1,1 @@
-{
-    "id": "60538074",
-    "itemNo": "60538074",
-    "name": "ENERGISKOG",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"60538074","itemNo":"60538074","name":"ENERGISKOG","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

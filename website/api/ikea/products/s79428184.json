@@ -1,10 +1,1 @@
-{
-    "id": "s79428184",
-    "itemNo": "79428184",
-    "name": "LERGRYN / SKAFTET",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 379 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2189 }
-    ]
-}
+{"id":"s79428184","itemNo":"79428184","name":"LERGRYN / SKAFTET","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":379},{"countryCode":"cz","currencyCode":"CZK","price":2189}]}

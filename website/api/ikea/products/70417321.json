@@ -1,10 +1,1 @@
-{
-    "id": "70417321",
-    "itemNo": "70417321",
-    "name": "HANNALILL",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 99.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 699 }
-    ]
-}
+{"id":"70417321","itemNo":"70417321","name":"HANNALILL","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":99.99},{"countryCode":"cz","currencyCode":"CZK","price":699}]}

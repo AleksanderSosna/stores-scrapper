@@ -1,10 +1,1 @@
-{
-    "id": "20550275",
-    "itemNo": "20550275",
-    "name": "TITTEBO",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 900 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"20550275","itemNo":"20550275","name":"TITTEBO","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":900},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

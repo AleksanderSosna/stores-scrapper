@@ -1,10 +1,1 @@
-{
-    "id": "60470366",
-    "itemNo": "60470366",
-    "name": "MEDARBETARE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 35 }
-    ]
-}
+{"id":"60470366","itemNo":"60470366","name":"MEDARBETARE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":35}]}

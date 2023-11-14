@@ -1,10 +1,1 @@
-{
-    "id": "60304428",
-    "itemNo": "60304428",
-    "name": "JUSTINA",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"60304428","itemNo":"60304428","name":"JUSTINA","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

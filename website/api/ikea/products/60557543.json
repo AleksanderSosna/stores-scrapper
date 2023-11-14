@@ -1,10 +1,1 @@
-{
-    "id": "60557543",
-    "itemNo": "60557543",
-    "name": "BALSAMPOPPEL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 89.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"60557543","itemNo":"60557543","name":"BALSAMPOPPEL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":89.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

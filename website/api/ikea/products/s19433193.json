@@ -1,10 +1,1 @@
-{
-    "id": "s19433193",
-    "itemNo": "19433193",
-    "name": "PAX / MEHAMN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4350 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 23860 }
-    ]
-}
+{"id":"s19433193","itemNo":"19433193","name":"PAX / MEHAMN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4350},{"countryCode":"cz","currencyCode":"CZK","price":23860}]}

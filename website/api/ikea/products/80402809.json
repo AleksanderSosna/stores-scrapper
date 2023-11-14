@@ -1,10 +1,1 @@
-{
-    "id": "80402809",
-    "itemNo": "80402809",
-    "name": "DJUNGELSKOG",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"80402809","itemNo":"80402809","name":"DJUNGELSKOG","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

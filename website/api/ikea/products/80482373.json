@@ -1,10 +1,1 @@
-{
-    "id": "80482373",
-    "itemNo": "80482373",
-    "name": "KROPPSVARM",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"80482373","itemNo":"80482373","name":"KROPPSVARM","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

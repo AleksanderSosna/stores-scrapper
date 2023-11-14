@@ -1,10 +1,1 @@
-{
-    "id": "50504772",
-    "itemNo": "50504772",
-    "name": "SVARTNORA",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 279 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"50504772","itemNo":"50504772","name":"SVARTNORA","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":279},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

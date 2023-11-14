@@ -1,10 +1,1 @@
-{
-    "id": "70560601",
-    "itemNo": "70560601",
-    "name": "PJÄTTERYD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"70560601","itemNo":"70560601","name":"PJÄTTERYD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

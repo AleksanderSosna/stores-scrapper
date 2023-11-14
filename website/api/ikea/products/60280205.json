@@ -1,10 +1,1 @@
-{
-    "id": "60280205",
-    "itemNo": "60280205",
-    "name": "KUGGIS",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 269 }
-    ]
-}
+{"id":"60280205","itemNo":"60280205","name":"KUGGIS","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":269}]}

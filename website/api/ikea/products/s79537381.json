@@ -1,10 +1,1 @@
-{
-    "id": "s79537381",
-    "itemNo": "79537381",
-    "name": "UTESPELARE / MATCHSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1398 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6980 }
-    ]
-}
+{"id":"s79537381","itemNo":"79537381","name":"UTESPELARE / MATCHSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1398},{"countryCode":"cz","currencyCode":"CZK","price":6980}]}

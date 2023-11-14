@@ -1,10 +1,1 @@
-{
-    "id": "90291504",
-    "itemNo": "90291504",
-    "name": "BALUNGEN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"90291504","itemNo":"90291504","name":"BALUNGEN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

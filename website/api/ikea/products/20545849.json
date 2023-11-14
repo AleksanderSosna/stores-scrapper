@@ -1,10 +1,1 @@
-{
-    "id": "20545849",
-    "itemNo": "20545849",
-    "name": "VÅRARV",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"20545849","itemNo":"20545849","name":"VÅRARV","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

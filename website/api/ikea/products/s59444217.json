@@ -1,10 +1,1 @@
-{
-    "id": "s59444217",
-    "itemNo": "59444217",
-    "name": "STARKVIND",
-    "categoryKey": "hs001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 654 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3489 }
-    ]
-}
+{"id":"s59444217","itemNo":"59444217","name":"STARKVIND","categoryKey":"hs001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":654},{"countryCode":"cz","currencyCode":"CZK","price":3489}]}

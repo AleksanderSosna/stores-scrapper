@@ -1,10 +1,1 @@
-{
-    "id": "80556019",
-    "itemNo": "80556019",
-    "name": "STOENSE",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 899 }
-    ]
-}
+{"id":"80556019","itemNo":"80556019","name":"STOENSE","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":899}]}

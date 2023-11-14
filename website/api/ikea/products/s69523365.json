@@ -1,10 +1,1 @@
-{
-    "id": "s69523365",
-    "itemNo": "69523365",
-    "name": "LAGKAPTEN / KRILLE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 329 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2199 }
-    ]
-}
+{"id":"s69523365","itemNo":"69523365","name":"LAGKAPTEN / KRILLE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":329},{"countryCode":"cz","currencyCode":"CZK","price":2199}]}

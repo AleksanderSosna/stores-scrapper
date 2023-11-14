@@ -1,10 +1,1 @@
-{
-    "id": "s99316331",
-    "itemNo": "99316331",
-    "name": "GODMORGON/TOLKEN / KATTEVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4248 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 27560 }
-    ]
-}
+{"id":"s99316331","itemNo":"99316331","name":"GODMORGON/TOLKEN / KATTEVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4248},{"countryCode":"cz","currencyCode":"CZK","price":27560}]}

@@ -1,10 +1,1 @@
-{
-    "id": "90492574",
-    "itemNo": "90492574",
-    "name": "VOLLERSLEV",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3690 }
-    ]
-}
+{"id":"90492574","itemNo":"90492574","name":"VOLLERSLEV","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":499},{"countryCode":"cz","currencyCode":"CZK","price":3690}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20497438",
-    "itemNo": "20497438",
-    "name": "LÖRDAGSGODIS",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 26 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"20497438","itemNo":"20497438","name":"LÖRDAGSGODIS","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":26},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

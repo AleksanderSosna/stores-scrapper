@@ -1,10 +1,1 @@
-{
-    "id": "s29497288",
-    "itemNo": "29497288",
-    "name": "GRÅSALA / ÖSTANÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 477 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2228 }
-    ]
-}
+{"id":"s29497288","itemNo":"29497288","name":"GRÅSALA / ÖSTANÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":477},{"countryCode":"cz","currencyCode":"CZK","price":2228}]}

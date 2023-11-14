@@ -1,10 +1,1 @@
-{
-    "id": "s29500969",
-    "itemNo": "29500969",
-    "name": "PAX / HASVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1605 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8820 }
-    ]
-}
+{"id":"s29500969","itemNo":"29500969","name":"PAX / HASVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1605},{"countryCode":"cz","currencyCode":"CZK","price":8820}]}

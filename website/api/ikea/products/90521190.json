@@ -1,10 +1,1 @@
-{
-    "id": "90521190",
-    "itemNo": "90521190",
-    "name": "DRÖMSLOTT",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"90521190","itemNo":"90521190","name":"DRÖMSLOTT","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

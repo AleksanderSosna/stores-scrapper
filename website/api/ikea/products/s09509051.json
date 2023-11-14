@@ -1,10 +1,1 @@
-{
-    "id": "s09509051",
-    "itemNo": "09509051",
-    "name": "SANDSBERG / LIDÅS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1045 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4786 }
-    ]
-}
+{"id":"s09509051","itemNo":"09509051","name":"SANDSBERG / LIDÅS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1045},{"countryCode":"cz","currencyCode":"CZK","price":4786}]}

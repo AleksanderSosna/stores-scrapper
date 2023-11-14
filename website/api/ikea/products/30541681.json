@@ -1,10 +1,1 @@
-{
-    "id": "30541681",
-    "itemNo": "30541681",
-    "name": "VALLSTENA",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 115 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 550 }
-    ]
-}
+{"id":"30541681","itemNo":"30541681","name":"VALLSTENA","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":115},{"countryCode":"cz","currencyCode":"CZK","price":550}]}

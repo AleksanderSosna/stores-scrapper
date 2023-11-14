@@ -1,10 +1,1 @@
-{
-    "id": "80198295",
-    "itemNo": "80198295",
-    "name": "MORUM",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 399 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2490 }
-    ]
-}
+{"id":"80198295","itemNo":"80198295","name":"MORUM","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":399},{"countryCode":"cz","currencyCode":"CZK","price":2490}]}

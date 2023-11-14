@@ -1,10 +1,1 @@
-{
-    "id": "30511014",
-    "itemNo": "30511014",
-    "name": "BONDTOLVAN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"30511014","itemNo":"30511014","name":"BONDTOLVAN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

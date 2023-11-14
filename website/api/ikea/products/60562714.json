@@ -1,10 +1,1 @@
-{
-    "id": "60562714",
-    "itemNo": "60562714",
-    "name": "SMYCKA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 7.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"60562714","itemNo":"60562714","name":"SMYCKA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":7.99},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

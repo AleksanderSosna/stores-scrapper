@@ -1,10 +1,1 @@
-{
-    "id": "90472905",
-    "itemNo": "90472905",
-    "name": "SÄLLSKAPLIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"90472905","itemNo":"90472905","name":"SÄLLSKAPLIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

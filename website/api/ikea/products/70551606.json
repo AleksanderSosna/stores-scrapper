@@ -1,10 +1,1 @@
-{
-    "id": "70551606",
-    "itemNo": "70551606",
-    "name": "KLOKHET",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"70551606","itemNo":"70551606","name":"KLOKHET","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

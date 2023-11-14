@@ -1,10 +1,1 @@
-{
-    "id": "40559492",
-    "itemNo": "40559492",
-    "name": "AMBRARÖNN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"40559492","itemNo":"40559492","name":"AMBRARÖNN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

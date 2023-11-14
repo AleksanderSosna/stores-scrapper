@@ -1,10 +1,1 @@
-{
-    "id": "40557092",
-    "itemNo": "40557092",
-    "name": "PAPPERSBJÖRK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"40557092","itemNo":"40557092","name":"PAPPERSBJÖRK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

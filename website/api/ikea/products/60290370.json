@@ -1,10 +1,1 @@
-{
-    "id": "60290370",
-    "itemNo": "60290370",
-    "name": "SKUBB",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 499 }
-    ]
-}
+{"id":"60290370","itemNo":"60290370","name":"SKUBB","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":499}]}

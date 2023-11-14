@@ -1,10 +1,1 @@
-{
-    "id": "30492242",
-    "itemNo": "30492242",
-    "name": "CHILIFRUKT",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 369 }
-    ]
-}
+{"id":"30492242","itemNo":"30492242","name":"CHILIFRUKT","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":369}]}

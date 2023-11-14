@@ -1,10 +1,1 @@
-{
-    "id": "70343938",
-    "itemNo": "70343938",
-    "name": "BEGÅVNING",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"70343938","itemNo":"70343938","name":"BEGÅVNING","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

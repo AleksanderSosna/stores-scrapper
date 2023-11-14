@@ -1,10 +1,1 @@
-{
-    "id": "80213309",
-    "itemNo": "80213309",
-    "name": "VITTSJÖ",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 199 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"80213309","itemNo":"80213309","name":"VITTSJÖ","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":199},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

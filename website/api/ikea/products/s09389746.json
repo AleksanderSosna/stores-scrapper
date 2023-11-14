@@ -1,10 +1,1 @@
-{
-    "id": "s09389746",
-    "itemNo": "09389746",
-    "name": "ESPEVÄR/VATNESTRÖM",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 4904 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 27290 }
-    ]
-}
+{"id":"s09389746","itemNo":"09389746","name":"ESPEVÄR/VATNESTRÖM","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":4904},{"countryCode":"cz","currencyCode":"CZK","price":27290}]}

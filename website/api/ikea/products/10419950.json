@@ -1,10 +1,1 @@
-{
-    "id": "10419950",
-    "itemNo": "10419950",
-    "name": "TILLGÅNG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 29 }
-    ]
-}
+{"id":"10419950","itemNo":"10419950","name":"TILLGÅNG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6},{"countryCode":"cz","currencyCode":"CZK","price":29}]}

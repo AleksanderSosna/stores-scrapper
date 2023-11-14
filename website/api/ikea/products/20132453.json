@@ -1,10 +1,1 @@
-{
-    "id": "20132453",
-    "itemNo": "20132453",
-    "name": "TRYGG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"20132453","itemNo":"20132453","name":"TRYGG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

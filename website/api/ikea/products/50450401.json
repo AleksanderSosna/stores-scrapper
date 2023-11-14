@@ -1,10 +1,1 @@
-{
-    "id": "50450401",
-    "itemNo": "50450401",
-    "name": "SNÖBYAR",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 169 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"50450401","itemNo":"50450401","name":"SNÖBYAR","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":169},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

@@ -1,10 +1,1 @@
-{
-    "id": "50286769",
-    "itemNo": "50286769",
-    "name": "LOMVIKEN",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"50286769","itemNo":"50286769","name":"LOMVIKEN","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

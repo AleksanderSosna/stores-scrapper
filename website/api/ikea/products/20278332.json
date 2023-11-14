@@ -1,10 +1,1 @@
-{
-    "id": "20278332",
-    "itemNo": "20278332",
-    "name": "LEIRSUND",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 275 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1900 }
-    ]
-}
+{"id":"20278332","itemNo":"20278332","name":"LEIRSUND","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":275},{"countryCode":"cz","currencyCode":"CZK","price":1900}]}

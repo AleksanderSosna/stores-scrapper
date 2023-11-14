@@ -1,10 +1,1 @@
-{
-    "id": "60335199",
-    "itemNo": "60335199",
-    "name": "KARLBY",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 949 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3490 }
-    ]
-}
+{"id":"60335199","itemNo":"60335199","name":"KARLBY","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":949},{"countryCode":"cz","currencyCode":"CZK","price":3490}]}

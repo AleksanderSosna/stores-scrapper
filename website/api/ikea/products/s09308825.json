@@ -1,10 +1,1 @@
-{
-    "id": "s09308825",
-    "itemNo": "09308825",
-    "name": "HÅLLBAR",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 769 }
-    ]
-}
+{"id":"s09308825","itemNo":"09308825","name":"HÅLLBAR","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149.99},{"countryCode":"cz","currencyCode":"CZK","price":769}]}

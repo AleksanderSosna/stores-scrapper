@@ -1,10 +1,1 @@
-{
-    "id": "30291658",
-    "itemNo": "30291658",
-    "name": "GLASSVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 750 }
-    ]
-}
+{"id":"30291658","itemNo":"30291658","name":"GLASSVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":175},{"countryCode":"cz","currencyCode":"CZK","price":750}]}

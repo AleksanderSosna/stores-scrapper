@@ -1,10 +1,1 @@
-{
-    "id": "00470982",
-    "itemNo": "00470982",
-    "name": "FINSMAK",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12 }
-    ]
-}
+{"id":"00470982","itemNo":"00470982","name":"FINSMAK","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2},{"countryCode":"cz","currencyCode":"CZK","price":12}]}

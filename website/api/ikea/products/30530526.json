@@ -1,10 +1,1 @@
-{
-    "id": "30530526",
-    "itemNo": "30530526",
-    "name": "VARDAGEN",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"30530526","itemNo":"30530526","name":"VARDAGEN","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

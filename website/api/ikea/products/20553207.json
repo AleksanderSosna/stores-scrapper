@@ -1,10 +1,1 @@
-{
-    "id": "20553207",
-    "itemNo": "20553207",
-    "name": "CITRONHAJ",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"20553207","itemNo":"20553207","name":"CITRONHAJ","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

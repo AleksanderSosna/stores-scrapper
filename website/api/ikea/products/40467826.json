@@ -1,10 +1,1 @@
-{
-    "id": "40467826",
-    "itemNo": "40467826",
-    "name": "HÖGKLASSIG",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2499 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12990 }
-    ]
-}
+{"id":"40467826","itemNo":"40467826","name":"HÖGKLASSIG","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2499},{"countryCode":"cz","currencyCode":"CZK","price":12990}]}

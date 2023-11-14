@@ -1,10 +1,1 @@
-{
-    "id": "60281380",
-    "itemNo": "60281380",
-    "name": "ENSEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1490 }
-    ]
-}
+{"id":"60281380","itemNo":"60281380","name":"ENSEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":250},{"countryCode":"cz","currencyCode":"CZK","price":1490}]}

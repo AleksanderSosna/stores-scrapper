@@ -1,10 +1,1 @@
-{
-    "id": "s29481471",
-    "itemNo": "29481471",
-    "name": "KARLPETTER",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 269 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1290 }
-    ]
-}
+{"id":"s29481471","itemNo":"29481471","name":"KARLPETTER","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":269},{"countryCode":"cz","currencyCode":"CZK","price":1290}]}

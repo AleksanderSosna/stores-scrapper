@@ -1,10 +1,1 @@
-{
-    "id": "60320094",
-    "itemNo": "60320094",
-    "name": "LILLABO",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"60320094","itemNo":"60320094","name":"LILLABO","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

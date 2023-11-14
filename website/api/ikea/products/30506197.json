@@ -1,10 +1,1 @@
-{
-    "id": "30506197",
-    "itemNo": "30506197",
-    "name": "TOLKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 250 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1400 }
-    ]
-}
+{"id":"30506197","itemNo":"30506197","name":"TOLKEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":250},{"countryCode":"cz","currencyCode":"CZK","price":1400}]}

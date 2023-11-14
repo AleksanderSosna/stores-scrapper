@@ -1,10 +1,1 @@
-{
-    "id": "40511358",
-    "itemNo": "40511358",
-    "name": "MÅLERÅS",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"40511358","itemNo":"40511358","name":"MÅLERÅS","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

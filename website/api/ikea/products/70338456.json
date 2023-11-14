@@ -1,10 +1,1 @@
-{
-    "id": "70338456",
-    "itemNo": "70338456",
-    "name": "LÄTTNAD",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 35 }
-    ]
-}
+{"id":"70338456","itemNo":"70338456","name":"LÄTTNAD","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":35}]}

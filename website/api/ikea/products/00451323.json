@@ -1,10 +1,1 @@
-{
-    "id": "00451323",
-    "itemNo": "00451323",
-    "name": "HÄNGIG",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"00451323","itemNo":"00451323","name":"HÄNGIG","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

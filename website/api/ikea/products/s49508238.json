@@ -1,10 +1,1 @@
-{
-    "id": "s49508238",
-    "itemNo": "49508238",
-    "name": "TOSSBERG / MALSKÄR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 789 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"s49508238","itemNo":"49508238","name":"TOSSBERG / MALSKÄR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":789},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

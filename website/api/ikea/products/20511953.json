@@ -1,10 +1,1 @@
-{
-    "id": "20511953",
-    "itemNo": "20511953",
-    "name": "KONSTFULL",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 479 }
-    ]
-}
+{"id":"20511953","itemNo":"20511953","name":"KONSTFULL","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":479}]}

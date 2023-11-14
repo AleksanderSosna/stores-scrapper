@@ -1,10 +1,1 @@
-{
-    "id": "s49508931",
-    "itemNo": "49508931",
-    "name": "BJÖRKSTA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 239.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 999 }
-    ]
-}
+{"id":"s49508931","itemNo":"49508931","name":"BJÖRKSTA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":239.99},{"countryCode":"cz","currencyCode":"CZK","price":999}]}

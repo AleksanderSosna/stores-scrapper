@@ -1,10 +1,1 @@
-{
-    "id": "50428815",
-    "itemNo": "50428815",
-    "name": "KLÄMMEMACKA",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 799 }
-    ]
-}
+{"id":"50428815","itemNo":"50428815","name":"KLÄMMEMACKA","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":799}]}

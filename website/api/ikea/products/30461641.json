@@ -1,10 +1,1 @@
-{
-    "id": "30461641",
-    "itemNo": "30461641",
-    "name": "LUDDROS",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"30461641","itemNo":"30461641","name":"LUDDROS","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

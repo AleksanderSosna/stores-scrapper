@@ -1,10 +1,1 @@
-{
-    "id": "10516098",
-    "itemNo": "10516098",
-    "name": "ENHET",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 125 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 650 }
-    ]
-}
+{"id":"10516098","itemNo":"10516098","name":"ENHET","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":125},{"countryCode":"cz","currencyCode":"CZK","price":650}]}

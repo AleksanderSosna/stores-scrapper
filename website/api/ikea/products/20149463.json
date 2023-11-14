@@ -1,10 +1,1 @@
-{
-    "id": "20149463",
-    "itemNo": "20149463",
-    "name": "IKEA 365+ HJÄLTE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 129 }
-    ]
-}
+{"id":"20149463","itemNo":"20149463","name":"IKEA 365+ HJÄLTE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":129}]}

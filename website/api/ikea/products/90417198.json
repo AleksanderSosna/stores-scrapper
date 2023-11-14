@@ -1,10 +1,1 @@
-{
-    "id": "90417198",
-    "itemNo": "90417198",
-    "name": "SPISIG",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 249 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"90417198","itemNo":"90417198","name":"SPISIG","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":249},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

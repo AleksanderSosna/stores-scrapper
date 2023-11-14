@@ -1,10 +1,1 @@
-{
-    "id": "10215095",
-    "itemNo": "10215095",
-    "name": "POKAL",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 49 }
-    ]
-}
+{"id":"10215095","itemNo":"10215095","name":"POKAL","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6.99},{"countryCode":"cz","currencyCode":"CZK","price":49}]}

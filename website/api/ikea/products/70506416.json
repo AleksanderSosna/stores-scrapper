@@ -1,10 +1,1 @@
-{
-    "id": "70506416",
-    "itemNo": "70506416",
-    "name": "MUNSBIT",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 8 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 45 }
-    ]
-}
+{"id":"70506416","itemNo":"70506416","name":"MUNSBIT","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":8},{"countryCode":"cz","currencyCode":"CZK","price":45}]}

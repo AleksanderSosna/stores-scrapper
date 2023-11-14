@@ -1,10 +1,1 @@
-{
-    "id": "s99014376",
-    "itemNo": "99014376",
-    "name": "MELLTORP / ADDE",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 535 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2986 }
-    ]
-}
+{"id":"s99014376","itemNo":"99014376","name":"MELLTORP / ADDE","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":535},{"countryCode":"cz","currencyCode":"CZK","price":2986}]}

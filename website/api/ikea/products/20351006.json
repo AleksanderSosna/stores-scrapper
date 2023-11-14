@@ -1,10 +1,1 @@
-{
-    "id": "20351006",
-    "itemNo": "20351006",
-    "name": "LATTJO",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 599 }
-    ]
-}
+{"id":"20351006","itemNo":"20351006","name":"LATTJO","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":599}]}

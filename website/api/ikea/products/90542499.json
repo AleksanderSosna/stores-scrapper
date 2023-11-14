@@ -1,10 +1,1 @@
-{
-    "id": "90542499",
-    "itemNo": "90542499",
-    "name": "HAVSTEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 550 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2500 }
-    ]
-}
+{"id":"90542499","itemNo":"90542499","name":"HAVSTEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":550},{"countryCode":"cz","currencyCode":"CZK","price":2500}]}

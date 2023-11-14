@@ -1,10 +1,1 @@
-{
-    "id": "50349352",
-    "itemNo": "50349352",
-    "name": "SALVIKEN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"50349352","itemNo":"50349352","name":"SALVIKEN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

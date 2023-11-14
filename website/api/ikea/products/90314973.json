@@ -1,10 +1,1 @@
-{
-    "id": "90314973",
-    "itemNo": "90314973",
-    "name": "BOTAREN",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 29.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"90314973","itemNo":"90314973","name":"BOTAREN","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

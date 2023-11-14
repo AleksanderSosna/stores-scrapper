@@ -1,10 +1,1 @@
-{
-    "id": "40414022",
-    "itemNo": "40414022",
-    "name": "SANELA",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"40414022","itemNo":"40414022","name":"SANELA","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

@@ -1,10 +1,1 @@
-{
-    "id": "20519143",
-    "itemNo": "20519143",
-    "name": "DYTÅG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1990 }
-    ]
-}
+{"id":"20519143","itemNo":"20519143","name":"DYTÅG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":349},{"countryCode":"cz","currencyCode":"CZK","price":1990}]}

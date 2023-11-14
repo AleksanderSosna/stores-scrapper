@@ -1,10 +1,1 @@
-{
-    "id": "20531611",
-    "itemNo": "20531611",
-    "name": "PÅTÅR",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 37 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"20531611","itemNo":"20531611","name":"PÅTÅR","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":37},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

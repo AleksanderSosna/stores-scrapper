@@ -1,10 +1,1 @@
-{
-    "id": "s99515095",
-    "itemNo": "99515095",
-    "name": "INGATORP / SKOGSBO",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 3795 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 21950 }
-    ]
-}
+{"id":"s99515095","itemNo":"99515095","name":"INGATORP / SKOGSBO","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":3795},{"countryCode":"cz","currencyCode":"CZK","price":21950}]}

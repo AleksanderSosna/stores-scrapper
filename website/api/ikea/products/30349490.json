@@ -1,10 +1,1 @@
-{
-    "id": "30349490",
-    "itemNo": "30349490",
-    "name": "MONSTERA",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"30349490","itemNo":"30349490","name":"MONSTERA","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

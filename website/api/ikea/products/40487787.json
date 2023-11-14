@@ -1,10 +1,1 @@
-{
-    "id": "40487787",
-    "itemNo": "40487787",
-    "name": "HUVUDROLL",
-    "categoryKey": "wt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 46 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"40487787","itemNo":"40487787","name":"HUVUDROLL","categoryKey":"wt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":46},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s59494448",
-    "itemNo": "59494448",
-    "name": "MARKFROST / LUNNOM",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 94.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 698 }
-    ]
-}
+{"id":"s59494448","itemNo":"59494448","name":"MARKFROST / LUNNOM","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":94.98},{"countryCode":"cz","currencyCode":"CZK","price":698}]}

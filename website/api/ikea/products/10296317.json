@@ -1,10 +1,1 @@
-{
-    "id": "10296317",
-    "itemNo": "10296317",
-    "name": "SINDVIK",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 100 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 600 }
-    ]
-}
+{"id":"10296317","itemNo":"10296317","name":"SINDVIK","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":100},{"countryCode":"cz","currencyCode":"CZK","price":600}]}

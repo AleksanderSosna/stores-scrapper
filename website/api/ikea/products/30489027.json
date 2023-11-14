@@ -1,10 +1,1 @@
-{
-    "id": "30489027",
-    "itemNo": "30489027",
-    "name": "SKURUP",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"30489027","itemNo":"30489027","name":"SKURUP","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

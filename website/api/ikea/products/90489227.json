@@ -1,10 +1,1 @@
-{
-    "id": "90489227",
-    "itemNo": "90489227",
-    "name": "SKÖTSAM",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"90489227","itemNo":"90489227","name":"SKÖTSAM","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

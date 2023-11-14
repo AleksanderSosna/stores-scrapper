@@ -1,10 +1,1 @@
-{
-    "id": "20249330",
-    "itemNo": "20249330",
-    "name": "ODDVAR",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 59.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 299 }
-    ]
-}
+{"id":"20249330","itemNo":"20249330","name":"ODDVAR","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99},{"countryCode":"cz","currencyCode":"CZK","price":299}]}

@@ -1,10 +1,1 @@
-{
-    "id": "00513854",
-    "itemNo": "00513854",
-    "name": "PUCKELMAL",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 199 }
-    ]
-}
+{"id":"00513854","itemNo":"00513854","name":"PUCKELMAL","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":199}]}

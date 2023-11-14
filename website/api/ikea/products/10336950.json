@@ -1,10 +1,1 @@
-{
-    "id": "10336950",
-    "itemNo": "10336950",
-    "name": "SONGE",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 379 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 2290 }
-    ]
-}
+{"id":"10336950","itemNo":"10336950","name":"SONGE","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":379},{"countryCode":"cz","currencyCode":"CZK","price":2290}]}

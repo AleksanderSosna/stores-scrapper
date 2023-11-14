@@ -1,10 +1,1 @@
-{
-    "id": "50035752",
-    "itemNo": "50035752",
-    "name": "FANTASTISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 14.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"50035752","itemNo":"50035752","name":"FANTASTISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":14.99},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

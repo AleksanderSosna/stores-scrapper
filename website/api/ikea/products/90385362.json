@@ -1,10 +1,1 @@
-{
-    "id": "90385362",
-    "itemNo": "90385362",
-    "name": "LUSTIGT",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 449 }
-    ]
-}
+{"id":"90385362","itemNo":"90385362","name":"LUSTIGT","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":449}]}

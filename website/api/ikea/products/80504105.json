@@ -1,10 +1,1 @@
-{
-    "id": "80504105",
-    "itemNo": "80504105",
-    "name": "KLÖSAN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 49.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 179 }
-    ]
-}
+{"id":"80504105","itemNo":"80504105","name":"KLÖSAN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":49.99},{"countryCode":"cz","currencyCode":"CZK","price":179}]}

@@ -1,10 +1,1 @@
-{
-    "id": "10541601",
-    "itemNo": "10541601",
-    "name": "CEROPEGIA WOODII",
-    "categoryKey": "de001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 34.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 229 }
-    ]
-}
+{"id":"10541601","itemNo":"10541601","name":"CEROPEGIA WOODII","categoryKey":"de001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":34.99},{"countryCode":"cz","currencyCode":"CZK","price":229}]}

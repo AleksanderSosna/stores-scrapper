@@ -1,10 +1,1 @@
-{
-    "id": "00519728",
-    "itemNo": "00519728",
-    "name": "FRÖJDEFULL",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 149 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"00519728","itemNo":"00519728","name":"FRÖJDEFULL","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":149},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

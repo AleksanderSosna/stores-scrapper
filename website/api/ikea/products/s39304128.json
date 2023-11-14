@@ -1,10 +1,1 @@
-{
-    "id": "s39304128",
-    "itemNo": "39304128",
-    "name": "PAX / FLISBERGET",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 2895 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 17210 }
-    ]
-}
+{"id":"s39304128","itemNo":"39304128","name":"PAX / FLISBERGET","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":2895},{"countryCode":"cz","currencyCode":"CZK","price":17210}]}

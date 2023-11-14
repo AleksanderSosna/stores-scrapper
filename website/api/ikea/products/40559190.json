@@ -1,10 +1,1 @@
-{
-    "id": "40559190",
-    "itemNo": "40559190",
-    "name": "VIPPSTARR",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 6 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 39 }
-    ]
-}
+{"id":"40559190","itemNo":"40559190","name":"VIPPSTARR","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":6},{"countryCode":"cz","currencyCode":"CZK","price":39}]}

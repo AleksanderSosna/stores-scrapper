@@ -1,10 +1,1 @@
-{
-    "id": "s09425706",
-    "itemNo": "09425706",
-    "name": "VRESJÖN",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 679 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 3990 }
-    ]
-}
+{"id":"s09425706","itemNo":"09425706","name":"VRESJÖN","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":679},{"countryCode":"cz","currencyCode":"CZK","price":3990}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40410811",
-    "itemNo": "40410811",
-    "name": "LEIKNY",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 24.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 149 }
-    ]
-}
+{"id":"40410811","itemNo":"40410811","name":"LEIKNY","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":24.99},{"countryCode":"cz","currencyCode":"CZK","price":149}]}

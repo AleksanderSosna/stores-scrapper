@@ -1,10 +1,1 @@
-{
-    "id": "10528869",
-    "itemNo": "10528869",
-    "name": "LANGSTED",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"10528869","itemNo":"10528869","name":"LANGSTED","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

@@ -1,10 +1,1 @@
-{
-    "id": "40176950",
-    "itemNo": "40176950",
-    "name": "FLUNDRA",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 15 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 79 }
-    ]
-}
+{"id":"40176950","itemNo":"40176950","name":"FLUNDRA","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":15},{"countryCode":"cz","currencyCode":"CZK","price":79}]}

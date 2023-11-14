@@ -1,10 +1,1 @@
-{
-    "id": "80396865",
-    "itemNo": "80396865",
-    "name": "FRIDANS",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 79 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 549 }
-    ]
-}
+{"id":"80396865","itemNo":"80396865","name":"FRIDANS","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":79},{"countryCode":"cz","currencyCode":"CZK","price":549}]}

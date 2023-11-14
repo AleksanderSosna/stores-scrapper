@@ -1,10 +1,1 @@
-{
-    "id": "50552273",
-    "itemNo": "50552273",
-    "name": "PLUFSIG",
-    "categoryKey": "bc001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 129 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 949 }
-    ]
-}
+{"id":"50552273","itemNo":"50552273","name":"PLUFSIG","categoryKey":"bc001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":129},{"countryCode":"cz","currencyCode":"CZK","price":949}]}

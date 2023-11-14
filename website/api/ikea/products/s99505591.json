@@ -1,10 +1,1 @@
-{
-    "id": "s99505591",
-    "itemNo": "99505591",
-    "name": "HÅRSLINGA / MOLNART",
-    "categoryKey": "li001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 169.98 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 898 }
-    ]
-}
+{"id":"s99505591","itemNo":"99505591","name":"HÅRSLINGA / MOLNART","categoryKey":"li001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":169.98},{"countryCode":"cz","currencyCode":"CZK","price":898}]}

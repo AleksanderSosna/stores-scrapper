@@ -1,10 +1,1 @@
-{
-    "id": "60404772",
-    "itemNo": "60404772",
-    "name": "HASSLARP",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 270 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1050 }
-    ]
-}
+{"id":"60404772","itemNo":"60404772","name":"HASSLARP","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":270},{"countryCode":"cz","currencyCode":"CZK","price":1050}]}

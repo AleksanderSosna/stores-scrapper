@@ -1,10 +1,1 @@
-{
-    "id": "s99508684",
-    "itemNo": "99508684",
-    "name": "MITTCIRKEL / OLOV",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 239 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1499 }
-    ]
-}
+{"id":"s99508684","itemNo":"99508684","name":"MITTCIRKEL / OLOV","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":239},{"countryCode":"cz","currencyCode":"CZK","price":1499}]}

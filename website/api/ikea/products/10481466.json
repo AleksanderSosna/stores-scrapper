@@ -1,10 +1,1 @@
-{
-    "id": "10481466",
-    "itemNo": "10481466",
-    "name": "ÅBYGDA",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 999 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 4990 }
-    ]
-}
+{"id":"10481466","itemNo":"10481466","name":"ÅBYGDA","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":999},{"countryCode":"cz","currencyCode":"CZK","price":4990}]}

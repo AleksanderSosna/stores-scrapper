@@ -1,10 +1,1 @@
-{
-    "id": "s39440772",
-    "itemNo": "39440772",
-    "name": "UTESPELARE / MATCHSPEL",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1398 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 6980 }
-    ]
-}
+{"id":"s39440772","itemNo":"39440772","name":"UTESPELARE / MATCHSPEL","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1398},{"countryCode":"cz","currencyCode":"CZK","price":6980}]}

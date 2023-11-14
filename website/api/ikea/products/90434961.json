@@ -1,10 +1,1 @@
-{
-    "id": "90434961",
-    "itemNo": "90434961",
-    "name": "FORSAND",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 175 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 800 }
-    ]
-}
+{"id":"90434961","itemNo":"90434961","name":"FORSAND","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":175},{"countryCode":"cz","currencyCode":"CZK","price":800}]}

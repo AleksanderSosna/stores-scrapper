@@ -1,10 +1,1 @@
-{
-    "id": "00186041",
-    "itemNo": "00186041",
-    "name": "LÄMPLIG",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 9.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 59 }
-    ]
-}
+{"id":"00186041","itemNo":"00186041","name":"LÄMPLIG","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":9.99},{"countryCode":"cz","currencyCode":"CZK","price":59}]}

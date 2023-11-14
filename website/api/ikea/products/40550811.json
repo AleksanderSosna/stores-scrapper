@@ -1,10 +1,1 @@
-{
-    "id": "40550811",
-    "itemNo": "40550811",
-    "name": "SVARTVIDE",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 99 }
-    ]
-}
+{"id":"40550811","itemNo":"40550811","name":"SVARTVIDE","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":99}]}

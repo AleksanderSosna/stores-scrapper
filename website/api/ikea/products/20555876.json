@@ -1,10 +1,1 @@
-{
-    "id": "20555876",
-    "itemNo": "20555876",
-    "name": "JÄGMÄSTARE",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 19.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 249 }
-    ]
-}
+{"id":"20555876","itemNo":"20555876","name":"JÄGMÄSTARE","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99},{"countryCode":"cz","currencyCode":"CZK","price":249}]}

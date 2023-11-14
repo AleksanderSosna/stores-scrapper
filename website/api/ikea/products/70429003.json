@@ -1,10 +1,1 @@
-{
-    "id": "70429003",
-    "itemNo": "70429003",
-    "name": "STORAVAN",
-    "categoryKey": "st001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 69 }
-    ]
-}
+{"id":"70429003","itemNo":"70429003","name":"STORAVAN","categoryKey":"st001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":69}]}

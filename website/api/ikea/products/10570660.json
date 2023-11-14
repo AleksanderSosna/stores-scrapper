@@ -1,10 +1,1 @@
-{
-    "id": "10570660",
-    "itemNo": "10570660",
-    "name": "SMÖRLING",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 69.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 399 }
-    ]
-}
+{"id":"10570660","itemNo":"10570660","name":"SMÖRLING","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":69.99},{"countryCode":"cz","currencyCode":"CZK","price":399}]}

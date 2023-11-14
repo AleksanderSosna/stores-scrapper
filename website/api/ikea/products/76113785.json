@@ -1,10 +1,1 @@
-{
-    "id": "76113785",
-    "itemNo": "76113785",
-    "name": "IDEALISK",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 17.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 89 }
-    ]
-}
+{"id":"76113785","itemNo":"76113785","name":"IDEALISK","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":17.99},{"countryCode":"cz","currencyCode":"CZK","price":89}]}

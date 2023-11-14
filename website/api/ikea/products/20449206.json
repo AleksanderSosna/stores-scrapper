@@ -1,10 +1,1 @@
-{
-    "id": "20449206",
-    "itemNo": "20449206",
-    "name": "KLOCKREN",
-    "categoryKey": "kt001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 39.99 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 169 }
-    ]
-}
+{"id":"20449206","itemNo":"20449206","name":"KLOCKREN","categoryKey":"kt001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99},{"countryCode":"cz","currencyCode":"CZK","price":169}]}

@@ -1,10 +1,1 @@
-{
-    "id": "s99295499",
-    "itemNo": "99295499",
-    "name": "GODMORGON / TOLKEN",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1049 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 9190 }
-    ]
-}
+{"id":"s99295499","itemNo":"99295499","name":"GODMORGON / TOLKEN","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1049},{"countryCode":"cz","currencyCode":"CZK","price":9190}]}

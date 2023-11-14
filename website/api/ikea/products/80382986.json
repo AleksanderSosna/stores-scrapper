@@ -1,10 +1,1 @@
-{
-    "id": "80382986",
-    "itemNo": "80382986",
-    "name": "SKOGSÅ",
-    "categoryKey": "ka001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1299 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 5490 }
-    ]
-}
+{"id":"80382986","itemNo":"80382986","name":"SKOGSÅ","categoryKey":"ka001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299},{"countryCode":"cz","currencyCode":"CZK","price":5490}]}

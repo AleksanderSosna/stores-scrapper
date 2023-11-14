@@ -1,10 +1,1 @@
-{
-    "id": "s29483903",
-    "itemNo": "29483903",
-    "name": "STRANDMON",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1349 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8480 }
-    ]
-}
+{"id":"s29483903","itemNo":"29483903","name":"STRANDMON","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1349},{"countryCode":"cz","currencyCode":"CZK","price":8480}]}

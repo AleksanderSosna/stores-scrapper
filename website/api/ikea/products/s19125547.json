@@ -1,10 +1,1 @@
-{
-    "id": "s19125547",
-    "itemNo": "19125547",
-    "name": "ESPEVÄR",
-    "categoryKey": "bm001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1130 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 8700 }
-    ]
-}
+{"id":"s19125547","itemNo":"19125547","name":"ESPEVÄR","categoryKey":"bm001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1130},{"countryCode":"cz","currencyCode":"CZK","price":8700}]}

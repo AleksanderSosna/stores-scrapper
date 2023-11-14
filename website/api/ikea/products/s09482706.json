@@ -1,10 +1,1 @@
-{
-    "id": "s09482706",
-    "itemNo": "09482706",
-    "name": "LANEBERG / EKEDALEN",
-    "categoryKey": "fu001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 1993 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 12930 }
-    ]
-}
+{"id":"s09482706","itemNo":"09482706","name":"LANEBERG / EKEDALEN","categoryKey":"fu001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":1993},{"countryCode":"cz","currencyCode":"CZK","price":12930}]}

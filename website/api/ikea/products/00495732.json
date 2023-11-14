@@ -1,10 +1,1 @@
-{
-    "id": "00495732",
-    "itemNo": "00495732",
-    "name": "RUNSKÄR",
-    "categoryKey": "ba001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 400 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 1790 }
-    ]
-}
+{"id":"00495732","itemNo":"00495732","name":"RUNSKÄR","categoryKey":"ba001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":400},{"countryCode":"cz","currencyCode":"CZK","price":1790}]}

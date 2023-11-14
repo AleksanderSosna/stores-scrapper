@@ -1,10 +1,1 @@
-{
-    "id": "60217228",
-    "itemNo": "60217228",
-    "name": "BETYDLIG",
-    "categoryKey": "tl001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 10 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 40 }
-    ]
-}
+{"id":"60217228","itemNo":"60217228","name":"BETYDLIG","categoryKey":"tl001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":10},{"countryCode":"cz","currencyCode":"CZK","price":40}]}

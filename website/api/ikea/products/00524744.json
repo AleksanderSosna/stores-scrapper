@@ -1,10 +1,1 @@
-{
-    "id": "00524744",
-    "itemNo": "00524744",
-    "name": "CHOKLAD LJUS",
-    "categoryKey": "fb001",
-    "prices": [
-        { "countryCode": "pl", "currencyCode": "PLN", "price": 5 },
-        { "countryCode": "cz", "currencyCode": "CZK", "price": 19 }
-    ]
-}
+{"id":"00524744","itemNo":"00524744","name":"CHOKLAD LJUS","categoryKey":"fb001","prices":[{"countryCode":"pl","currencyCode":"PLN","price":5},{"countryCode":"cz","currencyCode":"CZK","price":19}]}
