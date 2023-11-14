@@ -1,0 +1,30 @@
+name: Ikea Scrapper
+on:
+    schedule:
+        - cron: "0 4 * * *"
+env:
+    BASE_URL: "https://www.ikea.com"
+    COUNTRY_CODES: '["pl", "cz"]'
+permissions:
+    contents: write
+jobs:
+    test:
+        timeout-minutes: 60
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+              with:
+                  node-version: 18
+            - name: Install dependencies
+              run: npm ci
+            - name: Install Playwright Browsers
+              run: npx playwright install --with-deps
+            - name: Run Ikea Scrapper wrapped in Playwright tests
+              run: npm run test
+            - name: Commit generated JSON files
+              run: |
+                  git config --global user.name 'Aleksander Sosna'
+                  git config --global user.email '70142273+AleksanderSosna@users.noreply.github.com'
+                  git commit -am "gh actions commit"
+                  git push
