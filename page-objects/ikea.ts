@@ -35,7 +35,7 @@ export class Ikea {
         return JSON.parse(fileContent);
     }
 
-    writeJsonToFile(data: any, options?: { directory?: string; fileName?: string }): any {
+    writeJsonToFile(data: any, options?: { directory?: string; fileName?: string }): void {
         const directory = options ? (typeof options.directory == "string" ? options.directory : "files") : "files";
         const fileName = options ? (typeof options.fileName == "string" ? options.fileName : ulid()) : ulid();
 

@@ -129,7 +129,7 @@ test.describe("Ikea Scrapper", () => {
 
                                     ikea.writeJsonToFile(
                                         JSON.stringify({
-                                            id: productFromResponse,
+                                            id: productFromResponse.id,
                                             itemNo: productFromResponse.itemNo,
                                             name: productFromResponse.name,
                                             categoryKey: category.key,
