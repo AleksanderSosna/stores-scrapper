@@ -1,6 +1,7 @@
 {
     "name": "stores-scrapper",
     "version": "2023.11.1",
+    "license":"MIT",
     "private": true,
     "scripts": {
         "test": "playwright test",
