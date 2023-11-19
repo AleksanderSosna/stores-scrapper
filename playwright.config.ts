@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const config: PlaywrightTestConfig = {
-    timeout: 3 * 60 * 1000,
+    timeout: 10 * 60 * 1000,
     expect: {
         timeout: 10 * 1000,
         toHaveScreenshot: {

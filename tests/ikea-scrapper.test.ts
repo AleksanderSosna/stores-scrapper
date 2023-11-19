@@ -24,8 +24,6 @@ test.describe("Ikea Scrapper", () => {
 
         for (const countryCode of countryCodes) {
             test(`Create ${countryCode} Categories Database`, async ({ page }) => {
-                test.slow();
-
                 const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
 
                 await page.goto(`${ikea.countryCodeAndLanguageCodeFromCountryCode(countryCode)}/cat/produkty-products/`, { waitUntil: "networkidle" });
@@ -61,8 +59,20 @@ test.describe("Ikea Scrapper", () => {
             const page = await browser.newPage();
             ikea = new Ikea(page);
 
-            const products: Array<{ id: string; itemNo: string; name: string; categoryKey: string; prices: Array<{ countryCode: string; currencyCode: string; price: number }> }> =
-                [];
+            const products: Array<{
+                id: string;
+                itemNo: string;
+                name: string;
+                categoryKey: string;
+                urls: Array<{ countryCode: string; url: string }>;
+                prices: Array<{ countryCode: string; currencyCode: string; price: number }>;
+                availabilities: Array<{
+                    countryCode: string;
+                    storeId: string;
+                    storeName: string;
+                    quantity: number;
+                }>;
+            }> = [];
             ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
 
             await ikea.deleteAllFilesFromDirectory("./website/api/ikea/products");
@@ -71,16 +81,22 @@ test.describe("Ikea Scrapper", () => {
         });
 
         for (const countryCode of countryCodes) {
-            test(`Create ${countryCode} Products Database`, async () => {
-                test.slow();
-
+            test(`Create ${countryCode} Products Database`, async ({ page }) => {
                 const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
                 const products: Array<{
                     id: string;
                     itemNo: string;
                     name: string;
                     categoryKey: string;
+                    urls: Array<{ countryCode: string; url: string }>;
                     prices: Array<{ countryCode: string; currencyCode: string; price: number }>;
+                    //TODO - availability
+                    // availabilities: Array<{
+                    //     countryCode: string;
+                    //     storeId: string;
+                    //     storeName: string;
+                    //     quantity: number;
+                    // }>;
                 }> = ikea.readJson("website/api/ikea", "products");
 
                 for (const category of categories) {
@@ -101,6 +117,15 @@ test.describe("Ikea Scrapper", () => {
                                         return prices.countryCode === countryCode;
                                     });
                                     if (!priceForCountryCodeExists) {
+                                        //TODO - availability
+                                        // const availabilities = await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo);
+                                        // products[index].availabilities = products[index].availabilities.concat(availabilities);
+
+                                        products[index].urls.push({
+                                            countryCode: countryCode,
+                                            url: productFromResponse.pipUrl,
+                                        });
+
                                         products[index].prices.push({
                                             countryCode: countryCode,
                                             currencyCode: productFromResponse.salesPrice.currencyCode,
@@ -118,6 +143,12 @@ test.describe("Ikea Scrapper", () => {
                                         itemNo: productFromResponse.itemNo,
                                         name: productFromResponse.name,
                                         categoryKey: category.key,
+                                        urls: [
+                                            {
+                                                countryCode: countryCode,
+                                                url: productFromResponse.pipUrl,
+                                            },
+                                        ],
                                         prices: [
                                             {
                                                 countryCode: countryCode,
@@ -125,6 +156,8 @@ test.describe("Ikea Scrapper", () => {
                                                 price: productFromResponse.salesPrice.numeral,
                                             },
                                         ],
+                                        //TODO - availability
+                                        // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
                                     });
 
                                     ikea.writeJsonToFile(
@@ -133,6 +166,12 @@ test.describe("Ikea Scrapper", () => {
                                             itemNo: productFromResponse.itemNo,
                                             name: productFromResponse.name,
                                             categoryKey: category.key,
+                                            urls: [
+                                                {
+                                                    countryCode: countryCode,
+                                                    url: productFromResponse.pipUrl,
+                                                },
+                                            ],
                                             prices: [
                                                 {
                                                     countryCode: countryCode,
@@ -140,6 +179,8 @@ test.describe("Ikea Scrapper", () => {
                                                     price: productFromResponse.salesPrice.numeral,
                                                 },
                                             ],
+                                            //TODO - availability
+                                            // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
                                         }),
                                         { directory: "website/api/ikea/products", fileName: productFromResponse.id }
                                     );

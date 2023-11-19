@@ -8,6 +8,7 @@ export class Ikea {
     readonly page: Page;
 
     readonly countryCodeAndLanguageCodeFromCountryCode: (countryCode: string) => string;
+    readonly storeNameFromStoreId: (storeId: string) => string;
 
     readonly seeAllInCategoryLinks: Locator;
 
@@ -23,7 +24,58 @@ export class Ikea {
                     return `/${countryCode}/cs`;
                     break;
                 default:
-                    console.log(`no matching language code for provided "${countryCode}" found`);
+                    console.log(`no matching language code for provided "${countryCode}" countryCode found`);
+            }
+        };
+        this.storeNameFromStoreId = (storeId) => {
+            switch (storeId) {
+                case "188":
+                    return "Warszawa Janki";
+                    break;
+                case "203":
+                    return "Gdańsk";
+                    break;
+                case "204":
+                    return "Kraków";
+                    break;
+                case "205":
+                    return "Poznań";
+                    break;
+                case "294":
+                    return "Wrocław";
+                    break;
+                case "306":
+                    return "Katowice";
+                    break;
+                case "307":
+                    return "Warszawa Targówek";
+                    break;
+                case "311":
+                    return "Lublin";
+                    break;
+                case "329":
+                    return "Łódź";
+                    break;
+                case "429":
+                    return "Bydgoszcz";
+                    break;
+                case "583":
+                    return "Szczecin";
+                    break;
+                case "178":
+                    return "Praha Zličín";
+                    break;
+                case "278":
+                    return "Brno";
+                    break;
+                case "309":
+                    return "Ostrava";
+                    break;
+                case "408":
+                    return "Černý Most";
+                    break;
+                default:
+                    console.log(`no matching store for provided "${storeId}" storeId found`);
             }
         };
 
@@ -80,5 +132,70 @@ export class Ikea {
 
         const responseJson = await response.json();
         return responseJson;
+    }
+
+    async getAvailabilitiesForItemNo(
+        countryCode: string,
+        itemNo: string
+    ): Promise<
+        Array<{
+            countryCode: string;
+            storeId: string;
+            storeName: string;
+            quantity: number;
+        }>
+    > {
+        const queryParams = {
+            itemNos: itemNo,
+            expand: "StoresList,Restocks,SalesLocations,DisplayLocations,",
+        };
+
+        const response = await this.page.request.get(`https://api.ingka.ikea.com/cia/availabilities/ru/${countryCode}`, {
+            params: queryParams,
+            headers: {
+                "X-Client-Id": "b6c117e5-ae61-4ef5-b4cc-e0b1e37f0631",
+            },
+        });
+
+        const responseJson = await response.json();
+        const availabilities: Array<{
+            countryCode: string;
+            storeId: string;
+            storeName: string;
+            quantity: number;
+        }> = [];
+        if (responseJson.availabilities) {
+            for (const availability of responseJson.availabilities) {
+                availabilities.push({
+                    countryCode: countryCode,
+                    storeId: availability.classUnitKey.classUnitCode,
+                    storeName: this.storeNameFromStoreId(availability.classUnitKey.classUnitCode),
+                    quantity: availability.buyingOption.cashCarry.availability.quantity,
+                });
+            }
+        } else {
+            for (const availability of responseJson.data) {
+                if (availability.classUnitKey.classUnitCode === countryCode.toUpperCase()) {
+                    continue;
+                }
+
+                let index = -1;
+                if (availability.isInCashAndCarryRange) {
+                    index = availability.availableStocks.findIndex((availableStock) => {
+                        return availableStock.type === "CASHCARRY";
+                    });
+                }
+                const quantity = index >= 0 ? availability.availableStocks[index].quantity : 0;
+
+                availabilities.push({
+                    countryCode: countryCode,
+                    storeId: availability.classUnitKey.classUnitCode,
+                    storeName: this.storeNameFromStoreId(availability.classUnitKey.classUnitCode),
+                    quantity: quantity,
+                });
+            }
+        }
+
+        return availabilities;
     }
 }
