@@ -4,7 +4,6 @@ on:
     schedule:
         - cron: "0 4 * * *"
 env:
-    CI: "true"
     BASE_URL: "https://www.ikea.com"
     COUNTRY_CODES: '["pl", "cz"]'
 permissions:
