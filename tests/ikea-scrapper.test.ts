@@ -17,14 +17,14 @@ test.describe("Ikea Scrapper", () => {
             ikea = new Ikea(page);
 
             const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = [];
-            ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
+            await ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
 
             await page.close();
         });
 
         for (const countryCode of countryCodes) {
             test(`Create ${countryCode} Categories Database`, async ({ page }) => {
-                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
+                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = await ikea.readJson("website/api/ikea", "categories");
 
                 await page.goto(`${ikea.countryCodeAndLanguageCodeFromCountryCode(countryCode)}/cat/produkty-products/`, { waitUntil: "networkidle" });
 
@@ -49,7 +49,7 @@ test.describe("Ikea Scrapper", () => {
                     }
                 }
 
-                ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
+                await ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
             });
         }
     });
@@ -73,7 +73,7 @@ test.describe("Ikea Scrapper", () => {
                     quantity: number;
                 }>;
             }> = [];
-            ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
+            await ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
 
             await ikea.deleteAllFilesFromDirectory("./website/api/ikea/products");
 
@@ -82,7 +82,7 @@ test.describe("Ikea Scrapper", () => {
 
         for (const countryCode of countryCodes) {
             test(`Create ${countryCode} Products Database`, async ({ page }) => {
-                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = ikea.readJson("website/api/ikea", "categories");
+                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = await ikea.readJson("website/api/ikea", "categories");
                 const products: Array<{
                     id: string;
                     itemNo: string;
@@ -97,7 +97,7 @@ test.describe("Ikea Scrapper", () => {
                     //     storeName: string;
                     //     quantity: number;
                     // }>;
-                }> = ikea.readJson("website/api/ikea", "products");
+                }> = await ikea.readJson("website/api/ikea", "products");
 
                 for (const category of categories) {
                     const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 1000 });
@@ -132,7 +132,7 @@ test.describe("Ikea Scrapper", () => {
                                             price: productFromResponse.salesPrice.numeral,
                                         });
 
-                                        ikea.writeJsonToFile(JSON.stringify(products[index]), {
+                                        await ikea.writeJsonToFile(JSON.stringify(products[index]), {
                                             directory: "website/api/ikea/products",
                                             fileName: productFromResponse.id,
                                         });
@@ -160,7 +160,7 @@ test.describe("Ikea Scrapper", () => {
                                         // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
                                     });
 
-                                    ikea.writeJsonToFile(
+                                    await ikea.writeJsonToFile(
                                         JSON.stringify({
                                             id: productFromResponse.id,
                                             itemNo: productFromResponse.itemNo,
@@ -190,7 +190,7 @@ test.describe("Ikea Scrapper", () => {
                     }
                 }
 
-                ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
+                await ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
             });
         }
     });
