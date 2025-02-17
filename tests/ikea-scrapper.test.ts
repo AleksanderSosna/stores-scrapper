@@ -100,7 +100,7 @@ test.describe("Ikea Scrapper", () => {
                 }> = ikea.readJson("website/api/ikea", "products");
 
                 for (const category of categories) {
-                    const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 10000 });
+                    const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 1000 });
 
                     if (response) {
                         if (response.moreProducts) {

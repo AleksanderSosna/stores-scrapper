@@ -7,7 +7,7 @@
             "dom.iterable",
             "es2019"
         ],
-        "module": "commonjs",
+        "module": "ESNext",
         "moduleResolution": "node",
         "noEmit": true,
         "paths": {

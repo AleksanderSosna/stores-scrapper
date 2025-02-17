@@ -119,7 +119,7 @@ export class Ikea {
             start: options ? (typeof options.start == "number" ? options.start : 0) : 0,
             end: options ? (typeof options.end == "number" ? options.end : 25) : 25,
             c: options ? (typeof options.c == "string" ? options.c : "listaf") : "listaf",
-            v: options ? (typeof options.v == "number" ? options.v : 20220826) : 20220826,
+            v: options ? (typeof options.v == "number" ? options.v : 20241114) : 20241114,
             sort: options ? (typeof options.sort == "string" ? options.sort : "RELEVANCE") : "RELEVANCE",
         };
 
