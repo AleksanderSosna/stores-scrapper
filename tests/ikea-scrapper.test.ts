@@ -100,92 +100,95 @@ test.describe("Ikea Scrapper", () => {
                 }> = await ikea.readJson("website/api/ikea", "products");
 
                 for (const category of categories) {
-                    const response = await ikea.getProducts(countryCode, category.key, { start: 0, end: 1000 });
+                    let productsFromResponse = [];
+                    let offset = 0
+                    do {
+                        var response = await ikea.getProducts(countryCode, category.key, { start: offset, end: offset + 1000 });
+                        productsFromResponse = productsFromResponse.concat(response.moreProducts.productWindow);
 
-                    if (response) {
-                        if (response.moreProducts) {
-                            for (const productFromResponse of response.moreProducts.productWindow) {
-                                const productExists = products.some((product) => {
-                                    return product.id === productFromResponse.id;
+                        offset += 1000
+                    } while (response.moreProducts.productWindow.length !== 0);
+
+                    for (const productFromResponse of productsFromResponse) {
+                        const productExists = products.some((product) => {
+                            return product.id === productFromResponse.id;
+                        });
+
+                        if (productExists) {
+                            const index = products.findIndex((product) => {
+                                return product.id === productFromResponse.id;
+                            });
+                            const priceForCountryCodeExists = products[index].prices.some((prices) => {
+                                return prices.countryCode === countryCode;
+                            });
+                            if (!priceForCountryCodeExists) {
+                                //TODO - availability
+                                // const availabilities = await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo);
+                                // products[index].availabilities = products[index].availabilities.concat(availabilities);
+
+                                products[index].urls.push({
+                                    countryCode: countryCode,
+                                    url: productFromResponse.pipUrl,
                                 });
 
-                                if (productExists) {
-                                    const index = products.findIndex((product) => {
-                                        return product.id === productFromResponse.id;
-                                    });
-                                    const priceForCountryCodeExists = products[index].prices.some((prices) => {
-                                        return prices.countryCode === countryCode;
-                                    });
-                                    if (!priceForCountryCodeExists) {
-                                        //TODO - availability
-                                        // const availabilities = await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo);
-                                        // products[index].availabilities = products[index].availabilities.concat(availabilities);
+                                products[index].prices.push({
+                                    countryCode: countryCode,
+                                    currencyCode: productFromResponse.salesPrice.currencyCode,
+                                    price: productFromResponse.salesPrice.numeral,
+                                });
 
-                                        products[index].urls.push({
+                                await ikea.writeJsonToFile(JSON.stringify(products[index]), {
+                                    directory: "website/api/ikea/products",
+                                    fileName: productFromResponse.id,
+                                });
+                            }
+                        } else {
+                            products.push({
+                                id: productFromResponse.id,
+                                itemNo: productFromResponse.itemNo,
+                                name: productFromResponse.name,
+                                categoryKey: category.key,
+                                urls: [
+                                    {
+                                        countryCode: countryCode,
+                                        url: productFromResponse.pipUrl,
+                                    },
+                                ],
+                                prices: [
+                                    {
+                                        countryCode: countryCode,
+                                        currencyCode: productFromResponse.salesPrice.currencyCode,
+                                        price: productFromResponse.salesPrice.numeral,
+                                    },
+                                ],
+                                //TODO - availability
+                                // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
+                            });
+
+                            await ikea.writeJsonToFile(
+                                JSON.stringify({
+                                    id: productFromResponse.id,
+                                    itemNo: productFromResponse.itemNo,
+                                    name: productFromResponse.name,
+                                    categoryKey: category.key,
+                                    urls: [
+                                        {
                                             countryCode: countryCode,
                                             url: productFromResponse.pipUrl,
-                                        });
-
-                                        products[index].prices.push({
+                                        },
+                                    ],
+                                    prices: [
+                                        {
                                             countryCode: countryCode,
                                             currencyCode: productFromResponse.salesPrice.currencyCode,
                                             price: productFromResponse.salesPrice.numeral,
-                                        });
-
-                                        await ikea.writeJsonToFile(JSON.stringify(products[index]), {
-                                            directory: "website/api/ikea/products",
-                                            fileName: productFromResponse.id,
-                                        });
-                                    }
-                                } else {
-                                    products.push({
-                                        id: productFromResponse.id,
-                                        itemNo: productFromResponse.itemNo,
-                                        name: productFromResponse.name,
-                                        categoryKey: category.key,
-                                        urls: [
-                                            {
-                                                countryCode: countryCode,
-                                                url: productFromResponse.pipUrl,
-                                            },
-                                        ],
-                                        prices: [
-                                            {
-                                                countryCode: countryCode,
-                                                currencyCode: productFromResponse.salesPrice.currencyCode,
-                                                price: productFromResponse.salesPrice.numeral,
-                                            },
-                                        ],
-                                        //TODO - availability
-                                        // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
-                                    });
-
-                                    await ikea.writeJsonToFile(
-                                        JSON.stringify({
-                                            id: productFromResponse.id,
-                                            itemNo: productFromResponse.itemNo,
-                                            name: productFromResponse.name,
-                                            categoryKey: category.key,
-                                            urls: [
-                                                {
-                                                    countryCode: countryCode,
-                                                    url: productFromResponse.pipUrl,
-                                                },
-                                            ],
-                                            prices: [
-                                                {
-                                                    countryCode: countryCode,
-                                                    currencyCode: productFromResponse.salesPrice.currencyCode,
-                                                    price: productFromResponse.salesPrice.numeral,
-                                                },
-                                            ],
-                                            //TODO - availability
-                                            // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
-                                        }),
-                                        { directory: "website/api/ikea/products", fileName: productFromResponse.id }
-                                    );
-                                }
-                            }
+                                        },
+                                    ],
+                                    //TODO - availability
+                                    // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
+                                }),
+                                { directory: "website/api/ikea/products", fileName: productFromResponse.id }
+                            );
                         }
                     }
                 }
