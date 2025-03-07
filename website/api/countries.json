@@ -1,0 +1,14 @@
+[
+    {
+        "code": "pl",
+        "country": "Poland",
+        "language": "pl",
+        "currency": "PLN"
+    },
+    {
+        "code": "cz",
+        "country": "Czechia",
+        "language": "cs",
+        "currency": "CZK"
+    }
+]
