@@ -1,1 +1,1 @@
-{"id":"s89404578","itemNo":"89404578","name":"IVAR","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/ivar-regal-sosna-s89404578/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":400}]}
+{"id":"s89404578","itemNo":"89404578","name":"IVAR","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/ivar-regal-sosna-s89404578/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/ivar-policovy-dil-borovice-s89404578/"}},"prices":{"pl":{"currencyCode":"PLN","price":400},"cz":{"currencyCode":"CZK","price":2070}}}

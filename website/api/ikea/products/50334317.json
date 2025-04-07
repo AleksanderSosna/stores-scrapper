@@ -1,1 +1,1 @@
-{"id":"50334317","itemNo":"50334317","name":"BILLSBRO","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/billsbro-uchytka-bila-50334317/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":229}]}
+{"id":"50334317","itemNo":"50334317","name":"BILLSBRO","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/billsbro-uchwyt-bialy-50334317/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/billsbro-uchytka-bila-50334317/"}},"prices":{"pl":{"currencyCode":"PLN","price":40},"cz":{"currencyCode":"CZK","price":229}}}

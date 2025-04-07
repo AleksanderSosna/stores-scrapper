@@ -1,1 +1,1 @@
-{"id":"80300373","itemNo":"80300373","name":"FISKBO","categoryKey":"de001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/fiskbo-ram-bila-80300373/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":49}]}
+{"id":"80300373","itemNo":"80300373","name":"FISKBO","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/fiskbo-ram-bila-80300373/"}},"prices":{"cz":{"currencyCode":"CZK","price":49}}}

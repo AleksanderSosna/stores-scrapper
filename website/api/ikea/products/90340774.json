@@ -1,1 +1,1 @@
-{"id":"90340774","itemNo":"90340774","name":"EKEDALEN","categoryKey":"fu002","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/ekedalen-stol-rozkladany-dab-90340774/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":1299}]}
+{"id":"90340774","itemNo":"90340774","name":"EKEDALEN","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/ekedalen-stol-rozkladany-dab-90340774/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/ekedalen-rozkladaci-stul-dub-90340774/"}},"prices":{"pl":{"currencyCode":"PLN","price":1299},"cz":{"currencyCode":"CZK","price":5990}}}

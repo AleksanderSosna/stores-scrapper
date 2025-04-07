@@ -1,1 +1,1 @@
-{"id":"40591581","itemNo":"40591581","name":"LOCKIG","categoryKey":"bc001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/lockig-nocnik-bialy-turkusowy-40591581/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":29.99}]}
+{"id":"40591581","itemNo":"40591581","name":"LOCKIG","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/lockig-nocnik-bialy-turkusowy-40591581/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/lockig-detsky-nocnik-bila-tyrkysova-40591581/"}},"prices":{"pl":{"currencyCode":"PLN","price":29.99},"cz":{"currencyCode":"CZK","price":149}}}

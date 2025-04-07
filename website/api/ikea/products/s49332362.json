@@ -1,1 +1,1 @@
-{"id":"s49332362","itemNo":"49332362","name":"BOAXEL","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/boaxel-satni-sestava-bila-s49332362/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":2200}]}
+{"id":"s49332362","itemNo":"49332362","name":"BOAXEL","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/boaxel-kombinacja-szafy-bialy-s49332362/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/boaxel-satni-sestava-bila-s49332362/"}},"prices":{"pl":{"currencyCode":"PLN","price":365},"cz":{"currencyCode":"CZK","price":2200}}}

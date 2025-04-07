@@ -1,32 +1,36 @@
 import { test } from "@playwright/test";
+import fs from "fs";
+import path from "path";
 
+import { Shared } from "@page-objects/shared";
 import { Ikea } from "@page-objects/ikea";
+import countries from "@api/countries.json" assert { type: "json" };
 
+let shared: Shared;
 let ikea: Ikea;
 
-const countryCodes = process.env.COUNTRY_CODES ? JSON.parse(process.env.COUNTRY_CODES) : ["pl"];
-
 test.beforeEach(async ({ page }) => {
+    shared = new Shared(page);
     ikea = new Ikea(page);
 });
 
+test.describe.configure({ mode: "serial" });
 test.describe("Ikea Scrapper", () => {
     test.describe("Categories", () => {
         test.beforeAll(async ({ browser }) => {
             const page = await browser.newPage();
-            ikea = new Ikea(page);
+            shared = new Shared(page);
 
-            const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = [];
-            await ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
+            await shared.writeJsonToFile(JSON.stringify([]), { directory: "website/api/ikea", fileName: "categories" });
 
             await page.close();
         });
 
-        for (const countryCode of countryCodes) {
-            test(`Create ${countryCode} Categories Database`, async ({ page }) => {
-                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = await ikea.readJson("website/api/ikea", "categories");
+        for (const country of countries) {
+            test(`Create ${country.code} Categories Database`, async ({ page }) => {
+                const categories: Array<{ id: string; names: { [countryCode: string]: { name: string } } }> = await shared.readJson("website/api/ikea", "categories");
 
-                await page.goto(`${ikea.countryCodeAndLanguageCodeFromCountryCode(countryCode)}/cat/produkty-products/`, { waitUntil: "networkidle" });
+                await page.goto(`https://www.ikea.com${ikea.countryCodeAndLanguageCodeForCountryCode(country.code)}/cat/produkty-products/`, { waitUntil: "networkidle" });
 
                 const seeAllInCategoryLinksLocators = await ikea.seeAllInCategoryLinks.all();
                 for (const seeAllInCategoryLinkLocator of seeAllInCategoryLinksLocators) {
@@ -34,22 +38,16 @@ test.describe("Ikea Scrapper", () => {
                     const category = hrefAttribute.split("/")[hrefAttribute.split("/").length - 2];
                     const categoryName = category.split(`-${category.split("-").pop()}`)[0];
                     const categoryKey = category.split("-").pop();
+                    const index = categories.findIndex((category) => category.id === categoryKey);
 
-                    const categoryExists = categories.some((category) => {
-                        return category.key === categoryKey;
-                    });
-
-                    if (categoryExists) {
-                        const index = categories.findIndex((category) => {
-                            return category.key === categoryKey;
-                        });
-                        categories[index].names.push({ countryCode: countryCode, name: categoryName });
+                    if (index !== -1) {
+                        categories[index].names[country.code] = { name: categoryName };
                     } else {
-                        categories.push({ key: categoryKey, names: [{ countryCode: countryCode, name: categoryName }] });
+                        categories.push({ id: categoryKey, names: { [country.code]: { name: categoryName } } });
                     }
                 }
 
-                await ikea.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
+                await shared.writeJsonToFile(JSON.stringify(categories), { directory: "website/api/ikea", fileName: "categories" });
             });
         }
     });
@@ -57,143 +55,70 @@ test.describe("Ikea Scrapper", () => {
     test.describe("Products", () => {
         test.beforeAll(async ({ browser }) => {
             const page = await browser.newPage();
-            ikea = new Ikea(page);
+            shared = new Shared(page);
 
-            const products: Array<{
-                id: string;
-                itemNo: string;
-                name: string;
-                categoryKey: string;
-                urls: Array<{ countryCode: string; url: string }>;
-                prices: Array<{ countryCode: string; currencyCode: string; price: number }>;
-                availabilities: Array<{
-                    countryCode: string;
-                    storeId: string;
-                    storeName: string;
-                    quantity: number;
-                }>;
-            }> = [];
-            await ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
-
-            await ikea.deleteAllFilesFromDirectory("./website/api/ikea/products");
+            await shared.deleteAllFilesFromDirectory("./website/api/ikea/products");
 
             await page.close();
         });
 
-        for (const countryCode of countryCodes) {
-            test(`Create ${countryCode} Products Database`, async ({ page }) => {
-                const categories: Array<{ key: string; names: Array<{ countryCode: string; name: string }> }> = await ikea.readJson("website/api/ikea", "categories");
-                const products: Array<{
-                    id: string;
-                    itemNo: string;
-                    name: string;
-                    categoryKey: string;
-                    urls: Array<{ countryCode: string; url: string }>;
-                    prices: Array<{ countryCode: string; currencyCode: string; price: number }>;
-                    //TODO - availability
-                    // availabilities: Array<{
-                    //     countryCode: string;
-                    //     storeId: string;
-                    //     storeName: string;
-                    //     quantity: number;
-                    // }>;
-                }> = await ikea.readJson("website/api/ikea", "products");
+        for (const country of countries) {
+            test(`Create ${country.code} Products Database`, async ({ page }) => {
+                const categories: Array<{ id: string; names: Array<{ countryCode: string; name: string }> }> = await shared.readJson("website/api/ikea", "categories");
 
                 for (const category of categories) {
                     let productsFromResponse = [];
-                    let offset = 0
+                    let offset = 0;
                     do {
-                        var response = await ikea.getProducts(countryCode, category.key, { start: offset, end: offset + 1000 });
+                        var response = await ikea.getProducts(country.code, category.id, { start: offset, end: offset + 1000 });
                         productsFromResponse = productsFromResponse.concat(response.moreProducts.productWindow);
 
-                        offset += 1000
+                        offset += 1000;
                     } while (response.moreProducts.productWindow.length !== 0);
 
                     for (const productFromResponse of productsFromResponse) {
-                        const productExists = products.some((product) => {
-                            return product.id === productFromResponse.id;
-                        });
+                        if (fs.existsSync(path.resolve(`website/api/ikea/products/${productFromResponse.id}.json`))) {
+                            const product: {
+                                id: string;
+                                itemNo: string;
+                                name: string;
+                                imageUrl: string;
+                                urls: { [countryCode: string]: { url: string } };
+                                prices: { [countryCode: string]: { currencyCode: string; price: number } };
+                            } = await shared.readJson("website/api/ikea/products", productFromResponse.id);
 
-                        if (productExists) {
-                            const index = products.findIndex((product) => {
-                                return product.id === productFromResponse.id;
-                            });
-                            const priceForCountryCodeExists = products[index].prices.some((prices) => {
-                                return prices.countryCode === countryCode;
-                            });
-                            if (!priceForCountryCodeExists) {
-                                //TODO - availability
-                                // const availabilities = await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo);
-                                // products[index].availabilities = products[index].availabilities.concat(availabilities);
+                            product.urls[country.code] = {
+                                url: productFromResponse.pipUrl,
+                            };
+                            product.prices[country.code] = {
+                                currencyCode: productFromResponse.salesPrice.currencyCode,
+                                price: productFromResponse.salesPrice.numeral,
+                            };
 
-                                products[index].urls.push({
-                                    countryCode: countryCode,
-                                    url: productFromResponse.pipUrl,
-                                });
-
-                                products[index].prices.push({
-                                    countryCode: countryCode,
-                                    currencyCode: productFromResponse.salesPrice.currencyCode,
-                                    price: productFromResponse.salesPrice.numeral,
-                                });
-
-                                await ikea.writeJsonToFile(JSON.stringify(products[index]), {
-                                    directory: "website/api/ikea/products",
-                                    fileName: productFromResponse.id,
-                                });
-                            }
+                            await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ikea/products", fileName: productFromResponse.id });
                         } else {
-                            products.push({
+                            const product = {
                                 id: productFromResponse.id,
                                 itemNo: productFromResponse.itemNo,
                                 name: productFromResponse.name,
-                                categoryKey: category.key,
-                                urls: [
-                                    {
-                                        countryCode: countryCode,
+                                imageUrl: productFromResponse.src,
+                                urls: {
+                                    [country.code]: {
                                         url: productFromResponse.pipUrl,
                                     },
-                                ],
-                                prices: [
-                                    {
-                                        countryCode: countryCode,
+                                },
+                                prices: {
+                                    [country.code]: {
                                         currencyCode: productFromResponse.salesPrice.currencyCode,
                                         price: productFromResponse.salesPrice.numeral,
                                     },
-                                ],
-                                //TODO - availability
-                                // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
-                            });
+                                },
+                            };
 
-                            await ikea.writeJsonToFile(
-                                JSON.stringify({
-                                    id: productFromResponse.id,
-                                    itemNo: productFromResponse.itemNo,
-                                    name: productFromResponse.name,
-                                    categoryKey: category.key,
-                                    urls: [
-                                        {
-                                            countryCode: countryCode,
-                                            url: productFromResponse.pipUrl,
-                                        },
-                                    ],
-                                    prices: [
-                                        {
-                                            countryCode: countryCode,
-                                            currencyCode: productFromResponse.salesPrice.currencyCode,
-                                            price: productFromResponse.salesPrice.numeral,
-                                        },
-                                    ],
-                                    //TODO - availability
-                                    // availabilities: await ikea.getAvailabilitiesForItemNo(countryCode, productFromResponse.itemNo),
-                                }),
-                                { directory: "website/api/ikea/products", fileName: productFromResponse.id }
-                            );
+                            await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ikea/products", fileName: productFromResponse.id });
                         }
                     }
                 }
-
-                await ikea.writeJsonToFile(JSON.stringify(products), { directory: "website/api/ikea", fileName: "products" });
             });
         }
     });

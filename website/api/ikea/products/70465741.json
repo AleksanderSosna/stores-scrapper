@@ -1,1 +1,1 @@
-{"id":"70465741","itemNo":"70465741","name":"ENHET","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/enhet-tyc-na-hacky-antracit-70465741/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":120}]}
+{"id":"70465741","itemNo":"70465741","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-szyna-na-haczyki-antracyt-70465741/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/enhet-tyc-na-hacky-antracit-70465741/"}},"prices":{"pl":{"currencyCode":"PLN","price":25},"cz":{"currencyCode":"CZK","price":120}}}

@@ -1,1 +1,1 @@
-{"id":"10363632","itemNo":"10363632","name":"HÄLLAN","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/haellan-par-nohou-bila-10363632/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":500}]}
+{"id":"10363632","itemNo":"10363632","name":"HÄLLAN","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/haellan-par-nohou-bila-10363632/"}},"prices":{"cz":{"currencyCode":"CZK","price":500}}}

@@ -1,1 +1,1 @@
-{"id":"60334661","itemNo":"60334661","name":"OMAR","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/omar-kryt-na-polici-60334661/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":150}]}
+{"id":"60334661","itemNo":"60334661","name":"OMAR","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/omar-kryt-na-polici-60334661/"}},"prices":{"cz":{"currencyCode":"CZK","price":150}}}

@@ -1,1 +1,1 @@
-{"id":"40416498","itemNo":"40416498","name":"LISABO","categoryKey":"fu002","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/lisabo-stul-dyha-jasan-40416498/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":3690}]}
+{"id":"40416498","itemNo":"40416498","name":"LISABO","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/lisabo-stol-okleina-jesionowa-40416498/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/lisabo-stul-dyha-jasan-40416498/"}},"prices":{"pl":{"currencyCode":"PLN","price":899},"cz":{"currencyCode":"CZK","price":3690}}}

@@ -1,1 +1,1 @@
-{"id":"70419532","itemNo":"70419532","name":"LOMVIKEN","categoryKey":"de001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/lomviken-ramka-bialy-70419532/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":39.99}]}
+{"id":"70419532","itemNo":"70419532","name":"LOMVIKEN","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/lomviken-ramka-bialy-70419532/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/lomviken-ram-bila-70419532/"}},"prices":{"pl":{"currencyCode":"PLN","price":39.99},"cz":{"currencyCode":"CZK","price":249}}}

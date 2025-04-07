@@ -1,1 +1,1 @@
-{"id":"70574900","itemNo":"70574900","name":"FRÖSJÖN","categoryKey":"ba001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/froesjoen-policovy-dil-cerna-70574900/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":599}]}
+{"id":"70574900","itemNo":"70574900","name":"FRÖSJÖN","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/froesjoen-policovy-dil-cerna-70574900/"}},"prices":{"cz":{"currencyCode":"CZK","price":599}}}

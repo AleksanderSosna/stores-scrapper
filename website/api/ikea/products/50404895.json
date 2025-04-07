@@ -1,1 +1,1 @@
-{"id":"50404895","itemNo":"50404895","name":"LAUTERS","categoryKey":"li001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/lauters-stolni-lampa-jasan-bila-50404895/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":999}]}
+{"id":"50404895","itemNo":"50404895","name":"LAUTERS","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/lauters-stolni-lampa-jasan-bila-50404895/"}},"prices":{"cz":{"currencyCode":"CZK","price":999}}}

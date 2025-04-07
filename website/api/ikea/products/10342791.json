@@ -1,1 +1,1 @@
-{"id":"10342791","itemNo":"10342791","name":"ULLVIDE","categoryKey":"tl001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/ullvide-poszewka-granatowy-10342791/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99}]}
+{"id":"10342791","itemNo":"10342791","name":"ULLVIDE","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/ullvide-poszewka-granatowy-10342791/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/ullvide-povlak-na-polstar-tm-modra-10342791/"}},"prices":{"pl":{"currencyCode":"PLN","price":19.99},"cz":{"currencyCode":"CZK","price":129}}}

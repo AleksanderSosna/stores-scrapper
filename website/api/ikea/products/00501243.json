@@ -1,1 +1,1 @@
-{"id":"00501243","itemNo":"00501243","name":"BLÅLIDEN","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/blaliden-vitrina-bila-00501243/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":1990}]}
+{"id":"00501243","itemNo":"00501243","name":"BLÅLIDEN","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/blaliden-vitrina-bila-00501243/"}},"prices":{"cz":{"currencyCode":"CZK","price":1990}}}

@@ -3,9 +3,6 @@ on:
     workflow_dispatch:
     schedule:
         - cron: "0 4 * * *"
-env:
-    BASE_URL: "https://www.ikea.com"
-    COUNTRY_CODES: '["pl", "cz"]'
 permissions:
     contents: write
 jobs:
@@ -21,7 +18,7 @@ jobs:
               run: npm ci
             - name: Install Playwright Chromium
               run: npx playwright install --with-deps chromium
-            - name: Run Ikea Scrapper wrapped in Playwright tests
+            - name: Run Stores Scrapper wrapped in Playwright tests
               run: npm run test
             - name: Commit generated JSON files
               run: |

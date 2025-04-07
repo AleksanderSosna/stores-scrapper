@@ -1,1 +1,1 @@
-{"id":"60330979","itemNo":"60330979","name":"HJÄLPA","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/hjaelpa-szuflada-bialy-60330979/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":70}]}
+{"id":"60330979","itemNo":"60330979","name":"HJÄLPA","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/hjaelpa-szuflada-bialy-60330979/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/hjaelpa-zasuvka-bez-cela-bila-60330979/"}},"prices":{"pl":{"currencyCode":"PLN","price":70},"cz":{"currencyCode":"CZK","price":450}}}

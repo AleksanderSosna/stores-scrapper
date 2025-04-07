@@ -1,1 +1,1 @@
-{"id":"s09548038","itemNo":"09548038","name":"ENHET","categoryKey":"ka001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/enhet-regal-bialy-s09548038/"},{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/enhet-ulozna-sestava-bila-s09548038/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":1098},{"countryCode":"cz","currencyCode":"CZK","price":7229}]}
+{"id":"s09548038","itemNo":"09548038","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-regal-bialy-s09548038/"}},"prices":{"pl":{"currencyCode":"PLN","price":1098}}}

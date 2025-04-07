@@ -1,1 +1,1 @@
-{"id":"30557380","itemNo":"30557380","name":"HOLMARED","categoryKey":"ka001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/holmared-blat-bambus-fornir-30557380/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":549}]}
+{"id":"30557380","itemNo":"30557380","name":"HOLMARED","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/holmared-blat-bambus-fornir-30557380/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/holmared-pracovni-deska-bambus-dyha-30557380/"}},"prices":{"pl":{"currencyCode":"PLN","price":549},"cz":{"currencyCode":"CZK","price":3990}}}

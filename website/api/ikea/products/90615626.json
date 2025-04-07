@@ -1,1 +1,1 @@
-{"id":"90615626","itemNo":"90615626","name":"MYRMOSAIK","categoryKey":"de001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/myrmosaik-wazon-rozowy-90615626/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":19.99}]}
+{"id":"90615626","itemNo":"90615626","name":"MYRMOSAIK","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/myrmosaik-wazon-rozowy-90615626/"}},"prices":{"pl":{"currencyCode":"PLN","price":19.99}}}

@@ -1,1 +1,1 @@
-{"id":"70243316","itemNo":"70243316","name":"KNARRA","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/knarra-kos-bila-70243316/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":249}]}
+{"id":"70243316","itemNo":"70243316","name":"KNARRA","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/knarra-kos-bila-70243316/"}},"prices":{"cz":{"currencyCode":"CZK","price":249}}}

@@ -1,1 +1,1 @@
-{"id":"s19547910","itemNo":"19547910","name":"ENHET","categoryKey":"ka001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/enhet-ulozna-sestava-antracit-bila-s19547910/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":3000}]}
+{"id":"s19547910","itemNo":"19547910","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-regal-antracyt-bialy-s19547910/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/enhet-ulozna-sestava-antracit-bila-s19547910/"}},"prices":{"pl":{"currencyCode":"PLN","price":460},"cz":{"currencyCode":"CZK","price":3000}}}

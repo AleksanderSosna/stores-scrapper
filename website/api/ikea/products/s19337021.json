@@ -1,1 +1,1 @@
-{"id":"s19337021","itemNo":"19337021","name":"ENHET","categoryKey":"ka001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-s19337021/"},{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/enhet-kuchyne-bila-s19337021/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":1388.7},{"countryCode":"cz","currencyCode":"CZK","price":8841}]}
+{"id":"s19337021","itemNo":"19337021","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-s19337021/"}},"prices":{"pl":{"currencyCode":"PLN","price":1389}}}

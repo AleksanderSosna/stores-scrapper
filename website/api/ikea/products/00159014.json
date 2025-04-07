@@ -1,1 +1,1 @@
-{"id":"00159014","itemNo":"00159014","name":"BYHOLMA","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/byholma-kos-seda-00159014/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":229}]}
+{"id":"00159014","itemNo":"00159014","name":"BYHOLMA","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/byholma-kos-seda-00159014/"}},"prices":{"cz":{"currencyCode":"CZK","price":229}}}

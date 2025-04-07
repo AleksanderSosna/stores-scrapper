@@ -1,1 +1,1 @@
-{"id":"90510262","itemNo":"90510262","name":"TONSTAD","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/tonstad-drzwi-okl-deb-90510262/"},{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/tonstad-dvere-dyha-dub-90510262/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":403.75},{"countryCode":"cz","currencyCode":"CZK","price":2800}]}
+{"id":"90510262","itemNo":"90510262","name":"TONSTAD","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/tonstad-drzwi-okl-deb-90510262/"}},"prices":{"pl":{"currencyCode":"PLN","price":475}}}

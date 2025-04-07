@@ -1,1 +1,1 @@
-{"id":"30303326","itemNo":"30303326","name":"VIGRESTAD","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/vigrestad-komoda-bialy-30303326/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":149}]}
+{"id":"30303326","itemNo":"30303326","name":"VIGRESTAD","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/vigrestad-komoda-bialy-30303326/"}},"prices":{"pl":{"currencyCode":"PLN","price":149}}}

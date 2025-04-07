@@ -1,1 +1,1 @@
-{"id":"25989100","itemNo":"25989100","name":"FRAKTA","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/frakta-popruh-na-zavazadla-cerna-25989100/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":149}]}
+{"id":"25989100","itemNo":"25989100","name":"FRAKTA","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/frakta-popruh-na-zavazadla-cerna-25989100/"}},"prices":{"cz":{"currencyCode":"CZK","price":149}}}

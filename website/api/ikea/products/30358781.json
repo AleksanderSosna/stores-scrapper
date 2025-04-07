@@ -1,1 +1,1 @@
-{"id":"30358781","itemNo":"30358781","name":"KUPONG","categoryKey":"de001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/kupong-budik-zelena-30358781/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":45}]}
+{"id":"30358781","itemNo":"30358781","name":"KUPONG","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/kupong-budik-zelena-30358781/"}},"prices":{"cz":{"currencyCode":"CZK","price":45}}}

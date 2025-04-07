@@ -1,1 +1,1 @@
-{"id":"80385348","itemNo":"80385348","name":"IVAR","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/ivar-zasuvka-bila-80385348/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":500}]}
+{"id":"80385348","itemNo":"80385348","name":"IVAR","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/ivar-zasuvka-bila-80385348/"}},"prices":{"cz":{"currencyCode":"CZK","price":500}}}

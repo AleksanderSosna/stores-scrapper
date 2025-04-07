@@ -1,1 +1,1 @@
-{"id":"10357259","itemNo":"10357259","name":"DVALA","categoryKey":"tl001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/dvala-prosteradlo-bila-10357259/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":299}]}
+{"id":"10357259","itemNo":"10357259","name":"DVALA","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/dvala-przescieradlo-bialy-10357259/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/dvala-prosteradlo-bila-10357259/"}},"prices":{"pl":{"currencyCode":"PLN","price":49.99},"cz":{"currencyCode":"CZK","price":299}}}

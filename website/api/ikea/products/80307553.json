@@ -1,1 +1,1 @@
-{"id":"80307553","itemNo":"80307553","name":"BESTÅ","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/besta-krabice-seda-80307553/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":399}]}
+{"id":"80307553","itemNo":"80307553","name":"BESTÅ","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/besta-krabice-seda-80307553/"}},"prices":{"cz":{"currencyCode":"CZK","price":399}}}

@@ -1,1 +1,1 @@
-{"id":"10509804","itemNo":"10509804","name":"KATEBO","categoryKey":"de001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/katebo-obraz-spojene-10509804/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":899}]}
+{"id":"10509804","itemNo":"10509804","name":"KATEBO","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/katebo-obraz-spojene-10509804/"}},"prices":{"cz":{"currencyCode":"CZK","price":899}}}

@@ -1,1 +1,1 @@
-{"id":"00542130","itemNo":"00542130","name":"LEN","categoryKey":"tl001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/len-spiwor-zielony-00542130/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":59.99}]}
+{"id":"00542130","itemNo":"00542130","name":"LEN","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/len-spiwor-zielony-00542130/"}},"prices":{"pl":{"currencyCode":"PLN","price":59.99}}}

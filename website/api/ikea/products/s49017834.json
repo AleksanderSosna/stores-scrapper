@@ -1,1 +1,1 @@
-{"id":"s49017834","itemNo":"49017834","name":"BILLY / OXBERG","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/billy-oxberg-regal-bialy-s49017834/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":1492}]}
+{"id":"s49017834","itemNo":"49017834","name":"BILLY / OXBERG","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/billy-oxberg-regal-bialy-s49017834/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/billy-oxberg-knihovna-bila-s49017834/"}},"prices":{"pl":{"currencyCode":"PLN","price":1492},"cz":{"currencyCode":"CZK","price":10429}}}

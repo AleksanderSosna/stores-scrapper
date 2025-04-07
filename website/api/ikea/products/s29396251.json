@@ -1,1 +1,1 @@
-{"id":"s29396251","itemNo":"29396251","name":"PAX","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/pax-kombinacja-szafy-bialy-s29396251/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":2333.25}]}
+{"id":"s29396251","itemNo":"29396251","name":"PAX","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/pax-kombinacja-szafy-bialy-s29396251/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/pax-satni-sestava-bila-s29396251/"}},"prices":{"pl":{"currencyCode":"PLN","price":2745},"cz":{"currencyCode":"CZK","price":14640}}}

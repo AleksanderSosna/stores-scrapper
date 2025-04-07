@@ -1,1 +1,1 @@
-{"id":"80385923","itemNo":"80385923","name":"FONNES","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/fonnes-celo-zasuvky-bila-80385923/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":150}]}
+{"id":"80385923","itemNo":"80385923","name":"FONNES","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/fonnes-front-szuflady-bialy-80385923/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/fonnes-celo-zasuvky-bila-80385923/"}},"prices":{"pl":{"currencyCode":"PLN","price":20},"cz":{"currencyCode":"CZK","price":150}}}

@@ -1,1 +1,1 @@
-{"id":"10575040","itemNo":"10575040","name":"MÄVINN","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/maevinn-kos-10575040/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":399}]}
+{"id":"10575040","itemNo":"10575040","name":"MÄVINN","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/maevinn-kos-10575040/"}},"prices":{"cz":{"currencyCode":"CZK","price":399}}}

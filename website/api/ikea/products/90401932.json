@@ -1,1 +1,1 @@
-{"id":"90401932","itemNo":"90401932","name":"BILLY","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/billy-regal-bialy-90401932/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":399}]}
+{"id":"90401932","itemNo":"90401932","name":"BILLY","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/billy-regal-bialy-90401932/"}},"prices":{"pl":{"currencyCode":"PLN","price":399}}}

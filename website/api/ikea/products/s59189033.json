@@ -1,1 +1,1 @@
-{"id":"s59189033","itemNo":"59189033","name":"EKET","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/eket-nastenna-sestava-skrinek-bila-s59189033/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":5640}]}
+{"id":"s59189033","itemNo":"59189033","name":"EKET","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/eket-nastenna-sestava-skrinek-bila-s59189033/"}},"prices":{"cz":{"currencyCode":"CZK","price":5640}}}

@@ -1,1 +1,1 @@
-{"id":"50403669","itemNo":"50403669","name":"STEIN","categoryKey":"fu002","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/stein-zidle-pruhledna-50403669/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":1790}]}
+{"id":"50403669","itemNo":"50403669","name":"STEIN","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/stein-zidle-pruhledna-50403669/"}},"prices":{"cz":{"currencyCode":"CZK","price":1790}}}

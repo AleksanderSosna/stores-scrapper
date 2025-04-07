@@ -1,1 +1,1 @@
-{"id":"00509866","itemNo":"00509866","name":"KATEBO","categoryKey":"de001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/katebo-obraz-jedna-kvetina-00509866/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":899}]}
+{"id":"00509866","itemNo":"00509866","name":"KATEBO","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/katebo-obraz-jedna-kvetina-00509866/"}},"prices":{"cz":{"currencyCode":"CZK","price":899}}}

@@ -1,1 +1,1 @@
-{"id":"s29420393","itemNo":"29420393","name":"SANDSBERG","categoryKey":"fu002","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/sandsberg-stul-cerna-s29420393/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":1190}]}
+{"id":"s29420393","itemNo":"29420393","name":"SANDSBERG","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/sandsberg-stul-cerna-s29420393/"}},"prices":{"cz":{"currencyCode":"CZK","price":1190}}}

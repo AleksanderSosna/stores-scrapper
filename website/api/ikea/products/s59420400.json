@@ -1,1 +1,1 @@
-{"id":"s59420400","itemNo":"59420400","name":"SANDSBERG","categoryKey":"fu002","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/sandsberg-stol-czarny-s59420400/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":149}]}
+{"id":"s59420400","itemNo":"59420400","name":"SANDSBERG","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/sandsberg-stol-czarny-s59420400/"}},"prices":{"pl":{"currencyCode":"PLN","price":149}}}

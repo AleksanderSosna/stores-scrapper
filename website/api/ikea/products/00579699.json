@@ -1,1 +1,1 @@
-{"id":"00579699","itemNo":"00579699","name":"GULVIAL","categoryKey":"tl001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/gulvial-rucnik-tyrkysova-00579699/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":129}]}
+{"id":"00579699","itemNo":"00579699","name":"GULVIAL","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/gulvial-rucnik-tyrkysova-00579699/"}},"prices":{"cz":{"currencyCode":"CZK","price":129}}}

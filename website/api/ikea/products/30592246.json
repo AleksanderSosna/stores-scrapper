@@ -1,1 +1,1 @@
-{"id":"30592246","itemNo":"30592246","name":"TJÄRLEK","categoryKey":"de001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/tjaerlek-svicen-barevna-30592246/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":169}]}
+{"id":"30592246","itemNo":"30592246","name":"TJÄRLEK","urls":{"cz":{"url":"https://www.ikea.com/cz/cs/p/tjaerlek-svicen-barevna-30592246/"}},"prices":{"cz":{"currencyCode":"CZK","price":169}}}

@@ -1,1 +1,1 @@
-{"id":"s19895283","itemNo":"19895283","name":"PAX","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/pax-2-obudowy-szaf-bialy-s19895283/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":510}]}
+{"id":"s19895283","itemNo":"19895283","name":"PAX","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/pax-2-obudowy-szaf-bialy-s19895283/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/pax-2-ramy-satni-skrine-bila-s19895283/"}},"prices":{"pl":{"currencyCode":"PLN","price":600},"cz":{"currencyCode":"CZK","price":3600}}}

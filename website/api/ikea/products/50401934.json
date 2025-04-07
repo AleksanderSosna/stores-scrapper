@@ -1,1 +1,1 @@
-{"id":"50401934","itemNo":"50401934","name":"BILLY","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/billy-nadstawka-bialy-50401934/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":90}]}
+{"id":"50401934","itemNo":"50401934","name":"BILLY","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/billy-nadstawka-bialy-50401934/"}},"prices":{"pl":{"currencyCode":"PLN","price":90}}}

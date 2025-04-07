@@ -1,1 +1,1 @@
-{"id":"60434825","itemNo":"60434825","name":"RUDSTA","categoryKey":"st001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-60434825/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":449}]}
+{"id":"60434825","itemNo":"60434825","name":"RUDSTA","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-60434825/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/rudsta-vitrina-antracit-60434825/"}},"prices":{"pl":{"currencyCode":"PLN","price":449},"cz":{"currencyCode":"CZK","price":2990}}}

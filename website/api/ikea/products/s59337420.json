@@ -1,1 +1,1 @@
-{"id":"s59337420","itemNo":"59337420","name":"ENHET","categoryKey":"ka001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-imit-debu-s59337420/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":2339.5}]}
+{"id":"s59337420","itemNo":"59337420","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-kuchnia-bialy-imit-debu-s59337420/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/enhet-kuchyne-bila-vzor-dub-s59337420/"}},"prices":{"pl":{"currencyCode":"PLN","price":2347},"cz":{"currencyCode":"CZK","price":14874}}}

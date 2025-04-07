@@ -1,1 +1,1 @@
-{"id":"s09547473","itemNo":"09547473","name":"ENHET","categoryKey":"ba001","urls":[{"countryCode":"pl","url":"https://www.ikea.com/pl/pl/p/enhet-lazienka-antracyt-bialy-s09547473/"}],"prices":[{"countryCode":"pl","currencyCode":"PLN","price":2184}]}
+{"id":"s09547473","itemNo":"09547473","name":"ENHET","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/enhet-lazienka-antracyt-bialy-s09547473/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/enhet-koupelna-antracit-bila-s09547473/"}},"prices":{"pl":{"currencyCode":"PLN","price":2184},"cz":{"currencyCode":"CZK","price":9640}}}

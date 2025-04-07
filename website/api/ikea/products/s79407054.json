@@ -1,1 +1,1 @@
-{"id":"s79407054","itemNo":"79407054","name":"IVAR","categoryKey":"st001","urls":[{"countryCode":"cz","url":"https://www.ikea.com/cz/cs/p/ivar-1-cast-police-borovice-s79407054/"}],"prices":[{"countryCode":"cz","currencyCode":"CZK","price":2650}]}
+{"id":"s79407054","itemNo":"79407054","name":"IVAR","urls":{"pl":{"url":"https://www.ikea.com/pl/pl/p/ivar-sekcja-polki-sosna-s79407054/"},"cz":{"url":"https://www.ikea.com/cz/cs/p/ivar-1-cast-police-borovice-s79407054/"}},"prices":{"pl":{"currencyCode":"PLN","price":490},"cz":{"currencyCode":"CZK","price":2650}}}
