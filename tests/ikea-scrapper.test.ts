@@ -101,7 +101,7 @@ test.describe("Ikea Scrapper", () => {
                                 id: productFromResponse.id,
                                 itemNo: productFromResponse.itemNo,
                                 name: productFromResponse.name,
-                                imageUrl: productFromResponse.src,
+                                imageUrl: productFromResponse.mainImageUrl,
                                 urls: {
                                     [country.code]: {
                                         url: productFromResponse.pipUrl,
