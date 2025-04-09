@@ -2,6 +2,7 @@ import { test } from "@playwright/test";
 import fs from "fs";
 import path from "path";
 
+import * as types from "../types";
 import { Shared } from "@page-objects/shared";
 import { Ecco } from "@page-objects/ecco";
 import countries from "@api/countries.json" assert { type: "json" };
@@ -28,7 +29,7 @@ test.describe("Ecco Scrapper", () => {
 
         for (const country of countries) {
             test(`Create ${country.code} Categories Database`, async ({ page }) => {
-                const categories: Array<{ id: string; names: { [countryCode: string]: { name: string } } }> = await shared.readJson("website/api/ecco", "categories");
+                const categories: types.Category[] = await shared.readJson("website/api/ecco", "categories");
 
                 await page.goto(`https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}`);
                 await ecco.declineCookies.click();
@@ -92,7 +93,7 @@ test.describe("Ecco Scrapper", () => {
 
         for (const country of countries) {
             test(`Create ${country.code} Products Database`, async ({ request }) => {
-                const categories: Array<{ id: string; names: Array<{ countryCode: string; name: string }> }> = await shared.readJson("website/api/ecco", "categories");
+                const categories: types.Category[] = await shared.readJson("website/api/ecco", "categories");
                 let productIds: string[] = [];
 
                 for (const category of categories) {
@@ -138,19 +139,12 @@ test.describe("Ecco Scrapper", () => {
                     const data = await response.json();
 
                     if (fs.existsSync(path.resolve(`website/api/ecco/products/${data.id}.json`))) {
-                        const product: {
-                            id: string;
-                            itemNo: string;
-                            name: string;
-                            imageUrl: string;
-                            urls: { [countryCode: string]: { url: string } };
-                            prices: { [countryCode: string]: { currencyCode: string; price: number } };
-                        } = await shared.readJson("website/api/ecco/products", data.id);
+                        const product: types.Product = await shared.readJson("website/api/ecco/products", data.id);
 
                         product.urls[country.code] = {
                             url: `https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}/product/${data.id}`,
                         };
-                        product.prices[country.code] = { currencyCode: shared.getCurrencyFromCountryCode(country.code), price: Number(data.price) };
+                        product.prices[country.code] = { currencyCode: country.currency, price: Number(data.price) };
 
                         await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ecco/products", fileName: data.id });
                     } else {
@@ -160,10 +154,118 @@ test.describe("Ecco Scrapper", () => {
                             name: data.name,
                             imageUrl: data.src,
                             urls: { [country.code]: { url: `https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}/product/${data.id}` } },
-                            prices: { [country.code]: { currencyCode: shared.getCurrencyFromCountryCode(country.code), price: Number(data.price) } },
+                            prices: { [country.code]: { currencyCode: country.currency, price: Number(data.price) } },
                         };
 
                         await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ecco/products", fileName: data.id });
+                    }
+                }
+            });
+        }
+    });
+
+    test.describe("Offers", () => {
+        test.beforeAll(async ({ browser }) => {
+            const page = await browser.newPage();
+            shared = new Shared(page);
+
+            const offerObject = {};
+            for (const country of countries) {
+                offerObject[country.code] = {
+                    byValue: [],
+                    byDiscount: [],
+                };
+            }
+
+            await shared.writeJsonToFile(JSON.stringify(offerObject), { directory: "website/api/offers", fileName: "ecco" });
+
+            await page.close();
+        });
+
+        for (const country of countries) {
+            test(`Create ${country.code} Offers Database`, async ({ page }) => {
+                const countryCodes = countries.map((country) => {
+                    return country.code;
+                });
+                const filteredCountryCodes = countryCodes.filter((code) => {
+                    return code !== country.code;
+                });
+                const exchangeRates = {};
+                for (const filteredCountryCode of filteredCountryCodes) {
+                    exchangeRates[shared.currencies[filteredCountryCode]] = await shared.getExchangeRate(shared.currencies[filteredCountryCode], country.currency);
+                }
+
+                try {
+                    const files = await fs.promises.readdir(path.resolve("website/api/ecco/products"));
+                    for (const file of files) {
+                        const filePath = path.join("website/api/ecco/products", file);
+                        const product: types.Product = JSON.parse((await fs.promises.readFile(path.resolve(filePath))).toString());
+                        if (!product.prices[country.code]) {
+                            continue;
+                        }
+                        const price = product.prices[country.code].price;
+
+                        let bestValue = 0;
+                        let bestDiscount = 0;
+                        for (const filteredCountryCode of filteredCountryCodes) {
+                            if (!product.prices[filteredCountryCode]) {
+                                continue;
+                            }
+                            const convertedPrice = product.prices[filteredCountryCode].price * exchangeRates[shared.currencies[filteredCountryCode]];
+                            
+                            bestValue = convertedPrice - price > bestValue ? convertedPrice - price : bestValue;
+                            bestDiscount = 1 - price / convertedPrice > bestDiscount ? 1 - price / convertedPrice : bestDiscount;
+                        }
+
+                        if (bestValue === 0 || bestDiscount === 0) {
+                            continue;
+                        }
+
+                        const offer = {
+                            id: product.id,
+                            itemNo: product.itemNo,
+                            name: product.name,
+                            imageUrl: product.imageUrl,
+                            urls: product.urls,
+                            prices: product.prices,
+                            bestDiscount: bestDiscount,
+                            bestValue: bestValue,
+                            worstPrice: price + bestValue,
+                        };
+
+                        const offers: types.Offers = await shared.readJson("website/api/offers", "ecco");
+
+                        if (offers[country.code].byDiscount.length < 10) {
+                            offers[country.code].byDiscount.push(offer);
+                        } else {
+                            const discounts = offers[country.code].byDiscount.map((offer) => {
+                                return offer.bestDiscount;
+                            });
+                            const minDiscount = Math.min(...discounts);
+                            if (bestDiscount > minDiscount) {
+                                const index = discounts.indexOf(minDiscount);
+                                offers[country.code].byDiscount[index] = offer;
+                            }
+                        }
+
+                        if (offers[country.code].byValue.length < 10) {
+                            offers[country.code].byValue.push(offer);
+                        } else {
+                            const values = offers[country.code].byValue.map((offer) => {
+                                return offer.bestValue;
+                            });
+                            const minValue = Math.min(...values);
+                            if (bestValue > minValue) {
+                                const index = values.indexOf(minValue);
+                                offers[country.code].byValue[index] = offer;
+                            }
+                        }
+
+                        await shared.writeJsonToFile(JSON.stringify(offers), { directory: "website/api/offers", fileName: "ecco" });
+                    }
+                } catch (err) {
+                    if (process.env.SURPRESS_ERRORS !== "true") {
+                        console.log(err);
                     }
                 }
             });

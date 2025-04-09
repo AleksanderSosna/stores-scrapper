@@ -6,8 +6,15 @@ import path from "path";
 export class Shared {
     readonly page: Page;
 
+    readonly currencies: { [key: string]: string }
+
     constructor(page: Page) {
         this.page = page;
+        
+        this.currencies = {
+            pl: "PLN",
+            cz: "CZK",
+        };
     }
 
     async getResponse(urls: Array<string>, options?: { timeout?: number; notIncludedUrls?: Array<string> }): Promise<Response> {
@@ -75,16 +82,16 @@ export class Shared {
         }
     }
 
-    getCurrencyFromCountryCode = (countryCode: string) => {
-        switch (countryCode) {
-            case "pl":
-                return "PLN";
-                break;
-            case "cz":
-                return "CZK";
-                break;
-            default:
-                console.log(`no matching currency code for provided "${countryCode}" countryCode found`);
-        }
-    };
+    async getExchangeRate(currencyCode: string, expectedCurrencyCode: string): Promise<number> {
+        const exchangeRateResponse = await this.page.request.get(`https://api.nbp.pl/api/exchangerates/rates/A/${currencyCode !== "PLN" ? currencyCode: expectedCurrencyCode}/`,
+            {
+                params: {
+                    format: "json",
+                },
+            });
+        const exchangeRateResJson = await exchangeRateResponse.json();
+        const exchangeRate = exchangeRateResJson.rates[0].mid;
+
+        return currencyCode === "PLN" ? 1 / exchangeRate : exchangeRate
+    }
 }
