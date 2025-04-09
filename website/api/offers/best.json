@@ -1,10 +1,10 @@
 {
     "pl": {
-        "byPrice": [],
+        "byValue": [],
         "byDiscount": []
     },
     "cz": {
-        "byPrice": [],
+        "byValue": [],
         "byDiscount": []
     }
 }
