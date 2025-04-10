@@ -2,7 +2,7 @@ import { test } from "@playwright/test";
 import fs from "fs";
 import path from "path";
 
-import * as types from "../types"
+import * as types from "../types";
 import { Shared } from "@page-objects/shared";
 import countries from "@api/countries.json" assert { type: "json" };
 
@@ -13,8 +13,6 @@ test.beforeEach(async ({ page }) => {
 });
 
 test.describe.configure({ mode: "serial" });
-
-
 test.describe("Offers", () => {
     test.beforeAll(async ({ browser }) => {
         const page = await browser.newPage();
@@ -34,85 +32,30 @@ test.describe("Offers", () => {
     });
 
     for (const country of countries) {
-        test.skip(`Create ${country.code} Offers Database`, async ({ page }) => {
-            const countryCodes = countries.map((country) => {
-                return country.code;
-            });
-            const filteredCountryCodes = countryCodes.filter((code) => {
-                return code !== country.code;
-            });
-            const exchangeRates = {};
-            for (const filteredCountryCode of filteredCountryCodes) {
-                exchangeRates[shared.currencies[filteredCountryCode]] = await shared.getExchangeRate(shared.currencies[filteredCountryCode], country.currency);
-            }
-
+        test(`Create ${country.code} Best Offers Database`, async ({ page }) => {
             try {
-                const files = await fs.promises.readdir(path.resolve("website/api/ikea/products"));
+                const bestOffers: types.Offers = await shared.readJson("website/api/offers", "best");
+
+                const files = await fs.promises.readdir(path.resolve("website/api/offers"));
                 for (const file of files) {
-                    const filePath = path.join("website/api/ikea/products", file);
-                    const product: types.Product = JSON.parse((await fs.promises.readFile(path.resolve(filePath))).toString());
-                    if (!product.prices[country.code]) {
-                        continue;
-                    }
-                    const price = product.prices[country.code].price;
-
-                    let bestValue = 0;
-                    let bestDiscount = 0;
-                    for (const filteredCountryCode of filteredCountryCodes) {
-                        if (!product.prices[filteredCountryCode]) {
-                            continue;
-                        }
-                        const convertedPrice = product.prices[filteredCountryCode].price * exchangeRates[shared.currencies[filteredCountryCode]];
-                        
-                        bestValue = convertedPrice - price > bestValue ? convertedPrice - price : bestValue;
-                        bestDiscount = 1 - price / convertedPrice > bestDiscount ? 1 - price / convertedPrice : bestDiscount;
-                    }
-
-                    if (bestValue === 0 || bestDiscount === 0) {
+                    if (file === "best.json") {
                         continue;
                     }
 
-                    const offer = {
-                        id: product.id,
-                        itemNo: product.itemNo,
-                        name: product.name,
-                        imageUrl: product.imageUrl,
-                        urls: product.urls,
-                        prices: product.prices,
-                        bestDiscount: bestDiscount,
-                        bestValue: bestValue,
-                        worstPrice: price + bestValue,
-                    };
+                    const filePath = path.join("website/api/offers", file);
+                    const offers: types.Offers = JSON.parse((await fs.promises.readFile(path.resolve(filePath))).toString());
 
-                    const offers: types.Offers = await shared.readJson("website/api/offers", "best");
+                    for (const key of Object.keys(offers[country.code])) {
+                        bestOffers[country.code][key].push(...offers[country.code][key]);
 
-                    if (offers[country.code].byDiscount.length < 10) {
-                        offers[country.code].byDiscount.push(offer);
-                    } else {
-                        const discounts = offers[country.code].byDiscount.map((offer) => {
-                            return offer.bestDiscount;
+                        bestOffers[country.code][key].sort((a, b) => {
+                            return b.bestDiscount - a.bestDiscount;
                         });
-                        const minDiscount = Math.min(...discounts);
-                        if (bestDiscount > minDiscount) {
-                            const index = discounts.indexOf(minDiscount);
-                            offers[country.code].byDiscount[index] = offer;
-                        }
+
+                        bestOffers[country.code][key].length = 20;
                     }
 
-                    if (offers[country.code].byValue.length < 10) {
-                        offers[country.code].byValue.push(offer);
-                    } else {
-                        const values = offers[country.code].byValue.map((offer) => {
-                            return offer.bestValue;
-                        });
-                        const minValue = Math.min(...values);
-                        if (bestValue > minValue) {
-                            const index = values.indexOf(minValue);
-                            offers[country.code].byValue[index] = offer;
-                        }
-                    }
-
-                    await shared.writeJsonToFile(JSON.stringify(offers), { directory: "website/api/offers", fileName: "best" });
+                    await shared.writeJsonToFile(JSON.stringify(bestOffers), { directory: "website/api/offers", fileName: "best" });
                 }
             } catch (err) {
                 if (process.env.SURPRESS_ERRORS !== "true") {

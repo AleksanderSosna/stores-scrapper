@@ -235,30 +235,25 @@ test.describe("Ecco Scrapper", () => {
 
                         const offers: types.Offers = await shared.readJson("website/api/offers", "ecco");
 
-                        if (offers[country.code].byDiscount.length < 10) {
-                            offers[country.code].byDiscount.push(offer);
-                        } else {
-                            const discounts = offers[country.code].byDiscount.map((offer) => {
-                                return offer.bestDiscount;
-                            });
-                            const minDiscount = Math.min(...discounts);
-                            if (bestDiscount > minDiscount) {
-                                const index = discounts.indexOf(minDiscount);
-                                offers[country.code].byDiscount[index] = offer;
-                            }
-                        }
+                        for (const key of Object.keys(offers[country.code])) {
+                            const best = key === "bestValue" ? bestValue : bestDiscount;
 
-                        if (offers[country.code].byValue.length < 10) {
-                            offers[country.code].byValue.push(offer);
-                        } else {
-                            const values = offers[country.code].byValue.map((offer) => {
-                                return offer.bestValue;
-                            });
-                            const minValue = Math.min(...values);
-                            if (bestValue > minValue) {
-                                const index = values.indexOf(minValue);
-                                offers[country.code].byValue[index] = offer;
+                            if (offers[country.code][key].length < 20) {
+                                offers[country.code][key].push(offer);
+                            } else {
+                                const valuesOrDiscounts = offers[country.code][key].map((offer) => {
+                                    return offer[key];
+                                });
+                                const minDiscount = Math.min(...valuesOrDiscounts);
+                                if (best > minDiscount) {
+                                    const index = valuesOrDiscounts.indexOf(minDiscount);
+                                    offers[country.code][key][index] = offer;
+                                }
                             }
+
+                            offers[country.code][key].sort((a, b) => {
+                                return b[key] - a[key];
+                            });
                         }
 
                         await shared.writeJsonToFile(JSON.stringify(offers), { directory: "website/api/offers", fileName: "ecco" });
