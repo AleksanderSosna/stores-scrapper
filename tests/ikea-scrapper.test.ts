@@ -196,13 +196,14 @@ test.describe("Ikea Scrapper", () => {
                         const offers: types.Offers = await shared.readJson("website/api/offers", "ikea");
 
                         for (const key of Object.keys(offers[country.code])) {
-                            const best = key === "bestValue" ? bestValue : bestDiscount;
+                            const best = key === "byValue" ? bestValue : bestDiscount;
+                            const bestKey = key === "byValue" ? "bestValue" : "bestDiscount";
 
                             if (offers[country.code][key].length < 20) {
                                 offers[country.code][key].push(offer);
                             } else {
                                 const valuesOrDiscounts = offers[country.code][key].map((offer) => {
-                                    return offer[key];
+                                    return offer[bestKey];
                                 });
                                 const minDiscount = Math.min(...valuesOrDiscounts);
                                 if (best > minDiscount) {
@@ -212,7 +213,7 @@ test.describe("Ikea Scrapper", () => {
                             }
 
                             offers[country.code][key].sort((a, b) => {
-                                return b[key] - a[key];
+                                return b[bestKey] - a[bestKey];
                             });
                         }
 

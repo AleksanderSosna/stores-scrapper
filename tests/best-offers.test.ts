@@ -46,10 +46,12 @@ test.describe("Offers", () => {
                     const offers: types.Offers = JSON.parse((await fs.promises.readFile(path.resolve(filePath))).toString());
 
                     for (const key of Object.keys(offers[country.code])) {
+                        const bestKey = key === "byValue" ? "bestValue" : "bestDiscount";
+
                         bestOffers[country.code][key].push(...offers[country.code][key]);
 
                         bestOffers[country.code][key].sort((a, b) => {
-                            return b.bestDiscount - a.bestDiscount;
+                            return b[bestKey] - b[bestKey];
                         });
 
                         bestOffers[country.code][key].length = 20;
