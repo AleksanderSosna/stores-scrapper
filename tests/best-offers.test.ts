@@ -41,11 +41,16 @@ test.describe("Offers", () => {
                     if (file === "best.json") {
                         continue;
                     }
-
+                    const shop = file.split(".")[0];
                     const filePath = path.join("website/api/offers", file);
                     const offers: types.Offers = JSON.parse((await fs.promises.readFile(path.resolve(filePath))).toString());
 
                     for (const key of Object.keys(offers[country.code])) {
+                        offers[country.code][key].map((offer) => {
+                            offer.shopName = shop;
+                            return offer;
+                        })
+
                         const bestKey = key === "byValue" ? "bestValue" : "bestDiscount";
 
                         bestOffers[country.code][key].push(...offers[country.code][key]);
