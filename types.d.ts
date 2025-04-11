@@ -6,7 +6,7 @@ export type Product = {
     name: string;
     imageUrl: string;
     urls: { [countryCode: string]: { url: string } };
-    prices: { [countryCode: string]: { currencyCode: string; price: number } };
+    prices: { [countryCode: string]: { [currencyCode: string]: number } };
 };
 
 export type Offer = {
@@ -15,10 +15,10 @@ export type Offer = {
     name: string;
     imageUrl: string;
     urls: { [countryCode: string]: { url: string } };
-    prices: { [countryCode: string]: { currencyCode: string; price: number } };
+    prices: { [countryCode: string]: { [currencyCode: string]: number } };
     bestDiscount: number;
-    bestValue: number;
-    worstPrice: number;
+    bestValue: { [countryCode: string]: { [currencyCode: string]: number } };
+    worstPrice: { [countryCode: string]: { [currencyCode: string]: number } };
     shopName?: string;
 };
 

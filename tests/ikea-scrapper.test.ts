@@ -2,7 +2,7 @@ import { test } from "@playwright/test";
 import fs from "fs";
 import path from "path";
 
-import * as types from "../types"
+import * as types from "../types";
 import { Shared } from "@page-objects/shared";
 import { Ikea } from "@page-objects/ikea";
 import countries from "@api/countries.json" assert { type: "json" };
@@ -65,8 +65,18 @@ test.describe("Ikea Scrapper", () => {
 
         for (const country of countries) {
             test(`Create ${country.code} Products Database`, async ({ page }) => {
-                const categories: types.Category[] = await shared.readJson("website/api/ikea", "categories");
+                const countryCodes = countries.map((country) => {
+                    return country.code;
+                });
+                const filteredCountryCodes = countryCodes.filter((code) => {
+                    return code !== country.code;
+                });
+                const exchangeRates = {};
+                for (const filteredCountryCode of filteredCountryCodes) {
+                    exchangeRates[shared.currencies[filteredCountryCode]] = await shared.getExchangeRate(country.currency, shared.currencies[filteredCountryCode]);
+                }
 
+                const categories: types.Category[] = await shared.readJson("website/api/ikea", "categories");
                 for (const category of categories) {
                     let productsFromResponse = [];
                     let offset = 0;
@@ -79,22 +89,18 @@ test.describe("Ikea Scrapper", () => {
 
                     for (const productFromResponse of productsFromResponse) {
                         if (fs.existsSync(path.resolve(`website/api/ikea/products/${productFromResponse.id}.json`))) {
-                            const product: {
-                                id: string;
-                                itemNo: string;
-                                name: string;
-                                imageUrl: string;
-                                urls: { [countryCode: string]: { url: string } };
-                                prices: { [countryCode: string]: { currencyCode: string; price: number } };
-                            } = await shared.readJson("website/api/ikea/products", productFromResponse.id);
+                            const product: types.Product = await shared.readJson("website/api/ikea/products", productFromResponse.id);
 
                             product.urls[country.code] = {
                                 url: productFromResponse.pipUrl,
                             };
                             product.prices[country.code] = {
-                                currencyCode: productFromResponse.salesPrice.currencyCode,
-                                price: productFromResponse.salesPrice.numeral,
+                                [country.currency]: productFromResponse.salesPrice.numeral,
                             };
+                            for (const filteredCountryCode of filteredCountryCodes) {
+                                product.prices[country.code][shared.currencies[filteredCountryCode]] =
+                                    product.prices[country.code][country.currency] * exchangeRates[shared.currencies[filteredCountryCode]];
+                            }
 
                             await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ikea/products", fileName: productFromResponse.id });
                         } else {
@@ -110,11 +116,14 @@ test.describe("Ikea Scrapper", () => {
                                 },
                                 prices: {
                                     [country.code]: {
-                                        currencyCode: productFromResponse.salesPrice.currencyCode,
-                                        price: productFromResponse.salesPrice.numeral,
+                                        [country.currency]: productFromResponse.salesPrice.numeral,
                                     },
                                 },
                             };
+                            for (const filteredCountryCode of filteredCountryCodes) {
+                                product.prices[country.code][shared.currencies[filteredCountryCode]] =
+                                    product.prices[country.code][shared.currencies[country.currency]] * exchangeRates[shared.currencies[filteredCountryCode]];
+                            }
 
                             await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ikea/products", fileName: productFromResponse.id });
                         }
@@ -163,7 +172,7 @@ test.describe("Ikea Scrapper", () => {
                         if (!product.prices[country.code]) {
                             continue;
                         }
-                        const price = product.prices[country.code].price;
+                        const price = product.prices[country.code][country.currency];
 
                         let bestValue = 0;
                         let bestDiscount = 0;
@@ -171,17 +180,20 @@ test.describe("Ikea Scrapper", () => {
                             if (!product.prices[filteredCountryCode]) {
                                 continue;
                             }
-                            const convertedPrice = product.prices[filteredCountryCode].price * exchangeRates[shared.currencies[filteredCountryCode]];
-                            
-                            bestValue = convertedPrice - price > bestValue ? convertedPrice - price : bestValue;
-                            bestDiscount = 1 - price / convertedPrice > bestDiscount ? 1 - price / convertedPrice : bestDiscount;
+
+                            bestValue =
+                                product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency] > bestValue
+                                    ? product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency]
+                                    : 0;
+
+                            bestDiscount = bestValue / price > bestDiscount ? bestValue / price : bestDiscount;
                         }
 
                         if (bestValue === 0 || bestDiscount === 0) {
                             continue;
                         }
 
-                        const offer = {
+                        const offer: types.Offer = {
                             id: product.id,
                             itemNo: product.itemNo,
                             name: product.name,
@@ -189,9 +201,14 @@ test.describe("Ikea Scrapper", () => {
                             urls: product.urls,
                             prices: product.prices,
                             bestDiscount: bestDiscount,
-                            bestValue: bestValue,
-                            worstPrice: price + bestValue,
+                            bestValue: { [country.code]: { [country.currency]: bestValue } },
+                            worstPrice: { [country.code]: { [country.currency]: price + bestValue } },
                         };
+
+                        for (const otherCurrency of filteredCountryCodes.map((code) => shared.currencies[code])) {
+                            offer["bestValue"][country.code][otherCurrency] = bestValue / exchangeRates[otherCurrency];
+                            offer["worstPrice"][country.code][otherCurrency] = (price + bestValue) / exchangeRates[otherCurrency];
+                        }
 
                         const offers: types.Offers = await shared.readJson("website/api/offers", "ikea");
 
@@ -203,17 +220,25 @@ test.describe("Ikea Scrapper", () => {
                                 offers[country.code][key].push(offer);
                             } else {
                                 const valuesOrDiscounts = offers[country.code][key].map((offer) => {
-                                    return offer[bestKey];
+                                    if (key === "byValue") {
+                                        return offer[bestKey][country.code][country.currency];
+                                    } else if (key === "byDiscount") {
+                                        return offer[bestKey];
+                                    }
                                 });
-                                const minDiscount = Math.min(...valuesOrDiscounts);
-                                if (best > minDiscount) {
-                                    const index = valuesOrDiscounts.indexOf(minDiscount);
+                                const minValueOrDiscount = Math.min(...valuesOrDiscounts);
+                                if (best > minValueOrDiscount) {
+                                    const index = valuesOrDiscounts.indexOf(minValueOrDiscount);
                                     offers[country.code][key][index] = offer;
                                 }
                             }
 
                             offers[country.code][key].sort((a, b) => {
-                                return b[bestKey] - a[bestKey];
+                                if (key === "byValue") {
+                                    return b[bestKey][country.code][country.currency] - a[bestKey][country.code][country.currency];
+                                } else if (key === "byDiscount") {
+                                    return b[bestKey] - a[bestKey];
+                                }
                             });
                         }
 

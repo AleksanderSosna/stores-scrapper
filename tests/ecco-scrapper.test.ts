@@ -93,9 +93,19 @@ test.describe("Ecco Scrapper", () => {
 
         for (const country of countries) {
             test(`Create ${country.code} Products Database`, async ({ request }) => {
+                const countryCodes = countries.map((country) => {
+                    return country.code;
+                });
+                const filteredCountryCodes = countryCodes.filter((code) => {
+                    return code !== country.code;
+                });
+                const exchangeRates = {};
+                for (const filteredCountryCode of filteredCountryCodes) {
+                    exchangeRates[shared.currencies[filteredCountryCode]] = await shared.getExchangeRate(country.currency, shared.currencies[filteredCountryCode]);
+                }
+
                 const categories: types.Category[] = await shared.readJson("website/api/ecco", "categories");
                 let productIds: string[] = [];
-
                 for (const category of categories) {
                     let pages = 1;
                     for (let i = 1; i <= pages; i++) {
@@ -144,7 +154,13 @@ test.describe("Ecco Scrapper", () => {
                         product.urls[country.code] = {
                             url: `https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}/product/${data.id}`,
                         };
-                        product.prices[country.code] = { currencyCode: country.currency, price: Number(data.price) };
+                        product.prices[country.code] = {
+                            [country.currency]: Number(data.price),
+                        };
+                        for (const filteredCountryCode of filteredCountryCodes) {
+                            product.prices[country.code][shared.currencies[filteredCountryCode]] =
+                                product.prices[country.code][country.currency] * exchangeRates[shared.currencies[filteredCountryCode]];
+                        }
 
                         await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ecco/products", fileName: data.id });
                     } else {
@@ -154,8 +170,16 @@ test.describe("Ecco Scrapper", () => {
                             name: data.name,
                             imageUrl: data.src,
                             urls: { [country.code]: { url: `https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}/product/${data.id}` } },
-                            prices: { [country.code]: { currencyCode: country.currency, price: Number(data.price) } },
+                            prices: {
+                                [country.code]: {
+                                    [country.currency]: Number(data.price),
+                                },
+                            },
                         };
+                        for (const filteredCountryCode of filteredCountryCodes) {
+                            product.prices[country.code][shared.currencies[filteredCountryCode]] =
+                                product.prices[country.code][shared.currencies[country.currency]] * exchangeRates[shared.currencies[filteredCountryCode]];
+                        }
 
                         await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ecco/products", fileName: data.id });
                     }
@@ -203,7 +227,7 @@ test.describe("Ecco Scrapper", () => {
                         if (!product.prices[country.code]) {
                             continue;
                         }
-                        const price = product.prices[country.code].price;
+                        const price = product.prices[country.code][country.currency];
 
                         let bestValue = 0;
                         let bestDiscount = 0;
@@ -211,17 +235,20 @@ test.describe("Ecco Scrapper", () => {
                             if (!product.prices[filteredCountryCode]) {
                                 continue;
                             }
-                            const convertedPrice = product.prices[filteredCountryCode].price * exchangeRates[shared.currencies[filteredCountryCode]];
 
-                            bestValue = convertedPrice - price > bestValue ? convertedPrice - price : bestValue;
-                            bestDiscount = 1 - price / convertedPrice > bestDiscount ? 1 - price / convertedPrice : bestDiscount;
+                            bestValue =
+                                product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency] > bestValue
+                                    ? product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency]
+                                    : 0;
+
+                            bestDiscount = bestValue / price > bestDiscount ? bestValue / price : bestDiscount;
                         }
 
                         if (bestValue === 0 || bestDiscount === 0) {
                             continue;
                         }
 
-                        const offer = {
+                        const offer: types.Offer = {
                             id: product.id,
                             itemNo: product.itemNo,
                             name: product.name,
@@ -229,9 +256,14 @@ test.describe("Ecco Scrapper", () => {
                             urls: product.urls,
                             prices: product.prices,
                             bestDiscount: bestDiscount,
-                            bestValue: bestValue,
-                            worstPrice: price + bestValue,
+                            bestValue: { [country.code]: { [country.currency]: bestValue } },
+                            worstPrice: { [country.code]: { [country.currency]: price + bestValue } },
                         };
+
+                        for (const otherCurrency of filteredCountryCodes.map((code) => shared.currencies[code])) {
+                            offer["bestValue"][country.code][otherCurrency] = bestValue / exchangeRates[otherCurrency];
+                            offer["worstPrice"][country.code][otherCurrency] = (price + bestValue) / exchangeRates[otherCurrency];
+                        }
 
                         const offers: types.Offers = await shared.readJson("website/api/offers", "ecco");
 
@@ -243,17 +275,25 @@ test.describe("Ecco Scrapper", () => {
                                 offers[country.code][key].push(offer);
                             } else {
                                 const valuesOrDiscounts = offers[country.code][key].map((offer) => {
-                                    return offer[bestKey];
+                                    if (key === "byValue") {
+                                        return offer[bestKey][country.code][country.currency];
+                                    } else if (key === "byDiscount") {
+                                        return offer[bestKey];
+                                    }
                                 });
-                                const minDiscount = Math.min(...valuesOrDiscounts);
-                                if (best > minDiscount) {
-                                    const index = valuesOrDiscounts.indexOf(minDiscount);
+                                const minValueOrDiscount = Math.min(...valuesOrDiscounts);
+                                if (best > minValueOrDiscount) {
+                                    const index = valuesOrDiscounts.indexOf(minValueOrDiscount);
                                     offers[country.code][key][index] = offer;
                                 }
                             }
 
                             offers[country.code][key].sort((a, b) => {
-                                return b[bestKey] - a[bestKey];
+                                if (key === "byValue") {
+                                    return b[bestKey][country.code][country.currency] - a[bestKey][country.code][country.currency];
+                                } else if (key === "byDiscount") {
+                                    return b[bestKey] - a[bestKey];
+                                }
                             });
                         }
 

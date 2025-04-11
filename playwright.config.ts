@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const config: PlaywrightTestConfig = {
-    timeout: 10 * 60 * 1000,
+    timeout: 15 * 60 * 1000,
     expect: {
         timeout: 10 * 1000,
         toHaveScreenshot: {
@@ -16,7 +16,7 @@ const config: PlaywrightTestConfig = {
     fullyParallel: true,
     retries: 0,
     forbidOnly: process.env.CI === "true",
-    workers: process.env.CI === "true" ? 1 : 4,
+    workers: process.env.CI === "true" ? 1 : 1,
     use: {
         actionTimeout: 0,
         headless: process.env.CI === "true" ? true : process.env.HEADLESS === "true",
