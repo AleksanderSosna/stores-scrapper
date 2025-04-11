@@ -122,7 +122,7 @@ test.describe("Ikea Scrapper", () => {
                             };
                             for (const filteredCountryCode of filteredCountryCodes) {
                                 product.prices[country.code][shared.currencies[filteredCountryCode]] =
-                                    product.prices[country.code][shared.currencies[country.currency]] * exchangeRates[shared.currencies[filteredCountryCode]];
+                                    product.prices[country.code][country.currency] * exchangeRates[shared.currencies[filteredCountryCode]];
                             }
 
                             await shared.writeJsonToFile(JSON.stringify(product), { directory: "website/api/ikea/products", fileName: productFromResponse.id });
@@ -182,11 +182,9 @@ test.describe("Ikea Scrapper", () => {
                             }
 
                             bestValue =
-                                product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency] > bestValue
-                                    ? product.prices[filteredCountryCode][country.currency] - product.prices[country.code][country.currency]
-                                    : 0;
+                                product.prices[filteredCountryCode][country.currency] - price > bestValue ? product.prices[filteredCountryCode][country.currency] - price : 0;
 
-                            bestDiscount = bestValue / price > bestDiscount ? bestValue / price : bestDiscount;
+                            bestDiscount = bestValue / (price + bestValue) > bestDiscount ? bestValue / (price + bestValue) : bestDiscount;
                         }
 
                         if (bestValue === 0 || bestDiscount === 0) {
@@ -201,13 +199,13 @@ test.describe("Ikea Scrapper", () => {
                             urls: product.urls,
                             prices: product.prices,
                             bestDiscount: bestDiscount,
-                            bestValue: { [country.code]: { [country.currency]: bestValue } },
-                            worstPrice: { [country.code]: { [country.currency]: price + bestValue } },
+                            bestValue: { [country.currency]: bestValue },
+                            worstPrice: { [country.currency]: price + bestValue },
                         };
 
                         for (const otherCurrency of filteredCountryCodes.map((code) => shared.currencies[code])) {
-                            offer["bestValue"][country.code][otherCurrency] = bestValue / exchangeRates[otherCurrency];
-                            offer["worstPrice"][country.code][otherCurrency] = (price + bestValue) / exchangeRates[otherCurrency];
+                            offer["bestValue"][otherCurrency] = bestValue / exchangeRates[otherCurrency];
+                            offer["worstPrice"][otherCurrency] = (price + bestValue) / exchangeRates[otherCurrency];
                         }
 
                         const offers: types.Offers = await shared.readJson("website/api/offers", "ikea");
@@ -221,7 +219,7 @@ test.describe("Ikea Scrapper", () => {
                             } else {
                                 const valuesOrDiscounts = offers[country.code][key].map((offer) => {
                                     if (key === "byValue") {
-                                        return offer[bestKey][country.code][country.currency];
+                                        return offer[bestKey][country.currency];
                                     } else if (key === "byDiscount") {
                                         return offer[bestKey];
                                     }
@@ -235,7 +233,7 @@ test.describe("Ikea Scrapper", () => {
 
                             offers[country.code][key].sort((a, b) => {
                                 if (key === "byValue") {
-                                    return b[bestKey][country.code][country.currency] - a[bestKey][country.code][country.currency];
+                                    return b[bestKey][country.currency] - a[bestKey][country.currency];
                                 } else if (key === "byDiscount") {
                                     return b[bestKey] - a[bestKey];
                                 }

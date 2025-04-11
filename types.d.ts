@@ -17,9 +17,8 @@ export type Offer = {
     urls: { [countryCode: string]: { url: string } };
     prices: { [countryCode: string]: { [currencyCode: string]: number } };
     bestDiscount: number;
-    bestValue: { [countryCode: string]: { [currencyCode: string]: number } };
-    worstPrice: { [countryCode: string]: { [currencyCode: string]: number } };
-    shopName?: string;
+    bestValue: { [currencyCode: string]: number };
+    worstPrice: { [currencyCode: string]: number };
 };
 
 export type Offers = {
