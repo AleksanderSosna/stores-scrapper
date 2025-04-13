@@ -1,4 +1,4 @@
-name: Ikea Scrapper
+name: Stores Scrapper
 on:
     workflow_dispatch:
     schedule:
@@ -7,7 +7,7 @@ permissions:
     contents: write
 jobs:
     test:
-        timeout-minutes: 10
+        timeout-minutes: 45
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4

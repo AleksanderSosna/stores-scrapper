@@ -1,6 +1,6 @@
 {
     "name": "stores-scrapper",
-    "version": "2025.02.17",
+    "version": "2025.4.0",
     "license": "MIT",
     "private": true,
     "type": "module",
