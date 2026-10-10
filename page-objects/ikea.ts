@@ -27,7 +27,7 @@ export class Ikea {
             }
         };
 
-        this.seeAllInCategoryLinks = page.locator("a.vn-link", { hasText: "Zobacz wszystko" }).or(page.locator("a.vn-link", { hasText: "Všechny kategorie" }));
+        this.seeAllInCategoryLinks = page.locator("a.hnf-vn-link", { hasText: "Zobacz wszystko" }).or(page.locator("a.hnf-vn-link", { hasText: "Všechny kategorie" }));
     }
 
     async getProducts(
