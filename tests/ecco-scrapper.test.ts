@@ -13,6 +13,10 @@ let ecco: Ecco;
 test.beforeEach(async ({ page }) => {
     shared = new Shared(page);
     ecco = new Ecco(page);
+
+    await page.addLocatorHandler(ecco.declineCookies, async () => {
+        await ecco.declineCookies.click();
+    });
 });
 
 test.describe.configure({ mode: "serial" });
@@ -65,7 +69,7 @@ test.describe("Ecco Scrapper", () => {
                         .replace("ň", "%C5%88");
                     const [response] = await Promise.all([shared.getResponse([`https://${country.code}.ecco.com${href}`], { timeout: 20 * 1000 }), categoryLocator.click()]);
                     const responseText = await response.text();
-                    const searchCategoryId = responseText.match(/this\.searchCategory\s*=\s*"(.*?)";/)[1];
+                    const searchCategoryId = responseText.match(/\{\{categoryName\}\}\\?",\\?"id\\?":\\?"([^\\"]+)/)[1];
                     const index = categories.findIndex((category) => category.id === searchCategoryId);
 
                     if (index !== -1) {
@@ -236,9 +240,7 @@ test.describe("Ecco Scrapper", () => {
                             }
 
                             bestValue =
-                                product.prices[filteredCountryCode][country.currency] - price > bestValue
-                                    ? product.prices[filteredCountryCode][country.currency] - price
-                                    : 0;
+                                product.prices[filteredCountryCode][country.currency] - price > bestValue ? product.prices[filteredCountryCode][country.currency] - price : 0;
 
                             bestDiscount = bestValue / (price + bestValue) > bestDiscount ? bestValue / (price + bestValue) : bestDiscount;
                         }

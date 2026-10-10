@@ -8,6 +8,7 @@ export class Ecco {
 
     readonly countryCodeAndLanguageCodeForCountryCode: (countryCode: string) => string;
 
+    readonly declineCookies: Locator;
     readonly categories: Locator;
 
     constructor(page: Page) {
@@ -26,6 +27,7 @@ export class Ecco {
             }
         };
 
+        this.declineCookies = page.locator("#declineButton");
         this.categories = page.getByTestId("DesktopNavItem").locator("a");
     }
 }
