@@ -1,4 +1,4 @@
-export type Category = { id: string; names: { [countryCode: string]: { name: string } } };
+export type Category = { id: string; names: { [countryCode: string]: { name: string; url?: string } } };
 
 export type Product = {
     id: string;
