@@ -21,7 +21,12 @@ type AlgoliaProductHit = {
     articleNumber: string;
     colorCode: string;
     name: string;
-    image: string;
+    image?: string;
+    productColors?: Array<{
+        colorCode: string;
+        image?: string;
+    }>;
+    images?: string[];
     priceRaw: {
         currencyCode: string;
         centAmount: number;
@@ -132,6 +137,10 @@ function productUrl(countryCode: string, hit: AlgoliaProductHit): string {
         .replace(/[^a-z0-9.]+/g, "-")
         .replace(/^-|-$/g, "");
     return `https://${countryCode}.ecco.com/produkt/${slug}/${hit.articleNumber}/${hit.colorCode}`;
+}
+
+function productImage(hit: AlgoliaProductHit): string | undefined {
+    return hit.image ?? hit.productColors?.find((color) => color.colorCode === hit.colorCode)?.image ?? hit.productColors?.find((color) => color.image)?.image ?? hit.images?.[0];
 }
 
 test.beforeEach(async ({ page }) => {
@@ -258,7 +267,8 @@ test.describe("Ecco Scrapper", () => {
                 }
 
                 for (const hit of hitsById.values()) {
-                    if (!hit.objectID || !hit.articleNumber || !hit.colorCode || !hit.name || !hit.image || !hit.priceRaw) {
+                    const imageUrl = productImage(hit);
+                    if (!hit.objectID || !hit.articleNumber || !hit.colorCode || !hit.name || !imageUrl || !hit.priceRaw) {
                         throw new Error(`ECCO product search returned incomplete product data: ${JSON.stringify(hit)}`);
                     }
 
@@ -267,13 +277,13 @@ test.describe("Ecco Scrapper", () => {
                         id: hit.objectID,
                         itemNo: hit.objectID,
                         name: hit.name,
-                        imageUrl: hit.image,
+                        imageUrl,
                         urls: {},
                         prices: {},
                     };
 
                     product.name = hit.name;
-                    product.imageUrl = hit.image;
+                    product.imageUrl = imageUrl;
                     product.urls[country.code] = { url: productUrl(country.code, hit) };
                     product.prices[country.code] = { [country.currency]: productPrice };
                     for (const filteredCountryCode of filteredCountryCodes) {
