@@ -13,10 +13,6 @@ let ecco: Ecco;
 test.beforeEach(async ({ page }) => {
     shared = new Shared(page);
     ecco = new Ecco(page);
-
-    await page.addLocatorHandler(ecco.declineCookies, async () => {
-        await ecco.declineCookies.click();
-    });
 });
 
 test.describe.configure({ mode: "serial" });
@@ -36,6 +32,7 @@ test.describe("Ecco Scrapper", () => {
                 const categories: types.Category[] = await shared.readJson("website/api/ecco", "categories");
 
                 await page.goto(`https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}`);
+        await ecco.declineCookies.click();
 
                 const categoryLocators = await ecco.categories.all();
                 categoryLocators.length = categoryLocators.length - 1;
