@@ -3,9 +3,9 @@ import fs from "fs";
 import path from "path";
 
 import * as types from "../types";
-import { Shared } from "@page-objects/shared";
-import { Ikea } from "@page-objects/ikea";
-import countries from "@api/countries.json" assert { type: "json" };
+import { Shared } from "../page-objects/shared";
+import { Ikea } from "../page-objects/ikea";
+import countries from "../website/api/countries.json" assert { type: "json" };
 
 let shared: Shared;
 let ikea: Ikea;

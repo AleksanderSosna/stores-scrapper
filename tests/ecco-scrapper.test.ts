@@ -3,9 +3,9 @@ import fs from "fs";
 import path from "path";
 
 import * as types from "../types";
-import { Shared } from "@page-objects/shared";
-import { Ecco } from "@page-objects/ecco";
-import countries from "@api/countries.json" assert { type: "json" };
+import { Shared } from "../page-objects/shared";
+import { Ecco } from "../page-objects/ecco";
+import countries from "../website/api/countries.json" assert { type: "json" };
 
 let shared: Shared;
 let ecco: Ecco;
@@ -32,7 +32,6 @@ test.describe("Ecco Scrapper", () => {
                 const categories: types.Category[] = await shared.readJson("website/api/ecco", "categories");
 
                 await page.goto(`https://${country.code}.ecco.com/${ecco.countryCodeAndLanguageCodeForCountryCode(country.code)}`);
-                await ecco.declineCookies.click();
 
                 const categoryLocators = await ecco.categories.all();
                 categoryLocators.length = categoryLocators.length - 1;

@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "baseUrl": ".",
         "esModuleInterop": true,
         "lib": [
             "dom",
@@ -8,19 +7,8 @@
             "es2019"
         ],
         "module": "ESNext",
-        "moduleResolution": "node",
+        "moduleResolution": "node10",
         "noEmit": true,
-        "paths": {
-            "@api/*": [
-                "website/api/*"
-            ],
-            "@page-objects/*": [
-                "page-objects/*"
-            ],
-            "@tests/*": [
-                "tests/*"
-            ]
-        },
         "resolveJsonModule": true,
         "skipLibCheck": true,
         "strict": false,
