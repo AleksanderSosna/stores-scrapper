@@ -21,7 +21,7 @@ test.describe("Store Scrapper", () => {
         test.beforeAll(async ({ browser }) => {});
 
         for (const country of countries) {
-            test(`Create ${country.code} Categories Database`, async ({ page }) => {});
+            test.skip(`Create ${country.code} Categories Database`, async ({ page }) => {});
         }
     });
 
@@ -29,7 +29,7 @@ test.describe("Store Scrapper", () => {
         test.beforeAll(async ({ browser }) => {});
 
         for (const country of countries) {
-            test(`Create ${country.code} Products Database`, async ({ page }) => {});
+            test.skip(`Create ${country.code} Products Database`, async ({ page }) => {});
         }
     });
 
@@ -37,7 +37,7 @@ test.describe("Store Scrapper", () => {
         test.beforeAll(async ({ browser }) => {});
 
         for (const country of countries) {
-            test(`Create ${country.code} Offers Database`, async ({ page }) => {});
+            test.skip(`Create ${country.code} Offers Database`, async ({ page }) => {});
         }
     });
 });
