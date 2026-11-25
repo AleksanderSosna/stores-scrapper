@@ -1,13 +1,13 @@
 {
     "name": "stores-scrapper",
-    "version": "2026.9.0",
+    "version": "2026.11.25",
     "private": true,
     "type": "module",
     "scripts": {
         "test": "playwright test"
     },
     "devDependencies": {
-        "@playwright/test": "1.64.0",
+        "@playwright/test": "1.65.1",
         "@types/node": "26.6.5 ",
         "@typescript-eslint/eslint-plugin": "8.71.1",
         "@typescript-eslint/parser": "8.71.1",
