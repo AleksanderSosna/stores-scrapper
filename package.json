@@ -2,6 +2,7 @@
     "name": "stores-scrapper",
     "version": "2026.11.25",
     "private": true,
+    "license": "UNLICENSED",
     "type": "module",
     "scripts": {
         "test": "playwright test"
