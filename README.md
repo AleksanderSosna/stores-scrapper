@@ -4,6 +4,8 @@ A TypeScript and Playwright data pipeline that collects product catalogs from
 retailer storefronts and highlights cross-market price differences. It currently
 covers ECCO and IKEA in Poland and Czechia.
 
+**Live website:** [stores-api-polyu.ondigitalocean.app](https://stores-api-polyu.ondigitalocean.app/)
+
 The project combines browser automation, retailer catalog APIs, pagination,
 country-aware data normalization, and currency conversion to produce reusable
 JSON data for a lightweight static website.
