@@ -17,7 +17,7 @@ JSON data for a lightweight static website.
   product links.
 - Records prices in each market's local currency and converts prices using
   exchange-rate data from the National Bank of Poland.
-- Ranks up to 20 cross-market offers per store and country by potential value
+- Ranks up to 50 cross-market offers per store and country by potential value
   and discount.
 - Writes the catalog as static JSON, which the website can use without a
   separate application server.

@@ -214,7 +214,7 @@ test.describe("Ikea Scrapper", () => {
                             const best = key === "byValue" ? bestValue : bestDiscount;
                             const bestKey = key === "byValue" ? "bestValue" : "bestDiscount";
 
-                            if (offers[country.code][key].length < 20) {
+                            if (offers[country.code][key].length < 50) {
                                 offers[country.code][key].push(offer);
                             } else {
                                 const valuesOrDiscounts = offers[country.code][key].map((offer) => {

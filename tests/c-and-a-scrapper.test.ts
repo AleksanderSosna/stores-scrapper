@@ -306,7 +306,7 @@ test.describe("C&A Scrapper", () => {
                     for (const key of Object.keys(offers[country.code])) {
                         const bestKey = key === "byValue" ? "bestValue" : "bestDiscount";
                         const best = key === "byValue" ? bestValue : bestDiscount;
-                        if (offers[country.code][key].length < 20) {
+                        if (offers[country.code][key].length < 50) {
                             offers[country.code][key].push(offer);
                         } else {
                             const values = offers[country.code][key].map((existingOffer) => {
