@@ -2,7 +2,7 @@
 
 A TypeScript and Playwright data pipeline that collects product catalogs from
 retailer storefronts and highlights cross-market price differences. It currently
-covers C&A, ECCO, and IKEA in Poland and Czechia.
+covers C&A, Deichmann, ECCO, and IKEA in Poland and Czechia.
 
 **Live website:** [stores-api-polyu.ondigitalocean.app](https://stores-api-polyu.ondigitalocean.app/)
 
@@ -12,7 +12,8 @@ JSON data for a lightweight static website.
 
 ## What it does
 
-- Discovers product categories and collects products from C&A, ECCO, and IKEA.
+- Discovers product categories and collects products from C&A, Deichmann, ECCO,
+  and IKEA.
 - Captures stable product identifiers, names, images, and country-specific
   product links.
 - Records prices in each market's local currency and converts prices using
@@ -27,16 +28,18 @@ confirm current availability and pricing with the retailer.
 
 ## Current coverage
 
-| Store | Poland | Czechia | Collection approach                                                         |
-| ----- | ------ | ------- | --------------------------------------------------------------------------- |
-| C&A   | PLN    | CZK     | Persisted-query APIs for category navigation and paginated product listings |
-| ECCO  | PLN    | CZK     | Browser-discovered categories and paginated Algolia product search          |
-| IKEA  | PLN    | CZK     | Browser-discovered categories and paginated product-list API                |
+| Store     | Poland | Czechia | Collection approach                                                         |
+| --------- | ------ | ------- | --------------------------------------------------------------------------- |
+| C&A       | PLN    | CZK     | Persisted-query APIs for category navigation and paginated product listings |
+| Deichmann | PLN    | CZK     | Storefront category links and paginated product listings                    |
+| ECCO      | PLN    | CZK     | Browser-discovered categories and paginated Algolia product search          |
+| IKEA      | PLN    | CZK     | Browser-discovered categories and paginated product-list API                |
 
 Country and currency settings are maintained in
 [countries.json](website/api/countries.json). Example output:
 [ECCO offers](website/api/offers/ecco.json) ·
-[IKEA offers](website/api/offers/ikea.json).
+[IKEA offers](website/api/offers/ikea.json) ·
+[Deichmann offers](website/api/offers/deichmann.json).
 
 ## How it works
 
@@ -79,9 +82,9 @@ npm test
 
 > **Caution:** `npm test` makes live requests to retailer and exchange-rate
 > services. It regenerates categories, products, and offers, and clears the
-> existing C&A, ECCO, and IKEA product JSON directories before collecting fresh
-> data. Review your working tree and back up any catalog data you need before
-> running it.
+> existing product JSON directories for all supported stores before collecting
+> fresh data. Review your working tree and back up any catalog data you need
+> before running it.
 
 The [GitHub Actions workflow](.github/workflows/stores-scrapper.yml) is manually
 triggered with `workflow_dispatch` and runs the same collection process.
